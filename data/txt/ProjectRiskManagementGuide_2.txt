@@ -1,0 +1,613 @@
+NV 20
+ESA Issues
+STG 20
+Design Changes
+DES 20
+Deviations' Approval
+ROW 20 inflation
+UTL 20
+Conflicts
+
+RR 20
+Construction coordination
+PSP 20
+Public
+Involvement
+MGT 20
+Delayed
+Decision Making
+CTR 20
+Contract
+Language
+
+CNS 20
+Construction
+Permitting
+ENV 30
+Environmental
+STG 30
+Changes to design Criteria
+DES 30 architecture or landscape changes
+ROW 30
+Limited Access
+IJR
+
+RR 30
+Right of Entry
+PSP 30
+Additional Scope for third parties
+MGT 30
+Cash Flow
+Restrictions
+CTR 30
+Delays in
+Ad/Bid/Award
+
+CNS 30
+Work Windows
+ENV 40
+Archaeological
+Cultural
+DES 40
+Projects by other agencies affected
+ROW 40
+Managed
+Access Appeal
+
+MGT 40
+Political/Policy
+Changes
+CTR 40
+Market
+Conditions
+CNS 40
+Schedule
+Uncertainty
+ENV 50
+Hazardous
+Materials
+
+DES 50
+Changes to Design of
+Traffic Items
+ROW 50
+Acquisition
+Issues
+MGT 50
+State Workforce
+Limitations
+CTR 50
+Delays in
+Procurement
+
+CNS 50
+Marine
+Construction
+ENV 60
+Wetlands /
+Habitat
+Mitigation
+ENV 70
+Stormwater,
+Potential
+Changes to Flow
+ENV 80
+Impacts during
+Construction
+
+DES 60
+Design / PS&E
+Reviews
+ROW 60
+Additional ROW is required
+CTR 60
+Contractor NonPerformance
+CNS 70
+Earthwork
+Issues (re-use,
+
+CTR 70
+Availability of
+Specialty
+Labor/Labor
+CNS 80
+Coordination with Adjacent
+Projects During
+CNS 90
+Contractor
+Access / Staging
+Coordination and
+CNS 100
+Construction
+Accidents
+
+CTR 900
+Other CTR
+Issues
+CNS 900
+Other CN
+ENV 90
+Permanent
+Noise Mitigation
+ENV 900
+Other ENV -----------
+
+STR 900
+Other STR
+Issues
+DES 900
+Other Design
+ROW 900
+Other ROW
+UTL 900
+Other UTL
+RR 900
+Other RR
+
+PSP 900
+Other PSP
+Issues
+MGT 900
+Other MGT
+CNS haul, etc.)
+The RBS provides several functions and benefits to the project team and to management, including: 1) Consistency with taxonomy (wording); 2) Organizes risk events into common categories; 3) Helps identify trends with respect to common usage of risk eventcategories & event types, categories & event types along with their probability and impact values; 4) Helps to identify common risk events among projects that the Region and HQ offices should be aware of due to their potential cumulative effects; e.g. negotiating agreements with agencies or other municipalities; 5) Provides a basis to work from for risk elicitors during CEVP workshops; 6) Provides a basis for development of independent risk surveys for those that are unable to attend a CEVP workshop.
+This RBS serves as a starting point in assessing project risks in CEVP and CRA workshops; and also for smaller projects that may not conduct a formal workshop.
+RISK TRIGGER (CAUSE or PRECIPITATING EVENT)
+RBS CODE
+
+RISK EVENT
+CONSEQUENCE (effect on project objectives)
+PROBABILITY
+IMPACT ($ or time) é$5M, 8 weeks
+ENV 10.01
+As a result of… the public involvement process
+NEPA/SEPA document challenge delays delivery of EA document 70%
+ENV 10.02
+Because of… public pressure and internal reviews env documentation increases, need to prepare an EIS 10%
+ENV 10.03
+
+Due to… reviews by WSDOT Environmental design info deemed inadequate additional design, cost, and time 10%
+Page 2-6 é$0.1M, 6 months é$0.1M, 4 months
+WSDOT Project Risk Management Guide Chapter 2
+Exhibit 2-4
+Risk Identification
+Example Risk ID Sheet, Qualitative 2-3.3 After Risk Identification
+Risk identification prepares us for risk analysis. The next two chapters present the two types of risk analysis: qualitative and quantitative.
+WSDOT Project Risk Management Guide
+Page 2-7 Risk Identification
+Page 2-8
+
+Chapter 2 & Chapter 3
+Current Status
+Project Management Plan
+Scope, Schedule, Estimate
+Qualitative Risk Analysis & ❶ Risk
+Management
+Planning  Risk
+Identification ❹ pre
+Quantitative -response analysis pre-response analysis
+Update
+
+Results of response actions 3-1
+Risk
+Analysis ❸ Qualitative ❹
+Qualitative ❸Quantitative ❻ Risk
+Monitoring and Control
+Implement Risk
+Response Plan
+TAKE ACTION! ❺ Risk Response post-response analysis
+General
+Qualitative Risk Analysis assesses the impact and likelihood of the identified risks and develops prioritized lists of these risks for further analysis or direct mitigation.
+The project team assesses each identified risk for its probability of occurrence and its impact on project objectives. Project teams may elicit assistance from subject matter experts or functional units to assess the risks in their respective fields.
+Qualitative risk analysis is often used:
+As an initial screening or review of project risks.
+When a quick assessment is desired.
+As the preferred approach for some simpler and smaller projects where robust and/or lengthy quantitative analysis is not necessary.
+Qualitative: Observations that do not involve measurements and numbers; for example, the risk of a heavy rainstorm affecting our erosion control is “Very High.”
+Qualitative assessment: An assessment of risk relating to the qualities and subjective elements of the risk—those that cannot be quantified accurately. Qualitative techniques include the definition of risk, the recording of risk details and relationships, and the categorization and prioritization of risks relative to each other.
+SOURCE: Project Risk Analysis and Management Guide, 2004, APM Publishing
+
+Qualitative analysis provides a convenient and user-friendly way to identify, describe, and characterize project risks.
+Risk identification, as mentioned in Chapter 3, results in the generation of a risk register.
+The risk register can be sizeable and it is necessary to evaluate and prioritize the risk events
+WSDOT Project Risk Management Guide
+Page 3-1 Qualitative Risk Analysis &
+Chapter 3 identified in the risk register. Evaluation and prioritization is typically an iterative process and can take place at various points in project development.
+A thoroughly developed register of risks is helpful. In some situations moving forward is difficult because of indecision. Identifying, describing, and assessing project risks allows for prioritization that offers actionable information by providing specific, documented risk events. Prioritizing risks offers Project Managers an opportunity to focus project resources.
+Prioritization helps make decisions in an uncertain environment and address project risk in a direct and deliberate manner.
+Qualitative analysis utilizes relative degrees of probability and consequence of each identified project risk event in descriptive non-numeric terms; see Exhibit 3-2 and
+Exhibit 3-3 for examples of qualitative risk matrices.
+
+3-2
+How to Perform Qualitative Risk Analysis
+Once a risk is identified, write a thorough description of the risk and risk triggers. This aids in characterizing the risk in terms of probability of occurrence and the consequence. 1. ! Gather the project team and appropriate persons to discuss project risk. Establish which of the qualitative risk matrices you intend to use, and define the terms you plan to use (Very High, High, Medium, Low, etc.). 2. Review the risk information from the risk identification step. 3. Discuss the risk with the group. 4. ! Evaluate the likelihood of the risk occurring by asking the group “How likely is it that this risk will occur?” Record the result that the group agrees on. 5. ! Evaluate the consequences if the risk does occur by asking the group “What will be the impacts if this risk does occur?” Record the result that the group agrees on. 6. ! Prioritize the risks based on the results of the qualitative analysis. If it is desirable, the risks can also be grouped by category (e.g., Environmental, Structures/Geotech) and ranked within each category. 3-2.1 Helpful Hints for Qualitative Risk Analysis
+Invite appropriate participants (not too many, not too few).
+Define terms.
+Stay focused—put a time limit on discussion if necessary.
+Record the results.
+Prioritize the risks based on the results.
+Sometimes, people who are relatively new to risk analysis claim that it is nothing more than guessing. However, the actuality is that assigning values for probability and impact relies on the expertise and professional judgment of experienced participants.
+Page 3-2
+
+WSDOT Project Risk Management Guide Chapter 3
+Qualitative Risk Analysis
+Determining an estimated probability of a risk occurring and it’s consequence is for many a new activity. In any field, with experience, professionals develop intuition and an ability to understand projects to a greater degree than those not involved with project development and delivery. This experience and intuition is extremely valuable—in a risk workshop forum, we surround ourselves with “wise counsel” to seriously and thoroughly discuss the project. It might be helpful to examine the word “guess” and compare it to other words, such as “discernment” and ”judgment,” that more appropriately describe risk assessment.
+The definitions in the following table come from the Merriam-Webster Online
+Dictionary/Thesaurus (with edits).
+Exhibit 3-1
+Risk Assessment-Related Definitions
+Risk-Assessment Terms
+Definitions / Synonyms / Related Words
+Decision
+
+Definitions: (1) a: The act or process of deciding, b: a determination arrived at after consideration: <make a decision>; report of a conclusion; (2) A position arrived at after consideration <after much deliberation, we made a decision about what to use for an estimated unit price>
+Synonyms: Conclusion, determination, diagnosis, judgment, resolution
+Related Words: choice, option, selection.
+Discernment
+Definition: The quality of being able to grasp and comprehend what is obscure; skill in discerning (insight and understanding); the process of forming an opinion or evaluation by discerning and comparing; an opinion or estimate so formed; the capacity for judging; the exercise of this capacity.
+Synonyms: Perception, penetration, insight, and acumen mean a power to see what is not evident to the average mind. DISCERNMENT stresses accuracy; PERCEPTION implies quick discernment; PENETRATION implies a searching mind that goes beyond what is obvious or superficial; INSIGHT suggests depth of discernment coupled with understanding; and ACUMEN implies characteristic penetration combined with keen practical judgment.
+Guess
+Definition: To form an opinion from little or no evidence.
+Synonyms: Assume, conjecture, presume, speculate, suppose, surmise
+Related Words: Gather, infer, hypothesize, theorize, believe, conceive, imagine, reckon.
+
+Judgment
+Definitions: (1) The process of forming an opinion or evaluation by discerning and comparing; (2) An opinion or estimate so formed; a formal utterance of an authoritative opinion; a position arrived at after consideration; an idea that is believed to be true or valid without positive knowledge; an opinion on the nature, character, or quality of something.
+WSDOT Project Risk Management Guide
+Page 3-3 Qualitative Risk Analysis
+Exhibit 3-2
+Page 3-4
+Chapter 3 &
+Probability Impact Matrix (5 x 5) Chapter 3
+Exhibit 3-3
+Qualitative Risk Analysis
+Probability Impact Matrix (Double 4 x 4)
+
+EXAMPLES ONLY !
+A simple matrix, provided below, is suitable for smaller, less complex or routing projects; it also appears in the WSDOT’s Project Management Guide.
+The Project Management Online Guide is found at:
+8 https://wsdot.wa.gov/engineering-standards/project-management-training/projectmanagement/project-management-guide
+WSDOT Project Risk Management Guide
+Page 3-5 Qualitative Risk Analysis
+Exhibit 3-4
+Page 3-6
+Chapter 3
+Simplified Risk Management Plan Spreadsheet with 2 x 2 Probability Impact Matrix
+
+Chapter 3
+Exhibit 3-5
+Qualitative Risk Analysis
+Simplified Risk Management Plan Spreadsheet, 5 x 5 Probability Impact Matrix !
+WSDOT Project Risk Management Guide
+Page 3-7 & Qualitative Risk Analysis
+Page 3-8
+Chapter 3 & Chapter 4
+Quantitative Risk Analysis &
+Current Status
+Project Management Plan
+Scope, Schedule, Estimate
+
+❶ Risk
+Management
+Planning  Risk
+Identification
+Quantitative ❹ pre -response analysis pre-response analysis
+Update
+Results of response actions 4-1
+Risk
+Analysis ❸ Qualitative ❹
+Qualitative ❸Quantitative
+
+❻ Risk
+Monitoring and Control
+Implement Risk
+Response Plan
+TAKE ACTION! ❺ Risk Response post-response analysis
+General
+Quantitative Risk Analysis is a way of numerically estimating the probability that a project will meet its cost and time objectives. Quantitative analysis is based on a simultaneous evaluation of the impacts of all identified and quantified risks.
+The Strategic Analysis and Estimating Office (SAEO) at WSDOT offers several tools for quantitative analysis of risk. These tools are described in Executive Order E 1053 and summarized in Exhibit 4-1.
+Exhibit 4-1
+Levels of Risk-Based Estimating, in Support of Risk Management
+
+Project Size ($M)
+Quantitative $10M to $25M $25M to $100M
+Greater than 100M
+Required Process*
+Informal workshop using the self-modeling spreadsheet[1][3]
+Cost Risk Assessment (CRA) Workshop[1][2]
+Cost Estimate Validation Process® (CEVP®) Workshop[2] [1] In some cases, it is acceptable to combine the Value Engineering Study and Risk-Based
+Estimating Workshop. [2] Projects $25M and over should use the self-modeling spreadsheet in the scoping phase riskbased estimating process, followed up by the more formal CRA or CEVP® process during the design phase. [3] An informal workshop is comprised of the project team (or key project team members); other participants may be included as the Project Manager/project team deem necessary.
+Note: For projects less than $10M, qualitative analysis is sufficient, although a higher level may be used if desired. *Project Managers can use a higher-level process if desired.
+Quantitative techniques, such as Monte Carlo simulation, can be a powerful tool for analysis of project risk and uncertainty. This technique provides project forecasts with
+
+WSDOT Project Risk Management
+Page 4-1 Quantitative Risk Analysis
+Chapter 4 an overall outcome variance for estimated project cost and schedule. Probability theory allows us to look into the future and predict possible outcomes.
+Use of quantitative analysis, while very powerful, also can be misleading if not used properly. WSDOT provides a comprehensive guide for risk workshops that, if followed, helps ensure a consistent process and safeguards against biased and/or misleading results. The comprehensive set of workshop guidelines are provided in Part II of this document.
+The following caution comes from the paper “Top Down Techniques for Project Risk
+Management” by Martin Hopkinson, presented at the 2006 PMI Conference in Madrid.
+Poor modeling can produce an output that looks convincing to managers but is so flawed that the results are dangerously misleading. On a project with unrealistically tight targets, poor risk analysis may thus become a tool that fosters management delusions about the prospects for success.
+Project risk management is an integral component of ongoing project management.
+Project Managers sometimes ask “when is the best time to conduct a CRA or CEVP® workshop?” This is answered by reviewing the status of project development.
+Project risk management is an integral part of the Project Management Plan, PMP. As the PMP is developed include requirements for keeping the plan current and the approximate timing for conducting formal risk analyses. At a minimum quantitative risk analysis requires a project scope associated schedule and cost estimate. When the scope, schedule and estimate are ready the project team can begin in earnest to prepare for their risk management workshop.
+Contact the Design Analysis Office at WSDOT HQ to discuss your project risk analysis requirements. They can guide you through the process, including scheduling consultants and WSDOT resources to effect the completion of a quantitative analysis, either through the workshop process or use of the self-modeling spreadsheet.
+When a project team prepares for a workshop, much of the work that is performed on a daily or regular basis becomes the input for the analysis. This includes scope or work, schedule estimate (with backup and assumptions), cost estimate (including the Basis of
+Estimate), assumptions, and backup information. Estimates are used to make financial decisions; hence, in order to facilitate this, materials should be developed that result in an informed decision-making process. Capital Program Management System (CPMS) data requirements are listed in Exhibit 4-2.
+
+Page 4-2
+WSDOT Project Risk Management Chapter 4 &
+Quantitative Risk Analysis
+Exhibit 4-2
+CPMS Data Requirements
+Required CPMS Data
+Project teams must provide specific data to the region program management office for inclusion into CPMS and the Transportation Executive Information System (TEIS). The required data is: 1. Project Scheduling Data for the Following Milestone Dates • Project definition completion date • Date for the beginning of preliminary engineering • Completion date for the environmental document • Start date for the acquisition of right of way • Date of right of way certification • Project advertisement date • Date project is operationally complete (substantially complete) 2. Estimated Project Cost Data (in Current Year Dollars, CY$) • Design cost estimate • Right of way cost estimate • Construction cost estimate 3. CPMS Modifications • CPMS will be modified to calculate the midpoint for construction phases using the project award date and the operationally complete date. 4-2
+How to Perform Quantitative Risk Analysis 4-2.1 General Process
+Once risks are identified and have been screened via qualitative analysis, they can be analyzed quantitatively. Recall that identification includes a thorough description of the risk and risk triggers (see Chapter 2). With quantitative analysis, the probability of occurrence and consequence if the risk event occurs must also be documented.
+Exhibit 4-3 depicts the workshop process. 4-2.1.1
+
+Tools and Techniques 1. Gather and Represent Data • ! Interviews: Can be formal or informal settings, such as smaller group meetings and/or larger formal workshops. • ! Subject matter expert input: Participate collaboratively with the project team and cost-risk team; can also participate in interviews or contribute opinions in other ways such as surveys (questionnaires). • ! Data: Represent data in terms of probability and impact; impacts can be represented using discrete distributions or continuous distributions.
+WSDOT Project Risk Management
+Page 4-3 Quantitative Risk Analysis &
+Chapter 4 2. Quantitative Risk Analysis and Modeling • ! Project simulation: Use the Monte Carlo technique to generate a probability distribution of project cost and schedule based on uncertainty and risk effects. 4-2.1.2
+Quantitative Risk Analysis Outputs 1. Risk Register
+The risk register begins during risk identification and is further developed during analysis (qualitative and/or quantitative); the risk register is a key component of the
+Project Management Plan. • ! Prioritized list of quantified risks: Those risks that have the most significant impact (threats or opportunities) to project objectives (tornado diagrams, expected values, decision trees). • ! Probabilistic analysis of the project: Estimated cost and completion dates and associated confidence levels. • ! Quantitative analyses: Can be conducted several times throughout project development; trends can be identified, and mitigation strategies can be implemented and monitored. The risk profile of a project evolves and changes as the project is developed, knowledge is gained, and design changes occur. 2. Informal Workshop (Meeting)
+For smaller projects, an informal workshop comprised of the project team and/or key project team members and other participants (such as specialty groups involved with critical items) may suffice.
+Risk management is ongoing and iterative; periodically, workshop members can regroup to evaluate the project and associated uncertainty and risks. Workshops typically occur for a project every 12 to 24 months or at key project milestones. Project risks and mitigation efforts should be discussed at regular project meetings; make changes as appropriate and, following those changes, re-run the risk model. Value is gained when action is taken to respond to risks, resulting in cost and schedule savings to the project.
+Page 4-4
+
+Chapter 4
+Exhibit 4-3
+Quantitative Risk Analysis
+Workshop Process for CRA or CEVP®
+WSDOT Project Risk Management
+Page 4-5 & Quantitative Risk Analysis
+Chapter 4
+In order to fully understand our projects, we must determine what we know and what we do not know about a project. In our industry, Civil Engineering – Transportation, we have devoted a good deal of resources to clearly explain what is known of a project. We have many specialty offices that gather and provide data in support of project delivery, including: aerial photography, surveying, site investigations, bid histories, real estate services, right of way, utilities, access management, environmental, hydraulics, structures, geotechnical, railroad, tribal, planning and programming, ad/bid/award, construction, tolling, economic, programming, external resource agencies and stakeholders, public interest groups, and others.
+Just as important is to devote some energy and resources to assess what is not known and/or is uncertain about a project. One tool for accomplishing this is intentional, thoughtful, and deliberate project risk management, as part of an overall Project
+Management Plan. Risk assessment is not a measure of estimate accuracy:
+The project team must examine each critical item and predict its possible extreme values considering all risks, including compounding effects. It is important to understand that the range, as considered in this method, is not the expected accuracy of each item. This is a key issue. Risk analysis is not an analysis of estimate accuracy. Accuracy is dependent upon estimate deliverables and estimate maturity.
+AACE International Recommended Practice No. 41R-08
+RISK ANALYSIS AND CONTINGENCY DETERMINATION USING RANGE ESTIMATING
+TCM Framework: 7.6 – Risk Management
+June 25, 2008
+
+Risk management must be partnered with a well-organized and properly documented project base cost estimate. Risk management introduces reality into our project management process by recognizing that every project has a risk of cost overrun—this does not mean cost overrun is inevitable, it means it is possible.
+In the book Project Risk Management by Chris Chapman and Stephen Ward, there is an acronym presented (on page 58) to describe a risk management process framework for projects: SHAMPU, which refers to: Shape, Harness, And Manage Project Uncertainty.
+There are some helpful ideas expressed via this acronym and they are presented in
+Exhibit 4-4.
+Exhibit 4-4
+SHAMPU Process in 3 Levels of Detail
+Detailed Steps of Process define the project focus the process identify the issues structure the issues clarify ownership estimate variability evaluate implications harness the plans manage implementation
+Page 4-6
+Mid-Level Portrayal clarify the basis of analysis
+Simplest Portrayal shape the project strategy
+
+execute the qualitative analysis execute the quantitative analysis harness the plans manage implementation harness the plans manage implementation
+WSDOT Project Risk Management Chapter 4
+Quantitative Risk Analysis
+Exhibit 4-5 is a schematic of how an estimate range emerges from a risk-based estimating process. The first estimate, or “plan value,” provided by the project team often will contain contingencies (explicit and/or implicit) within the estimate; the first step is to review the estimate and remove the contingencies and make any needed corrections that are identified. Exhibit 4-6 depicts the regions of an estimate.
+Exhibit 4-5
+Creating a Probabilistic Estimate
+Exhibit 4-6
+Regions of an Estimate
+WSDOT Project Risk Management
+Page 4-7
+
+Quantitative Risk Analysis
+Chapter 4
+Quantitative analysis is a natural activity that fits into our standard project management process, and unfolds something like this:
+Exhibit 4-7
+Page 4-8
+Risk Management: A Part of Project Management Chapter 4 & 4-3
+Quantitative Risk Analysis
+Reporting results of the Quantitative Risk Analysis 4-3.1 General
+Most commonly asked questions about any project, repeated from the foreword of this document: •
+How much will it cost?
+
+•
+How long will it cost?
+Why?
+Declarations of cost estimates should be complete and transparent. Report results as a range.
+When asked “how much it will cost?” we must report the total cost – this includes previously incurred expenses (Pre-NEPA study, NEPA, ROW, or any preliminary engineering costs, etc.) in the total project cost results. If the risk analysis is conducted for the cost to complete, be sure to also report all monies spent to date – that is the total cost.
+Results should be reported as a range and typically in Year Of Expenditure dollars. In any case be complete and identify the dollars being reported (Current Year or Year of Expenditure). 4-3.1 FHWA requirements.
+WSDOT endeavors to ensure all requirements are met or exceeded for projects with federal funding.
+FHWA requirements are summarized below: a probabilistic risk-based review that verifies accuracy and reasonableness of current cost and schedule and identifiesproject uncertainty as described in FHWA CER guidance.
+Include previously incurred expenses (Pre-NEPA study, NEPA, ROW, or any preliminary engineering costs, etc.) in the total project cost results.
+For projects being procured as P3s, the workshop must include an analysis of the ! allocation of risks with respect to delivering the project through a P3. !
+For projects with phasing plans, at a minimum YOE results must be prepared for the funded phase as well as the total project. (note: scope as defined by NEPA document).
+Be consistent with the Major Project Financial Plan guidance.
+Be consistent with the FHWA CER guidance. o At this time WSDOT and FHWA have adopted different percentiles for budgeting and risk reserve calculations. This is an area for continuing research.
+
+WSDOT Project Risk Management
+Page 4-9 Quantitative Risk Analysis
+Page 4-10
+Chapter 4 & Chapter 5
+Risk Response & ❶ Risk
+Current Status
+Project Management Plan
+Scope, Schedule, Estimate
+Management
+Planning
+
+ Risk
+Identification pre-response analysis
+Update
+Results of response actions 5-1
+Risk Analysis ❸ Qualitative ❹ Quantitative ❻ Risk
+Monitoring and Control
+Implement Risk
+Response Plan
+TAKE ACTION! ❺
+Risk
+RiskResponse
+Response ❺ post response post-response post-response analysis analysis analysis
+
+Risk Responses
+Project Managers and teams must take action in response to identified risks. Focusing on risks of most significance can shift the odds in favor of project success.
+Early in project development, activities and information may seem chaotic, coming to us from multiple directions and multiple sources. Risk management provides a structured and disciplined way to document, evaluate, and analyze the information, so we emerge with a well-organized and prioritized list of project risks. This prioritization can be used to direct project risk management resources most effectively.
+To maximize project risk management benefits incorporate risk management activities into the Project Management Plan and work activities. This means building risk management activities into the Work Breakdown Structure (WBS).
+WSDOT’s WBS is the Master Deliverables List (MDL). The MDL helps ensure project work plans are comprehensive, consistent, and complete. Risk Response requires effort to develop and implement response actions. Plan for this effort in the project management plan and work activities. WSDOT tools and guidance to aid this effort https://wsdot.wa.gov/engineering-standards/project-management-training/ project-management/cost-risk-assessment). 5-1.1 Actions in Response to Risks
+Threats 1. Avoid 2. Transfer 3. Mitigate
+WSDOT Project Risk Management
+Opportunities 1. Exploit 2. Share 3. Enhance 4. Accept
+Page 5-1 Risk Response 5-1.1.1
+Chapter 5
+
+Risk Response: Actions (With Edits)
+AVOID (threats)
+Avoidance actions include: changing the Project Management Plan to eliminate a threat; isolating project objectives from the risk’s impact; or relaxing the project objective that is in jeopardy, such as extending schedule or reducing scope.
+Some risks that arise early in the project can be avoided by clarifying requirements, obtaining information, improving communication, or acquiring expertise. (Project Management Body of Knowledge [PMBOK])
+Action taken to ensure the probability or impact of a threat is eliminated.
+There are two types of action: (1) remove the cause of the risk (risk trigger), or (2) execute the project in a different way while still aiming to achieve project objectives.
+Not all risks can be avoided or eliminated, and for others this approach may be too expensive or time-consuming, but this should be the first strategy considered for each risk. (Effective Opportunity Management for Projects by David Hillson)
+EXPLOIT (opportunities)
+Action taken to ensure the benefit of an opportunity is realized.
+The opposite of avoid, this strategy is to ensure a positive impact, or realize an opportunity. Taking action to make the opportunity definitely happen; such response actions include: assigning more talented resources to a project to reduce time to completion and/or providing better quality than originally planned. (PMBOK)
+Eliminate the uncertainty associated with a particular upside risk. An opportunity is defined as a risk event that, if it occurs, will have a positive effect on achievement of project objectives. Avoid and Exploit are the most aggressive of the response strategies and should be reserved for those “golden opportunities” with high probability and impacts. (Effective Opportunity Management for Projects by David
+Hillson)
+TRANSFER (threats)
+
+Action to allocate ownership for more effective management of a threat.
+Transferring a threat does not eliminate it—the threat still exists; however, it is owned and managed by another party. Transferring risk can be an effective way to deal with financial risk exposure. Transferring project risk almost always involves payment of a risk premium to the party taking the risk; for example, insurance, performance bonds, or warranties. Contracts may be used to transfer specified risks to another party. (PMBOK)
+Transferring risk involves finding another party who is willing to take responsibility for its management, and who will bear the liability of the risk should it occur. The aim is to ensure that the risk is owned and managed by the party best able to deal with it effectively. Risk transfer usually involves payment of a premium, and the cost-effectiveness of this must be considered when deciding whether to adopt a transfer strategy. (Effective Opportunity Management for Projects by David Hillson)
+Action to share with a third party; enhance/exploit opportunity.
+Page 5-2
+SHARE (opportunities)
+Sharing a positive risk involves allocating ownership to a third party who is best able ! to capture the opportunity for the benefit of the project. Examples of sharing actions
+WSDOT Project Risk Management Chapter 5 &
+Risk Response include forming risk-sharing partnerships, teams, or joint ventures, which can be established with the express purpose of managing opportunities. (PMBOK)
+Allocating risk ownership for an opportunity to another party who is best able to handle it, in terms of maximizing probability of occurrence and increasing potential benefits if it does occur. Transferring threats and sharing opportunities are similar in that a third party is used; those to whom threats are transferred take on the liability and those to whom opportunities are allocated should also be allowed to share in the potential benefits. (Effective Opportunity Management for Projects by David
+Hillson)
+MITIGATE – or reduce (threats)
+
+Action taken to
+Risk mitigation implies a reduction in the probability and/or impact of an reduce the probability adverse risk event to an acceptable threshold. Taking early action is often more and/or impact of effective to repair than trying to repair the damage after the risk has occurred. a threat.
+Examples of mitigation strategies include: adopting less complex processes, ! conducting more tests and/or field investigations, developing a prototype. !
+Measures to address impacts include: targeting linkages that determine the severity, ! such as designing redundancy into a subsystem, may reduce the impact from a ! failure of the original component. (PMBOK) !
+Mitigation or acceptance are the strategies most often used since the number of ! threats that can be addressed by avoidance or transfer are usually limited. !
+Preventive responses are better than curative responses because they are more ! proactive and if successful can lead to risk avoidance. Preventive responses tackle ! the causes of the risk; where it is not possible to reduce probability, a mitigation ! response should address the adverse impact, targeting the drivers that determine ! the extent of the severity. (Effective Opportunity Management for Projects by David !
+Hillson) !
+ENHANCE (opportunities)
+This response modifies the “size” of an opportunity by increasing probability and/or impact. Seeking to facilitate or strengthen the cause of the opportunity, and proactively targeting and reinforcing its trigger conditions. Impact drivers can also be targeted, seeking to increase the project’s susceptibility to the opportunity. (PMBOK)
+Action to enhance opportunity.
+
+This response aims to modify the “size” of the positive risk. We enhance the opportunity by increasing the probability and/or impact of an opportunity thereby maximizing benefits realized for the project. If the probability can be increased to 100%, this is effectively an exploit response. (Effective Opportunity Management for
+Projects by David Hillson)
+ACCEPT
+The term “accept” refers to risks that remain after response actions and/or for which response is not cost-effective are accepted; risks that are uncontrollable
+WSDOT Project Risk Management
+Action taken to document acceptance of the risk.
+Page 5-3 Risk Response
+Chapter 5 (no response actions are practical) are also accepted. (Effective Opportunity
+Management for Projects by David Hillson)
+Ultimately, it is not possible to eliminate all threats or take advantage of all opportunities; we can document them and at least provide awareness that these exist and have been identified; some term this “passive acceptance.” In some cases, in some industries, a contingency reserve is established to deal with the aggregate residual risk that has been accepted; some term this “active acceptance.”
+As project development continues the risk profile will change. As we successfully respond to risks and our project knowledge increases, our risk exposure will diminish. In effect, we can retire risk reserve as risk events are successfully avoided or mitigated or we have passed the time during which the risk is active and it becomes retired.
+The following is from the Risk Management Planning Spreadsheet:
+8 https://wsdot.wa.gov/engineering-standards/project-management-training/projectmanagement/cost-risk-assessment
+Exhibit 5-1
+
+Page 5-4
+Risk Management & Planning Spreadsheet
+WSDOT Project Risk Management Chapter 5
+Exhibit 5-2
+Risk Response
+RMP Spreadsheet: Response
+Type of Response Action:
+WSDOT Project Risk Management
+Page 5-5 Risk Response 5-2
+Chapter 5
+
+Risk Response Tools and Techniques
+After we have identified and analyzed the risks, we know where to focus our efforts. The output from the analysis provides a ranked risk register with the risks of greatest significance to project objectives determined. Apt response actions to significant risks must be cost-effective and realistic.
+Critical risks must be met with vigorous response actions; lower-ranking risks should receive response actions commensurate with their significance. 5-2.1 Documentation of Response Actions
+Document the response action by describing the action, which work activities it will affect, and the cost of the response action. Identify the person(s) responsible for successful implementation of the response action. Also, consider the time impacts of the response action and how the risk response may affect the overall project and/or other risks. 5-2.2 Planning Risk Response Actions
+Select a response action – The action selected is influence by the level of the risk; consider Exhibit 5-3:
+Exhibit 5-3
+Simple Response Matrix
+Exhibits 5-4 and 5-5 depict typical response actions for threats and for opportunities depending on the region of probability and impact in which the risk resides.
+Page 5-6
+WSDOT Project Risk Management
+
+Chapter 5 &
+Exhibit 5-4
+Risk Response
+Typical Risk Response Planning Chart for Threats – Risk Response Planning: Selecting the
+Right Strategy (Piney, 2002)
+Notes: 1. ! If a risk has an extremely high probability of occurrence, it may be best to assume the condition as part of the base. 2. ! Risks (threats) with high impacts can, over a given limit, wreck a project; these risks must be avoided. 3. ! Insignificant risks can be accepted—passive response. 4. ! Between avoidance and acceptance, we can take other actions such as mitigation; for risks with low probabilities, we may want to transfer them. 5. ! For risks (threats) above a certain probability, we may choose to accept actively by mitigating and/or preparing contingency plans in the event of its occurrence. 6. ! All risks (threats) should be mitigated where practical and cost-effective.
+Page 5-7 Risk Response &
+Exhibit 5-5
+Chapter 5
+Typical Risk Response Planning Chart for Opportunities – Risk Response Planning:
+Selecting the Right Strategy (Piney, 2002)
+
+Notes: 1. ! If a risk has an extremely high probability of occurrence, it may be best to assume the condition as part of the base. 2. ! Risks (opportunities) with high impacts; these risks should be exploited. 3. ! Insignificant risks can be accepted—passive response. 4. ! Between exploit and accept, we can take other actions such as enhance and/or share opportunity risks. 5. ! For risks (opportunities) above a certain probability, we may choose to accept actively by preparing plans in the event of its occurrence—how will we take advantage of a fortunate occurrence? 6. ! All risks (opportunities) should be enhanced where practical and cost-effective.
+Page 5-8
+WSDOT Project Risk Management Chapter 5
+Exhibit 5-6
+Risk Response
+Risk ID Sheet
+Recall the Identified Risk (compare pre-mitigated to mitigated).
+WSDOT Project Risk Management
+Page 5-9 Risk Response
+Page 5-10
+
+Chapter 5 & Chapter 6
+Current Status
+Project Management Plan
+Scope, Schedule, Estimate
+Risk Monitoring and Control & ❶ Risk
+Management
+Planning  Risk
+Identification pre-response analysis
+Update
+Results of response actions
+
+6-1
+Risk Analysis ❸ Qualitative ❹ Quantitative ❻ Risk
+Monitoring and Control
+Implement Risk
+Response Plan
+TAKE ACTION! ❺ Risk Response post-response post-response analysis analysis
+General
+Perhaps you have heard the phrase, “control is an illusion.” We may have experiences when we felt this to be true; however, this phrase does not tell the whole story. There may be little control over the external environment, but we do have control over how we interact with it. We have control over our state of readiness; we can look ahead and innovate. We control the robustness of our response to identified risk events and the quality of our documentation. We control how earnestly we integrate risk management into our Project Management Plans. 6-1.2 Risk Monitoring and Control Tools and Techniques
+After we have implemented response actions, we must track and record their effectiveness and any changes to the project risk profile. Did the response actions have a positive or negative effect on achieving project objectives? If so, explain how and why in the Risk Management Plan. 6-1.2.1
+Documentation of Response Actions
+
+This section is devoted to measuring project risk management performance, and determining whether a project is tracking to plan or deviating. This requires a blend of qualitative judgments and quantitative measures to determine the “health” of the project.
+Describe and document the response action it’s cost and the work activities affected.
+Identify the person(s) responsible for implementation of the response. Consider time impacts and how the risk response may affect the overall project and/or other risks.
+Determine the appropriate metrics for the project, ensuring they are not burdensome and do not affect behavior. Too often, metrics change behavior to provide better metrics, not better performance. Set the amounts and conditions for use of the project
+WSDOT Project Risk Management
+Page 6-1 Risk Monitoring and Control &
+Chapter 6 risk reserves. Establish the final objectives of the project with stakeholders to improve the chances of project success. Confirm endorsement of team members and stakeholders as the project plan evolves. 6-1.2.2
+Monitoring and Controlling Project Risk
+The Project Manager and team apply the Project Management Plan toward completion of deliverables. Monitor project status, look for trends that indicate variations (good and bad) in project execution. Results should be communicated and if needed adjustments made through a change management or issue resolution process. Be able to describe the project history and it’s evolution – this is essential to develop lessons learned.
+Helpful Hints • ! Be thorough and tenacious in gathering status update information for risks. • ! Monitor status and trends continually (scope, schedule, cost estimates, quality
+
+of product, etc.). • ! Address problems and issues immediately; in fact, anticipate and discuss in advance if possible. • ! Communicate. 6-1.2.3
+Risk Management Planning (RMP) Spreadsheet
+The RMP spreadsheet (8 https://wsdot.wa.gov/engineering-standards/projectmanagement-training/project-management/cost-risk-assessment) is shown in
+Exhibit 6-1 and can be used to to summarize project risk management activities.
+The spreadsheet is typically used for the most significant risks as determined via the quantitative risk analysis; some term these risks “candidates for mitigation.”
+Notice that the spreadsheet is arranged into four sections: (1) risk identification, (2) risk analysis, (3) risk response, and (4) monitor and control. In this chapter, ! we focus on monitor and control. !
+Page 6-2
+WSDOT Project Risk Management Chapter 6
+Risk Monitoring and Control
+Exhibit 6-1 Risk Management Plan Spreadsheet
+
+WSDOT Project Risk Management
+Page 6-3 & Risk Monitoring and Control
+Chapter 6
+Exhibit 6-2 focuses on the second pillar of risk management – RESPOND – MONITOR and
+CONTROL.
+Exhibit 6-2 Second Pillar of Risk Management
+Exhibit 6-3 provides an example of a completed RMP spreadsheet, and the following pages describe how to use the Risk Management Plan spreadsheet to monitor and control project risk.
+Page 6-4 Chapter 6
+Risk Monitoring and Control
+Exhibit 6-3 Risk Management Plan Spreadsheet (Completed)
+
+WSDOT Project Risk Management
+Page 6-5 & Risk Monitoring and Control
+Chapter 6
+Notice that the f

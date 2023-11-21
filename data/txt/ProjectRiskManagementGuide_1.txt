@@ -1,0 +1,624 @@
+Washington State Department of Transportation
+
+Project Risk Management Guide
+Part I: Guidance for WSDOT Projects
+Part II: Guidelines for CRA-CEVP® Workshops
+Engineering and Regional Operations
+Development Division, Design Office, SAEO Foreword &
+The future is uncertain. It is certain that these three questions will be asked about our projects: (1) How much will it cost? (2) How long will it take? And, of course - Why? (Why that much and why that long?)
+These questions, posed in the future tense, seek to predict an $ uncertain future. Because the future is uncertain, the fundamental answer to these questions is that an estimate is best expressed not as a single number, but a range. To determine an estimate range for both cost and schedule, risk and uncertainty must be measured.
+What gets us in trouble is not what we don’t know. It’s what we know for sure that just ain’t so. ~ Mark Twain
+Inaccurate cost estimating has vexed transportation projects for years. A noted study by B. Flyvbjerg on the results of transportation project estimating found that, for the past 70 years, the cost of transportation projects has been consistently underestimated in many parts of the world, including the U.S.
+Estimates have two components: the base cost component and the risk (or uncertainty) component. Base cost is defined as the likely cost of the planned project if no significant problems occur. Once the base cost is established, a list of uncertainties is created of both opportunities and threats, called a “risk register.” The risk assessment replaces general and vaguely defined contingency with explicitly defined risk events and with the probability of occurrence and the consequences of each potential risk event. Scope control is necessary for project management and estimating. Cost estimates are reviewed and validated, and a base cost for the project is determined.
+Project risk management is a scalable activity and should be commensurate with the size and complexity of the project under consideration. Less complicated projects may utilize qualitative analyses. Larger, more complex projects may wish to use more robust analytical techniques such as Monte Carlo simulation models.
+The guidance in this manual has been developed by the Strategic Analysis and Estimating Office (SAEO) in alignment with the goals of the Statewide Program Management Group. This document would not have been possible without the contributions of dozens of key WSDOT people who participated in the development and review of these guidelines. Credit is also due to many of the consultant partners, academics, and others who continually advance the cause of project risk management in the transportation industry.
+
+WSDOT Project Risk Management Guide
+Page i Foreword
+Page ii Contents
+Page x Part I: !
+Guidance for WSDOT Projects !
+Chapter 1 Project Risk Management Planning
+Chapter 2 Risk Identification
+Chapter 3 Qualitative Risk Analysis
+Chapter 4 Quantitative Risk Analysis
+Chapter 5 Risk Response
+Chapter 6 Risk Monitoring and Control
+Chapter 7 Project Risk Management Plan-Example
+
+Chapter 1
+Current Status
+Project Management Plan
+Scope, Schedule, Estimate
+Project Risk Management Planning & ❶ Risk
+Management
+Planning
+Risk Analysis ❷ Risk
+Identification ❸ Qualitative ❹ Quantitative pre-response analysis
+Update
+
+Results of response actions 1-1 ❻ Risk
+Monitoring and Control
+Implement Risk
+Response Plan
+TAKE ACTION! ❺ Risk Response post-response analysis
+Project Risk Management Overview
+This document provides information to Project Managers, project teams, and staff involved directly or indirectly with project risk management. It provides:
+Uniformity in project risk management activities.
+Techniques and tools for project risk management.
+Data requirements for risk analysis input and output.
+The project risk management role in overall project management.
+Guidance on how to proactively respond to risks.
+Project teams can more effectively establish and fulfill expectations by understanding the risk. Assessing project risk informs decision-making during project development and delivery. These decisions contribute to public safety and clarify project expectations.
+Estimating the cost of transportation projects is fundamental to project design and development. In recognition of the importance of cost estimating, these guidelines provide consistent practices across the agency to enhance methods for meeting this responsibility. These guidelines were developed by the Strategic Analysis and
+Estimating Office (SAEO), with contributions from a number of specialists in cost estimating and project development.
+Estimators must be shielded from pressures to produce estimates that match preconceived notions of what a project should cost. Estimates are an objective opinion of cost based on project scope, project schedule, and bidding environment. Risk based estimating is a vital component of project risk management that benefits the projects we deliver. The backbone of risk based estimating is a sound base cost estimate.
+
+WSDOT Project Risk Management Guide
+No construction project is risk free. Risk can be managed, minimized, shared, transferred, or accepted. It cannot be ignored. ~ Sir Michael Latham, 1994
+Page 1-1 Project Risk Management Planning 1-2
+Chapter 1
+Benefits of Risk Management
+Project risk management delivers a number of values to the project, including:
+Recognizes uncertainty and provides forecasts of possible outcomes.
+Produces better business outcomes through more informed decision making.
+Has a positive influence on creative thinking and innovation.
+Creates opportunities for improved project monitoring and control.
+Can aide in addressing concerns with respect to overhead and time.
+Contributes to project success.
+Project risk management is an integral component of project management and is found at the heart of WSDOT’s project management processes.
+Risk management is also a key component of project cost estimating and scheduling, as noted in National Cooperative Highway Research Program (NCHRP) Report 574.
+Exhibit 1-1 portrays balanced project risk management through project development and balanced risk management.
+With effective risk management as an integral and required part of project management, we can not only predict possible future outcomes, we can take action to shift the odds in favor of project success.
+
+Exhibit 1-1
+Balanced Risk Management (Risk Tolerance)
+Risk-seeking behavior in an organization is characterized by: • Paying too little attention to risk management • Not allocating resources for risk management • Surprise at bad news • Missing opportunities
+Risk-aversion behavior in an organization is characterized by: • Over-allocation of resources on risk management • Low return on investment for risk management • Money spent on low-priority risks • Tedious processes
+Balanced project risk management is characterized by: • Efficient processes that match the organization’s tolerance for risk • A proactive approach to management of projects and risks • Effective allocation of resources for risk management • Well-managed projects with few surprises • Taking advantage of opportunities • Dealing with threats effectively 1-3
+Investment in risk management
+C
+Tolerance for risk
+Project Risk Management Process
+Risk management, as an integral part of project management, occurs on a daily basis.
+With proactive risk management, we look at projects in a comprehensive manner and assess and document risks and uncertainty. The steps for risk management are provided below.
+
+Page 1-2
+WSDOT Project Risk Management Guide Chapter 1
+Project Risk Management Planning 1-3.1 Risk Management Steps
+WSDOT recognizes the following steps of project risk management: 1. Risk Management
+Planning
+Risk management planning is the systematic process of deciding how to approach, plan, and execute risk management activities throughout the life of a project. It is intended to maximize the beneficial outcome of the opportunities and minimize or eliminate the consequences of adverse risk events. 2. Identify Risk
+Events
+Risk identification involves determining and documenting which risks can affect the project. It may be a simple risk assessment organized by the project team, or an outcome of a formal risk assessment process such as the Cost Estimate Validation Process, CEVP®. 3. Qualitative Risk
+Analysis
+Qualitative risk analysis involves Project teams assessing identified risks for probability of occurrence and impact on project objectives.
+Teams may elicit assistance from subject matter experts or functional units to assess the risks in their respective fields. Risks are measured by their “quality” in words rather than quantified in numbers.
+
+4. Quantitative Risk
+Quantitative risk analysis is a way of numerically estimating the probability that a project will meet its cost and time objectives.
+Quantitative analysis is based on a simultaneous evaluation of the impacts of all identified and quantified risks. 5. Risk Response
+Risk response involves developing options and determining actions to reduce threats or enhance opportunities to project objectives. Actions are identified and assigned to parties that take responsibility for the risk response. This process ensures each risk requiring a response has an “owner.” The Project Manager and the project team identify a strategy that is best for each risk, and then select specific actions to implement that strategy. 6. Risk Monitoring &
+Control
+Risk monitoring and control tracks identified risks, monitors residual risks, and identifies new risks—ensuring the execution of risk plans and evaluating their effectiveness in reducing risk. Risk monitoring and control is an ongoing process for the life of the project.
+More details on the steps above are found throughout this document. Understand that project risk management is an art and a science involving careful consideration and thought about the project and the associated uncertainties and risks.
+Much of project risk management relies on sound engineering judgment and knowing where to focus energy and resources. Knowing when to engage appropriate expertise is vital to good project risk management.
+Exhibit 1-2 provides a helpful comparison between risk and objectives for various types of risk management. For this document we are interested in project risk management.
+WSDOT Project Risk Management Guide
+
+Page 1-3 Project Risk Management Planning
+Exhibit 1-2
+Chapter 1
+Relationship between Risk and Objectives
+Type of Risk
+Management
+Generic
+Description
+Sample Objectives
+Risk: Any uncertainty that, if it occurs, would affect one or more objectives.
+
+----------------
+Project Risk
+Project Risk: Any uncertainty that, if it occurs, would affect one or more project objectives.
+Time, cost, performance, quality, scope, client satisfaction.
+Business Risk
+Management
+Business Risk: Any uncertainty that, if it occurs, would affect one or more business objectives.
+Safety Risk
+Safety Risk: Any uncertainty that, if it occurs, would affect one or more safety objectives.
+Technical Risk
+
+Technical Risk: Any uncertainty that, if it occurs, would affect one or more technical objectives.
+Security Risk: Any uncertainty that, if it occurs, would affect one or more security objectives.
+Profitability, market share, competitiveness, Internal Rate of Return (IRR), reputation, repeat work, share price.
+Low accident rate, minimal lost days, reduced insurance premiums, regulatory compliance.
+Performance, functionality, reliability, maintainability.
+Security Risk
+Management
+Information security, physical security, asset security, personnel security.
+Credit: David Hillson, Effective Opportunity Management for Projects 1-4
+Smart Effort = Less Risk
+
+1-4.1 Taking Action
+The power of risk management is fully realized when a Project Manager takes action to respond to identified risks based on the risk analysis. Directed effort toward risks that can have significant impact to project objectives improves the odds of project success. 1-4.1.1 Inputs
+The project scope, schedule, and estimate package should include the most current versions of the following items:
+Project Summary
+Detailed Scope of Work (commensurate with the level of development)
+Project Cost Estimate (with Basis of Estimate completed) o PE cost estimate o ROW cost estimate o Construction cost estimate
+Previous Risk Analyses (if applicable)
+Project Management Plan
+Project Schedule
+Page 1-4
+
+WSDOT Project Risk Management Guide Chapter 1 &
+Project Risk Management Planning
+Overall project schedule o Detailed construction schedule (commensurate to level of development)
+QA/QC Status
+Additional Information (as necessary) o 1-4.1.2 Techniques and Tools
+WSDOT provides a number of techniques and tools to assist in project risk management. These tools and techniques provide scalability and flexibility so that project teams can match the tool with the specific needs of their projects. Often, the appropriate tool is determined by the size and complexity of the project. These tools include: •
+Project Management Guide o Project Management Plan (fundamental for all projects) o A qualitative risk matrix for smaller, simpler projects o Risk planning, risk assessment, and risk management are integral elements of project management
+Risk Management Plan spreadsheet template (found on SAEO website)
+Self-modeling tool for quantitative risk analysis
+CRA workshops for all projects between $25M and $100M
+CEVP® workshops for all projects over $100M
+
+1-4.1.3 Output
+Capital Program Management System (CPMS) data requirements per Policy management office for inclusion in CPMS and the Transportation Executive
+Information System (TEIS). The required data is: 1. Project scheduling data for the following milestone dates:
+Project definition completion date
+Date for the beginning of preliminary engineering
+Completion date for the environmental document
+Start date for the acquisition of right of way
+Date of right of way certification
+Project advertisement date
+Date project is operationally complete (substantially complete) 2. Estimated project cost data (in Current Year Dollars, CY$):
+Date of estimate basis (e.g., “2018 $”)
+Design cost estimate
+Right of way cost estimate
+Construction cost estimate 3. ! Midpoint for construction phases using the project award date and the operationally complete date.
+
+WSDOT Project Risk Management Guide
+Page 1-5 Project Risk Management Planning 1-5
+Chapter 1
+Statement of Policy 1-5.1 Project Risk Management and Risk-Based Estimating
+It is WSDOT’s policy to conduct risk-based estimating workshops for all projects over $10 million (PE, R/W, and Const). These workshops provide information to Project
+Managers that can help them control scope, cost, and schedule, and manage risks for all projects (Exhibit 1-3). This policy reaffirms the requirement that a Risk Management
+Plan is a component of every Project Management Plan.
+Exhibit 1-3
+Levels of Risk-Based Estimating, in Support of Risk Management (E 1053)
+Project Size ($M)
+
+Required Process*
+Less than $10M
+Qualitative spreadsheet in the Project Management Online Guide[1] $10M to $25M
+Informal workshop using the self-modeling spreadsheet[1][3] $25M to $100M
+Cost Risk Assessment (CRA) workshop[1][2]
+Greater than $100M
+Cost Estimate Validation Process® (CEVP®) workshop[2] [1] In some cases, it is acceptable to combine a Value Engineering Study with a Risk-Based
+Estimating Workshop. [2] Projects $25 million and over should use the self-modeling spreadsheet in the scoping phase of the risk-based estimating process, followed up by the more formal CRA or CEVP® process during the design phase. [3] An informal workshop is composed of the project team (or key project team members); other participants may be included as the Project Manager/project team deem necessary. *Project Managers can use a higher-level process if desired. 1-6
+Project Risk Management Planning
+Great project risk management requires good planning. Begin with proven project management practices: review organizational policies and guidance; initiate and align the project team; and follow the steps provided in the Project Management Guide. Risk management must commence early in project development and proceed as the project evolves and project information increases in quantity and quality. Plan to:
+Identify, assess/analyze, and respond to major risks.
+Continually monitor project risks and response actions.
+Conduct an appropriate number and level of risk assessments to update the
+Risk Management Plan and evolving risk profile for the project.
+Consider the resources needed for project risk management and build them into the project development budget and schedule. Risk management activities, including events such as Cost Risk Assessment (CRA), Cost Estimate Validation Process (CEVP®), Value
+Engineering – Risk Assessment (VERA), or other meetings, need to be part of the project work plan and built into the project schedule and budget (Exhibit 1-4).
+
+Page 1-6
+WSDOT Project Risk Management Guide Chapter 1
+Exhibit 1-4
+Project Risk Management Planning
+General Comparison of a Few Typical Characteristics of CRA and CEVP®
+Details
+Typical Length
+Subject Matter Experts
+Timing
+CRA
+CEVP® 1 – 3 days 3 – 5 days
+Internal and local.
+Internal and external.
+Early is preferred but can be
+It is best to start early in the process; conducted any time. Typically major projects are typically updated updated when changes warrant. as needed.
+General
+An assessment of risks with an
+An intense workshop that provides an evaluation and update of costs external validation of cost and and schedule estimates. schedule estimates and assesses risks.
+Note: Policies and practices for project risk assessments are established by the Cost Risk Estimating
+Management unit of the Strategic Analysis and Estimating Office at Headquarters. Risk assessment workshops are orchestrated by Region Coordinators or the CREM Unit at Headquarters. The Project
+Manager submits a workshop request and works collaboratively to determine workshop type and candidate participants. (See Part II: Guidelines for CRA-CEVP® Workshops for more details.)
+
+Exhibit 1-5 illustrates how project information develops and evolves over time. With rising project knowledge comes an understanding that contending with some elements of the project will require significant additional resources. These elements could involve: scope; environmental mitigation and permitting; rising cost of right of way as corridors develop in advance of the project; utilities; seismic issues; and other elements.
+In the past, traditional estimating practices tended to produce “the number” for a project; but the single number masks the critical uncertainty inherent in a particular project. It implies a sense of precision beyond what can be achieved during planning, scoping, or early design phases.
+We recognize that an estimate is more accurately expressed as a range, not as a single number. To determine an accurate estimate range for both cost and schedule, risk must be measured. Formerly, WSDOT measured risk based on the estimator’s experience and best judgment, without explicitly identifying the project’s uncertainties and risks. That has changed. Estimates are now composed of two components: the base cost component and the risk (or uncertainty) component. The base cost represents the cost that can reasonably be expected if the project materializes as planned. The base cost does not include contingencies. Once the base cost is established, a list of risks is created of opportunities and threats, called a “risk register.” The risk assessment replaces general and vaguely defined contingency with explicitly defined risk events.
+Risk events are characterized in terms of probability of occurrence and the consequences of each potential risk event.
+WSDOT Project Risk Management Guide
+Page 1-7 Project Risk Management Planning
+Exhibit 1-5
+Chapter 1
+Evolution of Project Knowledge Through Project Development
+Executive Order (EO) E 1053 instructs employees to actively manage their projects risks.
+Risk reviews are an integral part of budget development, with the intent that the department makes informed decisions about risk tolerance. It can be inferred that determined Enterprise Risk Management includes comprehensive project risk management Project risk management is a major element in the Project Management
+Plan, which is required for all WSDOT projects (EO E 1032). We, as stewards of the public trust, must endeavor to inform decision makers of the uncertainty and risk associated with the projects we develop. We must understand risk tolerance and we must weigh the value of project decisions against project risks.
+
+Page 1-8 Chapter 1
+Project Risk Management Planning
+Chapter 5 of the book Risk, Uncertainty and Government notes, “…lawyers and economists are accustomed to think of contracts for future performance as devices for allocating risks of future events.” In order for us to understand this allocation of risk, projects must be examined and the uncertainty and risks must be documented and characterized.
+Risk Management
+Identify
+Analyze
+Respond
+Monitor/Control
+We can think of risk management as two pillars (depicted above). They are: “IDENTIFY and ANALYZE” the risks, then, “RESPOND, MONITOR, and CONTROL” project risk.
+Unless we incorporate the second pillar, we are not realizing the full value of risk management. When preparing the Project Management Plan and work activities for our project, we must include both pillars of risk management.
+
+WSDOT Project Risk Management Guide
+Page 1-9 Project Risk Management Planning 1-7
+Chapter 1
+How to Plan for Project Risk Management
+Do you plan to manage risk for your project? YES! Then include risk management in your
+Project Management Plan. 1. 2. 3. 4. 5.
+Determine the level of risk assessment for your project (Exhibit 1-6).
+Incorporate risk management activities into the project schedule (Exhibit 1-7).
+Make risk management an agenda item for regularly scheduled project meetings.
+Communicate the importance of risk management to the entire project team.
+Establish the expectation that risk will be managed, documented, and reported.
+
+1-7.1 Tips for Risk Management Planning
+Risk assessment planning should begin early. There is a minimum level of project knowledge needed to understand what is being assessed. This varies depending on the point in project development at which the risk assessment is conducted (planning, scoping, design/PS&E); hence, schedule risk assessments at appropriate times.
+At a minimum there must be an understood project scope of work, associated project cost estimate – with a basis of estimate complete, and an estimated project schedule.
+Allow time in the schedule for preparation activities; this includes review and QA/QC of project schedules and cost estimates at appropriate times (Exhibits 1-8 and 1-9).
+Allow a budget and time in the schedule for risk assessment, risk management, and risk response activities.
+Report on the status of project risk at regularly scheduled project meetings.
+Know the organization’s tolerance for risk. Are Project Managers (and upper management) risk averse or risk seeking? How much risk is the organization willing to accept? Knowing the answers to these questions will help with risk management and contribute to the decision-making process when determining risk response actions.
+Contact the Strategic Analysis and Estimating Office (SAEO) and discuss the possibility of coordinating or integrating project risk assessment with value engineering.
+Page 1-10
+WSDOT Project Risk Management Guide
+
+Chapter 1
+More Formal Risk
+Assessment (Workshops)
+Less Formal Risk
+Assessment
+Exhibit 1-6
+Exhibit 1-7
+Project Risk Management Planning
+Determine the Level of Risk Assessment !
+Project
+Size ($M)
+
+Risk Assessment Level
+0 to 10
+Project Team Risk Assessment
+Project Management Guide
+Risk Management Plan
+Qualitative Tool
+10 to 25
+Self-Modeling Spreadsheet
+Quantitative Tool
+Notes
+The project team assesses each identified risk for its probability of occurrence and its impact on project objectives. Project teams may request assistance from subject matter experts or functional units to assess the risks in their respective fields. The self-modeling spreadsheet can be used for any project.
+
+Cost Risk Assessment (CRA)
+25 to 100 Workshop
+Cost Estimate Validation Process®
+Over 100 (CEVP®) Workshop
+The team, working collaboratively with independent subject matter experts, reviews and/or validates cost and schedule estimating and identifies, characterizes, and analyzes risks. Workshops are accomplished in a structured setting.
+Modeling can be accomplished with offthe-shelf software or using the selfmodeling spreadsheet.
+Include Risk Management Milestones in the Project Schedule !
+Less Formal Risk Assessment*
+Formal Workshop (CRA/CEVP®)
+Milestones include:
+
+• Project Scope, Schedule, and Estimate are • Workshop Request Form Submitted • Project Scope, Schedule, and Estimate are
+Complete (apt for the level of development) • Prep Meeting (initial review of areas of concern; determine tool: qualitative or selfmodeling) • Risk Meeting (risks are identified and characterized) • Risk Response Actions Developed • Risk Response Actions Implemented
+Complete (apt for the level of development) • Prep Session (flowchart project; determine subject matter experts; additional prep items) • Workshop • Preliminary Results Presented • Draft Report • Final Report *Does not require a formal workshop. !
+WSDOT Project Risk Management Guide
+Page 1-11 Project Risk Management Planning
+Exhibit 1-8
+Chapter 1
+Simplified Workshop Timeline !
+Request form submitted by
+Project Manager
+
+Typical duration from request to final report is about 90 days
+Prep activities –
+Typical duration 45 days (range: 30 to 60 days)
+Risk Assessment Meeting
+Typical duration 3 days (range 2 days to 10 days)
+Final workshop report
+Post activities –
+Typical duration 45 days (range: 30 to 180+ days)
+Typical prep activities include:
+Prep meeting
+Prepare agenda
+Review materials
+Advance elicitation
+Process task orders
+Negotiate contracts
+Identify cost-risk team !
+Confirm & invite participants !
+Schedule activities (pre- and post-) !
+Determine type of risk assessment !
+Establish duration of risk assessment !
+
+Typical post activities include:
+Perform action items
+Prepare Monte Carlo models
+Prepare draft and final reports
+Conduct risk treatment follow-up meeting
+Prepare preliminary presentation
+Review and process consultant invoices
+Causes of delay to the start or analysis
+Poorly defined scope of work
+Poorly prepared cost estimate
+Poorly prepared schedule estimate
+No current project management plan
+
+Causes of delaying the finsih
+Delays in decision-making
+Unresolved isses at end of meeting
+Requested information not provided
+Note: If the project team cannot clearly describe the project to be evaluated, with a well-defined problem statement, and provide a cost and schedule estimate, the risk assessment meeting should be postponed.
+Note: Once the risk assessment meeting is over, it is over. Allow the process to come to a conclusion so the model can be developed and the report delivered.
+Endless permutations and combinations of hypothetical scenarios that will not contribute to decision-making do not add value to the process. Evaluate results, develop a response; update the Project
+Management Plan.
+Page 1-12
+WSDOT Project Risk Management Guide
+
+Chapter 1
+Exhibit 1-9
+Project Risk Management Planning
+Risk Management Schedule: With Workshop and Postworkshop Activities !
+DURATION RANGE (days)
+TASK NAME
+Risk Assessment Process (90 days +/-) – Typical timeline for CRA/CEVP
+Shorter
+Common
+Longer
+
+~30 ~90 ~120 +
+Request Form submitted by the Project Manager to the Cost Risk Estimating Management (CREM) Unit of the Strategic Analysis and Estimating Office (SAEO)
+PREWORKSHOP ACTIVITIES
+Start 24 30 44 1 3
+5 or more 10 45 90 + • CREM works with PM to identify appropriate cost-risk team • CREM determines appropriate workshop type and length • CREM works with PM to schedule risk assessment activities (including pre- and post-) • Project team prepares materials for prep session and begins preparing for workshop • REALITY CHECK (is project team ready?) > Scope, Schedule, Estimate for workshop • CREM prepares and distributes PREP Session agenda and sends invites • PREP SESSION (run by CREM – results in: Draft Flowchart, Estimate, Participants List) • MILESTONE > PREP SESSION COMPLETE • PM sends email reminder to region participants/SMEs for workshop • CREM schedules and conducts advance elicitation with appropriate parties • CREM sends invites to all workshop participants for workshop • Project team prepares for workshop (review Flowchart, Estimate, and Participants List) • CREM, working with PM, finalizes workshop agenda and sends to participants • Project team makes project information available via email, ftp, and/or other
+WORKSHOP ACTIVITIES • WORKSHOP (run by CREM) • MILESTONE > WORKSHOP COMPLETE
+POSTWORKSHOP ACTIVITIES • Cost Lead prepares their portion of the DRAFT REPORT • Risk Lead prepares models and writes DRAFT REPORT • Risk Lead prepares preliminary presentation • Risk Lead delivers preliminary presentation • Preliminary presentation complete • RISK LEAD ASSEMBLES DRAFT REPORT • MILESTONE > DRAFT REPORT COMPLETE • PROJECT TEAM REVIEWS & COMMENTS ON DRAFT REPORT • Cost Lead prepares their portion of the FINAL REPORT • Risk Lead finalizes models and writes FINAL REPORT • MILESTONE > FINAL REPORT COMPLETE • PM makes sure payment groups are set up in TRAINS
+POSTREPORT ACTION (RISK RESPONSE) • PM updates Project Risk Management Plan (collaborates w/CREM) • PM implements risk response actions (collaborate w/CREM) • PM initiates monitoring for effectiveness of risk response actions • Update Risk Management Plan: response costs and estimated value of risk avoided
+Project risk management is an ongoing activity that is performed as part of the daily and regular project development and delivery activities. • Perform post-mitigation analysis and report
+WSDOT Project Risk Management Guide
+
+Page 1-13 Project Risk Management Planning
+Page 1-14
+Chapter 1 & Chapter 2
+Current Status
+Project Management Plan
+Scope, Schedule, Estimate
+Risk Identification & ❶ Risk
+Management
+Planning ❷ Risk
+Identification
+
+Risk Analysis ❸ Qualitative ❹ Quantitative pre-response analysis
+Update
+Results of response actions 2-1 ❻ Risk
+Monitoring and Control
+Implement Risk
+Response Plan
+TAKE ACTION! ❺ Risk Response post-response analysis
+Risk Identification during Project Development
+Risk identification is ongoing through project development: 1. 2. 3. 4.
+Planning
+Scoping
+Design/Plans, Specifications, and Estimate (Engineer’s Estimate)
+Construction
+
+As projects evolve through project development, the risk profile changes and project understanding grows. Previously identified risks may change and new risks may emerge. 2-2
+Risk Identification: Inputs, Tools and Techniques, Outputs 2-2.1 Risk Identification Inputs
+The most important first input is a defined project. In order to fully understand and assess project risks we must ensure a mutual understanding of the project under evaluation.
+Fundamental information about a project includes a clear statement of need. To focus on risks and uncertainties our project will face, we must know the project in context, scope, schedule, and estimate. Information is commensurate with the level of project development at the time of risk analysis. Progressive elaboration should not be confused with scope creep. (Source: Project Management Book of Knowledge)
+Projects tend to develop in small steps. This incremental process of project development is sometimes termed “progressive elaboration.” Progressive elaboration means developing in steps, and continuing by increments. For example, the project scope will be broadly described early in the project and made more explicit and detailed as the project team develops a better and more complete understanding of the objectives and deliverables.
+WSDOT Project Risk Management Guide
+Page 2-1 Risk Identification
+Chapter 2 2-2.2 Risk Identification Tools and Techniques
+The project team, sometimes in collaboration with cost risk experts and subject matter experts, identify as many risks as possible that may affect project objectives (Exhibit 2-1).
+State the assumptions for risk identification and analysis, and delineate thresholds for risks.
+For example, a project team may want to describe risks with impacts below $100,000 or less than two weeks as minor. By doing so, we do not spend excessive amounts of time on risks that do not significantly impact our ability to meet project objectives. Focus must be directed toward risks that can significantly impact the project. Assumptions and thresholds for risk assessment are project-specific and are influenced by the size and complexity of the project and project environment, and the owners’ tolerance for risk. There are a wide variety of techniques used for risk identification. Some common techniques used at
+WSDOT are provided below. 2-2.2.1 Documentation Reviews
+
+Peer-level reviews of project documentation, studies, reports, preliminary plans, estimates, and schedules are a common and early method to help identify risks that may affect project objectives. 2-2.2.2 Information Gathering
+Brainstorming – Formal and informal brainstorming sessions with project team members, specialty groups, stakeholders, and regulatory agency representatives is a technique for risk identification. This technique can be scaled for use on the simplest to the most complex projects. This technique can also be tailored to specific areas of interest for the project risk; for example, if a Project Manager is most concerned about geotech conditions, a brainstorming session on geotech can be convened.
+Lessons Learned Database – Searching for lessons learned using key words in the WSDOT Lessons Learned Database that are relevant to your project can provide an abundance of information on projects that may have faced similar risks.
+Other Methods – Other techniques include: questionnaires and surveys; interviews, checklists, and examination of the work breakdown structure for the project with appropriate specialty groups; and asking “what if” questions (for example, “what if we miss the fish window?” or “what if our environmental documentation is challenged and we have to prepare an EIS?”). 2-2.3 Risk Identification Outputs
+An expected deliverable from risk identification includes the “risk register,”1 which documents the following information: 1
+A list of risks comprised of potential project opportunities and threats.
+Page 2-2
+WSDOT Project Risk Management Guide Chapter 2 &
+Risk Identification
+Identification # for each risk identified – Assign a unique number to each risk for tracking purposes. If available, do this by utilizing an established Risk Breakdown Structure (RBS); the WSDOT RBS is provided in Exhibit 2-4.
+Date risk was identified – Document the date the risk was identified and in which project development phase (planning, scoping, design/PS&E, construction).
+Name of risk - (is the risk a threat or an opportunity?) – Ensure each identified risk has an appropriate name; for example, “NEPA Delay” or “Reduction in Condemnation.” Also, document the nature of the risk with respect to project objectives (threat or opportunity); you can do this by using the RBS for naming conventions.
+Detailed description of risk event – The detailed description of the identified risk must provide information that is Specific, Measurable, Attributable (a cause is indicated),
+Relevant, and Time-bound (SMART). Ensure the description is clear enough and thorough enough so that others reading about the description of the risk will understand what it means.
+Risk trigger – Each identified risk must include the risk trigger(s). Risks rarely just suddenly occur; usually there is some warning of imminent threat or opportunity. Clearly describe and document these warning signs and information about the risk. For example, “NEPA
+Approval Date” may be considered a risk trigger on a project that has a risk of a legal challenge.
+Risk type – Does the identified risk affect project schedule, cost, or both?
+Potential responses to identified risk – Document, if known, possible response actions to the identified risk—can the identified threat be avoided, transferred, or mitigated, or is it to be accepted? Can the identified opportunity be exploited, shared, or enhanced?
+Comments about risk identification – Risk management is an iterative process, project risks must be reviewed regularly. Document and assess new risks. The resulting risk register is preliminary and is refined over time and is a prominent input of Cost Risk
+Assessment or Cost Estimate Validation Process® (CRA/CEVP®) workshops. More detail about the WSDOT workshops for CRA/CEVP® is provided later in this document, and at:
+8 https://wsdot.wa.gov/engineering-standards/project-management-training/projectmanagement/cost-risk-assessment
+
+2-3
+Identifying Risk Events 2-3.1 How to Identify Risk 1. ! Determine, for your project, what constitutes “significant” risk. 2. ! Determine risk thresholds for the project—establish a minimum dollar amount and time duration considered significant for the project under evaluation. 3. ! Focus on identifying large significant risks that affect project objectives. 4. ! Carefully document and describe risks in a risk register (see Exhibit 2-4).
+WSDOT Project Risk Management Guide
+Page 2-3 Risk Identification &
+Chapter 2 5. ! Characterize risks in terms of impact and probability. Note: High-impact risks with low probabilities should be of particular interest to the Project Risk Manager.2 2-3.2 Tips for Risk Identification
+Thoroughly describe the risk; there are forms on the following pages to help with this, or you may create your own.
+Include specialty groups and/or other persons who may have meaningful input regarding the challenges the project may face.
+Determine who “owns” the risk and who will develop a response.
+Exhibit 2-1
+Risk Identification
+
+Brainstorming: An effective method, brainstorming can range from a small informal project team effort for simpler projects to a full-blown CEVP® workshop. Effective brainstorming requires a skilled facilitator, working together with the project team and specialists who can bring additional expertise.
+Checklists and/or questionnaires to “specialty groups”: Checklists/questionnaires are quick and easy to use, but limited in nature; they only deal with the items on the list. Each project is unique, so a standard list will often not capture the project-specific risks of most concern.
+Though it can be limited, a checklist/questionnaire can spark thinking prior to a more formal brainstorming process.
+Examination of past similar projects: Lessons learned from past projects help us to avoid repeating mistakes. Using past examples requires prudent and objective judgment, since a previous project may be similar but is nonetheless different because each new project has unique requirements and features, including uncertainties and risks.
+A combination of the above methods and/or others: It is quite likely that for most projects, a combination of the above methods will be used to identify risks. The important thing is that, once identified, the risks are properly documented (see the following exhibits):
+Exhibit 2-2 – Risk identification example (tailor to the needs of the project team).
+Exhibit 2-3 – Risk Breakdown Structure for categorizing and organizing risks.
+Exhibit 2-5 – Example of qualitative risk identification. 2
+High-Impact, low-probability risks, referred to as “black swan” events by some, can devastate a project and, unfortunately, are not always given the attention they deserve. This is due to the fact that the “expected value” of this type of risk does not always rank it highly on risk register.
+Page 2-4
+
+WSDOT Project Risk Management Guide Chapter 2
+Risk Identification
+Exhibit 2-2
+Risk Identification Example (SMART)
+Premitigated Risk !
+Risk Form
+SR 050/Marker Road RR-Xing; Construct Bridge - OVER
+Date:
+Specific - A detailed description of the Risk Event. What is the specific issue of concern?
+Yes
+
+Measurable - Probability and
+Risk ID:
+ROW050.10 Category: Right-of-Way
+RBS Code:
+ROW050 .10 MDL Code:
+ENV 30 Environmental Permitting (incl. Appeals)
+Risk Title: R/W Impacts (condemnation)
+Status:
+Active
+ROW
+
+Phase that it Impacts:
+Critical Path?
+Detailed Description of Risk Event: (SMART―Spe ci fic, Mea s ura bl e, Attri buta bl e, Rel eva nt, Ti mebound)
+Significant impacts to properties on the west side of Railroad (UPRR). Northwest quadrant ; property would be split in half by the Road realignment. condemn
+Pre -Re sponse Quantitative Assessment
+Qualitative Rendition
+Nature:
+Threat ⌛
+Probability: 75%
+Probability:
+
+Impact Relative to:
+ROW
+COST $
+Millions ($M)
+SCHEDULE months (mo)
+Minimum: 0.01 $M
+Minimum:
+6.0 mo
+Most Likely: 0.28 $M
+Most Likely:
+
+12.0 mo
+Maximum: 0.40 $M
+Maximum:
+18.0 mo
+Expected Value ↓ ⌛ 0.19 $M⌛
+Expected Value ↓
+9.0 mo
+High ⌛
+COST$: Very High
+SCHEDULE : Very High
+
+Heat Map ⌛
+VH
+Probabi l i ty
+Trigger:
+H $,
+M consequence of Risk Event Occuring? (cost or schedule impact)
+Attributable - What will trigger (cause) this risk? How do we know?
+Who owns this risk?
+Relevant - Why is this risk important to our project? Will it impact project objectives? Is it critical?
+L
+VL
+VL L M H VH
+Impact
+
+$↗ ↗ or $↗ ↘:
+This Risk has
+Correlation with the Prior?
+Schedule Risk
+This Risk may occur independent of Prior Risks. Schedule Risk Link: 0
+Timebound - Risks have a "shelf life" – the project is not indefinitely exposed - when are we at risk?
+Supplemental notes about this risk event
+Risk trigger details
+Risk exposure during R/W phase. (include estimated life of risk) (March 15, 2929 to March 15, 2930)
+Risk owner
+Critical path (yes or no?)
+Possible response actions
+
+Mr. R. Ofway
+Yes
+Evaluate all possible alternatives to either avoid property or reduce the amount needed.
+Status review dates June 15, 2929
+July 15, 2929
+August 15, 2929
+Action by date
+May 15, 2929
+Trigger – negotiations to acquire property are unsuccessful and it is necessary to go through condemnation.
+Potential response actions?
+If potential mitigation strategies are identified be sure to capture them so they can be more fully explored later.
+
+WSDOT Project Risk Management Guide
+Page 2-5 Risk Identification
+Exhibit 2-3
+Chapter 2
+Risk Breakdown Structure (RBS)
+Level 1
+Project Risk -
+Level 2
+Level 3 -----------
+Environmental & Hydraulics
+ENV
+
+Structures &
+Geotech
+STG
+Design / PS&E
+Right-of-Way
+Utilities
+Railroad
+Partnerships
+Stakeholders
+PSP
+
+Management /
+Funding
+MGT
+Contracting
+Procurement
+CTR
+Construction
+DES
+ROW
+UTL
+
+RR
+ENV 10
+NEPA/SEPA
+STG 10
+Design Changes
+DES 10
+ROW 10
+ROW Plan
+UTL 10
+Coordination
+
+RR 10
+Design
+PSP 10
+Tribal Issues
+MGT 10
+Management
+Change
+CTR 10
+Change in
+Delivery Method
+
+CNS 10
+Traffic Control and Staging
+E

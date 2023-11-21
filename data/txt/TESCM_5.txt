@@ -1,0 +1,539 @@
+ model (MGSFLood). For eastern Washington, the diameter shall be the minimum necessary to pass the tributary area’s 10-year peak flow rate using the appropriate long duration storm (Q10) for developed conditions using a single event model. See
+HRM Appendix 4C to determine the Climatic Region and appropriate long duration storm event for the project. Use the Primary Overflow guidance in HRM FC.03 Detention Pond and Figure 5-56 to determine the riser diameter (h = 1 foot). Note: A permanent control structure may be used instead of a temporary riser.
+Emergency Overflow Spillway: Determine the required size for the
+Emergency Overflow Spillway. For western Washington, the emergency overflow spillway will be the minimum necessary to pass the tributary area’s peak 100-year flow rate using 15-minute time steps (Q100) for developed conditions using a continuous simulation model (MGSFlood). For eastern Washington, the emergency overflow spillway shall be the minimum necessary to pass the tributary area’s 100-year peak flow rate using the appropriate long duration storm (Q100) for developed conditions using a single event model. See HRM
+Appendix 4C to determine the Climatic Region and appropriate long duration storm event for the project. See the emergency overflow spillway design guidance contained in the HRM FC.03 Detention Pond.
+
+Page 5-62
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices
+Dewatering Orifice: Determine the size of the dewatering orifice(s) (minimum 1-inch diameter) using a modified version of the discharge equation for a vertical orifice and a basic equation for the area of a circular orifice. Determine the required area of the orifice with the following equation:
+Ao 
+As (2h) 0.5 0.6x3600Tg 0.5 where: Ao = orifice area (square feet)
+As = pond surface area (square feet) h = head of water above orifice (height of riser in feet)
+T = dewatering time (24 hours) g = acceleration of gravity (32.2 feet/second2)
+Convert the required surface area to the required diameter D of the orifice:
+A
+D  24 x o  13.54 x Ao
+
+
+The vertical perforated tubing connected to the dewatering orifice must be at least 2 inches larger in diameter than the orifice to improve flow characteristics. The size and number of perforations in the tubing should be large enough so that the tubing does not restrict flow. The orifice should control the flow rate. 
+Additional Design Specifications: 
+The temporary sediment pond shall be divided into two roughly equal volume cells by a permeable divider that will reduce turbulence while allowing movement of water between cells. The divider shall be at least one-half the height of the riser and a minimum of 1 foot below the top of the riser. Wire-backed, 2- to 3-foot-high, extra-strength filter fabric supported by treated 4x4s can be used as a divider. If the pond is more than 6 feet deep, a different mechanism must be proposed. A riprap embankment is one acceptable method of separation for deeper ponds. Other designs that satisfy the intent of this provision are allowed as long as the divider is permeable, structurally sound, and designed to prevent erosion under or around the barrier.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-63 TESC Best Management Practices
+Page 5-64
+Chapter 5 
+To aid in determining sediment depth, 1-foot intervals shall be prominently marked on the riser. 
+If an embankment of more than 6 feet is proposed, the temporary sediment pond must comply with the criteria contained in HRM BMP
+FC.03 regarding dam safety for detention BMPs.
+
+
+The most common structural failure of a temporary sediment pond is caused by piping. Piping refers to: (1) water seeping through fine-grained soil, eroding the soil grain by grain and forming pipes or tunnels, and (2) water under pressure flowing upward through a granular soil with a head of sufficient magnitude to cause soil grains to lose contact and capability for support.
+The most critical construction sequences to prevent piping will be: 
+Tight connections between riser and barrel and other pipe connections. 
+Adequate anchoring of riser. 
+Proper soil compaction of the embankment and riser footing. 
+Proper construction of antiseep devices.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices
+Figure 5-1: Temporary sediment pond details
+
+Key divider into slope to prevent flow around sides
+The pond length shall be 3 to 6 times the maximum pond width
+Emergency overflow spillway
+Pond length
+Inflow
+Riser pipe
+Silt fence or equivalent divider
+Discharge to stabilized conveyance, outlet, or level spreader
+Note: Pond may be formed by berm or by partial or complete excavation (principal spillway) open at top with trash rack per Fig 4.4.4E
+Crest of emergency spillway
+
+Embankment compacted 95% pervious materials such as gravel or clean sand shall not be used
+Dewatering device (see riser detail)
+Wire-backed silt fence staked haybales wrapped with filter fabric, or equivalent divider
+Dewatering Concrete base orifice (see riser detail)
+Polyethylene cap
+Perforated polyethylene drainage tubing, diameter min. 2" larger than dewatering orifice.
+Tubing shall comply with ASTM F667 and
+AASHTO M294 6' min. Width
+Discharge to stabilized conveyance outlet or level spreader
+Provide adequate strapping
+
+Corrugated metal riser
+Watertight coupling Tack weld 3.5" min.
+Dewatering orific e, schedule,
+40 steel stub min.
+Diameter as per calculations 6" min. 18" min.
+Concrete base
+Alternatively, metal stakes and wire may be used to prevent flotation 2X riser dia. Min.
+Sediment Pond Riser Detail
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-65
+
+TESC Best Management Practices 5-1.1.44
+Chapter 5
+Tire Wash
+Standard Specification 8-01.3(7) – Stabilized Construction Entrance
+SWMM Volume II equivalent: BMP C106 Wheel Wash
+Function
+When a stabilized construction entrance does not prevent sediment from being tracked onto offsite, a tire wash will prevent sediment track-out.
+Additional Information 
+A tire wash is required if sediment track-out cannot be prevented with a stabilized entrance. 
+Effective function requires participation by and communication with vehicle drivers to ensure all vehicles leaving the site pass through the tire wash at a slow enough speed to fully remove sediment.
+
+
+Washwater shall be discharged to a separate onsite treatment system, such as closed-loop recirculation or upland application, or discharged to a sanitary sewer if permitted by local jurisdiction.
+Local jurisdictions may require a tire wash as a permit condition.
+Design, Installation and Maintenance
+Effective tire washes will include the following features:
+Page 5-66
+Stabilized approach (paved, permeable ballast pad, or rumble plates) that is maintained clear of excess soil.
+Appropriately sized wash deck based on soil type (minimum of one complete tire revolution; more revolutions will be required for more cohesive soil types).
+Multiple angled spray patterns (must reach all tires and undercarriage).
+High-volume, moderate-pressure spray.
+
+
+Rinse water maintained at reasonable clarity.
+Collection of overspray and drip out.
+Stabilized egress (paved, permeable ballast pad, or rumble plates) that is maintained clear of excess soil.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5 5-1.1.45
+TESC Best Management Practices
+Topsoiling
+Standard Specifications 8-02.3(4) – Topsoil 9-14.1 – Soil
+SWMM Volume II equivalent: BMP C125 Topsoiling/Composting
+Function
+Topsoiling creates a suitable growth medium for vegetation and permanent site stabilization.
+Additional Information
+Topsoil, often called tilth, includes the top layers of soil and the organic material.
+Native topsoil often contains mycorrhizal bacteria that are acclimated to the site and will provide optimum growing conditions. Amending or importing topsoil promotes vegetation establishment in areas with poor topsoil. While topsoiling itself is not a stabilizing cover, it is an important part of achieving a permanent vegetated cover.
+Topsoiling should be used in conjunction with other practices such as composting, seeding, mulching, planting or sodding. 
+
+Restore, to the maximum extent practical, native soils disturbed during construction. Use onsite native topsoil whenever feasible, incorporate amendments, or import blended topsoil to ensure sufficient quality for vegetation establishment. 
+Ensure landscaped areas contain healthy topsoil with 8% to 15% organic matter so the need for fertilizer is minimized. 
+Preserve existing soil systems in undisturbed and uncompacted conditions whenever feasible. 
+Native topsoil may contain seeds from invasive species that will cause plant establishment problems.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-67 TESC Best Management Practices
+Chapter 5
+Design, Installation and Maintenance 5-1.1.46 
+Stockpile topsoil onsite in a designated, controlled area, not adjacent to public resources and critical areas. Stabilize soil stockpiles from erosion, protected with sediment trapping measures, and where possible, be located away from storm drain inlets, waterways, and drainage channels. Locate the topsoil stockpile so that it meets specifications and does not interfere with work on the site. 
+Inspect stockpiles regularly, especially after large storm events. Stabilize any areas that have eroded.
+
+
+Biotic benefits of stockpiled topsoil degrade overtime. Incorporate stockpiled topsoil as soon as possible.
+Vegetated Strips
+No WSDOT Standard Specification or Standard Plan
+SWMM Volume II equivalent: BMP C234 Vegetated Strip
+Function
+Vegetated strips reduce the transport of coarse sediment and runoff velocities.
+Additional Information
+Vegetated strips may be used downslope of all disturbed areas.
+Vegetated strips are not intended to treat concentrated flows, nor are they intended to treat substantial amounts of overland flow. Concentrated flows must be conveyed to a flow control BMP.
+
+Design, Installation and Maintenance
+Table 5-5
+Contributing area for vegetated strips
+Average Contributing Area
+Slope
+Percent Slope
+Maximum Contributing Area
+Flowpath Length 1.5H:1V or flatter 67% or less
+100 feet 2H:1V or flatter 50% or less
+115 feet
+
+4H:1V or flatter 25% or less
+150 feet 6H:1V or flatter 16.7% or less
+200 feet 10H:1V or flatter 10% or less
+250 feet
+Page 5-68
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices 5-1.1.47
+Vegetative Dispersion and Infiltration
+Standard Specification 8-01.3(1)D – Dispersion/Infiltration
+SWMM Volume II equivalent: BMP C236 Vegetative Filtration
+Function
+Vegetative dispersion and infiltration can be used separately or in conjunction with each other or other BMPs. Sheet flow dispersion through vegetation filters out sediment, some amount of infiltration will occur during dispersion. Infiltration rates are dependent on soil type; compacted till soils may not infiltrate much at all.
+Additional Information 
+
+Never use ditched stream channels, sensitive or critical areas, or areas with high groundwater for dispersion and infiltration. 
+Always obtain prior written authorization from adjacent landowners before dispersing water onto adjacent non-WSDOT properties. 
+Silt and clay deposits reduce infiltration capacity. Upslope erosion and sediment control BMPs must be used to help ensure continued performance of infiltration facilities.
+Design, Installation and Maintenance
+Table 5-6 
+As a general rule of thumb, every five acres of disturbed soil use will need one acre of vegetated area to disperse and infiltrate (numerous factors can increase or decrease this ratio). 
+Maximize infiltration by spreading water over the largest possible area, discharging water at a slow and constant rate. Disperse flows so as not to cause erosion during dispersion.
+Flowpath guidelines for vegetative dispersion filtration
+Average Slope
+Average Area Percent Slope
+
+Estimated Flowpath Length 1.5H:1V 67% or less
+250 feet 2H:1V 50% or less
+200 feet 4H:1V 25% or less
+150 feet 6H:1V 16.7% or less
+115 feet 10H:1V 10% or less
+100 feet
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-69 TESC Best Management Practices 5-1.1.48
+Chapter 5 
+Control discharge rates to infiltration areas to encourage complete infiltration and avoid discharges whenever possible. Use pumps, distribution manifold and branches, perforated pipe, sprinklers, wattles, compost socks, level spreaders, or other BMPs where necessary to enhance the effectiveness of the dispersion and infiltration areas. If an area becomes saturated, give it a rest period and try again later.
+
+
+Label dispersion and infiltration areas on the TESC plan sheets so they can be inspected as any other BMP would be.
+Inspect manifold, branches, pipes or other components for unintended leaks and repair as needed.
+Inspect dispersion and infiltration areas regularly to verify that the areas continue to function as intended. If surface water discharges occur, sample runoff at the discharge point in accordance with the Permit. Stop discharging water to the dispersion or infiltration area if standing water or erosion occurs.
+Water Pumps
+No Standard Specification or Standard Plan
+No SWMM Volume II equivalent
+Function
+Water pumps are used to collect and move temporary or continual sources of surface or groundwater. Pumps do not provide erosion or sediment control function but are often part of the water management strategy.
+Additional Information
+There are numerous types and sizes of pumps available; select a pump based on the job that needs to be done. Pumps commonly used to manage water on construction sites include:
+
+Page 5-70 
+Submersible pumps are most commonly used to remove water from confined areas such as ponds. These pumps can include a float switch which detect the water level and automatically turn on. 
+Centrifugal pumps can be very high-powered, but they should be used only when water is fairly clear. 
+Trash pumps are rugged and dependable in situations where there are suspended solids. This type of pump can also be submersible and is often used for dewatering.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices 
+Diaphragm pumps work well for slow seepage applications where centrifugal pumps would lose their prime or when the material is muddy or has suspended solids.
+Design, Installation and Maintenance 
+Use and maintain pump based on manufacturers recommendations to ensure continued function.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Page 5-71 Appendix A
+Definitions
+Refer to the definitions in the Permit.
+Page A-1 Appendix B
+Acronyms
+AKART - All Known, Available and Reasonable Methods of Prevention, Control and
+Treatment
+BMP - Best Management Practice
+CESCL - Certified Erosion and Sediment Control Lead
+CPESC - Certified Professional in Erosion and Sediment Control
+CTS - Commitment Tracking System
+CWA - Clean Water Act
+DMR - Discharge Monitoring Report
+ECAP - Environmental Compliance Assurance Procedure
+EPA - Environmental Protection Agency
+ERTS - Ecology’s Environmental Regional Tracking System
+HECP - Hydraulically Applied Erosion Control Product
+HRM - Highway Runoff Manual
+HVF - High Visibility Fence
+LID - Low Impact Development
+MS4 - Municipal Separate Storm Sewer System
+NOI - Notice of Intent
+NOT - Notice of Termination
+NTU – Nephelometric Turbidity Unit
+NPDES - National Pollutant Discharge Elimination System
+RCW – Revised Code of Washington
+SPCC - Spill Prevention Control and Countermeasures
+SWMM - Stormwater Management Manual
+SWPPP - Stormwater Pollution Prevention Plan
+TESC - Temporary Erosion and Sediment Control
+TMDL - Total Maximum Daily Load
+TOC - Transfer of Coverage
+WAC – Washington Administrative Code
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page B-1 Appendix C
+Planning, Designing and Operating Chitosan
+Enhanced Sand Filtration Systems
+Section 1 Introduction
+Chitosan is a cationic (positively charged ion) biopolymer derived from chitin, found in crustacean exoskeletons, that encourages the coagulation and flocculation of suspended sediment. Chitosan comes in various forms and grades, and has various applications, including treating polluted construction stormwater. Chitosan Enhanced
+Sand Filtration (CESF) stormwater treatment systems use chitosan and pressurized media filtration pods to rapidly clean stormwater. CESF systems are considered “active” or “advanced” stormwater chemical treatment systems because they require a power source and the chemical additive chitosan. These systems can be designed to treat for additional pollutants such as high pH, hydrocarbons and heavy metals. Various types of chitosan products and systems as well as other types of other active chemical treatment systems, such as electrocoagulation, are approved for use in Washington State by the
+Department of Ecology.
+Figure 2: Chemistry of chitosan
+Active chemical treatment may be necessary in order to ensure compliance with environmental commitments such as discharge limits associated with waterbody impairments and/or site contamination. This guidance is intended to provide additional information for WSDOT projects that will use CESF; it can be used in place of or as a supplement to BMP C250 Construction Stormwater Chemical Treatment, as found in
+Ecology’s Stormwater Management Manual for Western Washington: Volume II.
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-1 Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C
+Section 2 Understanding the CESF Treatment Process
+Flow-through CESF systems are typically used on projects with more than 5 acres of soil disturbance because they are designed to treat large volumes of influent water with minimal system down time. Alternatively, chitosan can be used as part of a batch treatment process (not flow-through) - this guidance does not cover that process because they are not common on WSDOT projects. Batch treatment systems must be designed and operated in accordance with the requirements listed in Ecology’s
+Stormwater Management Manual: Volume II for BMP C250.
+While CESF system design may vary depending on site needs and constraints, the main components of a typical CESF flow-through system include:  stormwater collection and conveyance facilities  an untreated stormwater storage facility  at least one pre-treatment cell  pump(s), generator(s), interconnecting pipes  lockable operational trailer  programmable water quality control unit  metered chemical injection system  in-line meters and automated valves  sand-pods and appropriate filter media  flow control equipment may be needed
+Additional components, such as a monitoring tank with viewing window, may be required by a local jurisdiction or permitting authority. If the project will discharge to a jurisdictional storm sewer system, ensure the jurisdiction is properly notified prior to a discharge as there may be additional requirements.
+Untreated runoff
+For a typical CESF system, onsite stormwater runoff is collected and diverted to an untreated (no chitosan introduced) stormwater storage facility, usually a pond or tank.
+Temporary erosion and sediment control (TESC) best management practices (BMPs) must be used to minimize the turbidity of the stormwater going to the untreated storage facility. Stormwater in the untreated storage facility can either be sent through the CESF treatment system or be discharged without active treatment if it already meets the 25 Nephelometric Turbidity Units (NTUs) or less benchmark listed in the NPDES
+Construction Stormwater General Permit (permit). The untreated storage facility is a very important component of the CESF system. Additional information and sizing requirements for the untreated stormwater facility is discussed in Section 3.
+
+Page C-2
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Chitosan acetate is most effective on water that has a pH between 6.5 – 8.5. Therefore, stormwater may need to be neutralized prior to be being sent to the CESF system or being discharged. Neutralization must be performed using approved methods; CO2 or dry ice. Increasing pH or increasing water conductivity can be done using sodium bicarbonate (baking soda). Neutralizing pH can occur in the untreated storage facility or in the pre-treatment cells.
+Chemical treatment can be negatively impacted by external chemical inputs. Even if the CESF system has been enhanced with activated carbon filter to treat for existing hydrocarbon contamination, the Spill Prevention, Control and Countermeasures (SPCC) plan must be implemented to minimize additional sources of pollution inputs. Minimize the amount of organics that get introduced to the stormwater runoff; organics introduced by mulches or compost can negatively affect treatability. Polyacrylamide (PAM) either applied directly to soils or indirectly through hydraulically applied mulches, can also negatively affect treatability or clog filters. Avoid the use of such products in areas that will drain to storage facilities used to feed the CESF system. Other work activity or chemicals used in the runoff treatment area may also negatively impact treatability.
+Chitosan dosing and mixing
+Stormwater that needs active treatment prior to discharge is pumped from the untreated storage facility through an operational trailer. As the untreated incoming flow (influent) passes through the operational trailer it is measured by the in-line pH, turbidity, and flow meters, and chitosan can be added to the stormwater through a metered chemical injection device. The metered chemical injection device must be calibrated upon every system start-up and throughout the day either every 4 hours, or when influent characteristics change (i.e. average influent characteristics change by > 20% including flow rate or turbidity levels). Calibrations are intended to prevent chemical overdosing. Chitosan acetate does exhibit toxicity for rainbow trout; chemical dosing limits as well as other design and operational requirements are developed to prevent discharges with free chitosan (not attached to sediment). Dosing limits can be found in the Use Designation document for each chitosan product.
+After chitosan is injected into the stormwater, a rapid mixing process must occur to ensure adequate dispersal of the chitosan. Some CESF systems include an internal mixing device; other systems may rely on another method, like gravity or flow turbulence, to perform the necessary mixing. Adequate dispersal of chitosan is very important because inadequate mixing leads to inadequate flocculation.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-3
+
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C
+Pre-treatment
+Once chitosan dosing and mixing occurs, stormwater is sent to a cell where the coagulation and flocculation process can begin. This process is referred to as “pretreatment” because it takes place before the sand filtration process. Pre-treatment is an important step because some of the suspended solids will flocculate to the point of being able to gravity settle out of the stormwater in the pre-treatment cell so cleaner water can be sent to the sand filtration pods. Effective pre-treatment increases the overall efficiency of the CESF system because the sand pods will need to backwash less often (less sediment will have built up on the filtration media in the sand pods).
+The chitosan dosed stormwater is then pumped from the top of the water column (cleanest water) in the treatment cell back through the operational trailer to be monitored by the in-line meters and then (if water meets a system specific quality standard – usually about 600 NTU or less) it is routed to the pressurized filtration pods, where the water is forced through the filtration media. Specific filtration media requirements can be found in the Use Designation document for each chitosan product.
+Filtered stormwater from the pods (effluent) is then routed back through the operational trailer where it is again measured by the in-line meters for pH, turbidity, and flow rate, and it will discharge if it meets requirements. Discharges from CESF systems must have turbidity values of < 10 nephelometric turbidity units (NTU) and pH values must be between 6.5 - 8.5. Effluent water cannot be discharged if it does not meet this criteria; it must be recirculated back through the system for additional treatment.
+In-line monitoring and recirculation
+Some CESF systems may be fully or almost fully automated, but all CESF systems must include some specific automated features to ensure compliance with discharge requirements (to minimize human error). All CESF systems must include a programmable device used to set discharge limits (pH range from 6.5 - 8.5 and turbidity of 10 NTU or less). The in-line meters help prevent non-compliant discharges because they control automated valves that allow stormwater to discharge or prevent a discharge and route it back through the system for additional treatment (called recirculation). To ensure compliance, the in-line pH and turbidity meters must be calibrated prior to every startup, and as needed if inaccurate readings become apparent.
+If the in-line pH and turbidity meters detect that effluent water is out of compliance, the out-flow valve automatically closes and a recirculation valve opens, thereby routing out of compliance water back to a treatment cell for additional treatment or settling time.
+An audible and visual alarm must alert the operator when effluent water outside the acceptable discharge limits has been detected so the operator can confirm the out-flow valve has closed and water is being recirculated as required. System operators may be required to make note of such occurrences in the daily operations paperwork (refer to the Use Designation document for each chitosan product).
+
+Page C-4
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Figure 3. Generalized treatment process of a flow-through CESF system
+Discharge (flow control may be required) 6 4 1 3 2 5
+Pre-Treatment Cells
+Figure 4. Normal flow
+Figure provided by © ClearWater
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-5
+
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C
+Figure 5. Flow during system start-up and when effluent does not meet discharge requirements
+RETURN TO PRE-TREATMENT
+CELL
+OUT OF SPEC EFFLUENT DETECTED BY IN-LINE METERS – OUT-FLOW VALVE SHUT TO PREVENT DISCHARGE
+Backwash cycle
+As described earlier, an effective pre-treatment means cleaner water can be sent to the sand pods, which makes the CESF system more efficient in two important ways: 1.) reduces or eliminates the need to employ additional chitosan and pre-treatment time, and 2.) reduces the amount of sediment that builds up at the top of the filtration media.
+Sediment buildup on filtration media eventually triggers a backwash cycle that works to remove buildup and clean the filter media. A backwash cycle moves one-by-one through each sand-pod; each sand pod is backwashed for several minutes before the next pod’s backwash cycle begins. Each sand pod will backwash before the entire backwash cycle is complete. When a pod is backwashing, that pod is not filtering water, and therefore not contributing to the system discharge flow rate (out-flow). However, the entire filtration system may continue to discharge because the non-backwashing pods are still filtering water. It is important to remember that the expected gallon per minute (GPM) out-flow rate for the system is reduced during the backwash cycle. A turbidity “spike” in the effluent could trigger the out-flow valve to close periodically during a backwash cycle.
+An experienced operator may be able to increase or decrease sand pod pressure differentials to minimize turbidity spikes during backwash cycles.
+For example, a four pod system designed to discharge 500 GPM that is consistently receiving 450 NTU water might go into a backwash cycle every 15 minutes. The length of a backwash cycle can be manually set on some systems but must be an adequate amount of time to clean the filter media (usually 2-4 backwash minutes per pod) or the pods will fail. A typical backwash cycle on a four pod system might take 13 minutes total
+
+Page C-6
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems (just over 3 minutes per pod). In this example system, the GPM out-flow rate may be reduced by about 25% (1 out of 4 pods in backwash) about 50% of the time (2 times per hour, 13 minutes for each cycle).
+Backwash exits through the top of the pod and is kept separate from the treated effluent water. Backwash is routed to either a treatment cell or separate holding area.
+Backwash can be routed back to a treatment cell because it has already been dosed with chitosan and the sediments in the backwash will settle out quickly (do not send backwash to the untreated facility). Introduce backwash flows to a treatment cell in a manner that will minimize the disturbance of settled sediments – avoid creating an upwelling of settled sediments. Treatment cell(s) may need to be cleaned periodically to prevent capacity problems, especially if the system will be used for multiple rainy seasons. Uncontaminated sediments removed from a treatment cell or backwash holding area can be incorporated into the site away from drainage areas.
+Figure 6. Flow in backwash cycle
+RETURN TO PRE-TREATMENT CELL OR SEPARATE
+COLLECTION AREA FOR BACKWASH
+Figure provided by © ClearWater
+Discharges from a CESF system (effluent or out-flow)
+
+Discharges from CESF systems must have turbidity values of < 10 NTU and pH values must be between 6.5 - 8.5 (unless more stringent standards are required based on the receiving water). Effluent water cannot be discharged if it does not meet this criteria, it must be recirculated back through the system. It is important to know where the CESF discharges will outfall (permitted location in the receiving surface water). Different receiving waters or city systems may have different flow control or discharge requirements. The outfall location may also dictate the chitosan product that is used (e.g., not all chitosan products can be used when discharging to marine waters).
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-7 Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C
+Section 3 outlines design requirements for flow control water bodies or discharges sent to a municipal separate storm sewer system (MS4s).
+Section 4 of this document outlines how CESF systems and effluent must be monitored during construction to ensure operational compliance occurs and is documented properly.
+Section 3 Designing a CESF System
+This guidance shall be used for WSDOT projects; it can be used in place of or in conjunction with BMP C250 Construction Stormwater Chemical Treatment, as found in
+Ecology’s Stormwater Management Manual for Western Washington: Volume II.
+Every chitosan product has its own Use Designation document that may include product specific requirements that may not be included in this guidance. A Use Designation document is associated with every approved chitosan product: https://ecology.wa.gov/Regulations-Permits/Guidance-technicalassistance/Stormwater-permittee-guidance-resources/Emerging-stormwatertreatment-technologies
+WSDOT does not have standard contract language for CESF because there are simply too many site specific variables that need to be considered when designing and writing contract language for a CESF system. Contract language should include site specific requirements to ensure properly sized systems and performance expectations (e.g., additional treatment needs beyond sediment) and to limit the need for change orders.
+Identifying treatment needs
+
+A site specific analysis should be performed to help identify treatment needs. Relevant site-specific factors to evaluate include:
+Page C-8 
+Soil type (e.g., percentages of fine silts, clays, and organic content) 
+Climate (e.g., frequency, intensity, and duration of storm events) 
+Proximity to impaired waters, sensitive areas and endangered species 
+Construction phasing schedule, duration of project, and clearing and grubbing footprint 
+Existing conditions (e.g., impervious surface or existing contamination) 
+Receiving water bodies or city system (e.g., flow control exempt or flow control requirements) 
+Footprint available for treatment system and required storage facilities (often a limiting factor for linear projects)
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Evaluating site specific factors may help determine that CESF is not necessary or not the right treatment option. For example, electrocoagulation may be more effective treatment option if the runoff has a high level of organics. Alternatives to advanced chemical treatment include: 
+Dispersion and infiltration 
+Infiltrate on neighboring properties (requires written approval) 
+Limiting risky earthwork to the dry season 
+Preserving vegetation and phasing construction to limit the amount of open soil at any given time 
+Discharging to a sanitary sewer system
+In cases where the site specific analysis identifies risks that are best minimized with a
+CESF system, specific treatment needs should be determined. This can be difficult, especially on multi-phased linear construction project, because many factors need to be considered before construction begins. The following questions can help guide the process: 
+
+How much runoff is expected to need treatment? 
+Where can the runoff be routed and collected? 
+Are there flow control limitations? 
+Is there onsite contamination?
+Determine how much runoff is expected to need treatment
+Many factors must be considered when sizing a CESF system. The most important factors are how much water will be coming into the system and how much can be discharged. Some water bodies have flow control requirements that limit the volume of water that can be continuously discharge. Large water bodies are usually flow control exempt, but if discharges will be going to a small creek or city system, the CESF system will need to be designed with a discharge flow control system.
+Offsite water run-on sources must also be considered when designing a system.
+Wherever feasible, offsite water that runs onto or through project boundaries must be diverted around or tight-lined through the project to its existing discharge location in accordance with the contract. If diversion or tight-lining cannot be done, offsite water run-on must be accounted for in the CESF system sizing calculations. Once the drainage basin(s) are identified, each project must calculate expected runoff volumes and design a treatment system capable of managing those volumes.
+The designer shall use the 10yr, 24hr volume calculated by the Santa Barbara Urban
+Hydrograph (SBUH) method. WSDOT prefers to use the computer software program
+Stormshed 3G to run the SBUH analysis. Stormshed will calculate the volume of water in cubic feet per 24 hour period. To get the volume of water (G) in equation 1 below,
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-9 Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C multiply the number of cubic feet by 7.48052 to get gallons. See the WSDOT Hydraulics
+Manual Section 2-5 for more on the SBUH method.
+Sizing the filtration system and storage facilities
+Once expected runoff volumes are calculated, the next step is designing a system that can adequately store and effectively treat expected volumes. Sizing systems for long linear projects can be a challenge; there may be overlapping phases of work resulting in different volumes and quality of runoff at different times during construction. A balance must be found between the size of the untreated storage facility, the pre-treatment cells, and the number and size of the sand pods used to filter the treated water.
+Total system capacity
+The total system capacity includes all storage capacities (i.e., untreated and pretreatment) and the treatment rate of the system within an operational period (e.g., 8 hours – 24 hours). The capacity of the total system serving each drainage area must be sized to manage runoff volumes of 1.5 times the 10yr, 24hr storm event:
+1.5 x G = U + P + (QCESF x M)
+EQ-1
+
+Where:
+G = 10-yr, 24 hr runoff volume (gallons)
+U = untreated storage volume (gallons); minimum of 50% of the 10-yr, 24hr runoff volume = 0.5 x G
+P = pre-treatment storage cells volume (gallons)
+QCESF = CESF system treatment rate (gallons per minute) – the hydraulic loading rate should be 15 GPM or less following the specific CESF system’s use level designation document requirements for that specific technology. (See Figure 6 and Figure 8)
+M = Operational period (minutes)
+Generally, the designer knows (G) in EQ-1. The designer varies U, P, and QCESF, and M so that EQ-1 balances. For the operational period (M), some projects may choose to require extended operational periods (up to 24 hours) based on weather conditions or as a way to minimize the storage facility footprint. Projects can use the expected operational period in the sizing calculation above.
+Untreated storage facility (U) and system bypass
+CESF systems are required to have an untreated storage facility (where no chitosan has been introduced) with a bypass system. Untreated storage facilities are typically ponds or tanks and are an important part of the system design for several reasons. First, in the event of an extreme storm event, the treatment system may not be able to keep up and
+Page C-10
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems incoming runoff will have to bypass the system and discharge without treatment. The bypassed stormwater must not have chitosan in it – hence the need for an untreated storage facility. Never allow water that has been dosed with chitosan to discharge without treatment. The bypass system must be stabilized to prevent erosion and water must pass through sediment control BMPs. If bypass discharges occur they must be sampled and reported in accordance with the permit. Second, having enough storage “upstream” from the treatment system allows flexible operational hours and increases response time and treatment efficiency. Thirdly, if the incoming stormwater is clean (meets benchmarks in the permit), it can be discharged without chemical treatment (system bypass).
+The larger the untreated storage facility, the better the operational efficiency will be, unfortunately the narrow right of way on our projects are a limiting factor. Ecology recognizes that a “one size fits all” system design is not practical, but the system must be designed with adequate treatment facilities to ensure discharges remain in compliance. The rule of thumb is the untreated stormwater facility be designed to hold 50% of the runoff volume from a 10 yr, 24hr storm event.
+If the project does not have the footprint for the storage capacities needed after doing initial design calculations, a common solution is to increase the amount of water that can be treated in an operational period by using larger diameter pods, more pods per system, or a higher hydraulic loading rate (HLR).
+Pre-treatment cells (P)
+There are no sizing requirements for the pre-treatment storage facility; however a minimum of one pre-treatment facility is a necessary component for the flocculation process to occur before the chitosan dosed water is sent to the sand pods. Consider two things when designing the pre-treatment facility: 1.)
+Different flows entering the pre-treatment facility (e.g., chitosan dosed water, recirculated water, backwash water) should not cause interfering water turbulence that may disturb the flocculation process or resuspend settled solids at the bottom of the pre-treatment facility. Using split cell ponds, weir tanks, or energy dispersal BMPs is a good way of minimizing interfering turbulence resulting from incoming flows. 2.)
+A smaller pre-treatment facility means less flow-through operational efficiency. For example, a 1000 GPM system can empty a 18,000 gal. weir tank very quickly. A system with a high GPM out-flow rate and a small pretreatment facility will likely have a lot of operational down-time (stopping the system).
+For these reasons, a 18,000 gal. weir tank should be considered as the minimum requirement for a pre-treatment facility. Larger split cell ponds are preferable if the footprint is available.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Page C-11 Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C
+How the hydraulic loading rate and backwash cycles affect the effluent rate
+System flow rates should be sized using a hydraulic loading rate (HLR) usually between 8 – 13 GPM/ft2 (10 GPM/ft2 is most common). HLRs may vary based on pod size, pressure differentials within the pods, and the influent water quality. In general, larger diameter pods and cleaner influent can allow higher HLRs. The Use Designation document for the chitosan product that will be used may also include specific HLR requirements. The HLR will affect the treatment effluent (out-flow) rates (more water in = more water out).
+However, if incoming influent is really turbid (~450 NTU or higher), a high HLR (over 10
+GPM/ft2) may “crash the pod”, meaning the filtering media or function of the pod(s) will fail and blow-out the filtration media.
+The following table shows how sand pod diameter and quantity changes to the estimated effluent rate. The GPM effluent rates in the table assume a HLR of 10 GPM/ft 2 which is an average rate. However the values below are high end estimates because they do not represent how backwash cycles may impact the GPM out-flow rates.
+Figure 6. Pod size and estimated effluent out-flow rates using a HLR of 10 GPM/ft2
+Sand Filter
+Pod Diameter (inches) 48 54 60
+
+4-pod system (GPM) 503 636 785 5-pod system (GPM) 628 795 982 6-pod system (GPM) 754 954 1178 7-pod system (GPM) 880 1113 1374 8-pod system (GPM) 1005 1272 1571
+The estimated effluent rates in the above table are high-end estimates because they do not account for the time each pods will be in a backwash cycle. Recall from Section 2, that during a backwash cycle, one pod backwashes at a time, and when a pod is backwashing it is not contributing to the out-flow rate. Meaning the above estimated out-flow rates will decrease depending on the amount of time the pods are in the backwash cycle.
+Unfortunately, the time that a system will be in backwash is hard to estimate. It depends on the system design, the influent water quality, and the treatability of the stormwater. If appropriate erosion control BMPs are used as required to minimize incoming stormwater turbidity, a well-designed system should be in a backwash cycle less than 40% of the time (about 40% of the time the system is operating, one pod will be backwashing).
+Using the 4-pod system column in the above table as an example, the table below represents a more realistic expectation for the GPM out-flow rate using a 4-pod system with a HLR of 10 GPM/Ft2:
+Page C-12
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Figure 7. Example of how effluent flow rates may decrease by 40% due to backwash
+Sand Filter Pod
+Diameter (inches)
+
+4-pod system (GPM) 48 503 4-pod system estimated (GPM) decreased for backwash time 452 54 636 60 785 573 707
+System placement and mobility
+System design and placement varies based on treatment needs, project footprint, construction phasing and schedule. To minimize logistical complication during construction, projects should preemptively identify appropriate stormwater collection areas, develop a plan for routing stormwater during construction, and locate appropriate areas for the physical placement of the CESF operational trailer and sand pods.
+Linear projects often require complex conveyances for routing stormwater to the CESF system(s). For example, if the project is proposing one stationary system, there will need to be a plan for routing runoff to that system. There may be multiple flows from different drainage basins combining into one central treatment location. In some cases, it may be more efficient and cost effective to have multiple stationary systems or a mobile system (CESF system on a trailer along with storage or weir tanks) that can be moved throughout the construction based on where treatment is needed.
+Flow control requirements
+Sites that must implement flow control for the developed site condition must also control stormwater release rates during construction. Construction site stormwater discharges shall not exceed the discharge durations of the pre-developed condition for the range of pre-developed discharge rates from ½ of the 2-year flow through the 10year flow as predicted by an approved continuous runoff model. The pre-developed condition to be matched shall be the land cover condition immediately prior to the development project. This restriction on release rates can affect the size of the untreated storage pond and pre-treatment cells.
+The following is how Western Washington Hydraulic Model (WWHM) can be used to determine the release rates to a flow control waterbody from the chemical treatment systems. The same design steps can generally be used for MGSFlood: 1.)
+Determine the pre-developed flow durations to be matched by entering the existing land use area under the “Pre-developed” scenario in WWHM. The default flow range is from ½ of the 2-year flow through the 10-year flow.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-13
+
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C 2.)
+Enter the post developed land use area in the “Developed Unmitigated” scenario in WWHM. 3.)
+Copy the land use information from the “Developed Unmitigated” to “Developed Mitigated” scenario. 4.)
+While in the “Developed Mitigated” scenario, add a pond element under the basin element containing the post-developed land use areas. This pond element represents information on the available untreated stormwater storage and discharge from the chemical treatment system. In cases where the discharge from the chemical treatment system is controlled by a pump, a stage/storage/discharge (SSD) table representing the pond must be generated outside WWHM and imported into WWHM. WWHM can route the runoff from the post-developed condition through this SSD table (the pond) and determine compliance with the flow duration standard. This would be an iterative design procedure where if the initial SSD table proved to be inadequate, the designer would have to modify the SSD table outside WWHM and re-import in WWHM and route the runoff through it again. The iteration will continue until a pond that complies with the flow duration standard is correctly sized.
+Notes on SSD table characteristics:
+The pump discharge rate would likely be initially set at just below ½ of the 2-year flow from the pre-developed condition. As runoff coming into the untreated stormwater storage pond increases and the available untreated stormwater storage volume gets used up, it would be necessary to increase the pump discharge rate above ½ of the 2-year. The increase(s) above ½ of the 2-year must be such that they provide some relief to the untreated stormwater storage needs but at the same time will not cause violations of the flow duration standard at the higher flows. The final design SSD table will identify the appropriate pumping rates and the corresponding stage and storages. 5.)
+When building such a flow control system, the design must ensure that any automatic adjustments to the pumping rates will be as a result of changes to the available storage in accordance with the final design SSD table. 6.)
+It should be noted that the above procedures would be used to meet the flow control requirements. The chemical treatment system must be able to meet the runoff treatment requirements. It is likely that the discharge flow rate of ½ of the 2-year or more may exceed the treatment capacity of the system. If that is the case, the untreated stormwater discharge rate(s) (i.e., influent to the treatment system) must be reduced to allow proper treatment. Any reduction in the flows would likely result in the need for a larger untreated stormwater storage volume.
+If the discharge is to a municipal storm drainage system, the allowable discharge rate may be limited by the capacity of the public system. It may be necessary to clean the municipal storm drainage system prior to the start of the discharge to prevent scouring
+
+Page C-14
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems solids from the drainage system. If the municipal storm drainage system discharges to a waterbody not on the flow control exempt list, the project site is subject to flow control requirements. Obtain permission from the owner of the collection system before discharging to it.
+If system design does not allow you to discharge at the slower rates as described above and if the site has a retention or detention pond that will serve the planned development, the discharge from the treatment system may be directed to the permanent retention/detention pond to comply with the flow control requirement. In this case, the untreated stormwater storage pond and treatment system will be sized according to the sizing criteria for flow-through treatment systems for flow control exempt water bodies described earlier except all discharge (water passing through the treatment system and stormwater bypassing the treatment system) will be directed into the permanent retention/detention pond. If site constraints make locating the untreated stormwater storage pond difficult, the permanent retention/detention pond may be divided to serve as the untreated stormwater storage pond and the posttreatment flow control pond. A berm or barrier must be used in this case so the untreated water does not mix with the treated water. Both untreated stormwater storage requirements, and adequate post-treatment flow control must be achieved. The post-treatment flow control pond’s revised dimensions must be entered into the
+WWHM and the WWHM must be run to confirm compliance with the flow control requirement.
+Stormwater Chemical Treatment Plan
+Once the system sizing has been completed and a chitosan product has been selected, the Stormwater Chemical Treatment Plan (SCTP) can be finalized. WSDOT requires the contractor to develop and submit this document for review prior to construction. There is no specific format for this document but it must include the design and operational information specific to the system that is required to be onsite. WSDOT project staff should review this document to ensure the system proposed by the contractor meets the contract requirements. The SCTP must be updated as needed as it is considered part of the Temporary Erosion and Sediment Control (TESC) plan.
+Existing site contamination
+Existing site contamination may trigger additional environmental commitments related to construction stormwater discharges (refer to the Permitting on Contaminated Sites guidance on the Erosion Control Policies & Procedures webpage). Known existing soil or groundwater contamination must be identified during the NOI application process for the permit. Existing contamination may trigger the need for an Administrative Order to be issued with the permit which may include additional discharge sampling, testing and effluent limits. CESF systems can be enhanced to treat some types of contamination. A “treatment train” can be designed to include additional treatment methods. For example, activated carbon filters can be added to remove hydrocarbons. Contaminated
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Page C-15 Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C sediments removed from stormwater treatment cannot be incorporated back into the site and must be disposed of in accordance with applicable regulations.
+If contamination does not become evident until after construction has begun, the CESF system may require additional treatment components be added to enhance performance. Contact the Hazardous Materials Program for additional information about contamination issues.
+Getting approval to use chitosan on a project
+Ecology must be properly notified prior to any discharge from a CESF system. The permittee must submit a Request for Chemical Treatment Form to Ecology. The permittee must know several things before the Request for Chemical Treatment Form can be completed (e.g., what chitosan product will be used and who will be operating the system). Therefore, this form is usually filled out a week or two before the system will be ready to start discharging. If filled out correctly, this form has a very quick turnaround time once submitted to Ecology (several hours up to a week). Ecology may not send a formal approval; they will likely just send an email giving the project the goahead to start discharging. This email should be a printed and kept onsite with the system design and operational information.
+Ecology keeps a list of approved chitosan products at: https://ecology.wa.gov/Regulations-Permits/Guidance-technicalassistance/Stormwater-permittee-guidance-resources/Emerging-stormwatertreatment-technologies
+Only chemicals approved by the Chemical Technology Assessment Protocol – Ecology (C-TAPE) may be used. Each product is accompanied by a Use Level Designation and a
+Use Designation document. Most chitosan products have been given a General Use
+Level Designation (GULD) so the Ecology’s review of the Request for Chemical
+Treatment Form is quick. Some products have only been given a Conditional Use Level
+Designation (CULD), which may require additional submittals and/or a system inspection prior to system discharges.
+
+Section 4 Operational Requirements
+Every chitosan product has its own Use Designation document that may include product specific operational requirements. Therefore all individuals responsible for operating, inspecting, or monitoring CESF operations must be familiar with the Use Designation document for the chitosan product(s) being used to ensure all product specific operational requirements are also being met.
+CESF operators must be monitoring the treatment system (unless the system is approved by Ecology as automated and capable of being monitored remotely) when discharges are occurring to confirm all operational requirements are being met and
+Page C-16
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems documented appropriately. WSDOT inspectors should ensure the CESF operators are meeting these requirements.
+The following information is a summary of the common operational requirements outlined in each Use Designation document: 
+BMPs must be implemented to minimize the suspended sediment in runoff coming to the system. Erosion and sediment control BMPs must be implemented to minimize the need for chemical dosing. 
+All system operators must have a CESF certification from an approved provider. CESF certification is not the same as a CESCL certification. 
+When feasible, daily background pH and turbidity measurements must be collected for receiving waters. When discharging directly to waters of the state.
+
+
+Jar tests or bench-scale tests must be conducted daily upon startup to determine appropriate initial chemical dosing levels. Additional tests must be conducted if the influent turbidity changes by 20% or greater.
+Record total volume treated and discharged during an operational period.
+Influent and effluent flow rates should be continuously metered and recorded at the end of the day. Influent and effluent volumes may vary due to backwash and recirculation events.
+Influent and effluent flows must be continually monitored for pH and turbidity and data must be recorded at 15 minute intervals.
+Effluent must be continuously monitored prior to discharge to ensure it is in compliance with pH (6.5 – 8.5 su) and turbidity (10 ntu or less).
+Automated shut-off valves must prevent out of compliance discharges.
+Record amount and concentration of chitosan used for treatment (chemical metering, pump dosing levels and daily calibration information). The daily operating log shall include information about the chemical being used (for example, 3% chitosan acetate solution). In addition, the chemical injection metering device must be calibrated at system start-up and then as needed throughout the day if influent average flow rate or water quality changes by 20% or greater.
+Only approved methods can be used for pH adjustment.
+Effluent shall be monitored for residual chitosan or aquatic toxicity (One test within the first 30 minutes of operation, the second within the first 2 hours of operation, and additional tests when dosing rates or average flow rates change). Additional toxicity testing may be required by Ecology for discharges to non-stream waterbodies (e.g., wetlands, estuaries, lakes).
+
+
+Secondary containment must be provided for acidic or caustic material, buffering compounds, and treatment chemicals.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-17 Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems
+Appendix C
+An emergency shower and eyewash must be available in the operational trailer.
+Specific system operations monitoring must be performed during every operational period (startup, operation, and shutdown) and documented in an onsite daily operating log. The operating forms or operating log shall be reviewed weekly and signed by an operating supervisor to confirm operations are meeting requirements and performance expectations. At a minimum the form(s) must include: 
+A record of each recirculation event and backwash cycle 
+Actions taken to remedy excessive recirculation and/or backwashing 
+A record of chemical metering pump calibrations
+
+
+A record of chitosan use for pre-treatment
+A record of chitosan dosage immediately prior to filters
+A record of test results for residual chitosan and/or toxicity testing
+Treatability issues
+The CESF operator may encounter “treatability issues”. This can mean anything from the treatment system or the chitosan product itself is not treating the water as expected.
+Treatability issues can lead to capacity problems because the system cannot treat and discharge water fast enough to prevent an overflow. Common treatability issues may result from: 
+Improper design, installation, or operation of a system (e.g., inadequate mixing of chitosan into stormwater) 
+High or lower pH water (chitosan works best between 6.5 – 8.5) 
+High level of organics in runoff (e.g., wetland soils, mulches, compost)
+
+
+Introduced chemicals (e.g., PAM, rock blasting fluids)
+Low conductivity in runoff (baking soda can increase conductivity)
+In some cases, treatability issues may be resolved easily (e.g., neutralize pH, increase conductivity, use higher dose of chitosan). Never dose water with a higher rate of chitosan than is allowed by the Use Designation document. Many treatability issues are harder to resolve and may trigger the CESF operator to first try a different chitosan product. Ecology must be notified if a different chitosan product must be used than was identified in the Request for Chemical Treatment Form. Other solutions may come in the form of system design modifications or excluding specific sources of influent.
+When treatability issues persist, treatment costs often increase or alternative disposal costs may become required to prevent ongoing bypassing of the system (e.g., water
+Page C-18
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Appendix C
+Planning, Designing and Operating Chitosan Enhanced Sand Filtration Systems hauled to an offsite disposal location). Depending on the contract language or whether
+WSDOT directed the contractor to do something that led to the treatability issue,
+WSDOT may be responsible for the additional costs.
+Tips for managing the contract
+
+Prior to 2009, designing, installing and operating CESF systems was the realm of specialty sub-contractors who specialized in CESF dynamics. The systems were capable of treating water at about $0.01 – 0.03 per gallons discharged. Of course after mark-ups, approving certain chitosan products for ‘General Use’ which led to more contractors providing CESF services. Ecology currently has no training requirements for designing and installing CESF systems and the training requirements to operate a system is minimal and does not guarantee a skilled operator.
+Beware of the following operational red flags: 
+Contractor using more chitosan than expected 
+Incoming runoff is over 600 NTU 
+Undefined treatability issues 
+Systems that recirculate or are back flushing more than 25% of the time 
+CESF operators that cannot explain how the system works or the onsite documentation 
+Systems that overflow (water bypasses treatment) outside of extreme storm events 
+New operators that are not familiar with the specific system
+Contractors must provide a Stormwater Chemical Treatment Plan (SCTP), which is considered part of the TESC plan. Always confirm that the system the contractor installs meets the performance or design requirements in the contract and the SCTP. The SCTP must contain system information including design and operational details. The plan must also include contingency plans for how the system will bypass in overflow events.
+This plan must be kept onsite along with the chemical treatment system approval from
+Ecology (may just be a printed email).
+If pre-treatment and/or operation of the system are bid low by the contractor, this may be a sign they will be reluctant to actually operate the system because they have front loaded costs to prepare the SCTP and install the system.
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page C-19
+

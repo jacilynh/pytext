@@ -1,0 +1,1016 @@
+nce issues typically are related to use of nighttime lights to perform roadwork on the facility.
+459.04 Analysis & documentation requirements This section describes analysis and documentation requirements based on regulatory requirements. Determine level of detail based on complexity/size of project, expected severity of impacts, and potential for public controversy.
+459.04(1)
+Analysis & documentation for NEPA
+WSDOT uses Federal Highway Administration (FHWA) VIA guidance. For more information on VIA methodology and procedures, see the Environmental disciplines web page for Visual Impacts. Visual assessments must be sized appropriately to anticipated project impacts (see Chapter 300 for project classifications). The following are guidelines for the level of analysis necessary:
+• For projects that are Categorically Excluded (CE), the visual analysis and minor documentation is done within the Environmental Classification Summary (ECS). It is assumed that, when projects follow WSDOT roadside policy and environmental permit conditions, visual impacts will be minimized and mitigated to an acceptable level.
+• For projects with Documented Categorical Exclusion (DCE), the visual analysis should be abbreviated but a discussion of the visual aspects should be adequately covered in a memo, to be attached to the Environmental Review Summary (ERS) or the Environmental Classification Summary (ECS).
+Visual impacts
+Chapter 459
+• Exceptions requiring a VIA that might not otherwise be indicated by lower level permitting – Projects where sensitive viewers will experience noticeable changes but which only require low-level documentation, will benefit from a more in-depth review of visual impacts. Issues such as removing screening vegetation or providing more visibility to lighting or the highway fall into this category. Other aspects that may trigger the need for a more thorough evaluation include projects: – On a State or National Scenic Byway or an All-American Road – Along a designated Wild and Scenic River or within a National Scenic Area – On Tribal, U.S. Forest Service, or National Park land – Adjacent to a public park, recreation area, wildlife and waterfowl refuge, and public or private historical sites (Section 4(f) or 6(f) area – any visual analysis would be in coordination with the Section 4(f) or Section 6(f) technical study) – In a rural community that values its view of stars and the night sky if new or brighter lighting is being proposed People viewing from these locations can be especially sensitive to visual changes. Documentation must include an analysis of viewer sensitivity and potential impacts, and may be in the form of a memo or short report depending on the degree of impacts found in the analysis. For an Environmental Impact Statement (EIS), a VIA must be completed where the project changes the roadside or facility character. These are typically the projects with large areas of cut or fill, new or larger structures, or new or greatly expanded alignments. Project examples include:
+• Changes in road alignment
+• Expansion of the roadway and/or addition of major structures
+• New interchanges
+• Changes to historic buildings or other structures
+• Ferry terminal improvements
+• Increased lighting
+• Removal of screening or large areas of vegetation
+• Substantial grade changes The VIA shall follow the methodology either in the Visual Impact Assessment for Highways Projects (FHWA Office of Environmental Policy, 1988) or Guidelines for the Visual Impact Assessment of Highway Projects (FHWA, 2015). These two guidance documents evaluate similar aspects of visual quality but use slightly different terms. The 1988 document and the associated training manual provide more technical clarity for the user as to how to look at visual impacts and describe them. The 2015 document places more emphasis on collaborative approaches to find out the preferences and sensitivity of viewers and incorporate that into the assessment. This emphasis on capturing what the community wants as an aesthetic environment provides additional support on statements that a project would have adverse, neutral or beneficial impacts.
+• During project development, visual impacts, including aesthetics, light, glare, and night sky impacts, shall be considered for all project alternatives. The views from the road or facility and views toward the road or facility that will be in existence during the construction phase and the operational phase must be evaluated. 
+Chapter 459
+Visual impacts
+• The VIA is documented within the Environmental Review process, the EA, or the or EIS after a detailed analysis of potential viewers, their sensitivities and the project area. A photographic log of the affected viewshed is part of that documentation. The documentation must include an analysis of all representative views from and toward the facility throughout the project length.
+• The VIA, using the newer guidance would engage the public to understand in depth the expected changes to the visual environment. The number of views needed depends upon the geographic extent of the project; setting in the landscape; the extent of change or impact to resources expected in a particular location; the effects on the identified viewer groups; and the viewers’ sensitivity to changes in the view. If there is more than one landscape unit within the project limits, analyze a minimum of one viewpoint per landscape unit as viewed from the project and as viewed towards the project. Project alternatives will need to be sufficiently developed prior to completing the analysis in order to completely describe the changes each alternative will have on the visual environment. Describe and analyze any large cuts or fills, walls, bridges, changes to character due to extensive vegetation removal or addition of structures, and horizontal and vertical alignments with respect to their influence on views toward or from the project. When projects are completed by Design-Build methods, visual outcomes can be somewhat uncertain. The use of design guidelines can reduce uncertainty of the final project visual outcomes. The VIA should include a discussion of the flexibility in outcomes.
+459.04(2)
+Non Road Project Requirements
+Environmental documentation for aviation, ferry, or rail projects must address aesthetics and visual issues during the environmental review process, including specific details about lighting; height, size, and location of structures; and alignment and use of the facility that might impact viewers. Federal agencies follow different methodologies, but all include the requirement for a visual assessment. For example, the Federal Rail Administration, The Federal Aviation Administration, the U.S. Forest Service, and the Bureau of Land Management have their own methodologies, which vary slightly from the FHWA methodology. Projects must determine and follow the appropriate methodology for their project type. Non-road projects often affect the visual environment differently than highway projects. Analyze the temporary or permanent nature of the visual impacts, such as the presence of flights overhead at intervals throughout the day, addition of beacon lights or ferries docked within a terminal periodically.
+459.05 External engagement Refer to Section 3.2.1 Public and Private Interests of FHWA’s VIA Guidelines for Highway Projects (FHWA-HEP-15-029) to learn more about the importance of external engagement to capture both public and private interests during visual impact assessment.
+Visual impacts
+Chapter 459
+459.06 Internal roles and responsibilities All visual analyses are to be performed and written by, or coordinated through, the Region Landscape Architect, or through the Headquarters (HQ) Roadside and Site Development Section for regions without a Landscape Architect.
+459.07 Applicable permits & approval process Although there are no permits or approvals associated with Visual Impacts, the VIA is part of a larger environmental review process, which in turn is part of a still larger highway project development process. As part of this process, the VIA is intended to provide decision makers with information on the adverse and beneficial impacts on visual quality that can influence the selection of a preferred project alternative. The VIA provides designers with the information they need to most effectively mitigate adverse impacts on visual quality while implementing concepts to enhance existing visual quality.
+459.08 Mitigation Provide mitigation measures and opportunities to avoid or minimize visual impacts in the report. Assume the baseline of Context Sensitive Design principles during design, and restoration according to the Roadside Policy Manual M 3110. The WSDOT roadside policy is found in the Roadside Policy Manual M 3110. It covers the requirements for roadside restoration, which is the baseline that can be assumed for addressing a project’s visual impacts within the roadside. Mitigation for visual impacts may also be in the form of public art as identified in the NEPA/ SEPA process and through good faith negotiations with the affected community. See Chapter 950 of the Design Manual M 22-01 for guidance regarding public art and community identified mitigation on WSDOT facilities and within its rights of way.
+459.09 Abbreviations and acronyms Abbreviations and acronyms used in this chapter are listed below. CE
+Categorically Excluded
+DCE
+Documented Categorical Exclusion
+EA
+Environmental Assessment
+ECS
+Environmental Classification Summary
+EIS
+Environmental Impact Statement
+ERS
+Environmental Review Summary
+FHWA
+Federal Highway Administration
+NEPA
+National Environmental Policy Act
+RCW
+Revised Code of Washington
+SEPA
+State Environmental Policy Act
+VIA
+Visual Impact Assessment
+Chapter 459
+Visual impacts
+459.10 Glossary Landscape Unit – An area or volume of distinct landscape character that forms a spatially enclosed unit at ground level, differentiated from other areas by its slope and its pattern of land cover. A unique segment of the landscape. Not all projects will have multiple landscape units. Scenic Byway – Public road having special scenic, historic, recreational, cultural, archaeological, and/or natural qualities that have been recognized as such through legislation or some other official declaration for its scenic, historic, recreational, cultural, archaeological, or natural qualities. Washington State Scenic Byways are designated in RCW 47.39.020. Viewshed – All the surface areas visible from an observer’s viewpoint. Viewer Group – Classes of viewers differentiated by their activity, awareness, and values. Viewer Sensitivity – The viewer’s variable receptivity to the elements within the environment they are viewing. Sensitivity is affected by viewer activity and awareness, exposure to the project, and cultural and community values. Indication of viewer sensitivity can be found in local zoning codes, planning documents, laws, and advocacy groups such as Scenic Byway organizations. Visual Function – The component of a transportation project that is designed and experienced primarily from a visual perspective; includes positive guidance and navigation, distraction screening, corridor continuity, roadway and adjacent property buffering, and scenic view preservation. Visual Quality – Character of the landscape, which generally gives visual value to a setting.
+Chapter 460 460.01 460.02 460.03 460.04 460.05 460.06 460.07 460.08 460.09 460.10
+Environmental justice
+Introduction Applicable statutes, regulations, executive orders, & agreements Considerations during project development Analysis & documentation requirements External involvement Internal roles & responsibilities Applicable permits and approvals Mitigation Abbreviations and acronyms Glossary
+460.01 Introduction Environmental Justice (EJ) populations include minority and low-income populations (DOT Order 5610.2(a)). Most areas of Washington State have EJ populations that can potentially be impacted from a proposed WSDOT project by project-related activities such as property acquisition that may displace people or construction effects like increased noise. Your project’s strategic engagement with individuals and groups within the study area will help identify impacts to EJ populations. Work with them to determine how best to avoid, minimize, or mitigate disproportionately high and adverse impacts. New in 2021, we separated the environmental justice requirements and analysis from Chapter 458 Social and community effects to clarify the role of each analysis. An Environmental justice analysis can include the information from a Social and community effects analysis, but should also rely on other analyses to make an effects determination for a project. New state requirements will take effect July 1, 2023 for transportation projects over $15 million and other activities. We are developing procedures to comply with the state environmental justice requirements set forth in RCW 70A.02. This chapter provides direction necessary for project teams to meet EJ requirements during the environmental review process for transportation improvement projects. A detailed environmental justice analysis is required during the environmental review of transportation projects that require a NEPA EIS or EA. Projects that are classified as exempt from a detailed analysis under NEPA still consider impacts to EJ communities following our EJ Decision Matrix and documentation requirements listed in Section 460.04. The fundamental principles of environmental justice are to:
+• Avoid, minimize, and mitigate disproportionately high and adverse human health and environmental effects, including social and economic effects, on minority populations and low-income populations.
+• Ensure full and fair participation by all potentially affected communities in the transportation decision making process.
+• Prevent the denial of, reduction in, or significant delay in the receipt of benefits by minority and low-income population.
+Chapter 460
+Environmental justice
+EJ is a component of Title VI (Civil Rights Act 1964), that was extended through EO 12898 to eradicate, mitigate and avoid disproportionately high and adverse effects to low income and minorities, and Indian tribes during NEPA process, when they are required. As a recipient of Federal financial assistance, the Washington State Department of Transportation (WSDOT) is subject to the requirements of various Federal nondiscrimination laws and regulations including Title VI of the Civil Rights Act, Section 504 of the Rehabilitation Act, the Americans with Disabilities Act (ADA), the Executive Orders for Environmental Justice and Limited English Proficiency (LEP) populations. These laws and Executive Orders are intended to protect the Civil Rights of all individuals affected by programs and/or activities of a Federal recipient/subrecipient. Title VI has the responsibility to ensure that no person shall on the ground of race, color or national origin, be excluded from participation, in be denied the benefits of, or be subjected to discrimination under any program or activity receiving federal financial assistance. The Civil Rights Restoration Act from 1987 specifies that recipients of federal funds must comply with civil rights laws in all areas, not just the particular program or activity that receives federal funding. National origin coverage under Title VI was extended to Limited English Proficiency (LEP) people through court decisions and Executive Order. WSDOT’s responsibilities under these laws include, but are not limited to:
+• Identifying and addressing disparate impact and disproportionate high and adverse effects associated with our projects, programs, and activities.
+• Ensuring that we make every effort to provide benefits, services, and access equally to all groups. Access considerations include multimodal options for all groups relative to their needs, practices, and culture.
+• Avoiding, or if not possible, minimizing the hardships associated with displacement or residents and businesses.
+• Providing equal access to information and meaningful involvement in the decision-making process regardless of race, color, income, disability, or national origin.
+• Ensuring that communications with the public are inclusive of persons with limited English proficiency (LEP).
+• Documenting our decision-making processes. Environmental Justice (EJ) and Title VI of the Civil Rights Act (Title VI) address the distribution of the physical, social, and economic impacts of a proposed project and it’s potential alternatives. Protection of the community’s civil rights and the fair distribution of a project’s burdens and benefits lie at the heart of the environmental justice analysis. The requirements within the Limited English Proficiency Executive Order 13166 helps ensure ‘full and fair participation by all potentially affected communities…’.
+460.02 Applicable statutes, regulations, executive orders, & agreements The federal and state policies that guide the evaluation of environmental justice for transportation projects, include.
+Environmental justice
+460.02(1)
+Chapter 460
+Federal
+• 42 United States Code (USC) 4321 National Environmental Policy Act of 1969 (NEPA)
+• Title VI of the Civil Rights Act of 1964 as amended in 1987.
+• Environmental Justice Presidential Executive Order 12898.
+• Limited English Proficiency Presidential Executive Order 13166.
+• Section 504 of the Rehabilitation Act of 1973.
+• Title II of the Americans with Disabilities Act (ADA) of 1990.
+• Tribal Government Tribal considerations are also addressed under both Section 4(f), 49 USC 303 and Section 106 of National Historic Preservation Act 16 USC 470f.
+• Department of Transportation (DOT) Order 5610.2(a), Final DOT Environmental Justice Order, issued May 2, 2012.
+• Advancing Racial Equity and Support for Underserved Communities Through the Federal Government Executive Order 13985 issued January 20, 2021.
+• Tackling the Climate Crisis at Home and Abroad Presidential Executive Order 14008.
+• Consultation and Coordination With Indian Tribal Governments Presidential Executive Order 13175.
+460.02(2)
+State
+• RCW 70A.02 Environmental Justice, also referred to as the Healthy Environment for All (HEAL) Act.
+• Secretary’s EO E 1018 Environmental Policy Statement.
+• Governor’s Executive Order 93-07 Affirming Commitment to Diversity and Equity in the Service Delivery and the Communities of the State (1993).
+• Secretary’s EO E 1087 Title VI Policy
+460.03 Considerations during project development 460.03(1)
+Planning
+Project teams should check to see if a planning study has been done in their project area, and if so, refer to any EJ information documented in that study. Planning teams should contact the Multimodal Planning and Data Division for direction on how to address environmental justice in a planning study. See Chapter 200 for agency policies on engaging EJ communities if you are using a Planning and Environmental Linkages (PEL) approach and consult with the NEPA/SEPA program and your federal lead agency.
+460.03(2)
+Scoping
+Determine if there are any Environmental Justice populations in the project area. If present, follow our EJ Decision matrix to scope the expected impacts and analysis for NEPA. Use this information to determine what level of community engagement should be conducted to inform the project elements. Demographic information should also inform the project’s communication strategies to reach those who may need interpretation and translation services.
+Chapter 460
+Environmental justice
+460.03(3)
+Design
+Follow the Analysis and document direction in section 460.04 below. Conduct community engagement when appropriate for the project following agency Community Engagement Plan. Revisit the analysis if the project elements change that could impact the community including detour routes.
+460.03(4)
+Construction
+Track commitments made to the community to ensure they are carried out.
+460.03(5)
+Maintenance and Operations
+Track commitments made to the community to ensure they are carried out.
+460.04 Analysis & documentation requirements This section describes analysis and documentation requirements based on regulatory requirements. Determine level of detail based on complexity/size of project, expected severity of impacts, and potential for public controversy.
+460.04(1)
+Analysis & documentation for NEPA
+It is WSDOT practice to analyze environmental justice impacts for all projects. Project teams must use demographic data and community outreach to inform their EJ analysis. Project teams must use demographic data from the U.S. Census and the Office of the Superintendent (OSPI) to inform their EJ disproportionate impacts and Title VI disparate impacts analyses. To add community health context to your analysis, use the WA Environmental Health Disparities (EHD) Map to find the health ranking(s) for the project area. The demographic profile should identify the existence of minority groups (by race, color, national origin) and low-income populations. Native Americans are designated as a minority population under the Civil Rights Act. They are also protected under the Environmental Justice Executive Order (Presidential Executive Order 12898). Section 4-401 of the executive order requires consideration of the potential human health risks associated with the consumption of pollutant bearing fish or wildlife. Use the tribe’s consultation area maps available on the WSDOT Environmental GIS Workbench to evaluate a project’s potential effect on natural resources. The demographics also provides information on the percentage of the population with Limited English Proficiency (LEP). In accordance with the Limited English Proficiency Executive Order (Presidential Executive Order 13166) WSDOT requires that all vital documents identified through a Four Factor analysis be provided if the demographic analysis shows that five percent of the population, or 1,000 individuals within the study area, speak English ‘less than “very well’’. See our Environmental Justice webpage for how to make this determination. The LEP data should inform your project’s communication and outreach need for language services including interpretation and translation.
+Environmental justice
+Chapter 460
+If the demographic analysis shows a presence within the study area and identifies likely impacts, the environmental document should contain information broken down by race. The EJ analysis should discuss potential impacts identified in various studies in. Once you have determined the level of documentation required, conduct the analysis concurrently with, or slightly after, the following discipline studies:
+• Air
+• Noise
+• Transportation (including goods movement)
+• Public Services
+• Social and community (health, economics, relocations, utilities, cohesion)
+• Stormwater
+• Floodplains
+• Cultural Resources
+• Section 4(f)
+• Hazardous Materials
+• Visual Impacts The project team must document what engagement activities took place, how they were made accessible to EJ populations and how the project outcomes were influenced by the people potentially being impacted. Some Categorically Excluded (CEs) projects require a review for impacts to Environmental Justice communities, but do not require a detailed study because, by definition they:
+• Do not have any significant environmental impacts.
+• Do not change access control or affect traffic patterns.
+• Do not require more than minor right of way acquisition or displace residents or businesses.
+• Do not require temporary road closures or detours during construction. Determine the level of documentation CE level projects by using the following steps: 1. Check our list of ‘Projects Exempt from Detailed EJ Analysis’ on the Environmental Justice webpage and document exemption status on the ECS form, if applicable. Attach demographic data and note any LEP populations. 2. If the project is not exempt and no EJ populations are present in the project area, attach the EJ Decision Matrix and demographic data showing the absence of an EJ population. 3. If the project has an EJ population present, but does not impact that population, attach the EJ Decision Matrix, demographic data and write to the ECS how the project will not have affects. No memo is required. 4. If the project may impact an EJ population, define project effects on EJ populations in an EJ Memo using the resources on our Environmental Justice webpage. Refer to community engagement activities to inform your determination. For EA and EIS level projects, the analysis should include an examination of the effects for each alternative, including the No-build. The environmental document must include a comparison of the distribution of a project’s burdens and benefits by the social groups 
+Chapter 460
+Environmental justice
+identified in the demographic analysis. The effects on these groups should be described to the extent these effects can be reasonably predicted. There is no need to be exhaustive with this comparison. Discuss impacts to the groups in proportion to the severity of the related impacts. EISs should include a Title VI disparate analysis. This analysis determines if the project is likely to have a disparate impact by comparing the least impacted group to the most impacted group in the study area. If the project team, in consultation with the federal NEPA lead, determines it will have a “disparate impact” they must either choose a “less-discriminatory alternative” or document a “substantial legitimate justification”. WSDOT’s procedures for a combined Title VI and EJ analysis are on the Environmental Justice web page. The EJ analysis compares the adverse impacts (burdens) to the EJ population to the adverse impact to the non-EJ population within the study area. The discussion should address:
+• Whether minority or low-income populations bear a “disproportionately high and adverse impact”.
+• Possible mitigation measures to avoid or minimize any adverse impacts.
+• Special relocation considerations for affected groups and the measures proposed to resolve these relocation concerns.
+• Public response to the project and proposed mitigation. Include a discussion of how the project design was changed to address public concerns. A “disproportionately high and adverse” determination may be made if the:
+• Severity of the adverse impact is appreciably greater for protected populations than for non-protected populations.
+• Adverse environmental impacts occur more in areas with protected populations (regardless of severity) than in areas without protected populations.
+• Proposed mitigation is needed to reduce either the level of severity or number of adverse effects for protected populations.
+• Project benefits do not affect protected populations to the same degree as other populations.
+• Project is controversial and public comment shows that protected populations: do not feel that the project benefits them or that the proposed mitigation is inadequate. A determination of “disproportionately high and adverse impacts” does not preclude the project proceeding. However, it will require additional community engagement to ensure that:
+• Alternatives have been discussed and are clearly understood.
+• Mitigation strategies have been explained and are understood.
+• The effectiveness of mitigations will be monitored, if needed.
+• The community has an opportunity for meaningful participation in the process to select the alternative and mitigation measures and their preferences are taken into consideration. Refer to FTA’s Title VI web page for Title VI and EJ compliance information when a project has a federal nexus with FTA. This FTA FAQ provides additional clarification on EJ analysis and requirements.
+Environmental justice
+Chapter 460
+Analysis & documentation for SEPA only (No federal nexus) It is WSDOT practice to analyze environmental justice impacts for all projects. SEPA does not contain requirements for conducting an EJ analysis; however, WSDOT is implementing new state environmental justice policy requirements contained in RCW 70A.02. Many of the requirements will take effect July 1, 2023, including the requirement to conduct an assessment of transportation projects over $15 million. We are developing procedures to comply with the new law, these will be posted on the website. Note that SEPA documentation is not required if you have documented NEPA.
+460.05 External engagement Presidential Executive Order 12898 and Title VI of the Civil Rights Act of 1964 require WSDOT “to promote nondiscrimination” to the” greatest extent allowed by the law”. This includes equal access to information and an equal opportunity to participate in the decision making process. WSDOT tracks its performance with this requirement and submits an annual report to FHWA documenting efforts to engage all persons, regardless of color, race, gender, age, income, disability, or national origin. See the WSDOT Community Engagement Plan for considerations to make during your outreach. Project teams should develop outreach and engagement strategies to reach all of the populations affected by their project. Tailor outreach techniques to reach the EJ, low income, and LEP populations in your study area. Document what you did and how public input affected the project design. Guidance for how to write a public involvement plan is available from the WSDOT Communications Office and is available to WSDOT employees. WSDOT policy requires staff to follow the Model Comprehensive Tribal Consultation Process when working with tribal governments. Contact the WSDOT Tribal Liaison Office for assistance. Refer to Chapters 400, 456 and 530 for more direction on engaging with tribal communities.
+460.06 Internal roles and responsibilities 460.06(1)
+Project Engineer
+Scopes the appropriate level of community engagement by working with the Title VI Liaison and their Communications office to ensure potential impacts are identified early in project development. Government to government consultation with the affected Tribes as well as environmental justice requirements must be incorporated into the project’s delivery process. The WSDOT LEP Plan requires project managers to:
+• Make every effort to provide services, either through translation or interpreter, prior to scheduled meetings, such as public hearings, or project meetings.
+• Pay for the translation of vital documents and interpreter services including summary newsletters, brochures, public notices for meetings and summary documents for open houses or environmental hearings. Interpreter services should be provided upon request for open houses and hearings.
+Chapter 460
+Environmental justice
+460.06(2)
+Environmental Coordinator / Consultant
+Meets with technical leads for the related disciplines listed above and uses information gathered during community engagement to conduct the Environmental justice analysis, as needed.
+460.06(3)
+WSDOT HQ Environmental Services Office
+Reviews all Environmental justice analyses, including methodologies and oversees the related guidance.
+460.06(4)
+Office of Equal Opportunity
+The WSDOT Office of Equal Opportunity (OEO) serves as a resource to project teams through their Title VI Liaisons who can help make connections with communities. OEO also participates in FHWA’s annual review of the Environmental Justice analyses done for projects Categorically Excluded from NEPA. OEO makes recommendations for improving the methods to help ensure the analyses adequately address any disproportionately high and adverse impacts to EJ communities.
+460.06(5)
+Communicator
+Help scope and support community engagement activities related to a project and help provide language services, interpretation or translation, based on the languages determined in the LEP analysis.
+460.07 Applicable permits & approval process There are no permits or signatory approvals associated with compliance with federal or state Environmental Justice requirements. Federal and state permits and approvals require satisfactory documentation of Tribal consultation and compliance with civil rights and cultural resources laws and federal environmental justice executive orders.
+460.08 Mitigation NEPA, SEPA, the federal Environmental Justice Executive Orders and the Secretary’s Executive Order (E 1018.03) contain clear policy direction regarding the mitigation of project impacts – this includes mitigating impacts to the human environment (community mitigation) in addition to the natural environment. If you determine that the project’s effects are disproportionately high and adverse, disclose your finding in the environmental document. A finding of “disproportionate high and adverse” will not stop a project if it can be shown that the project serves a significant regional need. But such a determination requires additional analysis to demonstrate that further avoidance, minimization, mitigation and enhancement measures are not practicable. Alternatives may be considered “not practicable” if they:
+• Would not satisfy the project’s purpose and need.
+• Have more severe adverse effects on other areas of the environmental (Wetlands, Section 4(f)).
+• Have greater social, economic, environmental or human health effects.
+Environmental justice
+Chapter 460
+Support your determination with evidence and reference technical analysis. Include the results of public outreach efforts to EJ/low-income populations in the environmental document. Do this by considering the mitigation measures, including those suggested by the impacted community to address their specific needs. The proposed mitigation must match the type of impact the project has on the individuals to be considered appropriate. For example, an impact to community cohesion may not be mitigated by reducing noise levels. WSDOT uses community input when considering appropriate mitigation measures to address the transportation impacts as required by Federal and State laws. The project team then pursues and negotiates reasonable project related mitigation in good faith with the community.
+460.09 Abbreviations and acronyms Abbreviations and acronyms used in this chapter are listed below. ADA CEP CFR EA EIS EJ FHWA LEP RCW Title VI WAC
+Americans with Disabilities Act Community Engagement Plan Code of Federal Regulations Environmental Assessment Environmental Impact Statement Environmental Justice` Federal Highway Administration Limited English Proficiency Revised Code of Washington Title VI of the Civil Rights Act of 1964 Washington Administrative Code
+460.10 Glossary These definitions apply in the context of Environmental Justice analysis. Some terms may have other meanings in a different context. Adverse Effects (Environmental Justice) – The totality of significant individual or cumulative human health or environmental effects, including interrelated social and economic effects, which may include, but are not limited to:
+• Bodily impairment, infirmity, illness, or death caused by air, noise, water pollution, vibration, and soil contamination.
+• Destruction or disruption of man-made or natural resources.
+• Destruction or diminution of aesthetic values.
+• Destruction or disruption of community cohesion or a community’s economic vitality; access to public and private facilities and services.
+• Adverse employment effects.
+• Displacement of persons, businesses, farms, or nonprofit organizations.
+• Increased traffic congestion.
+• Isolation, exclusion or separation of minority or low-income individuals from the broader community.
+• Denial of, reduction in, or significant delay in the receipt of benefits of DOT programs, policies, or activities. 
+Chapter 460
+Environmental justice
+Adverse effects are determined by both the individuals affected and the judgment of the analyst. Disproportionately High and Adverse Effect – An adverse effect that: (a) is predominantly borne by a minority population and/or a low income population; or (b) is suffered by the minority population and/or low income population and is appreciably more severe or greater in magnitude than the adverse effect that will be suffered by the non-minority population and/or non-low income population. Environmental impacts - Environmental benefits or environmental harms, or the combination of environmental benefits and harms, resulting or expected to result from a proposed action. Environmental Justice (Federal Definition EPA) – The fair treatment and meaningful involvement of all people regardless of race, color, culture, national origin, income, and educational levels with respect to the development, implementation, and enforcement of protective environmental laws, regulations, and policies. Environmental Justice (State Definition) – The fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to the development, implementation, and enforcement of environmental laws, rules, and policies. Environmental justice includes addressing disproportionate environmental and health impacts in all laws, rules, and policies with environmental impacts by prioritizing vulnerable populations and overburdened communities, the equitable distribution of resources and benefits, and eliminating harm. Limited English Proficient – Individuals who do not speak English as their primary language and who have a limited ability to read, speak, write, or understand English. These individuals may be entitled to language assistance with respect to a particular type of service, benefit, or encounter. Federal laws particularly applicable to language access include Title VI of the Civil Rights Act of 1964, and the Title VI regulations, prohibiting discrimination based on national origin, and Executive Order 13166 issued in 2000. Low Income – A household income that is at or below the federally designated poverty level for a household of four as defined the U.S. Health and Human Services. Low-Income Population – Any readily identifiable group of low-income persons who live in a geographic area, and, if circumstances warrant, geographically dispersed/transient persons (such as migrant workers or Native Americans) who would be similarly affected by a proposed DOT program, policy, or activity.
+Environmental justice
+Chapter 460
+Minority – A person who is:
+• Black (a person having origins in any of the black racial groups of Africa).
+• Hispanic (a person of Mexican, Puerto Rican, Cuban, Central or South American, or the Spanish culture or origin, regardless of race).
+• Asian/Pacific Islander (a person having origins in the Far East, Southeast Asia, or the Indian subcontinent).
+• Pacific Islander (a person having origins in any of the Pacific Islands).
+• American Indian or Alaskan Native (any of the original peoples of North America, and who maintains cultural identification through tribal affiliation or community recognition). Minority Population – Any readily identifiable group of minority persons who live in geographic proximity, and if circumstances warrant, geographically dispersed/transient persons (such as migrant workers or Native Americans) who will be similarly affected by a proposed DOT program, policy, or activity. Overburdened community - A geographic area where vulnerable populations face combined, multiple environmental harms and health impacts, and includes, but is not limited to, highly impacted communities as defined in RCW 19.405.020. Transportation Equity – The fairness with which benefits and costs are distributed. Vulnerable populations - Population groups that are more likely to be at higher risk for poor health outcomes in response to environmental harms, due to adverse socioeconomic factors, such as unemployment, high housing and transportation costs relative to income, limited access to nutritious food and adequate health care, linguistic isolation, and other factors that negatively affect health outcomes and increase vulnerability to the effects of environmental harms and sensitivity factors, such as low birth weight and higher rates of hospitalization. “Vulnerable populations” includes, but is not limited to:
+• Racial or ethnic minorities
+• Low-income populations
+• Populations disproportionately impacted by environmental harms
+• Populations of workers experiencing environmental harms
+Chapter 460
+Environmental justice
+This page intentionally left blank.
+Chapter 490 490.01 490.02 490.03 490.04 490.05 490.06 490.07 490.08 490.09
+Tracking environmental commitments during design
+Commitments must be tracked Identify environmental commitments during environmental review and design Perform a constructability review Reflect environmental commitments in project design Track environmental commitments during design Respond to noncompliance events during design Applicable statutes and regulations Abbreviations and acronyms Glossary
+490.01 Commitments must be tracked The Revised Code of Washington (RCW) 47.85.040 states that the Washington State Department of Transportation (WSDOT) must develop, implement, and maintain an environmental compliance data system to track permit conditions and environmental commitments. WSDOT’s E 1018 Environmental Policy Statement requires all WSDOT employees to know and adhere to all environmental commitments applicable to their duties. This invariably requires staff to track commitments because they apply to various phases of the project (design/construction/maintenance) and are performed by WSDOT, the contractor/Design-Builder, or both. The WSDOT Commitment Tracking System (CTS) web application is built specifically to help our agency implement these requirements. WSDOT is expected to clearly communicate all project commitments to supporting design offices, construction project staff, and to the contractor/Design-Builder as stated in the WSDOT Plans Preparation Manual M 22-31 Division 4 and WSDOT Design-Build Manual M 3126 Chapter 4. For Design-Build projects, both WSDOT and Design-Builder staff are responsible for tracking commitments during project design; refer to the project’s Request for Proposal (RFP), Section 2.8 Environmental for more project-specific information regarding the DesignBuilder’s responsibilities. Title 23, Part 771.109 of the Code of Federal Regulations requires the Federal Highway Administration (FHWA) to ensure that WSDOT implements commitments as stated in the environmental documents. The FHWA assures this is accomplished as a part of their program management responsibilities, which includes reviews of design, plans, specifications, and estimates (PS&E). This also includes FHWA construction inspections.
+Chapter 490
+Tracking environmental commitments during design
+490.02 Identify environmental commitments during environmental review and design Identifying environmental commitments early in design ensures that the complete design package is developed with compliance in mind before it goes out for bid. The WSDOT Plans Preparation Manual Division 4 requires WSDOT to identify all project environmental commitments. In most cases, commitments will be in writing, but note that some commitments may be delivered electronically or verbally. These commitments may result from:
+• Planning activities.
+• Federal review process via the National Environmental Policy Act (NEPA).
+• Washington State review process via the State Environmental Policy Act (SEPA).
+• Tribal participation and consultations.
+• Design efforts, including field activities.
+• Permit acquisition. It is WSDOT policy (Design Manual M 22-01 Section 225.04) that a project commitment file be established as soon as NEPA/SEPA documents are completed. The Region/Mode/ Megaprograms Environmental Office is responsible for creating and maintaining the commitment file as a project progresses through its development process. This file serves as the repository for all final environmental commitments leading to development of the contract.
+490.03 Perform a constructability review The WSDOT Master Deliverables List (MDL) is a comprehensive list of project deliverables organized by project phases. Section PSE.50 of the MDL requires that constructability reviews be performed during design. WSDOT must ensure all environmental commitments are constructible. If WSDOT identifies a non-constructible commitment, then the Region/ Mode/Megaprograms Environmental Office must resolve the issue prior to delivering the environmental commitment file to the Project Engineer; this may be accomplished through communication with the source of the commitment (e.g., the appropriate resource agency).
+490.04 Reflect environmental commitments in project design WSDOT’s E 1018 Environmental Policy Statement requires that WSDOT communicate compliance requirements to contractors/Design-Builders. The project design must reflect commitments from the environmental review process and the permits. Provide a copy of the commitment file to the Project Engineer responsible for design elements (such as structures, roadway, or stormwater), so they can ensure the project incorporates all design phase commitments into contract documents, and that those commitments get closed out. See Chapter 590 to incorporate environmental commitments into the contract, and Chapter 600 for information on closing commitments upon completion. WSDOT staff can use CTS to track commitments and generate a commitment file including all the environmental commitments that must be considered during the design phase of a project; refer to the help menu within CTS for instructions on how to use CTS to manage commitments and generate a list of all commitments.
+Tracking environmental commitments during design
+Chapter 490
+490.05 Track environmental commitments during design Environmental commitments must be tracked to determine how and when they are fulfilled, including those for which the contractor/Design-Builder is responsible. For each commitment, include a description, source of the commitment, responsible party (e.g., WSDOT, contractor/Design-Builder, or both), and applicable project phase(s) (e.g., design, construction, or maintenance). As commitments are fulfilled, update the commitment file to reflect their status as closed; if appropriate, also document how the commitment was fulfilled. Inquire with the Project Office Designers to discuss design commitments that are not incorporated or have a status of open. The Region/Mode/Megaprograms Environmental Office is responsible for clearly communicating to the Project Engineer the status of all commitments in the commitment file. Project teams may use CTS to track and manage environmental commitments. For your convenience, CTS contains commitments for some common and general permits and approvals; refer to the help menu within CTS for instructions on how to add and update commitments to a project and generate reports, including commitment close-out reports.
+490.06 Respond to noncompliance events during design WSDOT employees are obligated to report noncompliance (RCW 47.85.030(3)(a)). Section 225.05 of the Design Manual states the purpose of the Environmental Compliance Assurance Procedure (ECAP) for the design phase of a project, and provides instruction on how to recognize and rectify environmental noncompliance events.
+490.07 Applicable statutes and regulations
+• Applicability and responsibilities – 23 Code of Federal Regulations; 771.109
+• Transportation Project Delivery and Review – 47.85 RCW
+490.08 Abbreviations and acronyms CTS
+Commitment Tracking System
+ECAP
+Environmental Compliance Assurance Procedure
+FHWA
+Federal Highway Administration
+JARPA
+Joint Aquatic Resources Permit
+MDL
+Master Deliverables List
+NEPA
+National Environmental Policy Act
+PS&E
+Plans, Specifications, and Estimates
+RCW
+Revised Code of Washington
+RFP
+Request for Proposal
+SEPA
+State Environmental Policy Act
+Chapter 490
+Tracking environmental commitments during design
+490.09 Glossary These definitions provide context for tracking commitments in design. Some terms may have other meanings in a different context. Commitment – An obligation that WSDOT makes within an environmental document or agreement for the project; or an expectation imposed upon WSDOT by another agency through a permit or approval for the project. Commitments can be either the agency’s or the contractor’s/Design-Builder’s responsibility to implement. Commitment File – This file serves as the repository for all final environmental documents leading to development of the contract. Commitment Tracking System – The Commitment Tracking System (CTS) is a WSDOT web application that allows you to store commitments in a secure computer network server, plus manage the responsibility (WSDOT, contractor/Design-Builder, or both) and implementation method (guidance document or contract) for the commitment. It also allows you to store compliance records, document the status, and report details about commitments from their inception through project delivery and on to maintenance.
+Chapter 500 500.01 500.02 500.03 500.04 500.05 500.06 500.07 500.08 500.09 500.10
+Environmental permitting
+Introduction Scoping Roles and responsibilities Identify the Required Permits and Coordination Submit a complete permit application and obtain permits After permit issuance/permit modifications Manage permits and conditions during construction Links to permitting resources Abbreviations and acronyms Glossary
+500.01 Introduction Washington State’s transportation system policy goals include environmental protection: “To enhance Washington’s quality of life through transportation investments that promote energy conservation, enhance healthy communities, and protect the environment (RCW 47.04.280(1)(e)).” WSDOT is committed to protecting the quality of our air, water, cultural, and natural resources. Under our Environmental Policy Statement (WSDOT Executive Order 1018.03), WSDOT’s employees are directed to conduct business in a safe, secure, and environmental sustainable manner that protects the human and natural environment of the state. WSDOT’s efforts to ensure our activities meet this commitment include:
+• Promote sustainable practices to reduce greenhouse gas emissions and protect natural habitat and water quality.
+• Work with the tribes and federal, state, and local agencies to adequately protect our state’s natural and cultural resources.
+• Consult with tribes in order to protect treaty reserved rights and resources.
+• Strive for the most effective and efficient environmental review and approval processes.
+• Incorporate environmental commitments (such as permit conditions) into project-level contracts and track them throughout project delivery.
+• Participate in training concerning the department’s environmental stewardship responsibilities as appropriate to their job functions.
+• Be familiar with and adhere to all environmental commitments, policies, and procedures applicable to their activities.
+• Report compliance concerns and review environmental performance measures as a basis to continually improve the department’s environmental performance.
+Chapter 500
+Environmental permitting
+500.02 Scoping The permit process begins during project scoping (Chapter 300) when the Environmental Review Summary (ERS) is completed. Project Environmental Coordinators identify which permits would be required based on the initial scope of the project and the regulatory requirements. Understanding project and location activities is important to successfully identify permits and approvals. Here are examples of some project activity and locations that may require permits:
+• Within 200 ft. of a Shoreline of Stateside significance requires a shoreline permit or exemption.
+• Projects with federal funding, federal permits, or on federal land (federal nexus).
+• Impacts on sensitive resources such as cultural resources, wetlands, and waterbodies. We first seek to avoid impacting protected resources. When we cannot avoid impacts, we obtain environmental permits to comply with these laws. Resource agencies issue permits that include conditions so our work will have minimal impacts to the environment and, when needed, provide direction on mitigation to offset those impacts. Use the list of common permits and approvals list below to determine which permits may be required for your project. This list does not include approvals obtained as part of the early design stage of the project such as Endangered Species Act Compliance or the State Environmental Policy Act. Most of these permits and approvals are obtained during the late design stage. See the discipline chapters of this Environmental Manual for policy that applies to a single permit or approval. This chapter includes information that applies to multiple permits. Consult the Office of Regulatory Assistance and Innovation’s (ORIA) Regulatory handbook or resource agency staff to obtain information about permits and approvals not included in this chapter. Here is a list of the common environmental permits and approvals that are typically issued after the early design phase:
+• Stormwater and water quality (Environmental Manual Chapter 430 – NPDES Municipal General Permit (Stormwater& Water Quality webpage) – NPDES Construction Stormwater General Permit (Stormwater& Water Quality) – NPDES Bridge and Ferry Terminal Washing General Permit (Stormwater& Water Quality webpage) – NPDES Industrial Stormwater General Permit (Washington State Ferries Eagle Harbor Repair Facility) (Stormwater& Water Quality webpage) – NPDES Sand & Gravel Permit (Stormwater& Water Quality webpage) – NPDES Aquatic Plant & Algae Management (Stormwater& Water Quality webpage) – NPDES Aquatic Mosquito Control General Permit (Stormwater& Water Quality webpage) – Section 401 Water Quality Certification (Stormwater& Water Quality webpage)
+Environmental permitting
+Chapter 500
+• Wetlands and other waters Environmental Manual Chapter 431 – Corps Sect. 404 (Wetlands and other waters webpage) – Section 10 Bridge permit (Wetlands and other waters webpage) – Section 9 Coast Guard (Wetlands and other waters webpage) – Shoreline permits/approvals (Wetlands and other waters webpage) – Coastal Zone Management Act (CZMA) Consistency Certification (Wetlands and other waters webpage) – Water Rights (Environmental during construction webpage)
+• Special Flood Area (Environmental Manual Chapter 432) – Floodplain Development Permits (Floodplains webpage)
+• Fish, wildlife, and vegetation (Environmental Manual Chapter 436) – Hydraulic Project Approval (Fish webpage) – Incidental Take Authorization (Marine Mammals webpage)
+• Noise (Environmental Manual Chapter 446) – Noise variances (Noise webpage)
+• Land Use and Transportation (Environmental Manual Chapter 455) – Critical Areas (Land Use webpage) – Forest Practices (Land Use webpage) – Aquatic Use Authorization (Land Use webpage)
+• Cultural Resources (Environmental Manual Chapter 456) – Archeological Resources Protection Act Permit (Cultural Resources & archeology webpage) Clearing and Grading permits have some unique aspects because of WSDOT’s plenary authority. In general, you do not need a building, grading or clearing permit from the local agency for transportation-related work, such as state highway or bridge construction (RCW 36.70A.200(5)). This includes retaining walls, noise walls and activities required by a regulatory condition or requirement, such as stormwater facilities or mitigation sites. Some local agencies may use building, grading and clearing permit applications for their critical area or floodplain permits. Check with the city or county where the work will occur. See the Growth Management Act Critical Areas Ordinance and Floodplain Development Permit if the local government does use building, grading and clearing permits to meet other permit needs. Work on rest areas, ferry terminals and connections between state and local roadways may not be exempt.©
+500.03 Roles and responsibilities Effective communication between the environmental staff, the design team, and the resource agencies is crucial to build trust and efficiently permit a project. This section provides general guidance for the major groups involved in the permitting process. Be sure to follow guidance on WSDOT’s Environmental discipline webpages and region/ferries processes for permitting projects, if applicable.
+Chapter 500
+Environmental permitting
+500.03(1)
+Resource agencies
+• Understand the project(s) they are being asked to permit.
+• Help WSDOT determine permitting requirements (e.g., what is needed for a complete application, mitigation requirements) through verbal and written communication and conducting site visits.
+• Review applications and issue permits.
+• Provide technical and regulatory guidance.
+• Conduct site visits during construction to verify compliance with permits.
+• Provide close outs of permits whose sites meet the requirements.
+500.03(2)
+Environmental Manager/Assistant Manager/Supervisors
+• Track environmental scope, schedule, and budget.
+• Oversee environmental staff.
+• Help resolve environmental issues and disagreements.
+• Ensure compliance with federal, state, local, and tribal environmental requirements.
+• Foster good relationships with the resource agencies.
+• Review draft permit applications to ensure they are complete.
+• Notify resource agencies when required by the permits.
+• Record annual usage of general permits and report this annually to the Environmental Services Office (ESO).
+500.03(3)
+Project Environmental Coordinator
+• Coordinate with the Design Team to understand the project’s scope, schedule, budget, and project footprint.
+• Determine which permits a project may require.
+• Coordinate with environmental technical experts to determine a project’s impact to that resource and ensure completion of permit supporting documentation (e.g., wetland delineation, mitigation plan).
+• Determine if design changes affect permitting requirements.
+• Fill out the permitting section of the ERS and Environmental Classification Summary (ECS).
+• Coordinate early and throughout the project with resource agencies to identify permit requirements and discuss opportunities to avoid and minimize impacts to natural and cultural resources.
+• Ensure project coordination with appropriate Tribal contacts (when applicable) occurs during the permit application process.
+• Gather information and fill out permit applications.
+• Ensure consistency between project design, environmental documentation, and the permit application.
+• Submit complete and accurate permit applications to the agencies.
+• Track and assign permit conditions to ensure fulfillment.
+• Ensure environmental commitments are reflected in the construction contract.
+Environmental permitting
+500.03(4)
+Chapter 500
+WSDOT Environmental Technical Experts (Headquarters, Regions, and Ferries)
+• Identify project impacts on sensitive areas such as wetlands (Chapter 431), streams (Chapter 430), floodplains (Chapter 432), cultural resources (Chapter 456), fish and wildlife habitat (Chapter 436), and sites with hazardous waste (Chapter 447).
+• Document the impacts in technical reports or memos.
+• Develop mitigation options when resource impacts are unavoidable.
+• Help Project Environmental Coordinators answer technical permitting questions.
+• Provide assistance during construction as needed.
+500.03(5)
+Design Team
+• Provide project definition during scoping phase.
+• Provide project design information to help the Project Environmental Coordinator determine permitting requirements and complete the permit application.
+• Provide project drawings for the permit application package that meet the resource agency requirements.
+• Design the project to avoid and minimize impacts to environmental resources.
+• Communicate design changes to environmental staff.
+• Review permit applications to ensure consistency with design.
+• Incorporate environmental commitments into the construction contract.
+• Ensure plan sheets show sensitive areas.
+500.03(6)
+ESO Compliance Solutions Branch
+• Communicate permitting policy and process changes to regions, maintenance, Ferries, and other project environmental offices.
+• Create interagency agreements with resource agencies.
+• Develop and maintain permitting guidance.
+• Provide training to the regions, Ferries, and other project environmental offices.
+• Provide policy and technical support for Hydraulic Project Approval (HPA), Shoreline Management, Critical Areas Ordinance, Aquatic Land Use Authorization, Coastal Zone Management Consistency Certification, National Point Discharge Elimination System (NPDES) Bridge & Ferry Terminal General Permit, Water Rights, Clearing & Grading, and Floodplain permits and approvals (Permitting and Compliance Program),
+• Negotiate general permits (General Hydraulic Project Approvals (GHPAs) and NPDES Bridge and Ferry Terminal General Permit) and report annual usage to the resource agencies (Permitting Compliance Program).
+• Provide policy and technical support for Section 404 of Clean Water Act, Section 10 Bridge , Section 401 of the Clean Water Act, and Section 9 Coast Guard permits (Permitting Liaison Program).
+• Review environmental permitting bills from the legislature to determine their potential impact on WSDOT.
+• Organize statewide environmental coordinator roundtable meetings to discuss resource updates and lessons learned (Permitting and Compliance Program).
+• Lead the interagency Permitting Steering committee and other groups to meet the requirements set in RCW 47.85.020 (Permitting Liaison Program). 
+Chapter 500
+Environmental permitting
+500.03(7)
+ESO Policy Branch
+• Provide policy and technical support for Noise Variances (Air and Noise Program).
+• Provide policy and technical support for Archaeological Resource Protection Permit (Cultural Resource Program).
+500.03(8)
+ESO Stormwater Branch
+• Provide policy and technical support for Section 402 permits, including NPDES Municipal and NPDES Construction Stormwater General Permits.
+500.03(9)
+ESO Biology Branch
+• Provide policy and technical support for Incidental Take Authorizations under the Marine Mammal Protection Act (Fish and Wildlife).
+500.03(10)
+Regional Maintenance Environmental Coordinator (RMEC)*/ Maintenance Staff
+• Implement the Regional Road Maintenance Program to avoid and minimize impacts to fish and aquatic species.
+• Use WSDOT general permits for maintenance activities where possible.
+• Obtain project-specific environmental permits to ensure compliance with federal, state, local, and tribal environmental requirements.
+• Review long-term commitments from construction projects to ensure they can be fulfilled by WSDOT maintenance.
+• Communicate environmental requirements and provide training to maintenance staff.
+• Enter general permits usage into the Highway Activity Tracking System (HATS) database and conduct quarterly QA/QC.
+500.04 Identify the Required Permits and Coordination WSDOT conducts studies and gathers information during the environmental review phase (Chapter 400) to determine what permits are required for a project. The Project Environmental Coordinator works closely with the Design Team to obtain a good understanding of the funded project scope to successfully identify the permits. The Project Environmental Coordinator needs to know which activities trigger various permits. For example, any work that will use, divert, obstruct, or change the natural flow or bed of any of the salt or fresh waters of the state requires a HPA permit (see RCW 77.55.011(11)). See the scoping section above for detailed information on permits, statutory authorities, and guidance for the most commonly used federal, state, and local permits and approvals. WSDOT often discusses permit requirements during coordination with the resource agencies. There are many benefits for early project coordination including but not limited to; understanding what permits are needed and what information is required. See the identify permit and early coordination section for more information. Great communication with resource agencies throughout the design process can prevent schedule delays.
+* RMECs have similar permitting responsibilities for maintenance activities as Project Environmental Coordinators listed above.
+Environmental permitting
+Chapter 500
+Resource agencies issue most permits during the second half of the design phase. The timing may be different for Design-Build projects (or those using different contracting methods). Refer to the Design-Build Manual M 3126 for information regarding risks and strategy associated with environmental permitting of Design-Build projects. As the permits are issued, WSDOT reviews the conditions to ensure they can be implemented during construction. During the plans, specifications, and estimates (PS&E) phase, commitments from the permits are incorporated into the contract before advertising the project for bids (Chapter 590). In addition to the agency specific permit information, WSDOT must consider the agreements we have with resource agencies for some permits that may apply to various phases both before and after permit issuance. Resource agency staff and WSDOT’s permitting liaisons are another great resource for answering WSDOT’s permitting questions, including help with identifying permits and determining if the project is permittable. Project Environmental Coordinators are encouraged to coordinate early with these staff to discuss project details and to identify information the regulators need to process the application. Resource agency coordination is an opportunity to obtain technical feedback to avoid and minimize environmental impacts. This coordination also provides an opportunity to ask about how long the review process may take. The extent of early coordination should be proportionate to the level of environmental risk a project presents. For example, the level of early coordination for a project that expands the roadway, impacts wetlands, or requires in-water work should be more time intensive than a paver project. Having a clear understanding of permitting timelines will help WSDOT avoid project delays and surprises. WSDOT environmental staff should coordinate closely with the design team to ensure the project schedule accurately reflects amount of time it will take to obtain environmental permits and approvals. Project Environmental Coordinators and designers can reduce the time it takes to obtain permits and approvals by finding ways to avoid and minimize environmental impacts. For example, designers can steepen a road embankment or use retaining walls to avoid direct wetland impacts. Avoiding wetland impacts may prevent WSDOT from having to obtain a permit from the Corps. Federal and state policies and directives require WSDOT to first avoid and then minimize wetland impacts. Contact your region Biologist or visit the WSDOT’s Wetlands and Other Waters webpage for additional information. Project Environmental Coordinators can also check the WSDOT Fish and Stormwater & water quality webpages to see if the project activities are covered by existing general permits. One of the most commonly used general permits for preservation projects is the Bridge Maintenance and Preservation GHPA for bridge washing, painting, general maintenance and repair, and deck replacement. Once a Project Environmental Coordinator has determined which permits are needed, the time frame to obtain each permit should be reflected in the project schedule along with any predecessors. Sometimes permits can be predecessors for other permits. This will allow the project team to determine the critical path. The project schedule should allow adequate time for environmental permits to be obtained and permit requirements (environmental commitments) to be incorporated into the PS&E (or Request for Proposal for Design Build project).
+Chapter 500
+Environmental permitting
+500.05 Submit a complete permit application and obtain permits WSDOT uses the Joint Aquatic Resource Permit Application (JARPA) to obtain the aquatic permits from federal, state, and local resource agencies. JARPA is a single permit application for activities in or along aquatic environments. A multiagency committee created an application that applicants can use to apply for more than one permit at a time. However, some agencies require using a different application form. A complete permit application package submittal is typically comprised of three main parts:
+• A completed permit application
+• Permit drawings
+• Supporting documents WSDOT can reduce permitting schedule delays by submitting a complete permit application package to the resource agencies and by addressing comments from the reviewing agency. To reduce these delays, WSDOT collaborated with the Corps Seattle District, Ecology, and the Washington Department of Fish and Wildlife (WDFW) to develop and maintain complete permit application guidance (RCW 47.85.020(3)). This guidance identifies the information WSDOT is required to provide for the agencies to determine our application is complete. You may access complete permit application guidance on WSDOT’s Environmental discipline webpages. Project teams must perform internal reviews to ensure quality and consistency before submitting permit application materials to the resource agencies (RCW 47.85.020(4)). Once the agencies notify you that your permit submittal is complete, a “regulatory review clock” starts for some of the resource agencies. This term refers to the time an agency has to issue a permit decision to WSDOT. Some agencies have statutory requirements that set a maximum number of days they have to issue a permit decision. For example, WDFW has 45 days to issue Hydraulic Project Approval permits (RCW 77.55.021(7)b). The ORIA Environmental Regulatory Handbook provides permit information, including how long it takes agencies to issue certain permits. Local agencies (city, town, code city, or county) must make a final determination on all permits required for a project on a state highway no later than 90 days after we submit a complete permit application to the greatest extent practicable for WSDOT projects that cost less than five hundred million dollars (RCW 47.01.485).
+500.06 After permit issuance/permit modifications Once a resource agency issues a permit, WSDOT should immediately review the conditions to ensure its requirements are feasible and constructible. Engineers responsible for the project design and construction should review the environmental commitments. If WSDOT identifies a permit condition that is unclear or is not feasible, staff should first work with the resource agency permit writer. If there are unresolvable issues with the resource agency, the permit decision may need to be appealed. Appeal times vary depending on the agency issuing the permit. Follow appeal processes as outlined in the permit or within existing interagency agreements. WSDOT’s construction contracts must reflect the environmental commitments for which the contractor is responsible (Chapter 590).
+Environmental permitting
+Chapter 500
+Sometimes the scope of a project changes after the permit issuance. Environmental staff evaluates the impacts of the change to determine whether WSDOT needs to adapt environmental approvals or obtain new permits or permit modifications. Design and Construction engineering staff need to notify the Project Environmental Coordinator immediately when a project modification is proposed. The Project Environmental Coordinator will evaluate the scope change(s) to determine if a permit modification or additional permits are necessary. The Project Environmental Coordinator will coordinate with the appropriate resource agencies as needed to make this determination. If the change requires a permit modification, it must be secured before the contractor is allowed to do the work within the area that requires permit coverage. Some Design-Build projects obtain permits during the early design phase prior to RFP issuance. Permit modifications may be needed after the Design-Builder determines the final design.
+500.07 Manage permits and conditions during construction WSDOT is ultimately responsible for ensuring compliance with environmental permits and approvals during construction (Chapter 600). WSDOT employees have a role in ensuring that the contractor’s work is compliant with the environmental permits. Staff conduct field inspections to ensure that project activities comply with permit conditions and environmental commitments (RCW 47.85.030(3)). Visit the Environmental during construction webpage to access discipline-specific compliance guidance and other Environmental Manual chapters for discipline-specific compliance policy.
+500.08 Links to permitting resources
+• WSDOT Environmental Discipline webpages
+• JARPA
+• ORIA Environmental Regulatory Handbook
+500.09 Abbreviations and acronyms Corps
+US Army Corps of Engineers
+ECS
+Environmental Classification Summary
+EPA
+Environmental Protection Agency
+ERS
+Environmental Review Summary
+ESO
+Environmental Services Office
+GHPA
+General Hydraulic Project approval
+HPA
+Hydraulic Project Approval
+JARPA
+Joint Aquatic Resource Permit Application
+NPDES
+National Pollutant Discharge Elimination System
+NOI
+Notice of Intent
+ORIA
+Office of Regulatory Innovation and Assistance
+PS&E
+Plans, Specifications, & Estimates
+RMEC
+Regional Maintenance Environmental Coordinator
+Chapter 500
+Environmental permitting
+500.10 Glossary Approval – General term referring to any document other than a permit that needs a signature by someone in authority at the agency having statutory jurisdiction over that activity. The document may be called an approval, certification, concurrence, easement, or license, all of which represent an agency signifying, “Yes we authorize you to conduct this activity as long as you do it in this manner.” An approval may specify conditions under which the activity is performed. General Permit – Also referred to as a “Programmatic Permit,” a general permit is issued by a federal or state agency to cover a specific type of activity in a certain geographic area (national, statewide, or regional). For certain NPDES general permits, WSDOT must submit a “Notice of Intent” (NOI) to request coverage under the permit for a particular activity; the agency may approve or disapprove coverage. Individual Permit – A permit issued to WSDOT by a resource agency for a particular activity or project that is not covered by a General Permit; usually needed for more complex or extensive projects. JARPA – JARPA is a single permit application for activities within or near aquatic environments. Multiple resource agencies (federal, state, and local) developed application that applicants can use to apply for multiple aquatic permits. However, some state and local agencies may require separate permit applications. Permit – A document required by law and issued by a resource agency or tribe that authorizes a specific type of activity under certain conditions. Programmatic Permit – Also referred to as a “General Permit” a programmatic permit is issued to WSDOT to cover a certain type of activity such as bridge washing/cleaning, culvert maintenance, or bridge debris removal.
+Chapter 530 530.01 530.02 530.03 530.04 530.05 530.06 530.07 530.08
+Tribal Approvals
+WSDOT Policy for Working With Tribes Treaty Rights Section 401 Water Quality Certification by Tribes Section 106 Consultation Archaeological Resources Protection Act Permit Hydraulic Project Approval Tribal Law Permit Assistance
+530.01 WSDOT Policy for Working With Tribes WSDOT has a unique relationship with tribes due to their legal status, rights reserved through treaties, and cultural interests throughout the state. Tribes retain many sovereign rights that are guaranteed under treaties and federal laws. WSDOT maintains as government-togovernment relationship with 35 federally recognized Tribes. We recognize that each federally recognized Tribe is a distinctly sovereign nation. WSDOT employees will consult with Tribes on all decisions that affect their rights and interests. Consultation is independent from the public involvement process. Our goal is to create durable intergovernmental relationships that promote coordinated transportation partnerships in service to all of our citizens. Each reservation in the state constitutes a bordering jurisdiction for state agencies and projects may be subject to various Tribal permits or approvals.
+530.02 Treaty Rights Between 1853 and 1856, treaties were negotiated with tribes in the Washington Territory. In these treaties, tribes reserved a number of rights, including the “right of taking fish, at all usual and accustomed grounds and stations,” which was “further secured to said Indians, in common with all citizens of the Territory.” This phrase is at the heart of the tribal treaty fishing right, and has given rise to the important concept of “usual and accustomed areas” of the treaty tribes, or “U&A areas.” These areas may extend beyond a tribe’s reservation land and also apply to landless tribes. Supreme Court decisions and federal law have affirmed the continued validity of treaties. Federal agencies are bound by their trust responsibility and may require a project to address impacts to tribal treaty rights before issuing a permit. Early consultation with affected tribes is recommended to identify and resolve issues and thereby avoid delays in permitting. It is important to note, however that tribal areas of interest for consultation are not limited U&A areas. Tribal Consultation Area maps are available on the GIS Workbench. A summary of court adjudicated tribal fishing areas is available in the WSDOT Model Comprehensive Tribal Consultation Process for the National Environmental Policy Act.
+Chapter 530
+Tribal Approvals
+530.03 Section 401 Water Quality Certification by Tribes In Washington State, two agencies (EPA and Ecology) and eight tribes have Section 401 certification authority. The EPA has Section 401 certification authority for activities on most Tribal lands and on Federal lands with exclusive jurisdiction within the state of Washington. Find tribes with Section 401 certification authority on EPA’s Tribes Approved for Treatment as a State webpage. Ecology is authorized to make Section 401 certification decisions for activities on all other public (non-federal) and private lands in the state. See Chapter 430 for background on surface water quality standards and documentation and the WSDOT Stormwater & water quality webpage for Section 401 certification. Similar to the Department of Ecology, tribes have “Certified,” “Certified Subject to Conditions,” or “Denied Without Prejudice” activities covered by certain Nationwide permits (NWPs) within their jurisdiction. Contact the tribe for more information on these permits.
+530.04 Section 106 Consultation Tribes have a consultation role under Section 101 and 106 of the National Historic Preservation Act (NHPA). A Tribal Historic Preservation Office (THPO) can be established by the tribe pursuant to the NHPA and assert jurisdiction otherwise exercised by the SHPO on Indian lands. The following tribes have certified THPOs: Confederated Tribes of Colville, Confederated Tribes of Chehalis, Lummi Nation, Makah Nation, Nooksack Tribe, Port Gamble S’Klallam Tribe, Samish Indian Nation, Sauk Suiattle Indian Tribe, Skokomish Indian Tribe, Spokane Tribe of Indians, Squaxin Island Tribe, Stillaguamish Tribe of Indians, Suquamish Tribe, Swinomish Indian Tribal Community, and Confederated Tribes and Bands of Yakama Nation. WSDOT must consult with tribes on projects located within a tribe’s Consultation Area. Section 106 consultation usually occurs during the design/environmental review phase of a project; see Chapter 456 for background on Section 106.
+530.05 Archaeological Resources Protection Act Permit Under federal statute, tribal governments approve this permit when the project or activity is on tribal trust land. The Bureau of Indian Affairs issues the permit. See Chapter 456 for background on cultural resources and the WSDOT Federal, State, and Local Permits webpage for details on this permit and statutory authority. Contact Bureau of Indian Affairs, Portland Office, and the affected tribe(s) for details on how to apply.
+Tribal Approvals
+Chapter 530
+530.06 Hydraulic Project Approval The Washington State Department of Fish and Wildlife (WDFW) requires a Hydraulic Project Approval (HPA) for all non-tribal entities performing HPA activities on tribal trust lands and reservations. Several Tribes, such as the Yakama Nation, also issue approvals similar to an HPA. If you have a project on tribal trust lands or reservation, contact the Tribe’s natural resources office and WDFW’s biologist assigned to the project to determine whether an HPA and/or similar tribal approval applies. We recommend you coordinate with WDFW and the Tribe to ensure that any permit conditions are not in conflict with one another. Because of the complicated nuances of state, tribal, and federal law and jurisdiction, we recommend you discuss any questions of jurisdiction with ESO’s Assistant Attorney General.
+530.07 Tribal Law On reservation land, tribal laws may require permits and approvals similar to those required by counties and cities. These permits and approval are required when WSDOT works outside of the highway right of way on the adjacent reservation land. In cases where WSDOT has an easement rather than ownership, the tribe may retain jurisdiction to issue permits and approvals. Examples of permits that may apply include Tribal Environmental Policy Act (TEPA) determinations; critical areas approvals; clearing, grading, and building permits; land use approvals; noise variances; and utility permits. Contact the WSDOT Tribal Liaison for assistance in coordinating tribal permits on reservation land.
+530.08 Permit Assistance WSDOT’s Tribal Liaison is a central resource for tribal access and problem solving on natural or cultural resource issues relating to tribes for regions and offices that do not have a dedicated Tribal Liaison position. Consultation area maps for tribes are available on the GIS Environmental Workbench. See the WSDOT Tribal contacts webpage for tribal contacts. The WSDOT Centennial Accord Plan includes WSDOT’s Executive Order E 1025.01 on Tribal Consultation. See the WSDOT Tribal Liaison webpage for tribal contacts, links to tribal treaties, relevant statutes, and WSDOT’s Centennial Accord Plan and Communication and Consultation Protocols. The WSDOT Centennial Accord Plan includes WSDOT’s Executive Order E 1025.01 on Tribal Consultation. Contact tribal government for assistance with permits or approvals on projects that may affect tribal lands.
+Chapter 530
+Tribal Approvals
+This page intentionally left blank.
+Chapter 590 590.01 590.02 590.03
+Incorporating environmental commitments into contracts
+Reflect the environmental commitments in WSDOT’s contracts Incorporate environmental commitments into contracts Glossary
+590.01 Reflect the environmental commitments in WSDOT’s contracts WSDOT tracks and identifies commitments during the design process (see Chapter 490), as well as through construction and sometimes into maintenance (see Chapter 600). WSDOT Plans Preparation Manual M 22-31 Division 4 and WSDOT Design-Build Manual M 3126 Chapter 4 require that contract-relevant environmental commitments be communicated to the contractor/Design-Builder, respectively. If they aren’t incorporated into the contract, the contractor/Design-Builder is not obligated to implement the commitments WSDOT makes. Constructing the project is conditioned upon environmental commitments from, for example, National Environmental Policy Act documents, Washington State Environmental Policy Act documents, Endangered Species Act documents, interagency agreements, permits, and other environmental approvals. In addition, the WSDOT Environmental Policy Statement E 1018 directs WSDOT employees to communicate compliance requirements to contractors/Design-Builders. WSDOT has prepared a set of crosswalk documents for programmatic environmental commitments to show who is responsible and how they will be implemented; that is, the crosswalk documents identify the Standard Specification, General Special Provision, or Standard Plan for contract-relevant commitments. These crosswalk documents allow project teams to focus on contract-relevant commitments that are not covered by an existing specification, leading to the development of Special Provisions. The following crosswalk documents may be accessed through WSDOT’s Environmental guidance webpage, under the Tools, templates & links tab of the respective discipline’s webpage:
+• Hydraulic Project Approval Provisions for Water Crossings, accessible on WSDOT’s Fish webpage.
+• Hydraulic Project Approval Provisions for Fish Passage Projects, accessible on WSDOT’s Fish webpage.
+• General Hydraulic Project Approval – WSDOT Bridge Maintenance and Preservation, accessible on WSDOT’s Fish webpage.
+• Nationwide Permits – Standard commitments, accessible on WSDOT’s Wetlands & other waters webpage.
+• Programmatic Biological Assessment Minimization Measures for U.S. Fish and Wildlife Service and the National Marine Fisheries Service, accessible on WSDOT’s Endangered Species Act & Essential Fish Habitat webpage.
+• NPDES Construction Stormwater General Permit (Transfer of Coverage), accessible on WSDOT’s Stormwater & water quality webpage. For your convenience, the WSDOT Commitment Tracking System (CTS) web application contains these crosswalk documents and associated programmatic commitments; refer to the help menu within CTS for instructions on how to copy programmatic documents and their commitments into your project. 
+Chapter 590
+Incorporating environmental commitments into contracts
+590.02 Incorporate environmental commitments into contracts The Region/Mode/Megaprograms Environmental Office is responsible for creating and maintaining the commitment file (WSDOT Design Manual M 22-01 Section 225.04). Commitments assigned to the contractor/Design-Builder must be incorporated into contracts. For Design-Bid-Build projects, commitments for which the contractor is responsible are added into contracts during the Plans, Specifications and Estimates (PS&E) phase. For Design-Build projects, commitments for which the Design-Builder is responsible are added into the Request for Proposal (RFP); refer to the Design-Build Manual M 3126 Chapter 4, as well as the instruction boxes within RFP Template, Section 2.8 Environmental, for more information about incorporating commitments into the RFP. The level of detail incorporated into commitments differs by project delivery method (e.g., Design-Bid-Build or Design-Build). For example, commitments incorporated into Design-Bid-Build contracts are typically fairly precise because the contracting occurs further along in design. Alternatively, commitments incorporated into Design-Build RFPs may be more conceptual because they are described early in the design phase. For each commitment, identify which contract document will address the requirement. Per Section 590.01, refer to crosswalk documents or CTS to find contract coverage information for common and general commitments. Note, both delivery methods (i.e., Design-Bid-Build and Design-Build) may reference Standard Specifications and General Special Provisions (GSPs) in contracting documents. If it is determined that an environmental-specific Special Provision is needed for the project, or if an existing Standard Specification needs to be changed, the Region/Mode/Megaprograms Environmental Office should coordinate with the Project Office, appropriate headquarters (HQ) Subject Matter Expert(s) (SME), and HQ Environmental Compliance Lead; for Design-Build projects, you should also coordinate with the RFP Template Technical Requirement SME for the given section (e.g., 2.8 Environmental, 2.30 Water Crossings). The Project Office is responsible for facilitating an Environmental Commitments Meeting (Plans Preparation Manual M 22-31 Division 4). An Environmental Commitments Meeting isn’t the same as a preconstruction meeting, as it occurs during procurement (see Chapter 600 for more information on preconstruction meetings). During the Environmental Commitments Meeting, the Region/Mode/Megaprograms Environmental Office and the Design and Construction Project Engineers (or designees) review the commitment file to ensure responsibility for each commitment has been correctly assigned, and that contract documents accurately and thoroughly reflect commitments. Likewise, any commitments added or changed during procurement still need to be updated and tracked in the commitment file; see Chapter 490 for information on tracking commitments during design and Chapter 600 on closing commitments upon completion. It is the responsibility of the Region/Mode/ Megaprograms Environmental Office to clearly communicate to the Project Engineer at the Environmental Commitments Meeting how commitments are addressed within the contract. If using CTS to track commitments, refer to the help menu within CTS for instructions on how to create a Contract Coverage report.
+Incorporating environmental commitments into contracts
+Chapter 590
+590.03 Glossary These definitions provided context for incorporating commitments into contracts. Some terms may have other meanings in a different context. Commitment – An obligation that WSDOT makes within an environmental document or agreement for the project; or an expectation imposed upon WSDOT by another agency through a permit or approval for the project. Commitments can be either the agency’s or the contractor’s/Design-Builder’s responsibility to implement. Commitment File – This file serves as the repository for all final environmental documents leading to development of the contract. Commitment Tracking System – The Commitment Tracking System (CTS) is a WSDOT web application that allows you to store commitments in a secure computer network server, plus manage the responsibility (WSDOT, contractor/Design-Builder, or both) and implementation method (guidance document or contract) for the commitment. It also allows you to store compliance records, document the status, and report details about commitments from their inception through project delivery and on to maintenance. Environmental Commitments Meeting – A project-level meeting facilitated by the Project Office between the Design, Construction, Plans, and Environmental Offices used to incorporate commitments into contract.
+Chapter 590
+Incorporating environmental commitments into contracts
+This page intentionally left blank.
+Chapter 600 600.01 600.02 600.03 600.04 600.05 600.06 600.07 600.08 600.09
+Construction
+Overview Roles and responsibilities Environmental commitments by discipline Preparation for construction Compliance during construction Construction close out for environmental Applicable statutes and regulations Abbreviations and acronyms Glossary
+600.01 Overview Secretary’s Executive Order E 1018 Environmental Policy Statement directs all employees to be familiar with and adhere to all environmental commitments, policies, and procedures applicable to their activities. WSDOT employees take a role in ensuring that the contractor’s work complies with the environmental documents and permits by incorporating environmental permits into contract documents, monitoring for compliance during construction, enforcing the contract, and taking other measures described in these sections. After the design phase, a project should have a complete set of environmental documentation, permits, and approvals. In addition, a project will have a final set of plans, specifications, and estimates (PS&E). At this time, the project is publicly advertised and WSDOT accepts bids for completion of the work. The contract is then awarded. The contractor and WSDOT share commitments at a preconstruction meeting. Construction, including work plan submittals, begins soon thereafter. As construction is completed, the contract is closed out and maintenance of the project begins. Because the contractor is responsible for implementing a substantial number of environmental commitments that WSDOT made during project development, it is crucial to review all environmental documents, permits and approvals to ensure contractor relevant permit requirements make it into the contract (see Chapter 590). Chapters 490 and 590 explain how environmental commitments are tracked and incorporated into contract documents. Consistent implementation of commitments is necessary to achieve accountability during construction that leads to good relationships with tribes, resource agencies, and the public. The following sections of this chapter identify policies to ensure environmental compliance throughout construction. See WSDOT’s Environmental during construction webpage for discipline-specific procedures on ensuring environmental compliance.
+Chapter 600
+Construction
+600.02 Roles and responsibilities WSDOT builds trust and fosters positive relationships with the tribes, resource agencies, and the public by implementing the following roles and responsibilities during construction. Some of the tasks may be done by staff other than those identified below depending on how each Region/Mode/Megaprograms is structured.
+600.02(1)
+WSDOT Region/Mode/Megaprograms Environmental Manager
+• Ensure environmental staff are adequately trained to effectively support environmental compliance.
+• Establish clear expectations for environmental staff.
+• Foster good communication with resource agencies and the construction team.
+• Communicate WSDOT-owned commitments, especially all from the environmental review, permitting, and consultation processes, to the Project Engineer (PE) to ensure they are fulfilled.
+• Implement the Design and Construction Environmental Compliance Assurance Procedure (ECAP) (the Design ECAP located in the WSDOT Design Manual M 22-01 Section 225.05(1) and Construction ECAP located in the WSDOT Construction Manual M 41-01 Section 1-07.5).
+• Work closely with the PE to resolve issues as they arise.
+• Ensure noncompliance events are documented in the Commitment Tracking System (CTS) web application (per the Revised Code of Washington (RCW) 47.85.040(3)).
+• Document and share lessons learned to prevent recurring issues.
+600.02(2)
+WSDOT Project Engineer
+• Manage the contract in accordance with the Construction Manual M 41-01.
+• Ensure project office staff have the necessary training and equipment to ensure compliance with permit requirements.
+• Discuss environmental topics at the preconstruction meeting and review the environmental contract provisions (RCW 47.85.030(2)).
+• Establish submittals, schedule, and compliance expectations for the contractor and their subcontractors.
+• Ensure the contractor’s submitted plans (such as the Temporary Erosion and Sediment Control (TESC) Plan, Spill Control and Countermeasures (SPCC) Plan, and Temporary Stream Diversion (TSD) Plan) meet WSDOT’s technical and timing requirements before accepting them.
+• Establish compliance expectations of the contractor related to permit required discharge sampling, monthly data reporting, and Best Management Practices (BMPs) adaptive management.
+• Implement ECAP. Stop work being performed by the contractor that violates the contract provisions or environmental requirements and notify the Region/Mode/Megaprograms Environmental Manager (RCW 47.85.030(4)).
+• Communicate with the Region/Mode/Megaprograms Environmental Manager as needed.
+• Check with environmental staff about proposed design changes and change orders to ensure they are permitted.
+Construction
+Chapter 600
+600.02(3)
+WSDOT Environmental Coordinator and/or Project Office Inspector
+• Review all environmental commitments for the project.
+• Determine water quality monitoring requirements for the project, if in-water work will occur, and develop a strategy or plan to ensure compliance.
+• If the Project team uses the CTS web application to track and manage commitments, ensure the project has been entered into.
+• Coordinate with the PE to provide advance notifications to resource agencies to ensure compliance with environmental requirements.
+• Attend the preconstruction meeting and participate in discussing environmental requirements.
+• Ensure the contractor follows the conditions of the nighttime noise variance.
+• Review the contractor’s environmental compliance plans (like the TESC Plan, SPCC Plan, and TSD Plan) and forward any concerns to the PE.
+• Ensure the contractor creates and maintains a Site Log Book to comply with the National Pollutant Discharge Elimination System (NPDES) Construction Stormwater General Permit (CSWGP).
+• Ensure the contractor installs high visibility fencing (HVF) to protect sensitive areas as a first order of work in accordance with the Plans and Standard Specifications.
+• Ensure the contractor installs and maintains all BMPs in accordance with their TESC Plan and the CSWGP.
+• Ensure the contractor’s Erosion and Sediment Control (ESC) Lead submits erosion control inspection reports by the end of next working day following their inspection.
+• Conduct site visits to verify that the contractor’s ESC Lead’s inspections are adequate and to ensure issues are resolved.
+• Review design modifications and change orders to ensure they comply with environmental requirements.
+• Meet with resource agency staff when they visit the project site to document their concerns or recommendations.
+• Notify the PE when the project is not in compliance – initiate ECAP, as necessary.
+• Ensure the contractor samples site discharges as required per the CSWGP. Coordinators can receive automatic email notifications via Washington State Department of Ecology (Ecology) WQWebPortal whenever the contractor submits data.
+• Sample water quality as required per in-water work related permits, and ensure results from any in-water work sampling are sent to the Ecology federal permit lead.
+• If the project footprint increases, impacts to environmental resources change, or work means and methods are inconsistent with environmental requirements, permit modifications will likely be necessary; refer to Chapter 500 and the relevant discipline chapters’ Applicable permits & approval process sections in this manual.
+• For Design-Bid-Build projects, close out commitments once they are fulfilled (close-out reports are the responsibility of the Design-Builder for Design-Build projects).
+Chapter 600
+Construction
+600.02(4)
+WSDOT Environmental Technical Experts (Region/Modes/ Megaprograms Headquarters)
+• Verify environmentally sensitive areas in the field that need to be protected.
+• Review plans as requested and provide comments to the PE and the environmental coordinator/project inspector.
+• Install fish exclusion BMPs, and relocate fish per the fish exclusion protocols and permit requirements.
+• Monitor noise during nighttime work.
+• Monitor for cultural and archaeological resources.
+• Monitor for identified protected fish, birds, and other species.
+• Assess and support the PE in managing discovery of unknown suspect hazardous or regulated materials.
+600.02(5)
+Resource agencies
+• Provide technical and regulatory guidance.
+• Review project changes and issue new or modifications to permits or approvals if necessary.
+• Conduct site visits during construction to verify compliance.
+• Communicate concerns if compliance is not achieved and corrections are needed.
+600.02(6)
+WSDOT Environmental Services Office (Headquarters)
+• Assess and collaborate with Headquarters (HQ) Construction Office to update environmental Standard Specifications, General Special Provisions, and Standard Plans.
+• Communicate regulatory changes and lessons learned to the Region/Mode/ Megaprograms.
+• Develop and maintain ECAPs.
+• Provide environmental compliance training.
+• Track noncompliance events to look for trends and to identify lessons learned.
+• Ensure the Region/Mode/Megaprograms record noncompliance events in CTS.
+• Submit annual violation report (RCW 47.85.040) to the Washington State Legislature and Ecology.
+600.03 Environmental commitments by discipline Specific policies, practices, and requirements exist to protect the environment throughout the life of the project, including prior to, during and post construction. WSDOT and the contractor must implement a variety of BMPs to protect the resources outlined in the following sections. The implementation of BMPs should be incorporated into applicable commitments, be part of the Environmental Compliance Notebook (see Section 600.04(1)) and closed out upon completion (see Section 600.06(1)). See WSDOT’s Environmental during construction webpage for discipline-specific procedures on ensuring environmental compliance.
+Construction
+Chapter 600
+600.03(1)
+Geology & soils
+WSDOT minimizes impacts to the environment by limiting vegetation and soil disturbance (Chapter 420). WSDOT provides clearing limits to the contractor in the contract plans. Standard Specifications Section 1-08.4 requires the contractor to install HVF to designate the clearing limits in the field. HVF must be installed as a first order of work. Standard Specifications Section 1-07.16(2) defines additional requirements for the contractor to protect vegetation. WSDOT restricts the amount of soil the contractor can disturb within the clearing limits. Within the clearing limits, contractors are required to install BMPs to prevent disturbed soil from eroding. Refer to Standard Specifications Section 8-01.3 for contractor requirements. WSDOT’s expectations for controlling erosion are covered in Construction Manual Sections 8-01 and 9-14, and in the Temporary Erosion and Sediment Control Manual M 3109. Many areas of Washington are prone to geologic hazards. Two hazards that are frequently addressed along transportation corridors are landslide prone areas and areas that are subject to earthquake caused instability. Projects in these areas often require ground improvements to mitigate the risks caused by these geologic hazards. Typical ground improvement techniques that could cause impacts to adjacent water bodies include the following:
+• Stone columns – Stone columns are a ground improvement technique that combines soil densification and partial replacement of unstable material with crushed rock. The operation includes injection of compressed air or water into the ground as a probe is vibrated to funnel aggregate to the end of the probe. The injection of air or water into the ground may cause surface turbidity at or near the injection location. Ecology expects WSDOT to implement BMPs to prevent impacts to water bodies when doing stone column ground improvement work. Ecology also expects WSDOT to visually monitor adjacent water bodies for air percolation and perform water quality sampling if a sheen or turbidity is observed.
+• Grout injection techniques and replacement of soil with grout such as compaction grouting, jet grouting, and deep soil mixing – These techniques consist of mixing cement grout with site soils typically below the ground water elevation. This injection technique may cause surface turbidity at or near the injection location. Ecology expects WSDOT to implement BMPs to prevent impacts to water bodies when performing grout injection techniques. Additional subsurface construction such as directional drilling for utilities and drilled columns for bridge abutments can impact adjacent water bodies when drilling muds escape from the bore/shaft and into the environment. Ecology expects WSDOT to implement BMPs to prevent impacts to water bodies when performing grout injection techniques. WSDOT has policies to address soil and other geotechnical issues in WSDOT Geotechnical Design Manual M 46-03, during construction for design bid build and design build projects. Please see well decommissioning requirements for the removal of piezometers and the decommissioning of wells (see Geotechnical Design Manual Chapter 3).
+Chapter 600
+Construction
+600.03(2)
+Air
+WSDOT’s policy implements BMPs for preventing pollutants that impact air quality during construction. Local air pollution authorities are concerned with fugitive dust, which is particulate matter suspended by wind or human activities. Standard Specifications Section 1-07.5(4) requires the contractor to follow the rules of the local air pollution authority. A list of BMPs to prevent fugitive dust is available from the Associated General Contractors of Washington in the publication, Guide to Handling Fugitive Dust From Construction Projects. In the counties under the Puget Sound Clean Air Agency’s jurisdiction (King, Kitsap, Pierce, and Snohomish), WSDOT projects must follow the Memorandum of Agreement with Puget Sound Clean Air Agency – Fugitive Dust. WSDOT has a no idle policy that directs employees to turn off engines when their vehicles are not in motion. Refer to Chapter 425 for additional guidance.
+600.03(3)
+Stormwater & water quality
+Refer to Chapter 430 and WSDOT’s Stormwater & water quality and Environmental during construction webpages for policy and procedures on ensuring compliance related to stormwater, water quality and groundwater.
+600.03(4)
+Wetlands & other waters
+WSDOT’s Wetlands Protection and Preservation policy E 1102.00 directs employees to protect wetlands during construction. The contractor is required to restore any fencing damaged or removed throughout the life of the project (see Standard Specifications Section 8-01.3(1)). Wetlands that are not permitted for impact must be protected by HVF (See Section 600.09). Maintaining the fence will ensure that contractors don’t cause impacts to areas that have not been permitted. Changes to the limits of work require re-evaluation of wetlands. If the impacts to wetlands change, the project permits and mitigation requirements may also need to change. These changes must be coordinated through the project environmental coordinator and provided to the wetland mitigation design team, so that WSDOT can apply for permit amendments. The PE and Construction Inspectors should seek assistance from the Region or HQ wetland biologist supporting the project as needed to evaluate wetland issues that arise during construction. The environmental coordinator should secure approval from permitting agencies before deviating from mitigation plans and permits. If a deviation occurs before you receive approval, the PE should work with the Region environmental coordinator to report the deviation to permitting agencies.
+Construction
+Chapter 600
+Compacted soils can decrease the success of wetland compensation sites by changing surface hydrology and increasing competition pressure on native plants. When constructing wetland compensatory mitigation sites, use the following measures to minimize soil compaction:
+• Use low ground pressure equipment
+• Restrict access points on the compensation site
+• Limit paths or roadways within the site
+• Rip or till compacted soils
+• Use mats such as steel or plastic plates or hog fuel to reduce compaction caused by equipment
+600.03(5)
+Fish, wildlife & vegetation
+See Chapter 436 and WSDOT’s Environmental during construction webpage for policy and procedures on ensuring compliance related to fish, wildlife and vegetation.
+600.03(6)
+Noise
+Noise generated during construction affects both people and wildlife. Chapter 446 states that WSDOT’s policy is to comply with the local jurisdiction’s noise ordinance. If night work is planned, the project may have a noise variance with specific conditions. WSDOT and the contractor must follow all conditions pertaining to the noise variance. Chapter 436 states that conditions that protect wildlife from noise originate from consultations for ESA, Marine Mammal Protection Act, Migratory Bird Treaty Act, and Gold and Bald Eagle Protection Act. The contract provisions will contain specific noise requirements that must be followed by the contractor. These typically take the form of timing restrictions and in-water work windows. In some cases, the trained biologists are required to be on site during pile driving in-water.
+600.03(7)
+Hazardous materials & solid waste
+See Chapter 447 and WSDOT’s Environmental during construction webpage for policy and procedures on ensuring compliance related to hazardous materials (HazMat) and solid waste management.
+600.03(8)
+Transportation
+WSDOT’s policy is to protect pedestrians and the traveling public as they travel through construction projects. Construction Manual Section SS 1-07.23(1) clarifies the responsibilities for the PE to oversee contractor compliance for protecting pedestrians during construction and mitigation for any impacts. WSDOT must also ensure minimal disruption to existing modes of transportation. Refer to Construction Manual Section SS 1-07.17 for policy related to railroad traffic. See Chapter 455 and WSDOT’s Environmental during construction webpage for more information on land use and transportation.
+Chapter 600
+Construction
+600.03(9)
+Cultural resources
+It is WSDOT policy to avoid impacts to archaeological and historic resources that may be encountered during construction (Chapter 456). Standard Specifications Section 1-07.16(4) provides an overview of compliance procedures and policies pertaining to historic and archaeological resources during construction, including the inadvertent discovery of human skeletal remains. A project specific Inadvertent Discovery Plan (IDP) or Unanticipated Discovery Plan (UDP), developed by a Region/Mode/Megaprograms Cultural Resources Specialist, is required to address the unanticipated discovery and treatment of cultural resources that may be encountered during construction. Should archaeological materials or (suspected) human remains be discovered during project activities, refer to the IDP/UDP and notify the appropriate federal, state, and tribal partners. The Contractor shall (1) notify the PE of any such finds, and (2) cease all work adjacent to the discovery in an area adequate to provide for the total security and protection of remains.
+600.03(10)
+Public services & utilities
+Construction Manual Section SS 1-07.23(1) describes how WSDOT ensures the contractor minimizes impacts to public services, including but not limited to, public works departments, schools and buses, or police and fire services. Standard Specifications Section 1-07.23(1) requires the contractor to conduct all operations with the least possible inconvenience to the public and to provide adequate safeguards to protect the life, health, safety, and property of the public. The contractor must also protect the rights of property owners and businesses adjacent to WSDOT projects. Impacts to public services vary from project to project, making it difficult to develop standard specifications to address these issues. WSDOT may include special provisions in their contracts to meet the commitments made to local jurisdictions during the environmental review and permitting processes. WSDOT is committed to a successful partnership with public and private utility companies. Construction Manual Section SS 1-07.17 addresses responsibilities for both the PE and the contractor to coordinate project work with utility companies when necessary. The Utilities Manual M 22-87 explains that utility companies are required to obtain their own permits and are responsible for compliance when working within WSDOT Right of Way (See Chapter 458).
+600.04 Preparation for construction 600.04(1)
+Prepare an Environmental Compliance Notebook for the project
+WSDOT’s Construction Manual Section 1-05.1 states that it is WSDOT policy is to incorporate all environmental commitments into the contract. Compiling all the environmental requirements, reference materials, and contact information into one place is a useful tool for PEs and their staff. The project can prepare an Environmental Compliance Notebook (or Binder) in order to accomplish this task. WSDOT’s Construction Manual Section 1-05.1 recommends that the PE use relevant information from the Environmental Compliance Notebook during the preconstruction meeting (See Section 600.04(2)) and throughout the project. The environmental coordinator should communicate with the Project Office to determine who is responsible for preparing and maintaining the Environmental Compliance Notebook.
+Construction
+Chapter 600
+A list of commitments, or the commitment file, is an important component of the Environmental Compliance Notebook. See Chapter 490 for information on establishing a commitment file, and Chapter 590 for incorporating commitments into contracts. WSDOT staff can use CTS to generate and maintain a commitment file (including all environmental commitments that must be considered during the life of the project) for inclusion in the Environmental Compliance Notebook. Refer to the help menu within CTS for instructions on how to use CTS to manage commitments and generate a list of all commitments. An Environmental Compliance Notebook includes, but is not limited to, the following information:
+• Contacts (e.g., WSDOT Region/Mode/Megaprograms Environmental, Design and Construction Offices; contractor/Design-Builder; resource agencies; emergency spill reporting)
+• Commitment file
+• Environmental notification requirements
+• Permits and Approvals
+• Inspection forms/checklists
+• UDP or IDP
+• TESC Plan
+• SPCC Plan
+• Any other project-specific plans and associated necessary forms (e.g., TSD Plan, Wetland/ Stream Mitigation Plan; Fish and Aquatic Species Exclusion Plan)
+• Good Faith Inspection (GFI) report(s)
+• A copy of the Design and Construction ECAPs It is recommended that an electronic copy of the Environmental Compliance Notebook be saved to the project files and that a copy is always accessible at the project site. For Design-Build projects, refer to the project-specific Request for Proposal (RFP) for submittal requirements and schedules (See WSDOT Design-Build Manual M 3126 Chapter 4 for more information).
+600.04(2)
+Discuss environmental compliance at the preconstruction meeting
+Standard Specifications Section 1-07.9(1) states that the contractor has responsibility for compliance requirements associated with all parts of the Work necessary to complete the contract. Construction Manual Section 1-05 requires the PE to discuss the project with the contractor and exchange a variety of information, including compliance expectations. In most cases, the PE and contractor discuss the project and exchange information at a preconstruction meeting. A preconstruction meeting occurs after contract award and prior to construction activities. RCW 47.85.030 requires WSDOT to conduct preconstruction meetings, as does the Memorandum of Agreement concerning the Implementation of the Fish and Wildlife Hydraulic Code for Transportation Activities. WSDOT uses this meeting to establish environmental expectations with the contractor. An expectation will be that environmental commitments cannot be changed through innovative cost saving proposals or other similar contractor suggested changes. Alternatively, for projects with complex environmental issues, it may be necessary to hold an additional environmental-specific preconstruction meeting. 
+Chapter 600
+Construction
+Staff from the Region/Mode/Megaprograms Environmental Office should coordinate with the PE to determine if and how to support the PE at preconstruction meetings. Consider discussing the following topics at the preconstruction meeting:
+• Locations and protection of environmentally sensitive areas
+• Risky elements of the construction project
+• Schedule for earth work and implementation of BMPs
+• Inspections and documentation (e.g., GFI reports)
+• Expected content and schedule of submittals from the contractor, such as the TESC, SPCC, and TSD Plans
+• Verification that credentials exist and are current for the environmental work, for example: CESCL certification and 40-hour HazMat certification
+600.04(3)
+Take environmental training
+Although the contractor is responsible for compliance when delivering a project, RCW 47.85.040 instructs WSDOT to continue efforts to improve training and compliance. Specifically, WSDOT must provide training in environmental procedures and permit requirements for those responsible for project delivery. Note that some permits or approvals may have specific training requirements (e.g., the NPDES Municipal Stormwater Permit requires that all WSDOT staff responsible for designing and implementing TESC Plans take WSDOT’s Construction Site Erosion & Sediment Control Training). WSDOT staff can find a listing of instructor-led and online courses relevant to environmental compliance in WSDOT’s Learning Management System (LMS) course catalog. Staff may also contact the Region/Mode/Megaprograms Environmental Office or HQ Environmental Services Office for additional training opportunities.
+600.04(4)
+Provide notifications and submittals to resource agencies
+Project permits and approvals often require WSDOT to provide notifications or submittal to resource agencies prior to beginning or completing certain activities. Failure to provide required notifications or submittal is a noncompliance event. The PE should work with staff and from the Region/Mode/Megaprograms Environmental Office to determine which and when activities require notifications and submittals for the project. Examples of activities or situations that might trigger a notification and/or a submittal include:
+• Geotechnical activities like pile driving and removal, and well installation and removal.
+• Underground storage tank removal
+• Demolitions
+• Preconstruction meeting
+• Request for Chemical Treatment
+• In-water work
+• Completion of project work
+• Noncompliance with a permit condition or regulation
+• Sampling that indicates an exceedance
+• Stream restoration/reclamation
+• Permitted work within wetlands
+Construction
+Chapter 600
+• Removal of contaminated soil
+• Stream diversions
+• Mining (including surface pits)
+• Wetland or stream mitigations site construction, which requires Right of Way plan or Sundry Site plan submittal
+600.04(5)
+Mark clearing limits and protect sensitive areas
+All WSDOT projects have boundaries that must be marked to keep contractors from clearing land not permitted for impacts. Construction Manual Section SS 2-01.3(1) provides instructions on marking clearing limits. The Temporary Erosion and Sediment Control Manual M 3109 and the Standard Specifications Section 1-08.4 requires these limits be marked prior to the start of clearing activities. Flagging, staking, and silt fence, for example, are some appropriate methods to define the project boundary. It is the responsibility of the Region/ Mode/Megaprograms Environmental Office to compare the permit drawing to the contract plans and confirm the permitted area of impact is correctly shown in the plans with the HVF symbol. WSDOT contracts require HVF to be installed as a first order of work. Use HVF to protect sensitive areas and their buffers where impacts are not permitted. The HVF shall be maintained throughout the life of the project. Sensitive areas include, but are not limited to:
+• Wetlands and their buffers
+• Surface water features and their buffers
+• Mitigation areas
+• Areas of vegetation to be preserved
+• Archaeological and historical features
+• Known Contaminated areas beyond clearing limits
+600.05 Compliance during construction 600.05(1)
+Enforce the contract during construction
+WSDOT’s policy, as explained in Chapter 590, is to fully supplement contracts with environmental commitments. As a result, enforcing the contract is the best way to obtain compliance with a majority of WSDOT’s commitments and avoid additional impacts. The contract is defined in Standard Specifications Section 1-04.2 and includes: Addenda, Proposal Form, Special Provisions, Contract Plans, Amendments to the Standard Specifications, Standard Specifications, and Standard Plans. Standard Specification Section 1-05 describes the authority of the engineer, assistant engineers, and inspectors, which is critical to enforcing the contract. Refer to Construction Manual Section 1-05 for more information about the PE’s authority, and Section 8-01 for contract enforcement expectations (specifically with regard to erosion control). WSDOT employees must make sure the contractor’s work complies with the environmental documents and permits. Tracking commitments using CTS or other commitment tracking tool assists the project in overseeing environmental compliance during construction, especially if the commitments have been accurately tied to specific contract documents (see Chapter 590). When a project is not complying with a permit or environmental regulation, 
+Chapter 600
+Construction
+the PE must immediately order the contractor to stop all nonconforming work and implement measures necessary including reporting (RCW 47.85.030(4)). Refer to ECAP to learn more about how to recognize and rectify environmental noncompliance and ensure prompt notification to WSDOT management and resource agencies (Design ECAP located in the WSDOT Design Manual Section 225.05(1) and Construction ECAP located in the WSDOT Construction Manual Section 1-07.5).
+600.05(2)
+Respond to project modifications
+There are times during construction when the scope of the project changes in order to accommodate additional work, save money, shorten project timelines, minimize impacts to traveling public, or for safety. These are all legitimate reasons, but the impacts of the change must be evaluated to determine whether WSDOT needs to obtain permit amendments, apply for a new permit, or re-evaluate impacts to comply with permits and approvals like NEPA/ SEPA, ESA, and Section 106 of the National Historic Preservation Act. If so, WSDOT must allow extra time to obtain additional permits or approvals. Make sure to coordinate with the Region/Mode/Megaprograms Environmental Office when a project modification is proposed. Also, ensure that updated or new commitments are entered into CTS or other commitment tracking tool (see Chapter 490). For Design-Build projects, refer to the project-specific RFP for more information on how to respond to project modifications (see WSDOT Design-Build Manual Chapter 4 for more information).
+600.05(3)
+Respond to noncompliance
+WSDOT employees are obligated to report noncompliance (RCW 47.85.030(3)(a)). WSDOT’s ECAP (as described in the Design Manual Section 225.05(1) and the Construction Manual Section 1-07.5), provides instructions on how to respond to a noncompliance event, including the requirement to record all noncompliance events into CTS (regardless as to whether the project is using CTS for commitment tracking purposes).
+600.06 Construction close out for environmental Policies associated with construction close out are described below. See WSDOT’s Environmental during construction webpage for discipline-specific procedures as-sociated with construction close out.
+600.06(1)
+Close commitments upon completion
+WSDOT is committed to tracking commitments (RCW 47.85.040), which includes closing them upon completion. All commitments need to be closed out to ensure no future liability and appropriateness for final payment. For Design-Bid-Build projects, the environmental coordinator is typically responsible for closing out commitments once they are fulfilled. Most construction commitments are performed by the contractor, so achieving contract physical completion should be cause for closing out the commitment; however, it is recommended that projects close out commitments as appropriate throughout the life of the project to avoid more work at the time of project completion. The environmental coordinator confirms with the PE (or designee) that the work associated with each commitment is complete, and updates the commitment file to reflect the status as closed; if appropriate, how the commitment was fulfilled should also be documented.
+Construction
+Chapter 600
+For Design-Build projects, the Design-Builder must prepare an Environmental Commitment Close Out Report per the RFP (see WSDOT Design-Build Manual Chapter 4, as well as the instruction boxes within RFP Template, Section 2.8 Environmental, for more information). Closing out commitments is a difficult task considering the volume of commitments. However, WSDOT employees that use CTS to track and manage commitments can easily close commitments using the “Commitment Status” feature; refer to the help menu within CTS for instructions on how to close out commitments within CTS.
+600.06(2)
+Prepare Right of Way or Sundry Site plans and as-built reports for wetland and stream mitigation efforts
+Submit the Right of Way or Sundry Site plan as evidence of permanent compensatory mitigation site protection as required by the Corps 404 and Ecology 401 permits. See the permit conditions for the submittal due date for Right of Way/Sundry Site plans. Meet with the PE (or designee) to discuss Right of Way/Sundry Site submittal requirements for the compensation site. Transmit the Right of Way/Sundry Site plan update request to the Region Right of Way Office (Ferries and Megaprograms projects work with the Region or HQ Right of Way Office, depending on the project). The Right of Way engineer will develop a draft Right of Way/Sundry Site plan update including text that shows the permit number. The area to be protected in perpetuity must be labeled as “Mitigation Site” with the compensatory mitigation site name. Review the Right of Way/Sundry Site plan draft for accuracy and submit to the GeoMetrix Office. The GeoMetrix Office will prepare the Right of Way/Sundry Site map in accordance with the permit conditions. Go to the Manage compensatory mitigation sites section on WSDOT’s Environmental during construction webpage to find instruction on how to prepare as-built reports.
+600.06(3)
+Initiate post-construction monitoring
+Wetland mitigation monitoring If a wetland compensatory mitigation site was constructed for the project, WSDOT is obligated to monitor wetland mitigation sites for up to ten years. As construction nears completion, the PE must submit information to the HQ Wetland Program so monitoring can commence. The wetland monitoring group needs the as-built plans to begin monitoring. Include the as-built plan when you submit the monitoring start-up form. Go to the Manage compensatory mitigation sites section on WSDOT’s Environmental during construction webpage to find the monitoring start-up form and instructions.
+Fish passage ESO’s Stream Restoration Program takes the lead on monitoring and storing information on WSDOT fish passage projects. WSDOT evaluates all fish passage projects immediately upon completion of construction to ensure they conform to construction permits and design plans. Sites are also evaluated for their ability to pass fish using WDFW’s barrier assessment methods.
+Chapter 600
+Construction
+In accordance with the U.S. v. WA Culvert Injunction, representatives from tribal nations and state agencies subject to the injunction agreed upon and finalized the Monitoring Implementation Guidelines in , which are the basis of WSDOT’s Fish Passage Monitoring Plan. The Monitoring Plan provides a protocol that can be broadly applied to ensure a consistent and efficient post-project monitoring process for all WSDOT fish passage projects, and satisfies all state and federal permit requirements. WSDOT’s Fish Passage Monitoring Plan and Injunction Post-Project Monitoring Template are available for download from the “Fish Passage Program Delivery” tab of WSDOT’s Fish Passage Database. Fish Passage monitoring results are available for barriers corrected since 2013, through WSDOT’s Fish Passage Database, and are available and accessible to all WSDOT staff. Monitoring reports can be generated through the database for each site monitored. Monitoring reports are also available publicly online through WSDOT’s interactive Fish Passage Webmap; click on a corrected barrier and select “more info” under the site attributes (reports available for barriers corrected since 2013).
+600.06(4)
+Coordinate long-term maintenance
+WSDOT regularly makes project-level commitments that require long-term care. Ensure that the commitment file includes long-term commitments, and coordinate with WSDOT’s Maintenance and Operations personnel. It is vital that Maintenance and Operations personnel receive a copy of and understand these long-term compliance expectations, including maintenance for mitigation sites. WSDOT must maintain these sites in perpetuity. Transition from post construction wetland monitoring to maintenance is specifically described in Chapter 700. If using CTS to track commitments, ensure that long-term commitments are assigned to the maintenance phase of the project; refer to the help menu within CTS for instructions on how to assign project phase to a commitment and how to produce a report that specifically lists maintenance phase commitments.
+600.07 Applicable statutes and regulations
+• Transportation Project Delivery and Review – Chapter 47.85 RCW
+• Water Pollution Control – Chapter 90.48 RCW
+• Water Quality Standards for Surface Waters of the State of Washington – Chapter 173201A WAC
+Construction
+Chapter 600
+600.08 Abbreviations and acronyms CESCL
+Certified Erosion and Sediment Control Lead
+CSWGP
+Construction Stormwater General Permit
+CTS
+Commitment Tracking System
+ECAP
+Environmental Compliance Assurance Procedure
+Ecology
+Washington State Department of Ecology
+ESA
+Endangered Species Act
+ESO
+Environmental Services Office
+NEPA
+National Environmental Policy Act
+NPDES
+National Pollutant Discharge Elimination System
+PE
+Project Engineer
+PS&E
+Plans, Specifications, and Estimates
+RCW
+Revised Code of Washington
+RFP
+Request for Proposal
+SEPA
+State Environmental Policy Act
+SPCC
+Spill Prevention, Control and Countermeasures
+TESC
+Temporary Erosion and Sediment Control
+TSD
+Temporary Stream Diversion
+WAC
+Washington Administrative Code
+600.09 Glossary These definitions provide context to achieve environmental compliance. Commitment – An obligation that WSDOT makes within an environmental document or agreement for the project; or an expectation imposed upon WSDOT by another agency through a permit or approval for the project. Commitments can be either the agency’s or the contractor’s responsibility to implement. Commitment File – This file serves as the repository for all final environmental documents leading to development of the contract. Commitment Status – The status of commitments (opened, closed, cancelled, etc.) in the WSDOT Commitment Tracking System (CTS). Commitment Tracking System – The Commitment Tracking System (CTS) is a WSDOT web application that allows you to store commitments in a secure computer network server, plus manage the responsibility (WSDOT or contractor) and implementation method (guidance document or contract) for the commitment. It also allows you to store compliance records, document the status, and report details about commitments from their inception through project delivery and on to maintenance.
+Chapter 600
+Construction
+This page intentionally left blank.
+Chapter 700 700.01 700.02 700.03 700.04 700.05 700.06
+Maintenance and Operations
+Environmental requirements for maintenance and operations WSDOT maintenance and operation plans and policies Interagency agreements for maintenance activities Permits and approvals WSDOT manuals Abbreviations and acronyms
+700.01 Environmental requirements for maintenance and operations The purpose of this chapter is to summarize environmental requirements and procedures that apply to the Washington State Department of Transportation (WSDOT) Maintenance and Operations Program. At WSDOT, highway maintenance includes both maintenance and operations. The maintenance service objective, stated in the State Highway Systems Plan, is to “maintain and operate state highways on a daily basis to ensure safe, reliable, and pleasant movement of people and goods.” Maintenance work is performed to care for and maintain the highway and associated features so it substantially retains its original intended use and function. Maintenance activities include patching pavement, cleaning ditches and culverts, repairing slopes and streambank stabilization structures, controlling vegetation, and painting stripes on the road surface. Operations activities provide a direct service to ensure reliable use of the highway system. Activities include operating rest areas, reversible lane gates, highway lighting, traffic signals, snow and ice control, and keeping the roads operational during a disaster.
+700.01(1)
+Project management phases and maintenance
+Often environmental commitments made years before during design and environmental review and environmental permitting and PS&E will require ongoing maintenance and attention. Exhibit 700-1 illustrates the relationship between maintenance and operations and preceding phases of WSDOT’s transportation decision making process. Among the maintenance activities that may impact the environment are painting, sanding, anti-icing, applying herbicide, mowing and brush control, restoring native plants, and maintaining drainage facilities. Materials stored and used at maintenance facilities also have the potential to adversely impact the environment. The Maintenance and Operations Office provides environmental support at WSDOT facilities by assessing for the presence of hazardous or contaminated materials; managing disposal of hazardous or problematic waste; and providing basic regulatory awareness to Maintenance and Operations personnel. Exhibit 700-1
+Maintenance and Operations Phase
+Construction Phase
+Property Management Phase
+Maintenance and Operations Phase Maintenance Accountability Program Scores
+Prioritization of Tasks
+Active Maintenance
+Evaluation for Future MAP Scores
+Chapter 700
+Maintenance and Operations
+700.02 WSDOT maintenance and operation plans and policies WSDOT’s E 1018 Environmental Policy Statement issued by executive order on April 7, 2009 makes it clear that WSDOT will comply with environmental requirements and that it is each individual employee’s responsibility to ensure that happens. In 2003, WSDOT received coverage under the Regional Road Maintenance Program (RRMP) approved by NOAA along with the Regional Road Maintenance Endangered Species Act Program Guidelines that include various general practices and specific practices (such as BMPs) that WSDOT will use to avoid and minimize adverse impacts to fish and aquatic habitat. In areas where none of the referenced documents apply, and there is potential for a maintenance activity to harm a fish or aquatic habitat protected under the ESA, BMPs will still be utilized to avoid and minimize adverse impacts. The organizational structure of the program includes Regional Maintenance Environmental Coordinator (RMEC) positions that are dedicated to support environmental compliance in each of the regions. WSDOT uses statewide Regional Maintenance Environmental Coordinator Meetings to identify and announce any modifications or changes to the RRMP. New technologies are also discussed at these meetings. Modifications are shared with NOAA Fisheries for concurrence to maintain the status of “ESA compliant.” Additional forums are utilized or created if needed to adequately include key stakeholders (i.e., federal and state regulatory agencies and additional WSDOT personnel) in changes of applicable environmental protection practices. The Environmental Compliance Assurance Process for the maintenance program were updated in 2015. The purpose is to provide notification information and procedures to prevent noncompliance events or violations. These procedures cover notification for spills, planned in-water work, emergency in-water work, BMP performance, and violations. Training is an important part of implementing the RRMP. All new maintenance staff are trained on how to apply the program during the annual maintenance academy. Training includes both classroom and field courses to understand how to apply BMPs to achieve environmental outcomes. Training is also provided at the regional level on an as needed basis to ensure field operations are up to date on current compliance expectations. WSDOT ESO also provides training on Guidance for the Protection of Terrestrial Species protected under ESA. Guidance documents are in place for each of the region maintenance areas. They identify special management areas and BMPs to avoid and minimize impacts to terrestrial species including birds, plants and animals. WSDOT has developed Plans for maintaining vegetation along our highways to provide a “how to” guide for managing roadsides at the maintenance area level throughout the state. These plans determine the right tool or combination of tools, for the right plant at the right place and time. Vegetation management plans cover mowing and trimming, selective use of herbicides, improving soils, planting native plants, and the care of wetland mitigation sites. The Secretary’s Executive Order E 1102 Wetlands Protection and Preservation directs WSDOT employees to protect and preserve wetlands and manage wetland mitigation sites and other department owned wetlands for long-term stewardship.
+Maintenance and Operations
+700.02(1)
+Chapter 700
+Deteriorating Culverts and Preservation
+The culvert injunction requires the State to correct fish barrier culverts at the end of the culvert’s useful life. Prior to programming a deteriorating culvert for replacement using I-4 Funding, a Level 2 inspection must be completed documenting a poor or critical culvert condition. WSDOT maintenance staff conduct routine culvert inspections, twice a year, once before the fall/winter storms and once after the rainy season has ended to ensure they are clean and in good operating condition. Culverts may be inspected more or less frequently based on the past history of the particular culvert. When conducting a Level 1 inspection, if maintenance staff observe a problem exists with the culvert, they will describe the condition in the Highway Asset Tracking System (HATS), and the region hydraulic engineer will be alerted. If the Level 1 inspection results in a poor or critical rating, then it is assigned to a Hydraulic Engineer for a Level 2 inspection. Level 2 inspection is conducted by a Hydraulic engineer and is a more extensive evaluation of the culvert including hydraulic capacity, ability of the culvert to pass wood and sediment, and an evaluation of the potential risks to the highway and will result in recommendations and timeline to correct deficiencies.
+700.02(2)
+Fish Passage Project Adaptive Management
+When a Stream Restoration Monitoring Biologist monitors site and observes project at risk of losing fish passage or stream function, they shall notify Fish Passage Delivery, Hydraulics, and Region Environmental. The Region Environmental Manager and Fish Passage Tribal Liaison will notify and coordinate with WDFW and the Tribes. Hydraulics staff evaluate problematic sites and writes memos with recommendations for repair or retrofit. Hydraulics memos are sent to the Fish Passage Delivery Program Manager who will forward to the Region Engineering Manager, Region Environmental Manager, and CPDM, with a request for scoping and cost estimating for the repair or retrofit. The region is responsible for scoping, designing, permitting, and constructing the fish passage repair or retrofit. Once the repairs are made, a Stream Restoration Program monitoring will inspect the project for compliance and report findings in WSDOT’s Fish Passage Database. The culvert injunction requires WSDOT to monitor barrier corrections and evaluate whether their efforts to provide fish passage are effective in meeting the standards of the injunction. The injunction requires WSDOT to take reasonable steps to maintain their culverts in such a manner as to provide fish passage and to protect salmon habitat. Furthermore, WSDOT must correct problems within a reasonable amount of time, when any culvert corrected under the injunction remains a barrier culvert after attempted correction, or again becomes a barrier culvert following an initially successful correction. The WDFW MOA also outlines WSDOT requirements for work related to emergency culvert work and fish passage barrier replacement.
+Chapter 700
+Maintenance and Operations
+700.03 Interagency agreements for maintenance activities The following interagency agreements apply to the maintenance program activities. Appendix B includes an index to all of WSDOT’s environmental interagency agreements. Interagency agreements also exist at the regional level. For example, some regions may have agreements with their district USFS office, district WDFW, or local agency environmental departments.
+700.03(1)
+MOA Between WDFW and WSDOT – 
+The MOA describes how WSDOT and WDFW will cooperate to ensure that state transportation projects protect fish life and habitats, and ensure consistent and uniform application of RCW 77.55 (construction in state waters) and WAC 220-660 (hydraulic code rules). It includes procedures for emergency/disaster maintenance and repair. Appendix F of the MOA is maintenance guidelines. The WDFW MOA outlines WSDOT’s obligation to create and maintain an effective Chronic Environmental Deficiencies (CED) program to maintain some of the benefits of the agreement. The purpose of the CED program is to develop and implement long-term solutions at locations where frequent highway maintenance and repairs have negative impacts on fish and fish habitat. See 300.xx for more information on this program. To efficiently implement the program, WSDOT maintenance staff are tasked with notifying the CED Coordinator of potential new CED sites, providing updates on the status of active CEDs, and assisting with prioritization of CED projects.
+700.03(2)
+MOU on Highways Over National Forest Lands
+This  MOU establishes procedures for coordinating transportation activities on national forest lands. Provisions applicable to maintenance and operations:
+• WSDOT will coordinate with USFS on maintenance activities that might affect national forest lands, including: removal/disposal of dangerous trees, disposal of slash or other waste, material source or storage, changes to drainage patterns, snow and avalanche control, and rock scaling.
+• WSDOT will work with USFS to develop roadside vegetation management plans.
+• WSDOT will furnish and maintain all standard highway signs, including guide signs requested by the USFS.
+• WSDOT will coordinate with USFS for third party occupancy or use by utility facility installations on WSDOT easements.
+• Specifies responsibilities for signage for maintenance or emergency activities.
+• Specifies responsibilities for control of access to WSDOT easements by USFS or its permitees.
+Maintenance and Operations
+Chapter 700
+700.04 Permits and approvals As noted under Section 700.02, the RMEC is responsible for coordinating or processing required permits and approvals applicable to WSDOT maintenance activities at the regional level. This may include Federal, State, and Local Permits. Most WSDOT maintenance activities are covered by general or programmatic permits (e.g. NPDES permits and General HPAs). Many of these permits are located on the WSDOT Environmental permits & approvals webpage. In 2014, Ecology issued a NPDES Municipal Stormwater Permit to WSDOT. This permit covers the management of WSDOTs stormwater conveyance system. The Maintenance and Operations Office supports management and compliance with the permit. Additionally, when maintenance activities are carried out on tribal lands, environmental protection measures may be required by the tribal government or the U.S. Environmental Protection Agency (USEPA). Local governments may also have authority to issue permits regulating activities in their jurisdiction.
+700.05 WSDOT manuals Technical guidance is summarized by reference to the WSDOT manuals described below. Refer to these documents for details. Most manuals can be accessed online from the WSDOT Publications Services webpage. Maintenance Manual M 51-01 – This manual covers procedures for highway maintenance. In several chapters, maintenance activities have environmental implications: emergency operations (hazardous materials spills), drainage maintenance (aquatic habitat, water quality, wetlands, shorelines), bridge repair, roadside maintenance (integrated vegetation management), snow and ice control, and procuring materials from quarries or pits. Maintenance Accountability Process Manual – This document is the primary tool used by the Maintenance Office for evaluating program service delivery and identifying budget investment choices. Roadside Manual M 25-30 – This manual provides consistent guidelines for roadside management, and supplements guidelines in the Roadside Policy Manual M 3110. It is organized around a framework of roadside functions: operational, environmental, visual, and auxiliary. Environmental functions include water quality preservation, protection, and improvement; stormwater detention and retention; wetland and sensitive area protection; noxious weed control; noise control; habitat protection and connectivity; air quality improvement; and erosion control. Sections of the manual offer resources on designated and sensitive areas, wetlands, water quality, wildlife, and noise abatement.
+Chapter 700
+Maintenance and Operations
+700.06 Abbreviations and acronyms
+BMP
+Best Management Practice
+ESA
+Endangered Species Act
+HPA
+Hydraulic Project Approval
+NOAA
+National Oceanic and Atmospheric Administration
+NPDES
+National Pollutant Discharge Elimination System
+PS&E
+Plans, Specifications, and Estimates
+RRMP
+Regional Road Maintenance Program
+RMEC
+Regional Maintenance Environmental Coordinator
+USFWS
+United States Forest Service
+USEPA
+United State Environmental Protection Agency
+Chapter 800 800.01 800.02 800.03 800.04 800.05 800.06 800.07 800.08
+Property Management and Disposal
+Overview Environmental commitments for utilities accommodation Environmental considerations in real property disposal/lease Environmental considerations in disposal of pit sites Environmental considerations for changes in limited access Statutes and regulations Abbreviations and acronyms Glossary
+800.01 Overview The property management phase of the Transportation Decision-Making Process has three major elements: utility accommodation, surplus real property lease/disposal, and changes in limited access as shown in Exhibit 800-1. Exhibit 800-1
+Property Management Phase
+Maintenance and Operations Phase
+Property Management Phase Utilities Accommodation
+Surplus Real Property Lease/Disposal Limited Access Changes
+This chapter describes the environmental policies related to each of these elements and provides links to the appropriate manuals that describe the procedures for accomplishing this work.
+800.02 Environmental commitments for utilities accommodation The Utilities Accommodation Policy M 22-86 enables the department to allow the installation of public and private utilities within the state right of way provided that they do not interfere with the free and safe flow of traffic, or otherwise impair visual quality. This policy was established in cooperation with the Federal Highway Administrations and is consistent with state law and the American Association of State Highway and Transportation Officials (AASHTO) guidelines. Utility companies may request permission from WSDOT to install their facilities within the state rights of way under WSDOT-issued permits or franchises. These projects are almost always funded by the utility without any state or federal funding. The process is described in Utilities Manual Chapter 1. Utility funded projects are exempt from SEPA per WAC 197-11800(23). In addition, utility projects seldom have a federal nexus and typically don’t trigger NEPA review unless proposed within interstate rights of way. When proposed within the interstate system FHWA will require NEPA, ESA, and Section 106 compliance, as listed the Utilities Manual Section 120.12. To ensure your project is in compliance, coordinate review efforts with the Region Utilities Office.
+Chapter 800
+Property Management and Disposal
+800.02(1)
+Utility work performed as part of WSDOT projects
+Design Manual Chapter 510 describes the region’s responsibility to ascertain ownership of all utilities and arrange for necessary adjustment of utilities, including relocation, if necessary. Utilities Manual Chapter 6 describes general practices, policies, and procedures with respect to coordinating WSDOT project with utilities when a utility company’s facilities are impacted. It includes detailed procedures and examples for preparing PE agreements and construction agreements. It also includes information on roles and responsibilities, necessary agreements, cost responsibilities, environmental permitting and documentation, project award, and subsurface utility engineering. For WSDOT projects, potential impacts to utilities must be disclosed during the environmental documentation phase. Impacts to the built and social environment are considered under Social and Community effects (see Chapter 458). The analysis must also consider potential impacts to the natural and manmade environment caused by relocating utility lines. This may be done as part of the WSDOT project or by the utility company. See Section 458.06 and Utilities Manual Section 600.09(4) for guidance.
+800.03 Environmental considerations in real property disposal/lease WSDOT may determine that real property owned and under the jurisdiction of WSDOT is no longer required for transportation purposes, or that a non-highway use of WSDOT property should be allowed. If it is in the public interest, WSDOT may lease or dispose of the property by sale or exchange to entities listed in the Right of Way Manual M 26-01, or as detailed in state law. The legislature has mandated that WSDOT surplus and sell properties no longer needed for transportation purposes. Region RES offices periodically review the properties they manage and determine if any should be declared surplus. They also periodically receive requests from the public to lease portions of WSDOT right of way. Region RES determines if these actions are appropriate by preparing a lease/disposal review package for circulation through various disciplines of WSDOT, including region Environmental staff. Region Environmental staff reviews the property for consideration of the environmental issues listed below. The HQ Environmental Services Office provides technical assistance upon request. If the region determines it is appropriate to sell or lease the reviewed properties, Real Estate Services (RES) completes the necessary steps to complete the transaction as further detailed in Chapter 11 of the Right of Way Manual. The Region/Modal Environmental Manager determines if property is eligible for lease or disposal. The decision should take into account the environmental effect of the action, including:
+• The potential of the property to fulfill a future transportation need such as stormwater treatment, stream enhancement, noise walls, bridge replacement and roadway realignment.
+• The potential for the property to provide environmental mitigation. The potential for the proposed land use to adversely impact the safe and proper operations or maintenance of the highway presently or in the foreseeable future.
+• The need to comply with NEPA documentation requirements before seeking FHWA approval of the action.
+Property Management and Disposal
+Chapter 800
+When FHWA approval is required before WSDOT can make a lease or disposal decision, WSDOT’s action triggers a federal nexus. If a federal nexus is created, NEPA, NHPA, and ESA documentation must be completed prior to lease or disposal (23 CFR 771.117(d)(6)). Two common real estate decisions requiring FHWA concurrence or approval include: 1. When property being considered for lease or disposal is located within the right of way of an interstate highway or within the project limits of any project that FHWA reserves stewardship over. 2. If a parcel considered for lease or disposal was purchased with federal funding and the parcel will be sold for less than fair market value. If either of these conditions is met the region RES staff will notify region Environmental staff that NEPA has been triggered. NEPA is not required for transactions on non-interstate facilities sold/leased at fair market value. Property is not appropriate for lease or disposal if:
+• It is suitable for a future transportation need such as stormwater treatment, stream enhancement, noise walls, bridge replacement and roadway realignment.
+• It is suitable for retention to restore, preserve, or improve the scenic beauty adjacent to the highway.
+• It is suitable for inclusion in WSDOT’s wetlands inventory.
+• It is needed for a park and ride lot, flyer stop, or other programmed or known future highway needs.
+• It is suitable for water quality or flow control treatment facility location for future proposed widening or retrofit requirements.
+• Hazardous material is present on the site or any necessary cleanup has not been completed. If none of these environmental uses for the property become evident during the review, the property may be suitable for lease or disposal. If a lease/disposal is denied for any of these uses, region management should be involved to discuss the cost analysis required to retain the property, which may include assessments, ongoing costs to clear the property of illegal dumping or cleaning of frequent houseless encampments. The Region/Modal Environmental Manager will determine the appropriate level of environmental documentation and resources to be expended for each property review. A typical office review of a candidate property includes completion of an Environmental Checklist (Form 220-015). However, in some situations, completion of the checklist may not be necessary due to the size, location, or existing knowledge about the property. In other situations, the checklist may not provide enough information and an Environmental Classification Summary (ECS) form should be completed. The following documentation options may be considered:
+• Completion of a memo to file explaining why it was not necessary to complete the Environmental Checklist documenting that there are no endangered species, or historic/ cultural concerns associated with the property. At a minimum, the following statement should be included in the explanation: “Complies with NEPA (23 CFR 771.117(d) List), ESA and Section 106 of the NHPA.” An explanation should be provided for why no further documentation is needed, such as “the lease/disposal will not lead to construction.” Attach a copy of the memo to the electronic engineering review for disposal/lease file. 
+Chapter 800
+Property Management and Disposal
+• Completion of an Environmental Checklist (Form 220-015 or Environmental Classification Summary).
+• Completion of an WSDOT Local Programs or state ECS. If this option is chosen, the Region/Modal Environmental Office must attach a copy of the ECS to the RES-ER ECM property review package.
+• The proposed lease or disposal may be addressed as part of a larger action in an EA/EIS. If this option is selected, the appropriate document must be referenced in the comment section of the RES-ER ECM property review package and a short summary of the environmental issues attached. The HQ Environmental Services Office will not conduct a separate environmental review of lease and disposal actions unless specifically requested to do so by the Region/Modal Environmental Manager. If the region recommends lease or disposal of the property, the Environmental Checklist or other documentation is submitted to Headquarters by the region RES office.
+800.04 Environmental considerations in disposal of pit sites WSDOT owns and manages several mineral resources sites across the state commonly referred to as pit sites. Mineral resource sites include gravel pits, rock quarries, or barrow pits developed to produce mineral aggregates for highway projects. If the property to be disposed of is, or was a pit site, the following additional documentation needs to be included in the disposal review package:
+• Pit Evaluation Report (Form 350-023)
+• Reclamation Plan
+• Hazardous Materials Assessment and Remediation Reports Any suspected hazardous materials on WSDOT property should be reported to the Area Maintenance Superintendent (inside the operating right of way), Region RES Manager (outside the operating right of way), and Capital Facilities Manager. Areas of responsibility may overlap, but these managers maintain close lines of communications and will make sure the HQ Environmental Services Office and Attorney General’s Office are consulted for assessment, remediation, and determination of liability. See Chapter 447 for background and technical guidance on hazardous materials.
+800.05 Environmental considerations for changes in limited access Environmental impacts and/or benefits resulting from changes in access control must be disclosed during the environmental documentation phase of the project. This is typically done as part of the discussion of impacts to the built environment and can influence land use and transportation (Chapter 455), or the social and community network (Chapter 458). If a change in limited access control is included in the preferred alternative, you must complete the Environmental Checklist (Form 220-015) or complete as found in the Access Request Checklist following the procedure described in Design Manual Chapter 530. See Design Manual Chapter 520 for a general description of the types of access control on state highways, their purpose, and uses. See Design Manual Chapter 530 or the Access and Hearings webpage for a description of the process and requirements for Modifications to Limited Access.
+Property Management and Disposal
+Chapter 800
+800.06 Statutes and regulations
+• 23 CFR 645 Accommodating Utility Facilities
+• 23 CFR 771.117 Categorical Exclusions
+• 23 CFR 710.409 Disposal of excess real property
+• 23 CFR 710.405 ROW use agreements
+• Chapter 47.44 RCW Franchises on State Highways
+• Chapter 47.52 RCW Limited Access Facilities
+• RCW 47.12.120 Lease of Unused Highway Land or Air Space
+• RCW 47.12.063 Surplus Real Property Program (disposal)
+• WAC 468-34 Utility Lines – Franchises and Permits
+• Highways Over National Forest Lands MOU with the United States Forest Service
+800.07 Abbreviations and acronyms AASHTO
+American Association of State Highway and Transportation Officials
+CFR
+Code of Federal Regulations
+EA/EIS
+Environmental Assessment/Environmental Impact Statement
+ECS
+Environmental Classification Summary
+ESA
+Endangered Species Act
+FHWA
+Federal Highway Administration
+HQ
+WSDOT Headquarters
+NEPA
+National Environmental Policy Act
+NHPA
+National Historic Preservation Act
+PS&E
+Plans, Specifications, and Estimates
+RES-ER ECM
+Real Estate Services Electronic Review Software within WSDOT’s Electronic Content Management (ECM) system
+RCW
+Revised Code of Washington
+RES
+Real Estate Services
+ROW
+Right of Way
+WAC
+Washington Administrative Code
+WUCC
+Washington Utility Coordination Council
+Chapter 800
+Property Management and Disposal
+800.08 Glossary Franchise – A utility accommodation document that defines utility ownership, type, size, location, construction methods, maintenance, duration, and other information related to the utility installation operating on highway right of way, toll facilities, and the state ferry system. Utility – Privately, publically, or cooperatively owned lines, facilities, and systems for producing, transmitting, or distributing communications, cable television, electric power, light, heat, gas, oil, crude products, water, steam, waste, stormwater (not connected to highway drainage) and other similar commodities, including any fire or police signal systems, street light systems, and traffic control system interties, which directly or indirectly serve the public (see Utilities Manual Chapter 2). Limited Access – WSDOT controls access to and from the state highway to preserve the safety and efficiency of the facility. Limited access control is accomplished by purchasing the access rights from adjacent property owners. See Design Manual Chapter 520 for a policy guidance, implementing regulations, a description of the types of access control, their uses and benefits.
+Appendix A
+Executive Orders
+Environmental executive orders issued at the federal and state level can address a variety of policy matters, and they remain active until rescinded. The following are some active executive orders on environmental matters that may affect transportation projects:
+Presidential Executive Orders 11514
+Protection and enhancement of environmental quality
+11988
+Floodplain management
+11990
+Protection of wetlands
+12898
+Environmental Justice
+13006
+Locating Federal Facilities on Historic Properties in Our Nation’s Central Cities
+13007
+Indian Sacred Sites
+13112
+Invasive Species
+13166
+Improving Access to Services for Persons With Limited English Proficiency
+13175
+Consultation and Coordination With Indian Tribal Governments
+13186
+Responsibilities of Federal Agencies To Protect Migratory Birds
+13274
+Environmental Stewardship and Transportation Infrastructure Project Reviews
+13287
+Preserve America
+13693
+Planning for Federal Sustainability in the Next Decade
+13766
+Expediting Environmental Reviews and Approvals for High Priority Infrastructure Projects
+13778
+Waters of the US
+13807
+Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects
+Other Presidential Executive Orders can be found at the National Archives website.
+Page A-1
+Appendix A
+Executive Orders
+Governor’s Executive Orders 80-01
+Farmland Preservation
+80-18
+Environmental Permit Processing
+81-18
+Review of Federal Environmental Documents
+89-10
+Protection of Wetlands
+90-04
+Protection of Wetlands
+02-03
+Sustainable Practices by State Agencies
+04-01
+Persistent Toxic Chemicals
+05-01
+Establishing Sustainability and Efficiency Goals for State Operations
+05-03
+Plain Talk
+21-02
+Archaeological and Cultural Resources
+06-02
+Regulatory Improvement
+14-04
+Washington Carbon Pollution Reduction and Clean energy Action (superseded EO 09-05)
+12-02
+Workforce Diversity and Inclusion (superseded EO 93-07)
+WSDOT Executive Orders
+Page A-2
+E 1010
+Certification of Documents by Licensed Professionals
+E 1018
+Environmental Policy Statement
+E 1025
+Tribal Consultation
+E 1031
+Protections and Connections for High Quality Natural Habitats
+E 1032
+Project Management
+E 1087
+Title VI Policy
+E 1090
+Moving Washington Forward: Practical Solutions
+E 1102
+Wetlands Protection and Preservation
+E 1103
+Accommodation of Stormwater Runoff Onto Right of Way
+Appendix B
+Interagency agreements
+Over the years, WSDOT has entered into agreements with various agencies to clarify how they intend to deal with various environmental matters. These agreements include Memoranda of Understanding (MOUs), Memoranda of Agreement (MOAs), Implementing Agreements (IAs), and other interagency agreements. However, as circumstances change, these agreements (or parts of them) can become obsolete, and the agencies will occasionally void, replace, or amend their agreements. If you have questions about the status of an agreement, contact the WSDOT Environmental Services Office at 360-705-7493. WSDOT’s current agreements with other agencies on various environmental matters that affect WSDOT’s business practices, include the following: Agreement With
+Subject/Link to Agreement
+Ecology, WDFW
+Alternative Mitigation Policy Guidance for Aquatic Permitting
+FHWA, NMFS,USFWS
+Assessing Stormwater Effects in Biological Assessments
+CTUIR, FHWA
+Coordination and Consultation on State Transportation Activities
+Ecology
+Coordination and Cooperation on Environmental Issues Under Ecology Jurisdiction
+USCG, FHWA
+Coordinating to Improve Bridge Planning and Permitting
+DOH
+Drinking Water Well Protection (Sanitary Control Areas)
+WSCC
+Farmland and Forest Preservation
+PSCAA
+Fugitive Dust
+USFS
+Highways Over National Forest Lands
+Ecology
+Highway Runoff Manual Implementing Agreement
+ACHP, FHWA, SHPOs
+Historic Properties (Nationwide)
+ACHP, FHWA, WSHPO Historic Properties (Statewide Programmatic Agreement Implementing Section 106) WDFW
+Hydraulic Project Approvals Including Fish Passage and Chronic Environmental Deficiencies
+FHWA, WSDOT
+NEPA Programmatic Categorical Exclusions (PCE)
+FHWA, WSDOT
+Stewardship and Oversight Agreement
+FHWA, FTA, Sound Transit
+Noise Methodology and Criteria
+FHWA, USEPA
+Sole Source Aquifers
+WDNR
+Utilities on Bridges Over Aquatic Lands
+ACOE, Ecology, Wetland Compensation Bank Program FHWA, NMFS, USEPA, USFWS, WDFW Ecology
+Use of Environmental Covenant Alternatives at WSDOT Sites
+Page B-1
+Appendix B
+Interagency agreements
+This page intentionally left blank.
+Page B-2
+Appendix C
+Letters, Memos and Directives
+Environmental policy and procedure is often set in response to requests by other governmental agencies. These letters, memos and directives remain active until rescinded or superseded. The following documents influence environmental processes associated with transportation projects.
+Letters
+• FHWA, Division Administrator Dan Mathis letter regarding impacts to Resource Conservation Areas, 2016
+Project Delivery Memos
+• WSDOT Chief of Staff, Jerry Lindsey PDM 09-02 – High visibility Fence Clarifications, 2009
+Directional Memos
+• WSDOT Director Environmental Services, Megan White, Directional Memo ESO 2010-02 – guidance on the Avoidance of Agricultural Lands of Long-term Commercial Significance, 2010
+Page C-1
+Appendix C
+Letters, Memos and Directives
+This page intentionally left blank.
+Page C-2

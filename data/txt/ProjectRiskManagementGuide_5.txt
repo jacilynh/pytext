@@ -1,0 +1,488 @@
+dentification and management.
+These functions are critical to WSDOT's success in delivering projects on time and on budget. It is anticipated that Cost Risk Assessment (CRA) and Cost Estimate Validation
+Process® (CEVP®) reviews for each project can be accomplished in a reasonable time frame, including a 1–5 day concentrated workshop. WSDOT personnel, with the aid of multiple specialty groups, will coordinate CRA/CEVP®. Work may include the documentation of the viability of assumptions made regarding a project's configuration, scope, schedule, character, and, through risk analysis, the potential impact of risk events that may occur. The project may include creating reports that document information determined or discovered.
+Risk workshops vary based on project needs, but include risk identification, probabilistic risk assessment, development of management strategies, a probabilistic look at the effectiveness of management strategies, and other variants. The Risk Lead must use consistent methodology for probabilistic risk assessments.
+
+1 Flowcharts should as simple as possible but still represent the project activities in a realistic manner with proper sequence and durations (see Exhibit C-1).
+WSDOT Project Risk Management
+Page C-1 Risk Lead – Duties
+Section C
+The Risk Lead plays a vital role in ensuring the analysis is sound and objective. It is also imperative that the analysis process and results are clear and usable by the project team. The process, as documented, must include the underlying assumptions and constraints of the analysis in a manner that is easily comprehended by the project team, who will have to communicate the results of the workshop to others. The report should “tell the story” of the project scope, schedule, and cost estimate.
+Notice the two flowcharts in Exhibit C-1. They are for the same project; however, one is simple and easy to follow, while the other one is more complex. They both meet the needs for risk modeling, but one is much easier to work with. Remember, more activities do not always mean more clarity.
+Exhibit C-1
+Flowchart Examples
+Utilities Relocation 14B
+Findings in Orde
+Orderr 9
+
+Access Hearing 5
+6 Months
+Improvement at 139th St. /
+Improvement
+T
+Tenny enny Road and 139Th / 10th
+Ave. Widening
+Widening for 10th 10th Ave
+Ave
+Ave.
+St. and 139th St. ormerly 30 (f (formerly 30))
+
+State)
+ROW Acquisition ((State) 12
+5 Months
+P&R Construction 20
+18 Months
+NB auxiliary lane will will be constructed on
+II-5
+St.. and 179th St
+St.. 23
+5 between 139th St
+
+18 Months
+FHWA
+Design
+Approval 10
+8 Months
+1 Month
+Advertise/Bid/
+Award 19
+Utilities Agreements 14
+6 Months
+
+5 Months
+Construct /139th
+Construct NE 20th/139
+Improvements, temp NB on
+Improvements,
+Ramp, Demo existing on
+Ramp, ramp, construct construct mainline Iramp,
+Detour ,
+205 NB Detour 24
+3 Months
+
+3 months
+Traffic Modeling /
+Comp Plan Update 1
+0.5 Months
+Preliminary
+Engineering 2
+24 Months
+Geotech..
+Geotech 11B
+Biological
+Assessment &
+Assessment
+Determination 7
+
+NEPA
+Determination
+12 Months
+Funding 18
+PS & E 15
+Design Plans ((07/06 07/06 – 06/08) 06/08) 11
+3 Months
+NB I-205
+I-205
+Realignment from
+Realignment 134Th St.
+St. to I-5/
+I-5/
+II-205
+205 Merge 25
+6 Months
+
+11 Months
+Demolition and Replacement
+Replacement of of existing I-5
+I-5 NB and SB bridges over Iover
+I-205 205 21
+Environmental
+Permitting 16 8
+6 Months
+13 Months
+ROW
+Certification 17
+
+county)
+ROW Acquisition ((county) 13
+IJR 6
+Construction of
+Stormwater
+Detention Pond 26
+Modify Signa
+Signall on
+NE 134th (formerly 22 (formerly 22))
+6 Months
+
+28 Months
+F- 2M
+12 Months
+8 Months
+Construction of east east walls at the 139th St.
+St. bridge and at the NB
+II-205 ramp. 29
+205 on ramp.
+4 Months 139th St. / Ramp 139A / Ramp 139B Substructure 27
+1 Month
+
+S + 2M
+S + 8M 18 Months
+Signal
+Timing/
+Interchange
+Open 31
+5 NB
+Construction of the II-5 amp off ramp ramp and SB on rramp
+Superstructure 28
+Technical
+EA / Technical
+Reports 3
+
+5 Months
+7 Months
+F- 2M
+1 Month 139th St.
+St. Bridge
+Superstructure 33
+ROW Acquisition
+Pre-NEPA) ((Pre-NEPA) 4
+Construction of the
+Additiona
+Additionall Exit Only
+Lane to to NE 134th St from I-205
+I-205 NB 32
+
+12 Months
+1 Month
+Construction of Walls
+West of of 139th
+West 34
+Environmental
+Review of Design
+Changes 36
+6 Months
+7 Months
+
+1 Month
+Note: (1) Sequence of Activities is Notional and Not To Scale (2) Around the year construction is assumed. (3) Current Activities (1 through 4) are subject to change based bas ed on form formal al cons onsul ultatio tation n meeti meeting ng outc outcom omes es
+5 Noise Walls
+I-5
+I35
+6 Months
+Wetland Mitigation 16B
+6 Mo
+Months nths
+FLOWCHART: I-5/SR-205/134th Street Interchange Project
+
+Flo
+Fl owchart Activiti ities es
+DESIGN (18 mo) (Design, Structures/Geo-tech, Utilities)
+Env. Doc. (EA/Tech
+Reports, BO,
+NEPA/SEPA) (6 mo) (Plans, Acquisition) (17 mo)
+Mitigation area acquired o
+M (county) (16 mo)
+End CN
+ROW
+
+FS -2
+AGREEMENTS & FUNDING (12 mo)
+Const.
+A/B/A (3mo wsdot) (wsdot) (36 mo)
+Permitting
+Start Date: 12/1/2008 (Federal, State &
+Local Permits) (12 mo) (PE+RW+CN) (PE+RW +CN) Ba
+Base se Du
+Durati ration on for Pha
+Phase se 1 = 62 mo
+No Work Windo
+Window ws restriction, restriction,
+Base
+Ba se sch schedul edule e Ad Da
+Date: te: 11 11/1/20 /1/2010 10
+
+Page C-2
+WSDOT Project Risk Management Section D &
+D-1
+Cost Lead – Duties &
+Description of Work
+The Cost Lead will participate and lead portions of a Cost Estimate Validation Process® (CEVP®) or Cost Risk Assessment (CRA) workshop for the project. Work includes: workshop participation; leadership and facilitation; preparation; pre-workshop meetings; documentation; follow up; reconciliation of workshop results; management consulting; technical report writing; process evaluation and communication; and scheduling meeting requests to rerun models or assess new scenarios for the project.
+Also included is traveling to and from the workshop and project locations. Provides support for the workshop for the project.
+D-1.1
+Cost Lead Duties
+The Cost Lead assists with the workshop process by taking primary responsibility for the following: • $Leads the review and validates the project team’s estimate. • $Supports the project team in the development of the base cost estimate. • $Supports the project team in making any adjustments to the base estimate as a
+
+result of the review. • $Supports the development of the risk register by proposing cost and schedule risk items to deal with risks and opportunities that are identified as part of the cost and schedule review. • $Reviews the project team’s work to distribute the base costs against the activities identified in the flow chart (see Section C). • $Works collaboratively with the project team to review and validate the final cost estimate to be used in the model. Confirms concurrence of the validated estimate with the project team and subject matter experts. • $Leads the review and critiques the project team’s schedule.
+D-1.1.1
+Deliverables
+The Cost Lead will: 1. $Provide comments and validation of the project base estimate. 2. $Work with the project team’s estimator to develop base cost breakdowns for the flowchart activities of the project for use in the risk modeling as soon as possible during or immediately following the workshop. 3. $Provide a written report on the base cost review and validation, and schedule the review for inclusion in the risk analysis workshop report to the project office and
+CREM Unit. The report is due within one week following the end of workshop or earlier if required and agreed to at the workshop.
+WSDOT Project Risk Management
+Page D-1 Cost Lead – Duties &
+D-1.1.2
+Section D
+Typical Cost Questions
+
+Typical cost questions to be asked by the Cost Lead and subject matter experts: • $Have you completed the Project Estimate Basis form? What is the basis of the estimate? o How current is it? When was it updated? o Do unit prices correlate to similar scope projects in the area? Are they truly comparable? o Does the current scope of the work match the scope that the estimate is based on? o Does the estimate include engineering, engineering services during construction, construction management services? • $What is the stage of the design? • $What is the accuracy of the survey data? • $What field investigations have been done? - describe the existing conditions. • $What geotechnical work has been done to date? Is there data from past projects in the area? • $Cuts and fills: What has been assumed for reuse, import, export and disposal, temporary stockpiling, haul distances, location of imported materials? • $Are there assumptions on compaction? Seasonal variability? • $Are there assumptions on stability of cuts, sheeting, retaining walls, slope protection during construction? • $If dewatering is required, are there perched water tables and other maintenance of excavations during construction, treatment of dewatering to meet permits? • $ROW: How current are surveys and estimates of costs? Partial or full parcels? • $Are there temporary utilities, staging areas, parking storage, lay down? • $Is there knowledge of utilities in project area, relocation requirements, ability to isolate and shutdown? Are replacements needed prior to isolation? Can replacements be installed at proper elevation? • $Is there erosion protection? • $Are there special conditions: extraordinary staffing requirements, night work, stop times due to fish or wildlife issues, noise limits, dust control? • $What has been assumed for overhead, insurance, bonding, project management, safety, QC community liaison, trailers, utilities, parking home office overhead, profit? • $Are there assumptions for material availability: backfill, sheeting, piles, concrete, rebar access for delivery, double handling requirements? • $Production rates assumed? Is this work similar to other work done in the area? • $Are there assumptions for maintenance of traffic, staging of construction, needed temporary barriers, ramps bridges, supports, technology?
+Page D-2 Section D &
+Cost Lead – Duties • $Is there estimated mitigation, noise walls, stormwater detention ponds, wetlands? • $What contingencies are built into the estimate? • $Has a change order allowance been built into the estimate?
+D-1.1.3
+Typical Schedule Questions
+Typical schedule questions include: • $How long have similar projects taken? • $How many $/month at average and at peak would have to be spent to meet the schedule? • $In what season is it expected that the Notice To Proceed (NTP) will be issued?
+Will certain months be lost due to the start date? ο $ If the NTP is issued as planned, can the landscaping be completed in the required season for the specified plantings? • $Has mobilization and demobilization time been included in the schedule? How many workers are assumed to be working on the project at the peak of construction? • $Does the construction phasing and traffic management plan match the schedule assumptions? • $How many concurrent work areas are assumed? Are there crews available to staff all of those areas? • $What are the assumed production rates for each of the major elements: earthwork, foundations, piers, beams deck, sub-base, base, paving, etc.?
+D-1.1.4
+Tips for Cost Leads 1. $The project team owns the estimate—let them establish what they want out of the process. 2. $Don’t get bogged down in details; keep the discussion relevant to the overall size of the project. For example, don’t waste a lot of time discussing a $100,000 item on a $50,000,000 project.
+D-2
+
+Base Cost Assessment
+Estimating is a maturation process that follows project development. Therefore, there is always a story behind the estimate; it is rarely a straightforward, linear process. It is imperative that you understand how the estimate was generated. Take the time to have the project team explain the history of the estimating process. Also, while the project team talks through how the estimate was generated, they are mentally checking that the process is correct. Following is a step-by-step guide through the assessment process.
+WSDOT Project Risk Management
+Page D-3 Cost Lead – Duties
+D-2.1
+Section D
+Confirm the Cost Matches Scope
+Gain a comprehensive understanding of the project scope, limits, major items of work such as structures, construction staging, phases, etc., during the project team’s presentation. Validate that the scope description, drawings, and estimate match in terms of work items. Use the expertise of the team to validate the design elements. For example, if there is a curved bridge, has the team assumed steel girders and factored that into the unit price?
+D-2.2
+Confirm Unit Prices Are Valid
+Experience, bid-tab data, and recent projects in the area can be used to validate unit prices. Estimating the “per square foot” unit price of bridge deck is sometimes contentious; topics of discussion frequently center on foundation type, superstructure type, and geometry. Unit price estimates also include confirming the tax rate, which varies by county; the per-acre cost for right of way; mobilization markup; and engineering markup. Bid histories are useful but not the final answer, especially if bid histories are more than 3 months old. In such cases, care and judgment must be used to ascertain the appropriate and valid current unit prices.
+
+D-2.3
+Identify Contingency (internal & external)
+Strip out the contingency in the base cost estimate. It will be obvious that this needs to be done when contingency appears as an explicit line item in the estimate. There can also be contingency hidden within the line items, such as inflated unit prices, rounding up of quantities, etc. What needs to be taken out is a judgment call based on discussions with the estimator.
+D-2.4
+Organize Estimate to Flowchart
+The estimate needs to be organized to match the flowchart boxes. This is typically environmental cost, preliminary engineering, PSE, ROW, and construction. This work needs to be closely coordinated with the risk group and confirmed by the workshop participants (project team, cost-risk team, and subject matter experts).
+D-2.5
+Determine Risk Costs in Collaboration with the Risk Team
+Generate risk items and determine costs (this occurs in the workshop).This should be a high-level estimating effort. If this step becomes voluminous, consider ways to divide and conquer. It is imperative that the cost and risk scope items match and that there is no overlap of costs and risks, nor are there any omissions.
+Page D-4
+
+WSDOT Project Risk Management Section E &
+E-1
+Subject Matter Experts – Duties &
+Description of Work
+Cost Risk Estimating Management (CREM) is a program created and developed to better estimate transportation projects. The program provides the framework for two comparable processes: Cost Estimating Validation Process® (CEVP®) and Cost Risk
+Assessment (CRA). These processes involve intensive collaborative workshops where transportation projects are examined by teams of top engineers, Risk Managers, internal and external subject matter experts (SMEs) from local and national private firms and public agencies, and from WSDOT specialty groups within the project team.
+E-1.1 Special Notes for Subject Matter Experts
+External and/or internal SMEs participate in peer-level systematic project review (or due-diligence analysis) and risk assessment to identify and describe cost and schedule risks based on the information at hand. The review process examines how risks can be lowered and how the project cost and schedule vulnerability can be reduced.
+Subject matter experts should have extensive expertise in their specialty areas. In addition to technical expertise, SMEs are expected to provide guidance and assistance on defining the cost and schedule of project activities related to their expertise. While
+SMEs should focus on their area of expertise, it is expected that SMEs will provide input on one or more of the following risk categories: Management; Environmental; Third
+Party; Design; Construction Cost Estimating and Cost Control; Construction Planning and
+Phasing; Construction Implementation; Construction Claims and Disputes; Real Estate and Right of Way; Operation & Maintenance; and Safety.
+SMEs should understand that risk management could require a negative frame of mind, but once identified, risks should be managed positively, so that the risks are addressed in the best possible way to minimize their influence on a project.
+SMEs should also understand that risk assessment does not need to be exact to be useful, particularly during the early stages of a project. Risks and opportunities go hand in hand and their analysis should have equal consideration. Much of the power of CEVP® and CRA workshops lies in the rigorous, disciplined approach and the ability of team members to focus collectively, both inwardly and outwardly, on a broad range of topics.
+SMEs should: • ! Provide objective input in their field and cooperate with all team members by
+
+crossing conventional boundaries. • ! Have an open attitude to change by encouraging creative thinking by teams and individuals. • ! Stay aligned to the workshop process and focus on fulfilling the ultimate workshop mission: projects delivered on time and on budget.
+WSDOT Project Risk Management
+Page E-1 Subject Matter Experts – Duties &
+Section E • ! Be familiar with the WSDOT process for CRA and CEVP® workshops, including ! the policy statement, common assumptions, and other guidance. ! • ! Have a clear understanding of the specific terminology used during workshops, ! such as: allowances, contingency, base cost, cost uncertainty, schedule ! uncertainty, risk, and opportunity. !
+In addition to active participation in the workshops, SMEs may be asked to provide documentation of the viability of assumptions made regarding a project’s configuration, scope, schedule, cost estimate, and the potential impact of risk events that may occur.
+SMEs may be asked to participate in follow-up or rerun sessions as requested, and provide reports or presentations documenting their work.
+SMEs and project team members should strive to produce clear and concise products (CEVP® or CRA report) that would help decision makers with sound and objective analyses in order to make informed decisions.
+Note: It is preferred to have at least one SME with estimating experience from a “contractor’s” perspective; that SME would participate with the Cost Lead in the review and critique of the project team’s estimates and schedule. This discussion should take place, if possible, in advance of the workshop.
+Page E-2 Section F
+F-1
+
+CRA Coordinator – Duties (HQ/Region) &
+Description of Work
+Cost Risk Assessment (CRA) Coordinators help accomplish the CRA/CEVP® program in accordance with department policy and guidelines. It is expected that the Headquarters (HQ) CRA Coordinator will provide direct support and coordination to project teams around the state. For those regions that have a CRA Coordinator, the HQ CRA
+Coordinator will work with the region CRA Coordinator to ensure the effective use of
+CRA/CEVP® workshops in the regions.
+Project Managers and project teams use the workshop results to actively manage risk.
+Project teams know the details of their projects; cost-risk teams know the workshop process, modeling, and the goals of the risk analysis effort, and the limitations of risk analysis. The region CRA Coordinator should be familiar with WSDOT resources available in the field of cost-risk management.
+F-1.1
+CRA Coordinator Duties
+Specific duties include the following: 1. Identify the need for CRA-CEVP® workshops for region projects (work with project offices) to estimate workshops for the upcoming 12 months. 2. Establish approximate time frames for CRA-CEVP® workshops, with as much advance notice as is practical (discuss with project offices). 3. Review workshop request forms for completeness: • ! Make sure all information is provided. • ! Make sure the project office is setting up a Work Order Authorizations
+
+(WOA) with appropriate Group Numbers, prior to the workshop. 4. Work with the project office to make sure appropriate location(s) are reserved for the workshop (adequate size and space), and that other helpful meeting items are available (including Internet access). 5. Be familiar with the CRA/CEVP® workshop process. 6. Be familiar with the CREM website. It is frequently updated and additional material is occasionally posted:
+8 https://wsdot.wa.gov/engineering-standards/project-management-training/ project-management/cost-risk-assessment 7. Help identify training needs and take advantage of training opportunities as they arise (cost estimating class, risk-based estimating class). 8. Advocate, within the regions, participation in CRA/CEVP® workshops as opportunities arise. For example, in order to have independent specialty group representation, it may be possible, on occasion, to request that a person from a neighboring region provide subject matter expertise.
+WSDOT Project Risk Management
+Page F-1 CRA Coordinator – Duties (HQ/Region) &
+Section F 9. ! Advocate proactive risk response actions that are documented in the project Risk
+Management Plan. 10. Make sure that feedback from workshops is provided using the post-workshop evaluation form. 11. Maintain records of CRA/CEVP® accomplishments within the region. Include the involvement of workshop participants, key risks identified, and mitigation strategies implemented. Monitor the effectiveness of the risk assessment and mitigation efforts. 12. Report on the risk management and estimating support needs of the region. 13. Attend training to improve skill levels and maintain and improve proficiency in the areas of project risk management and estimating.
+F-2
+CRA Coordinator “How-To”
+F-2.1
+Example Walk-Through of a Typical Project u
+
+Meet with the project team. • ! Determine upcoming projects that will require a risk-based estimating workshop. Work with the team early to help them identify, well in advance (8 weeks lead time or more), appropriate timing for a workshop. These target dates can be entered into the project work schedule. • ! Advise the project team to include risk management (activities) in their project schedule. This includes: risk planning, risk identification, qualitative risk analysis, quantitative risk analysis, risk response planning, and monitoring and control. u
+Once a time frame for a workshop is established, take the following steps: 1. Go to the Cost Risk Estimating Management (CREM) website and download a workshop request form:
+8 http://wsdot.wa.gov/publications/fulltext/cevp/Workshop_Request.docx 2. Work with the project team to make sure the form is completed in its entirety. During this time, check Outlook Calendar “WSDOT re VERA” to determine dates that may be available for workshops, and include this information in the workshop request form. 3. Meet with the Area Engineer or Project Development Engineer and Design
+Team to give an overview of the workshop process. 4. Work with the CREM team to determine appropriate Cost Leads, Risk Leads and subject matter experts, and help complete the participation matrix.
+Page F-2
+WSDOT Project Risk Management Section F &
+CRA Coordinator – Duties (HQ/Region) 5. ! Determine who will send invitations to workshop participants. Often the region will invite the region participants and project team, and the CREM workshop coordinator will invite others (Cost Lead, Risk Leads, SMEs, HQ representatives, etc.) 6. ! Continue to communicate/coordinate to make sure workshop materials are being made ready and available by the project team to the cost-risk team and Subject Matter Experts. Follow up with certain workshop participants to ensure their participation in the process is well timed and appropriate. 7. ! Attend prep sessions and workshops. 8. ! Post-workshop: Follow up with the CREM workshop coordinator and others as appropriate to make sure action items are being communicated, and follow up on them to make sure they are progressing. Help tie up any remaining loose ends from the workshop. Make sure the risk register properly documents the risks discussed at the workshop (particularly the larger risks).
+F-2.2 & Specific Things the Region CRA Coordinator Can Do to Enhance the
+Process 1. ! Advise the project team that the project scope, schedule, and estimate need to be current for the workshop. Estimates should be well organized and easy to follow, and they should align with the flowchart that is drafted at the prep session. The estimator should have a backup notebook, calculations, and assumptions available for rapid retrieval of information, if needed. 2. ! Assist with coordinating advance elicitation between the project team and Risk
+Leads. 3. ! Work with the CREM workshop coordinator to help develop an effective agenda (participants in the workshop will know what to expect and when to attend). 4. ! Advocate for early geotechnical explorations and other specialty work as appropriate, for the subject project.
+
+WSDOT Project Risk Management
+Page F-3 CRA Coordinator – Duties (HQ/Region)
+Page F-4
+Section F Section G
+G-1
+Technical Notes for Risk Modelers &
+Guidance
+Following is guidance for Cost Leads, Risk Leads, and risk modelers, and for all interested in the technical aspects of risk-based estimating and modeling.
+G-1.1
+Base Cost Uncertainty
+Did you want to put some text here describing the following exhibit?
+Exhibit G-1
+
+Combination of Base Variability and Market Conditions
+BASE UNCERTAINTY (base variability; market conditions) $
+Higher cost: reflects market conditions “worse than expected”.
+Base cost
+Base Variability + x%
+Lower cost:
+Reflects market conditions “better than expected”.
+Time
+Base variability is inherent in the base estimate. Base variability is always present and is not caused by risk events. Variability exists even if no risk events are present. Base variability is captured as a symmetric range about the estimated value; that is, of the form: base value +x%.
+Market conditions are the consequence of supply and demand factors, which determine prices and quantities in a market economy and which are separate from inflation. Market conditions include things like: competitive environment during bidding and contracting, the labor market, and resource availability.
+
+For many projects, the greatest uncertainty is market conditions; given that fact, we market uncertainty must be represented in the model. There are times when the bidding environment is favorable (highly competitive), other times the bidding climate is not as competitive. Given the volatility in the market and the many varied factors influencing bids, both possibilities must be captured (bids could come in “worse than planned,” i.e., over the Engineer’s Estimate, or “better than planned,” i.e., under the
+Engineer’s Estimate). To that end, Exhibit G-2 provides a simple example of how to capture this uncertainty.
+WSDOT Project Risk Management
+Page G-1 Technical Notes for Risk Modelers &
+Section G
+Exhibit G-2 Capturing Base Market Condition Uncertainty
+Base Market Conditions
+Bid Result
+Probability
+Impact
+
+BETTER than planned[1] 40% 15%
+WORSE than planned[2] 10% 10% [1] “BETTER than planned” indicates that as a result of favorable market conditions, in the form of a highly competitive bidding environment, it is estimated there is a 40% chance that bids will come in up to 15% below the Engineer’s Estimate. [2] “WORSE than planned” indicates that, as a result of market condition influences in the form of a noncompetitive bidding environment ,it is estimated there is a 10% chance that bids will come in up to 10% above the Engineer’s Estimate.
+G-1.2
+Base Schedule Uncertainty
+Just as base uncertainty for the cost estimate was captured, we also need to capture a base uncertainty for schedule (i.e., +5% or +10%) (see Exhibit G-3). We should discuss base schedule uncertainty with the schedulers: what is appropriate for this uncertainty?
+This base schedule uncertainty captures the fact that we do not know for certain what is the exact duration of an activity—even if no risk events occur, we do not have exact precision—particularly on large complex projects, early in project development or design.
+G-1.3
+Distributions to Consider for Quantifying Risk
+When characterizing risks during workshops, many elicitors and workshop participants may be more comfortable using simple distributions or multi-point discrete distributions to characterize uncertainties. The Risk Lead (elicitor) should determine the risk characterization that meets the need of the risk elicited and fits the group dynamics of a particular workshop membership. The distributions are representations of the “range and shape” of uncertainty. Elicitors may elicit ranges of information (min/max; low/high) and shape of information (symmetric, skewed). Consider this: Simulations are useful to the extent that they reflect reality. Cost and duration (schedule) are conceptually continuous, random variables and should be modeled in a way that simulates this nature. This can be accomplished through continuous distributions or approximated with a discrete representation, as depicted above.
+There are two parts to the risk, which define the risk register: 1. ! Probability of Occurrence: What is the estimated likelihood of this event occurring? 2. ! Impact: If the event occurs, what is the impact in terms of cost and/or schedule?
+This part typically requires only 3 inputs from the expert: minimum, maximum, and most likely or best guess. As depicted in Exhibit G-3, the uniform distribution is used when only the minimum and maximum values can be estimated.
+
+Page G-2
+WSDOT Project Risk Management Section G
+Technical Notes for Risk Modelers
+Exhibit G-3 Capturing Base Schedule Uncertainty
+Uniform Distribution 0.14 0. 14 0.14 0. 14 0.12 0. 12 0.12 0. 12
+Rellative Likelihood
+Re
+Triangular Distribution 0.1 0. 1 0.08 0. 08 0.06 0. 06 0.04 0. 04 0.02 0. 02 0.1 0. 1 0.08 0. 08 0.06 0. 06 0.04 0. 04 0.02 0. 02 0 0 0 5 10
+Vallue
+Va
+
+15 20 0 5 10
+Value
+Val 15 20
+A triangular distribution is a continuous distribution representing a three-point estimate. This is one of the most common and widely used distributions in risk modeling. It is common to assume that there is a chance that the min and max values will be exceeded (5/95, 10/90, etc.). These percentiles may change to represent different levels of uncertainty in the estimate.
+A uniform distribution is a continuous distribution where only the maximum and minimum values can be estimated. This distribution is used when there is considerable uncertainty over the duration of an activity or cost impact of a risk event and hence a “most likely” value cannot be estimated.
+Multi-Point Discrete Distribution
+Continuous Curve Distribution 0.5 0. 5 0.14 0.4 0. 4 0.3 0. 3 0.2 0. 2 0.1 0. 1 0 x1 x2 x3 x4
+Relative Likelihood 0.12 0.1 0.08 0.06 0.04 0.02 0 0
+X1 = 20%
+X2 = 45%
+X3 = 30%
+X4 = 5%
+Multi-point discrete distribution: In some cases, a risk element can only take particular values (i.e., is not continuous) or be used to approximate a continuous distribution.
+
+WSDOT Project Risk Management 5 10
+Value 15 20
+Three points are defined: high (max), low (min), and best guess; then a continuous distribution (such as Pert or other) is used to characterize the potential risk impact. Although these methods can provide a realistic representation of uncertainty, these curves are hard to define and so should only be used when there is sound, documented information on the variability of a particular risk element. It is common to assume that there is a chance that the min and max values will be exceeded (5/95, 10/90, etc.). These percentiles may change to represent different levels of uncertainty in the estimate.
+Page G-3 Technical Notes for Risk Modelers &
+G-1.4
+Section G
+Interdependencies or Correlations Between Random Variables
+Interdependencies between two or more uncertainties, cost and durations, risk events, or their impacts, in an analysis, can occur due to a variety of conditions. The uncertainties may be: 1. Mutually exclusive. 2. Conditionally dependent in terms of likelihood, but independent in terms of impact. 3. Correlated (commonly, cost and duration for a given risk event).
+Items 1 and 2 can easily be modeled with analysis logic. Correlation can be modeled statistically or the relationship among correlated events can be described in terms of conditional probability networks. The conditional probability “event tree” has been used successfully in WSDOT and other transportation-oriented risk evaluations.
+G-1.5
+
+Typical Model Settings
+Consider the following settings: 1. 5,000 iterations (typical). 2. Latin-hypercube sampling.
+G-1.6
+Directives for Implementing the Response Actions to Major Risks
+Following are items for the project team to review and take action on: • ! A critical and useful output of the risk analysis for the project team is the ranked risks indicating the risks, in a prioritized order, that most significantly affect project objectives. This information provides a roadmap to the risks that have the most promise for benefiting the project through proactive efforts to respond to the risks. • ! The more significant risks, sometimes termed “candidates for mitigation,” are oftentimes known by the Project Manager and project team in advance of the formal analysis. The Monte Carlo simulation more formally quantifies and ranks these significant risks. It identifies those risks that are most responsible for variation in the bottom-line (cost or schedule) as determined from the modeling. • ! An effective way to present risks that have the largest potential impact to the cost or the schedule is by use of a “regression sensitivity” chart (i.e., “Tornado diagram”), depicting the “candidates for mitigation” in order of importance.
+G-1.7
+Integrating Cost and Schedule Risks: A History and Practice at WSDOT (CEVP®), the cost and schedule risks have been integrated into the risk model as part of the Monte Carlo simulation. It is our expectation that the risk-based estimating models used for evaluation of WSDOT projects integrate both cost and schedule risks.
+Page G-4
+WSDOT Project Risk Management Section H &
+H-1
+
+Common Assumptions &
+CRA, CEVP®, and Informal Workshops
+Common assumptions provide a consistent approach to common and recurring issues encountered at CRA/CEVP® and informal risk workshops. Common assumptions are not intended to replace the sound judgment and wise counsel provided by the workshop participants who have gathered to review the cost and schedule estimates, and identify risks and assess uncertainty in the project schedule and cost estimates. If additional project-specific assumptions are identified, they shall be documented in the workshop report for the project.
+The common assumptions in this section allow completion of CRA and CEVP® workshops within the time allowed and resources available. They have been chosen to produce the best results possible under these constraints. Consequently, workshop results are, in general, limited by these assumptions. It is also noted that project-specific assumptions are often also required to allow a defined project to be put forward for evaluation.
+Evaluated risks reflect a “snapshot” of the project at the specific time of the risk assessment. The snapshot is based on the project scope presented by the project team from current plans and available information. This means that the risk model is based on current best estimates for costs, schedules, risks, and construction phasing and activity sequencing. Risk identification depends on the expertise of the project and cost-risk team. After evaluating the project cost and schedule estimate along with an assessment of risks results, a report is written to identify a range for the cost and schedule, and a register of the risks. Significant risks are ranked in order of importance based on impact to project objectives, in an effort to control project costs and schedule and to manage project risks.
+A risk event may hold the possibility of a positive or negative effect on a project. A positive potential presents an opportunity to the project and a negative potential poses a threat to the project.
+Project Managers, and the project teams, are expected to use the results of the risk assessment by developing and implementing responses to significant risks. The response actions should be documented and incorporated into the Project Management Plan updates and monitored and controlled.
+H-2
+Scope Change versus Scope Variations • %Scope – The sum of the products, services, and results to be provided as a project (i.e., the Work Breakdown Structure). • %Scope Change – Any change to the project scope. A scope change almost always requires an adjustment to the project cost or schedule.
+WSDOT Project Risk Management
+
+Page H-1 Common Assumptions &
+Section H • %Scope Creep – Adding features and functionality (project scope) without addressing the effects on time, costs, and resources, or without customer approval. • %Scope Definition (process) – The process of developing a detailed project scope statement as the basis for future project decisions. (Source: Project Management Institute, PMI PMBOK® GUIDE, 2004, 3rd Edition)
+WSDOT may elect, on its own initiative, to revise the scope of the project by adding, removing, or revising particular elements of the project. Such items are not risk events.
+Instead, these can be treated as alternative project scenarios or “deltas” to the base assumed project.
+Scope variations (commonly referred to as scope creep) are uncertain items or events, not entirely within WSDOT’s control, that may cause variations to the scope and hence changes to the schedule or budget. They are considered risks and will be captured as risk events and included in the risk-based estimate analysis.
+H-3
+Design Criteria (general)
+It is left to the project teams to ensure they are using current and appropriate design criteria for their projects, and that any design deviations or variances are properly documented and shared. It is also expected that project schedules and estimates provided by the project team will reflect this.
+H-4
+Bridge Seismic Design Criteria
+Check with WSDOT HQ Bridge and Geotechnical Branch to confirm.
+
+H-5
+Inflation Rate Information & Market Conditions
+Note: Project teams need to ensure their base estimates are current and reflect current prices at the time the estimate is prepared for the workshop (for more information, see:
+8 http://sharedot/pd/cpdm/cpdmsys/smart/Lists/CPMS_Tables/AllItems.aspx).
+H-6
+Construction Market Condition Risks
+H-6.1
+Number of Bidders
+Data provided from the WSDOT Construction Office indicates that, as the number of bidders is reduced, bid amounts tend to increase. Typically, with four or more bidders, the effect on the bid amount is negligible. To capture this effect, workshops need to consider to what extent the reduction below the normal number of bidders will influence the bid amount. A reasonable range of impact is: a 0% to 8% increase over
+Engineer’s Estimate for construction. The probability of the occurrence of this risk will be determined during the workshop. The project team must explain why they feel their project will be subject to a “noncompetitive” bidding environment. In addition, as part of the workshop process, strategies for enhancing the bidding environment in order to
+
+Page H-2
+WSDOT Project Risk Management Section H
+Common Assumptions attract more bidders must be discussed and identified as a mitigation strategy for this risk. Common mitigation strategies include: timing of the advertisement and work packaging.
+H-6.2
+Phase
+PE
+R/W
+Reduced Number of Bidders n/a n/a
+Construction Cost Estimate Risk
+Impact
+Probability Determined +0% to +8% at Workshop
+
+Other Market Condition Risks for Construction
+Other market conditions1 are typically reflected in risks captured through the risk elicitation process. Project teams wishing to capture additional market condition risks beyond that described above must justify why they think their project is subject to additional market condition risks. They must provide a well-documented explanation describing what makes their project susceptible to additional market condition risks, and clearly state the sources for characterization of the risk (probability and consequences).
+H-7
+Right of Way Market Condition Risks
+Guidance: Real estate markets are best characterized by those professionals familiar with the geographic area. In consideration of this fact, subject matter experts such as: region Real Estate Services and region Right of Way staff, or others considered knowledgeable about real estate markets in and around the project area, should be elicited. These subject matter experts can provide input regarding the cost of right of way and uncertainty associated with the real estate market in the geographic area of the project. Issues to consider are: zoning and speculation.
+H-8
+Preliminary Engineering Market Condition Risks
+Guidance: In general, risks related to preliminary engineering (PE) adequately reflect market conditions. Occasionally, there may be concern regarding availability of skilled labor, a topic that can be discussed in the workshop, if necessary. If it can be shown that project-specific market condition risks for PE need to be captured, they must be clearly identified and documented. Sources for characterization of the risk (probability and consequences) must be clearly stated, along with why this project has this risk when other projects do not.
+H-9
+Design-Build (DB) versus Design-Bid-Build (DBB)
+To date, the DB versus the DBB decision is being made project by project. Project directors are expected to discuss the overall contracting approach with their Regional
+Administrator, and final approval must come from Headquarters.
+
+1
+Caution needs to be exercised regarding market condition risks. While the Risk Lead must be thorough in making sure to capture and recognize risk uncertainty, he/she must also guard against the potential of double counting.
+The analysis must clearly document what is being used and why.
+WSDOT Project Risk Management
+Page H-3 Common Assumptions
+Section H
+Workshop general guidance: With regard to added or reduced cost expectations resulting from going to a design-build, look at categorizing the risks that you are asking the design-builder to assume, then estimate the cost. Also consider risk allocation – owner, design-builder, or shared.
+H-10 Fuel Price Inflation
+It is assumed the Construction Cost Index (CCI) table accounts for fuel price inflation. It is typically assumed that no additional risk factors are needed to address fuel prices.
+However in times of high volatility the cost risk team may discuss and determine how best to address fuel cost uncertainty.
+
+H-11 Project-Specific Assumptions
+Project-specific assumptions, that are in addition to or different from these common assumptions, should be documented in the project workshop report.
+Page H-4
+WSDOT Project Risk Management
+

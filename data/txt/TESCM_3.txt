@@ -1,0 +1,629 @@
+ a capacity issue during construction and Maintenance and Operations concern and after construction.
+WSDOT’s existing conveyance system and permanent stormwater facilities may be used to manage construction stormwater when: 
+The flows being managed by the existing system or facility will continue to be managed as required. 
+The existing system or facility are not left in worse condition upon final acceptance of the work.
+If using WSDOT’s existing system and facilities is incorporated into the TESC plan, the project office should include a bid item for cleaning existing drainage structures (Standard Specification 7-07.5) in the contract to ensure structures are cleaned as needed throughout the life of the project and upon final acceptance of the work.
+Additionally, 8-01.3 requires the contractor to remove all temporary BMPs (unless made of natural plant fiber), all associated hardware and accumulated sediment deposition from the project limits prior to Physical Completion.
+In accordance with Standard Specification 1-07.14, contractors are responsible for damage to completed portions of the project and to property located off the project caused by erosion, siltation (sediment accumulation), runoff or other related items during the construction project. The contractor is required to implement necessary measures to prevent damage to WSDOT property, including siltation in existing drainage structures.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 4-18
+
+Construction Compliance 4-1.6.15
+Chapter 4
+Construction Support and Staging Areas
+In accordance with S1.C.2, the Permit authorizes stormwater discharges from support activities (e.g., equipment staging, materials storage) solely related to the permitted construction site. These areas are considered part of the land disturbance associated with the construction project and all the Permit requirements are applicable in these areas. Construction support areas can be a big source of pollution and can be mistakenly overlooked during site inspection, discharge sampling and
+BMP adaptive management efforts.
+Site plans may identify areas within the ROW that can be used for support activities, and these areas may move around as construction progresses. WSDOT inspectors should inspect and enforce the contract to ensure Permit compliance in these areas within the ROW. However, due to limitations of the narrow ROW, contractors are often required to find support areas outside the ROW. Division 8-01 of the Standard
+Specifications includes specific language to ensure the contractor identifies these non-commercial support areas on their TESC plan if they will be covered by the
+Permit. The contractor may be required to obtain separate Permit coverage for these areas or submit an updated NOI to Ecology to account for the additional land disturbance and cover these areas in accordance with G20 of the Permit.
+The contractor may find commercial operations that get used by multiple unrelated construction sites or that provide other services. The owners of these commercial operations are often regulated by other environmental permits and these areas are not covered by the construction project’s Permit. 4-1.6.16
+General Conditions
+
+The Permit includes General Conditions that include important compliance related information. This section covers General Conditions for which WSDOT: 
+Has internal procedures or guidance 
+Would like to draw attention to due to potentially required actions triggered by the General Condition
+General Condition 2. Signatory Requirements
+Permit related documents such as the NOI, NOT and TOC forms and the DMRs must be signed by a person that meets specific criteria or be a duly authorized representative of that person. Related internal procedures and guidance include: 
+Page 4-19
+NOIs and NOTs may be rejected by Ecology if not signed by an authorized person. A 2015 WSDOT memorandum provided regional guidance for formally delegating signature authority for NOIs and NOTs to Regional
+Environmental Managers or Project Engineers based on regional procedural preference (the signature delegation guidance does not apply to the EPA
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 4
+Construction Compliance
+
+CGP). Refer to Section 1-1.3 additional information on the NOI process and the EPA CGP. 
+The TOC form must be partially completed, included in the contract for the contractor to complete, returned to WSDOT, routed internally, dated and signed by the State Construction Engineer and then submitted to Ecology in accordance with the internal TOC form guidance, which can be found on the
+Erosion Control Policies & Procedures webpage. 
+Monthly DMRs must be submitted electronically through Ecology’s WebDMR system which requires granted access and an electronic signature account.
+Refer to the DMR Monthly Reporting guidance document for additional information, which can be found on the Erosion Control Policies &
+Procedures webpage.
+General Condition 6. Reporting a Cause for Modification
+A new or updated NOI must be submitted if there is a material change in construction activity as identified on the NOI (e.g., significant concrete work) or type of discharge anticipated which is not specifically authorized by the Permit (e.g., inadvertent discovery of site contamination that has the potential to be discharged).
+General Condition 8. Duty to Reapply
+Once the Permit has been transferred, it is the contractor’s responsibility to reapply for Permit renewal and pay the Permit fees (Special Condition 6).
+General Condition 9. Transfer of Coverage
+Follow WSDOT’s guidance for completing the Transfer of Coverage form (which can be found on the Erosion Control Policies & Procedures webpage) for inclusion in the contract. The construction PE office will receive email notification from the Contract
+Administration and Payments Section (CAPS) office when the completed Transfer of
+Coverage (TOC) form has been submitted to Ecology. When Ecology receives a completed TOC form, the specific date of transfer as indicated on the form (day after contract execution) is effective immediately and Permit coverage is automatically transferred (do not expect notification from Ecology). Ecology will also automatically transfer any Administrative Order associated with the Permit to the contractor on the specific date of transfer. Ecology will eventually issue the contractor a Permit coverage issuance letter identifying them as the permittee. A copy of the completed
+TOC form should be kept in the site log book as proof of contractor’s Permit coverage until their issuance letter is received.
+In accordance with 8-01.3, the contractor may request transferring Permit coverage back to WSDOT. If approved by the PE, the contractor must fill in the TOC form sections applicable to current permittee, and submit the partially completed form to the PE to complete sections applicable to new permittee. Either party can submit
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 4-20 Construction Compliance
+Chapter 4 the fully completed form to Ecology. Prior to accepting the Permit back from the
+Contractor, WSDOT staff should perform a site walk-through to ensure all nonbiodegradable BMPs have been removed and the site has been stabilized as required. Additional information about the TOC process is available on the Erosion
+Control Policies & Procedures webpage.
+General Condition 20. Reporting Planned Changes
+Notify Ecology as soon as possible when there are changes to the planned construction activity identified on the NOI. Depending on the nature of the change, a new NOI and public notice may be required (related to General Condition 6). For example:
+Page 4-21 
+Discharges into additional receiving surface water(s) that was not identified on the NOI. 
+A significant change in the nature, or an increase in quantity, of pollutants discharged, including but not limited to: for sites 5 acres or larger, a 20% or greater increase in acreage disturbed by construction activity.
+
+
+A change in construction plans and/or activity that affects the Permittee’s monitoring requirements (e.g., if a significant amount of concrete will be used (a change from what was identified in the NOI) which triggers pH monitoring and discharge sampling).
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5 5-1
+TESC Best Management Practices
+Introduction
+The following descriptions are provided to aid in the selection, proper installation, and maintenance of approved best management practices (BMPs) for construction stormwater pollution prevention planning and site management. The Permit requires all known, available, and reasonable methods of pollution prevention, control, and treatment (AKART) to be implemented prior to a discharge. To meet AKART requirements and minimize the release of pollutants, BMPs must be installed to minimize the sources of pollutants and to provide treatment prior to a discharge. Site inspections and discharge sampling are required throughout construction as a way to monitor BMP function. BMPs must be maintained, enhanced, or replaced (adaptive management) to ensure continued BMP functional performance and compliance with the Permit. Refer to Chapter 4 for more information on the BMP adaptive management requirements.
+Standard Specifications (from the Standard Specifications for Road, Bridge, and
+Municipal Construction) and Standard Plans exist for some but not all BMPs. General
+Special Provisions (GSP) and Special Provisions may be used for project specific needs.
+Prior to writing a Special Provision, check the statewide library for existing GSPs and
+Special Provisions that can be used to satisfy project needs. Regional GSP libraries may also provide useful provisions. Contact Region Environmental staff or the Assistant
+Construction Engineer (ASCE) assigned to your project for assistance in identifying resources when preparing Special Provisions.
+The Washington State Department of Ecology’s (Ecology’s) Stormwater Management
+Manuals for Western Washington (SWMMWW) and Eastern Washington (SWMMEW) also contain information about approved BMPs in Washington State. All BMPs used on construction sites must be consistent with this Manual, the SWMMWW or the
+SWMMEW. Ecology maintains a list of proprietary BMP products that have been approved as equivalent to the BMPs listed in these manuals. Experimental BMPs must be approved by Ecology before use. The technical basis (e.g., scientific studies, reasoning, or modeling) for the experimental practice must be documented in the TESC plan or site log book.
+Linear projects, such as roadway construction and utility installations, present unique challenges (e.g. narrow footprint and right-of-way, offsite water run-on, or multiple drainage basins) that may necessitate adaptive implementation of approved BMPs. The approved BMPs outlined can be modified to ensure functional performance and compliance with the Permit.
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-1 TESC Best Management Practices
+Chapter 5 5-1.1 TESC BMPs
+BMPs are often organized into different categories which may go by different names in different manuals, permits or regulations. Because some BMPs may serve multiple functions, this Manual lists them alphabetically and describes their intended function(s) and associated contract requirements. However, there is value in understanding the commonly used BMP categories and associated terminology.
+The highest level of organizational categories includes: 
+Design BMPs: Design practices that minimize the erosion related risk of a project. For example, minimizing slope length or gradient, phasing earth disturbing work and preserving vegetation are common design BMPs. 
+Operational BMPs: Procedures or operational practices that minimize the erosion related risk of a project. For example, having a Certified Erosion and Sediment Control Lead (CESCL) onsite during construction is an operational BMP required by the Permit. 
+Structural BMPs: Practices, materials, or structural measures installed in the field to minimize sources of pollution and/or provide treatment prior to a discharge. Structural BMPs require regular inspection, and may require adaptive management or maintenance to ensure continued functional performance.
+Structural TESC BMPs are commonly organized into the following categories:
+Source control BMPs work to minimize a source of pollution. In construction stormwater management, the most common pollutant source is sediment. Therefore,
+TESC source control BMPs are often called “erosion control” BMPs because they minimize erosion (the source of sediment). Erosion control BMPs must be installed to stabilize exposed soil not being actively worked in accordance with the timelines in
+S9.D.5 of the Permit. Some source control BMPs minimize the source of other pollutants common on construction sites such as chemicals, fuels, and pH-modifying materials like concrete (e.g. concrete washout areas, secondary containment).
+Treatment BMPs work to remove pollutants. Therefore, TESC treatment BMPs are often called “sediment control” BMPs, because they work to remove sediment pollution from water prior to a discharge. Some treatment BMPs are used to neutralize pH or clean up spills. Perimeter control is a term commonly used to describe the sediment control
+BMPs installed along the project boundary where discharges are anticipated. Sediment control BMPs must be installed as one of the first steps in grading and must be functional before land disturbing construction starts in an area to ensure all runoff will receive treatment prior to a discharge. Regular maintenance is particularly important for the continued performance of sediment control BMPs because they fill with sediment and become less effective at providing the required level of treatment (discharges
+
+Page 5-2
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices below 25 NTU). For example, when inlet protection devices fill with sediment, they become clogged and water bypasses treatment through the overflow bypass opening.
+Other terms may be used to more specifically describe a BMP’s intended function, such as; flow control, runoff conveyance or water management. For example, temporary curbs and pipe slope drains are often used to “convey” runoff to a location where it will receive treatment from additional BMPs. 5-1.1.1
+Brush Barriers
+No Standard Specification or Standard Plan
+SWMM Volume II equivalent: BMP C231 Brush Barrier
+Function
+Brush barriers are a compacted berm of organic material used to reduce flow velocity and provide coarse sediment control prior to discharge.
+Additional Information 
+
+Not intended to treat concentrated flows or to provide treatment for drainage areas over a quarter acre. 
+Sediment control function can be enhanced by encasing the brush barrier with filtering fabric such as a geotextile. Filtering fabric must be removed before construction ends unless made from natural plant fibers unaltered by synthetic materials.
+Design, Installation and Maintenance 
+Install on contours downslope of areas less than a quarter acre. 
+Can be made of chipped site vegetation, live cuttings and fascines, composted or wood-based mulch. When site vegetation is used, ensure invasive species are not incorporated. 
+Can be held in place with wooden stakes, live cuttings or fascines. 
+Sizing (height and width) shall be adequate to provide treatment for flow and prevent flow from going around, or under the brush barrier. 
+Monitor for signs of erosion, flows bypassing treatment and sediment buildup. Adapt or maintain the brush barrier as needed to ensure continued functional performance.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-3
+
+TESC Best Management Practices 5-1.1.2
+Chapter 5
+Buffer Zones
+Standard Specifications 1-07.16(2) – Vegetation Protection and Restoration 1-07.16(2)A – Wetland and Sensitive Area Protection 8-01.3(1) – General
+SWMM Volume II equivalent: BMP C102 Buffer Zones
+Function
+Buffer Zones for Wetland and other Sensitive Areas are established by the local permitting authority. Sensitive area buffer zones must be protected with sediment control BMPs to prevent impacts.
+The local permitting authority may expand the buffer widths temporarily to allow the use of the expanded area for removal of sediment.
+Other Buffer Zones may be identified in undisturbed vegetation or managed vegetation for use as: 1. Buffer Zones for preservation of natural vegetation Preservation of natural vegetation should be planned in clumps or strips. 2. Vegetative Buffer Zones intended to provide an additional area of natural vegetation preserved to provide sediment control and reduce runoff velocities.
+Design, Installation and Maintenance 
+
+Critical area buffer zones must be protected with sediment control BMPs to prevent impacts. 
+Buffer zones can be incorporated into the landscaping of an area
+Preservation of natural vegetation should be planned in clumps or strips. 
+Mark limits prior to clearing and grubbing to ensure buffer zones are protected from construction activity. 
+Sediment Control Buffer zones should be clearly marked.
+Maintain delineation and sediment control BMPs as needed to protect critical area buffer zones from construction impacts such as sedimentation, soil disturbance and soil compaction.
+Page 5-4
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5 5-1.1.3
+TESC Best Management Practices
+Certified Erosion and Sediment Control Lead (CESCL)
+
+Standard Specification 8-01.3(1)B – Erosion and Sediment Control (ESC) Lead
+SWMM Volume II equivalent: BMP C160 CESCL
+Function
+A CESCL is a certified person that has received formal training in the procedures required to ensure compliance with the Permit, as well as applicable local, state, and federal water quality requirements. A CESCL is required by personnel performing the
+Permit required site inspections described in Section 4-1.4. A Certified Professional in Erosion and Sediment Control (CPESC) is functionally equivalent to a CESCL.
+The Permit requires a CESCL be available (onsite or on-call) at all times during the construction period. Therefore projects should have a person that can perform as a backup CESCL in the event that the main CESCL is unavailable.
+Additional Information 
+A CESCL shall be onsite (or available on-call) 24 hours per day during the construction period. 
+A CESCL shall perform the Permit required site inspections. The CESCL may perform these duties for multiple construction sites in the same geographic region. 
+The onsite CESCL shall have the authority to act on behalf of the contractor or permittee to ensure compliance.
+
+
+The onsite TESC plan or site log book shall include contact information for the project CESCL(s).
+Ecology maintains a list of current CESCLs and training providers:  https://ecology.wa.gov/Regulations-Permits/Permitscertifications/Certified-erosion-sediment-control
+CESCL certifications are valid for three years. There is a 6-month renewal period after the expiration date. The CESCL certification is not considered current during this renewal period (it is expired on the expiration date).
+During the renewal period, the CESCL can be renewed with an 8-hour classroom course or an approved online renewal course. If the renewal period passes, a new CESCL certification must be obtained. New CESCL certifications require two 8-hour courses; a classroom course and BMP field course. Both courses must be taken within 6 months of each other (either class can be taken first).
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-5 TESC Best Management Practices
+Chapter 5
+Duties performed or overseen by the CESCL include, but are not limited to:
+Implementing and adaptively managing the TESC plan to ensure continued
+BMP functional performance and Permit compliance.
+
+
+Inspecting the construction site in accordance with S4.B of the Permit and
+Standard Specification 8-01.3(1)B.
+Maintaining onsite documentation in the site log book in accordance with S4.A of the Permit and Division 8-01 of the Standard Specifications. 5-1.1.4
+Check Dams
+Standard Specifications 8-01.3(6) – Check Dams 9-14.5(4)A – Biodegradable Check Dam 9-14.5(4)B – Non-biodegradable Check Dam
+Standard Plan
+I-50.20 – Check Dams on Channels
+SWMM Volume II equivalent: BMP C207
+Function
+Check dams are small dams across a swale or channel used to reduce the velocity of concentrated flow and dissipate erosive energy, thereby encouraging suspended sediment to settle out prior to discharge.
+Additional Information
+
+Page 5-6 
+Use in temporary or permanent conveyance areas where concentrated flow may cause erosion. 
+Should be used in conjunction with an erosion control blanket or other conveyance stabilization BMP in channel areas with highly concentrated flow. 
+Can be used in conjunction with an upstream sump to enhance flow and sediment control function.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices
+Design, Installation and Maintenance 
+Check dams shall slow and filter flow and not create erosion. 
+Check dams can be created with various materials (e.g. sand bags, compost socks, rock, and reusable proprietary products). Rock check dams can be wrapped in fabric or plastic to enhance the “damming” function. Do not use silt fence for check dams. Material used shall not contribute turbidity.
+Prefabricated products, such as water bladders and geotextile products must be installed in accordance with manufacturer’s recommendations.
+
+
+Geotextile fabric, plastic or erosion control blanket may be needed under the check dam to minimize scouring.
+Do not install checks dams in a stream unless approved by the Department of
+Fish and Wildlife. Do not install check dams in wetlands without approval from a permitting authority. Do not place check dams below the expected backwater from any salmonid-bearing water between October 1 and May 31.
+Effective dam height, width, sloped side walls, and spillway design vary depending on flow rate, channel shape, and material used. Install in accordance with Standard Plan or modify as needed to ensure functional performance.
+Install the dam in a way that minimizes undercutting at the downstream toe of the check dam (spillway erosion). For example, triangle shaped check dams (when viewed from the side) allow water to flow over the face of the check dam rather than spilling directly onto the soil at the toe. Other practices may include using rock or fabric to protect the soil at the toe below the spillway.
+Keep the center of the check dam lower than the outer edges at natural ground elevation to prevent flooding of roads, dikes, or other structures.
+If erosion occurs between check dams, additional check dams or channel armoring BMPs (e.g. erosion control blanket, rock, and vegetation) are required.
+In many cases (considerations include: potential wildlife impacts such as fish trapping, land use needs such as maintenance access, and the type of material used), check dams can be left in place after construction ends. All nonbiodegradable materials (besides rock) must be removed prior to Permit termination.
+Monitor for signs of erosion, flows bypassing treatment and sediment buildup. Adapt or maintain check dams as needed to ensure continued functional performance.
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-7 TESC Best Management Practices 5-1.1.4
+Chapter 5
+Compost Socks
+Standard Specifications 8-01.3(12) – Compost Sock 9-14.5(6) – Compost Socks
+Standard Plan
+I-30.40 – Compost Sock
+SWMM Volume II equivalent: BMP C235 Wattle
+Function
+Compost socks are tubular barriers made of compost encased in a natural, plantbased biodegradable sock that provide sediment control prior to a discharge and dissipate erosive energy to prevent concentrated flow from developing.
+Additional Information
+Compost socks for WSDOT projects are usually filled in place (compost shot into sock at installation location) because they are long and heavy. However, smaller readymade compost socks are available for BMP 5-1.1.23 Materials On Hand purposes. Compost socks are one of the best BMP materials to have on hand for urgent adaptive management needs because they can serve multiple functions: 
+
+To prevent concentrated flows from developing by dissipating erosive energy and dispersing flows on a slope or along the edge of pavement. 
+Instead of silt fence to provide sediment control when soils are too rocky to effectively trench in silt fence. 
+In paved areas around inlets to enhance sediment control performance of inlet protection device. 
+As a check dam.
+Design, Installation and Maintenance
+Page 5-8 
+Install in accordance with Standard Plan. 
+Install compost socks perpendicular to flows. 
+Maintenance may be needed depending on how the compost sock is being used. If for example, the compost sock is being used as sediment control (e.g. as a check dam, inlet protection, perimeter control instead of silt fence), it must be maintained as functional in that regard (remove sediment build up).
+Compost socks used to dissipate flow velocity on slopes or edge of pavement do not usually require maintenance.
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5 5-1.1.5
+TESC Best Management Practices 
+Compost socks that are not performing their intended function must be maintained to improve performance. 
+Biodegradable compost socks are designed to be left in place after construction ends (consider maintenance access needs). 
+Monitor for signs of erosion, flows bypassing treatment and sediment buildup. Adapt or maintain compost socks as needed to ensure continued functional performance.
+Concrete Cutting and Surfacing Pollution Prevention
+Standard Specifications 1-07.5 – Environmental Regulations 5-01.3(11) – Concrete Slurry 8-01.1 – Definitions
+SWMM Volume II equivalent: BMP C152 Sawcutting and Surfacing Pollution
+Prevention
+Function
+Concrete cutting and surfacing operations generate high pH concrete slurry.
+Concrete cutting and surfacing pollution prevention BMPs are a set of practices used to prevent discharges of concrete slurry to waters of the state.
+Additional Information 
+
+Concrete resurfacing operations such as saw cutting, coring, roughening, hydro-demolition, and grinding generate high-pH concrete slurry (fine particles of cementitious waste and process wastewater) that can violate water quality standards. Discharge of concrete resurfacing waste to waters of the state is prohibited. 
+Vacuum or otherwise remove slurry and cuttings from the roadway as they are generated during the resurfacing operations. Do not allow concrete resurfacing waste to remain on the roadway overnight. 
+Do not allow concrete resurfacing waste, including process wastewater to drain to any natural or constructed conveyance system or discharge point.
+Catch basins may need to be temporarily plugged to prevent a discharge. 
+Dispose of concrete resurfacing waste in a manner that will not violate water quality standards. 
+Store and dispose of waste material removed from the roadway in a manner that does not cause the contamination of stormwater.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-9 TESC Best Management Practices
+Chapter 5
+Design, Installation, and Maintenance 
+
+5-1.1.6
+Monitor work during resurfacing operations to ensure resurfacing wastes are removed from the roadway as required and discharges do not occur. If potential impacts to surface water or groundwater quality standards develop, stop work immediately and install additional controls.
+Concrete Handling
+Standard Specifications 1-07.5 – Environmental Regulations 8-01.1 – Definitions
+SWMM Volume II equivalent: BMP C151 Concrete Handling
+Function
+Concrete work can generate various types of high pH waste and wastewater that can violate water quality standards. Concrete spillage, waste and wastewater discharge to waters of the state is prohibited. Concrete handling BMPs are a set of practices used to prevent concrete work related impacts to waters of the state.
+Additional Information
+Page 5-10 
+Concrete equipment washout must be performed in accordance with
+Concrete Washout Facilities (5-1.1.8).
+
+
+When feasible, return excess concrete to the originating batch plant for recycling. Small amounts of excess concrete (for example, from hand tools, shovels, and rakes) may be dumped into a formed area awaiting a concrete pour or a Concrete Washout Facility – do not dump excess concrete onto the ground.
+Do not allow washdown from areas where concrete aggregate has been incorporated to drain directly to natural or constructed stormwater conveyances.
+Use forms or solid barriers, such as pilings, for concrete pours within 15 feet of surface waters.
+When feasible use BMPs to prevent contamination of stormwater by pHmodifying sources. For example: 
+Schedule larger concrete pours for the dry season. 
+Remove, cover or contain ongoing sources of contamination.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices 
+Monitor for elevating pH levels in stormwater runoff as required in the Permit.
+
+
+Refer to related BMPs, including: Concrete Cutting and Grinding
+Pollution Prevention (5-1.1.6), Concrete Washout Facilities (5-1.1.8), and High-pH Stormwater Neutralization (5-1.1.17).
+Design, Installation and Maintenance  5-1.1.7
+Monitor all concrete pollution prevention BMPs regularly to ensure continued functional performance.
+Concrete Washout Facilities
+Standard Specification 1-07.5 – Environmental Regulations 8-01.1 - Definitions
+SWMM Volume II equivalent: BMP C154 Concrete Washout Area
+Function
+Washing of equipment used to perform concrete work can generate high pH waste and wastewater that can violate water quality standards. Concrete washout waste and wastewater discharge to waters of the state is prohibited. A concrete washout facility contains waste and wastewater and prevents impacts to waters of the state.
+Additional Information 
+
+Whenever feasible, excess concrete should be taken to the originating concrete batch plant to be recycled. 
+Onsite concrete washout must occur in leak-free concrete washout facility that effectively contains cementitious washout waste and wastewater. 
+Small amounts of concrete washout (for example, hand tools shovels, rakes, and trowels) may be performed and disposed of in a formed area awaiting a concrete pour. 
+Do not wash out concrete truck drums, handling equipment or excess concrete onto the ground, streets, near storm drains, surface waters, ditches, or LID facilities. 
+Do not drain concrete washout areas to surface waters or natural or constructed stormwater conveyances.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-11 TESC Best Management Practices
+Chapter 5 
+Dispose of hardened concrete washout waste regularly in accordance with solid waste regulations. 
+Use other related BMPs as needed to prevent impacts to waters of the state, including: Concrete Handling (5-1.1.7) and Concrete Cutting and Grinding
+Pollution Prevention (5-1.1.6).
+
+Design, Installation and Maintenance 
+Locate concrete washout facilities at least 50 feet from storm drains, ditches, and surface waters including wetlands. 
+Concrete washout facilities must be installed prior to starting concrete work and be capable of containing all cementitious waste and wastewater generated from washout activity. 
+Self-installed below-grade washout facilities are preferred when a project involves significant concrete work because below-grade facilities are larger and less prone to spills and sidewall failures than above-grade facilities. 
+Plastic lining material should be a minimum of 10-mil polyethylene sheeting and free of holes or other defects that compromise the impermeability. 
+Prefabricated washout facilities and pans are designed to be leak-free and can be utilized as mobile washout facilities but they are small and require regular maintenance to prevent overflow and contamination of stormwater. 
+During concrete work, concrete washout areas must be monitored daily to ensure continued functional performance and adequate holding capacity for active concrete work needs: 
+Page 5-12 
+Maintain as leak-free containment. 
+Clean washout facilities when 75% full or less than 12” of freeboard.
+
+
+Cover washout facilities when not in use to prevent stormwater contamination and containment overflow.
+When concrete washout facilities are no longer required for concrete work, they must be removed. The decommissioning waste (cementitious waste and materials used to construct the facility) and recycled or disposed of in accordance with solid waste regulations. Ground disturbance left by the facility shall be filled in and stabilized as needed to prevent erosion.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5 5-1.1.8
+TESC Best Management Practices
+Construction Road and Parking Area Stabilization
+No Standard Specification or Standard Plan
+SWMM Volume II equivalent: BMP C107 Construction Road/Parking Area
+Stabilization
+Function
+Construction road and parking area stabilization are practices used to reduce erosion of temporary roadbeds or parking areas.
+Additional Information 
+
+Roads or parking areas shall be stabilized wherever they are constructed, whether permanent or temporary, for use by construction traffic.
+Design, Installation and Maintenance 
+Whenever feasible, place construction roads and parking areas on a firm, compacted subgrade. 
+Install High Visibility Fence if necessary to limit vehicle access to unstabilized roads or parking areas. 
+Install the first lift as soon as possible on areas that will receive asphalt. 
+Apply crushed rock, gravel base, or crushed surfacing base course immediately after grading or utility installation. Asphalt-treated base (ATB) may also be used, or the road/parking area may be paved. It may also be possible to use calcium chloride for soil stabilization. If the area will not be used for permanent roads, parking areas, or structures, hog fuel/wood chips may also be used. Recycled concrete and other cementitious materials may not be used for construction road or parking area stabilization. 
+Grade roadways to drain effectively. Drainage shall be directed through sediment control BMP(s) prior to discharge. 
+Protect storm drain inlets that receive runoff from temporary construction roadways to prevent sediment-laden water from entering the storm drain system. 
+Add stabilizing material as needed to maintain a stable driving surface and to stabilize any areas that have eroded.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Page 5-13 TESC Best Management Practices 5-1.1.9
+Chapter 5
+Construction Stormwater Chemical Treatment
+No Standard Specification or Standard Plan
+SWMM Volume II equivalent: BMP C250
+Function
+Construction stormwater chemical treatment (sometimes called “active” or “advanced” treatment) can quickly remove fine suspended sediments, such as clay and silt. These often take a long time to gravity settle out in ponds or do not filter out in passive sediment control BMPs like compost socks or inlet protection devices.
+Depending on design, chemical treatment systems may also provide treatment for other pollutants such as pH, hydrocarbons and metals.
+Conditions of Use
+Chemical treatment may be warranted when: 
+
+Large volumes of highly turbid water cannot be prevented due to site or work specific circumstances (e.g., large earthwork projects) and there is low possibility of effectively employing passive sediment control BMPs, dispersal/infiltration, or use of sanitary sewer permit to maintain compliance. 
+Enables the recovery of costs by accelerating construction schedule. 
+High risk earthwork near sensitive areas, or surface waters impaired for turbidity, fine sediment, or phosphorus. 
+Earthwork will result in the disturbance of contaminated soils or the discharge of contaminated stormwater or groundwater.
+Only approved chemicals and technologies can be used. Systems must be designed and operated in accordance with the Use Designation document for the technology selected. Use the guidance in Appendix 3 for additional information about designing and operating chemical treatment systems.
+Ecology must be notified prior to the discharge from a chemical treatment system (submit a Request for Chemical Treatment form).
+Additional Information
+Page 5-14 
+Operators of chemical treatment systems need to have additional certifications or training. 
+Use of other chemicals, such as tackifiers or PAM on soil, may affect the treatability and performance of chemical treatment systems.
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices  5-1.1.10
+Chemical treatment systems may require automated measuring or shutoff systems, calibrated dose rate mechanisms, extra containment, designed bypass, residual testing, and daily monitoring information.
+Construction Stormwater Filtration
+No Standard Specification or Standard Plan
+SWMM Volume II equivalent: BMP C251
+Function
+Construction stormwater filtration uses sand media or other filtration methods to remove suspended sediment.
+Conditions of Use 
+Treatment chemicals are not employed therefore the use of construction stormwater filtration does not require pre-approval from Ecology.
+Additionally, because no treatment chemicals are employed, there is no system operator certification required.
+
+Additional Information 
+Two types of filtration systems may be applied to construction stormwater treatment: 
+Rapid sand filters can achieve relatively high hydraulic flow rates, on the order of 2 to 20 gallons per minute per square foot of filter area (gpm/sf), because they have automatic backwash systems to remove accumulated solids. 
+Slow sand filters have very low hydraulic flow rates, on the order of
+0.02 gpm/sf, because they do not have backwash systems. Slow sand filtration is mechanically simple in comparison to rapid sand filtration, but requires a much larger filter area. 
+Sand media filters are available with automatic backwashing features that can filter to 50 µm particle size. Screen or bag filters can filter down to 5 µm.
+Fiber-wound filters can remove particles down to 0.5 µm. Filters should be sequenced from the largest to the smallest pore opening. Sediment-removal efficiency is related to particle size distribution in the stormwater. 
+The treatment process (e.g., collection and routing of water) is similar to that described in Appendix 3 (except treatment chemicals are not used). Use the design criteria (e.g., sizing and flow control criteria) in Appendix 3.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-15
+
+TESC Best Management Practices 5-1.1.11
+Chapter 5
+Conveyance Channel Stabilization
+Multiple BMPs can be used to stabilize a channel, some of which have Standard
+Specifications or Standard Plans: 
+Flexible liners such as erosion control blankets and vegetation 
+Rock lining 
+Check dams 
+Temporary pipe slope drain
+SWMM Volume II equivalent: BMP C201 Grass-Lined channels or C202 Channel
+Lining
+Function
+Conveyance channel stabilization consists of various practices used to prevent erosion within a channel or ditch. Selecting the best practice for the channel may involve considerations such as the gradient and soil type in the channel.
+Additional Information 
+
+Bare soil has very little resistance to erosion when subjected to concentrated flows. Protect channels to withstand expected erosive forces. 
+Limit flow velocities with BMPs such as check dams, if necessary, to prevent damage to channel liners. 
+Flexible liners are able to conform to changes in channel shape while protecting the soil.
+Design, Installation and Maintenance
+Temporary channels should be sized to convey expected flows as follows:
+Page 5-16 
+Eastern Washington should be designed to handle the 6-month, 3-hour peak flow rate using a single-event model. The designer should consult the Region
+Hydraulics staff to determine whether a higher level of protection is needed beyond the 6-month, 3-hour storm due to the time of year for construction (freezing conditions and snowmelt), the downstream conditions, or the expectation that the project will last several construction seasons. 
+Western Washington should be designed to handle peak flows generated by the 10-year storm event using 15-minute time steps predicted by MGSFlood.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Chapter 5
+TESC Best Management Practices
+Note: The following guidance comes from the Hydraulic Engineering Circular No. 15 – Design of Roadside Channels with Flexible Linings, Federal Highways Department publication No. FHWA-IP-87-7.
+Consider the following principles when designing stable channels:
+The potential for erosion is based on the shear stress of flow, which is the force required to pull or peel (erode) material off the bottom or sides of a ditch.
+Calculate shear stress using the following formula:
+Shear Stress = WHG where: W = Weight of water (62.4 lb/ft3)
+H = Height of water in feet
+G = Channel gradient in ft/ft
+Note: Channel gradient and water height in this formula assume an unobstructed flow of water in the ditch. 
+
+Using shear stress to determine effective liner material:
+Table 5-1 indicates the maximum shear stresses that several types of flexible liner materials can withstand. As a general guideline when rock lining is used, multiply the expected maximum shear stress by 3 to apply a 30% safety factor, to obtain the mean diameter of rock or riprap needed to stabilize the ditch. Manufacturers provide the shear strength ratings for erosion control blankets.
+Base the selection of liner material on the maximum shear stress that products or specified rock sizes can withstand. 
+Sample calculation and product selection process:
+What flexible liner materials are adequate to stabilize a ditch with a 3% slope and an expected flow depth of 1.5 feet?
+Shear stress = (62.4 lb/ft3)(1.5 ft)(.03) = 2.81 lb/ft2
+If rock is used, stone size should be a minimum mean stone size of at least 8.4 inches, because (2.81)(3.0 conversion factor) = 8.4.
+Numerous erosion control blankets made of coir and synthetic turf reinforcement products could be substituted for rock with potentially significant cost savings. A well-established healthy stand of grass could also withstand the expected shear stresses in the ditch and help purify the runoff.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-17
+
+TESC Best Management Practices
+Chapter 5
+Consider coupling other BMPs with the channel lining to ensure channel stability. Check dams can greatly reduce the velocity of flowing water, thereby reducing shear stress. Check dams can prevent erosion until the permanent grass liner is established.
+Table 5-1
+Maximum permissible shear stresses for flexible liners
+Liner Category
+Bare soil – No liner
+Liner Type
+Noncohesive soil
+Cohesive soil
+
+Erosion control blankets (temporary/permanent)*
+Jute
+Curlex wood or straw
+Coir
+Organic, synthetic, or mix
+Uncut stand
+Cut grass 1-inch 2-inch 6-inch 12-inch
+Vegetative**
+Gravel/riprap
+Permissible Shear Stress (lbs/ft2) 0.01–0.04 up to 0.1 (noncompacted) up to 0.8 (compacted) 0.45–1.0 1.0-2.5 2.0-4.0 10.0-12.0 2.1–3.7 0.6–1.0 0.33 0.67 2.0 4.0
+
+*Permissible shear stresses based on products chosen at random to give a general idea of blanket strengths by material type. This table does not reflect the full range of permissible shear stresses for each product type. **Varies with type and density of grass stand.  5-1.1.12
+Monitor for signs of erosion, flows bypassing treatment and sediment buildup. Adapt the conveyance channel stabilization BMP as needed to ensure continued functional performance.
+Dust Control
+Standard Specifications 1-07.5(4) – Air Quality 2-07.3 – Construction Requirements 8-01.3(2)E –Tackifiers 9-14.4(7) – Tackifier 9-14.5(1) – Polyacrylamide
+SWMM Volume II equivalent: BMP C140 Dust Control
+Page 5-18
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices
+Function
+Dust control is a set of practices used to minimize the creation or movement of fugitive dust generated during construction.
+Conditions of Use 
+
+Compliance with the local clean air agency constitutes compliance with this
+BMP.
+Additional Information
+All erosion control BMPs used to cover or stabilize soil will also minimize the creation of fugitive dust. Practices that minimize fugitive dust during construction include: 
+Spray dust generating areas with water until the surface is wetted, but do not create a discharge. 
+Cover and/or wet materials transported by trucks, or provide adequate freeboard (space from the top of the material to the top of the truck) to reduce particulate emissions during transport. 
+Limit clearing to areas where immediate activity will take place. Preserve vegetation wherever feasible. 
+Cover stockpiles and bare soils as soon as possible. 
+Construct natural or artificial windbreaks or windscreens or limit dustgenerating work on windy days if feasible. 
+Lower speed limits or use paved routes. Restrict use by tracked vehicles and heavy trucks to prevent damage to the road surface and base.
+
+
+Incorporate permanent vegetative cover as soon as possible (see BMP 51.1.41).
+Add surface gravel to reduce the source of dust emission. Limit the amount of fine particles (those passing a #200 screen) to 10% to 20%.
+Remove mud and other dirt promptly from wheels so it does not dry and turn into dust. Implement tire wash facilities to prevent sediment trackout (see BMP 5-1.1.45).
+Implement stabilized construction access to prevent sediment track-out from exit points. Perform street sweeping on paved areas on which sediment track-out occurred (see BMP 5-1.1.35).
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-19 TESC Best Management Practices
+Chapter 5
+Use PAM or other approved dust palliative or suppression products (see BMP 5-1.1.40). Local governments may approve dust palliatives (such as calcium chloride). Used oil is prohibited as a dust suppressant. Dust suppressant and palliative products and materials used near surface or groundwater shall have no aquatic toxicity.
+Design, Installation and Maintenance
+
+5-1.1.13 
+Contact your local clean air agency for guidance on local requirements. 
+Monitor for fugitive dust during dust generating activity and implement or maintain dust control BMPs as needed.
+Erosion Control Blankets and Nets
+Standard Specifications 8-01.3(3) – Placing Erosion Control Blanket 9-14.5(2) – Biodegradable Erosion Control Blanket
+Standard Plans
+I-60.10 – Biodegradable Erosion Control Blanket Placement for Slopes
+I-60.20 – Biodegradable Erosion Control Blanket Placement for Ditches
+SWMM Volume II equivalent: BMP C122 Nets and Blankets
+Function
+Erosion control blankets (sometimes called rolled erosion control products) temporarily protect soil from raindrop and sheet erosion and hold seed in place until permanent vegetation is established. Blankets are often used to minimize erosion on slopes and in areas with channelized flow. Thick or textured blankets and nets can capture small amounts of sediment, but are not considered sediment control.
+Additional Information
+Biodegradable erosion control blankets are designed to fully cover soil.
+Biodegradable blankets and netting, if present, should effectively perform their intended erosion control function until permanent vegetation has been established, or for a minimum of 6 months (whichever comes first), and may remain intact for longer, depending on the material composition and environmental conditions.
+Biodegradable erosion control blankets and nets are designed to be left in place and degrade as vegetation grows through the blanket and permanently stabilizes the soil.
+
+Page 5-20
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices
+Biodegradable blankets/nets are made of natural plant fibers such as jute, straw, wood strands, coconut fiber (coir), or various combinations of each. Some blanket products are held together with a biodegradable netting also made of natural plant material. Netting can trap ground-dwelling wildlife such as birds and snakes. Some blankets are woven together, so netting is not needed to hold the blanket together.
+Avoid using a netted blanket if endangered species are present that are vulnerable to this type of entrapment. Biodegradable erosion control blankets, and netting (if present), should never contain any form of synthetic materials, such as plastics.
+Synthetic blankets, often called turf reinforcement mats, contain materials that resist ultraviolet light, last more than 5 years, and should not be used under most circumstance for temporary erosion control (may be suggested for permanent soil stabilization based on geotechnical analysis).
+Design, Installation and Maintenance
+Installation is the key to success with blankets. Improperly installed blankets can cause big erosion events because problems go unseen (erosion under the blanket).
+Follow the manufacturers’ recommendations for product placement and stapling, and: 
+Prepare slopes (smooth, uniform surface) prior to blanket installation so the blanket will make contact with the entire soil surface.
+
+
+Apply seed before the blanket is installed unless an open weave netting is used (with 60% or more open area so seed can contact soil).
+Always consider the directional flow of water before installing a blanket.
+Anchor-trench blankets at the top of the slope to prevent water from undercutting the blanket. Place upslope sections over downslope sections like shingles on a roof.
+Manually unroll blankets down the slope to prevent stretching or pulling out of the anchor trench. Do not walk on the installed blanket.
+Note that typical staples are 6 inches long, metal, and U-shaped. Use longer, coiled, or barbed staples in sandy soils. Biodegradable staples are also available.
+Follow the manufacturer’s recommendations for overlapping, staple, and check slot placement. If manufacturer’s recommendations are not provided with the product, follow Standard Plan I-60.10 for slopes or Standard Plan I-60.20 for ditches.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-21 TESC Best Management Practices 5-1.1.14
+Chapter 5
+
+
+Sources of high velocity concentrated flow should be managed to prevent erosion under the blanket. Use flow dispersal BMPs (e.g. compost socks on slopes, check dams in channels) to prevent high velocity concentrated flow from developing in blanketed areas.
+Monitor for signs of erosion, flows bypassing treatment and sediment buildup. Adapt the conveyance channel stabilization BMP as needed to ensure continued functional performance.
+Filter Berms
+Standard Specification 8-01.3(9)B – Gravel Filter, Wood Chips, or Compost Berm
+Standard Plan
+I-80.10 – Miscellaneous Erosion Control Details
+SWMM Volume II equivalent: BMP C232 Gravel Filter Berm
+Function
+Filter berms are temporary barriers that allow water to pass through while providing some larger particle sediment control.
+Additional Information 
+
+Functional performance is dependent on material used. 
+Rock material should be ¾ to 3 inches in size and shall not contribute to turbidity (crushed rock shall be washed and have less than 5% fines). 
+Route construction vehicles and equipment around filter berms, because they are easily damaged. 
+Note that you may need pipe slope drains to convey water that accumulates along the filter berm to prevent blowouts.
+Design, Installation and Maintenance
+Page 5-22 
+Dimensions shall be adequate to provide sediment control for runoff. 
+Berms are highly susceptible to failure and must be inspected regularly when used in actively worked areas to ensure continued performance. 
+Monitor for signs of erosion, flows bypassing treatment and sediment buildup. Adapt the conveyance channel stabilization BMP as needed to ensure continued functional performance.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Chapter 5 5-1.1.15
+TESC Best Management Practices
+Gradient Terraces
+No Standard Specification or Standard Plan
+SWMM Volume II equivalent: BMP C131 Gradient Terraces
+Function
+Gradient terraces reduce erosion by intercepting surface runoff and conducting it to a stable outlet that dissipates erosive energy.
+Additional Information
+Do not construct gradient terraces on deep sands or soils that are too stony, steep, or shallow to allow practical installation and maintenance. Use gradient terraces only when suitable outlets are available or will be made.
+Determine the maximum vertical spacing of gradient terraces by the following method:
+VI = (0.8)s + y where: VI = vertical interval in feet s = land rise per 100 feet y = a soil and cover variable with values from 1.0 to 4.0
+Values of “y” are influenced by soil erodibility and cover practices. The lower values are applicable to erosive soils where little to no soil covering is on the surface.
+Design gradient terraces in the following ways: 
+
+Increase vertical spacing determined by the above method as much as 0.5 feet or 10%, whichever is greater, to: provide better alignment or location, avoid obstacles, adjust for equipment size, or reach a satisfactory outlet. In the drainage area above the terrace, do not exceed the area that would be drained by a terrace with normal spacing. 
+Ensure the top of the constructed ridge is not lower at any point than the design elevation plus the specified overfill for settlement. The ridge height should include a reasonable settlement factor with a minimum top width of 3 feet at the design height. 
+Note that channel grades may be either uniform or variable with a maximum grade of 0.6 feet per 100 feet length (0.6%). For short distances, you may increase the grades to improve alignment. Ensure the channel velocity does not create erosion. 
+Include adequate outlets that prevent erosion.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-23 TESC Best Management Practices
+Chapter 5 
+Note that terraces should be able to handle the peak runoff expected from a 2-year, 24-hour design storm without overtopping. 
+Proportion the cross-section to fit the land slope.
+Design, Installation and Maintenance 
+
+5-1.1.16
+Inspect gradient terraces after large storm events and maintain as needed to ensure continued function.
+High pH Water Management
+Standard Specifications 1-07.5 – Environmental Regulations 8-01.1(1) - Definitions 8-01.3(1)C – Water Management
+SWMM Volume II equivalent: BMP C252 High pH Neutralization Using CO 2 and C253 pH Control for High pH Water
+Function
+Sources of high pH water must be managed to prevent violations of water quality standards. Different sources of high pH water must be managed differently under the Permit depending on whether they are an authorized or prohibited discharge.
+Additional Information
+Sources of high pH water on construction sites are commonly created by contact with cementitious materials such as concrete, Portland cement, recycled concrete, amended or engineered soils, mortars, grouts, materials that contain lime, fly ash, kiln dust, or bottom ash. The primary acidic agent in cement is calcium hydroxide (free lime).
+The Permit designates specific sources of authorized discharges (Special Condition 1.C) and prohibited discharges (Special Condition 1.D) that dictate what can be discharged to waters of the state (surface and groundwater). WSDOT Standard
+Specification 8-01.1 provides definitions and general guidance for the treatment and/or disposal of: 1. pH-Affected Stormwater 2. pH-Affected Non-Stormwater, and 3. Cementitious Wastewater/Concrete Wastewater.
+
+Page 5-24
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices
+Sources of cementitious wastewater/concrete wastewater (including pH-affected process wastewater) and other prohibited discharges that cannot be discharge to surface water or infiltrated may be able to be discharged to a sanitary sewer system if approved by the local jurisdiction. If a sanitary sewer is not an option, alternative disposal options will need to be identified (contact Region Environmental or the
+Hazardous Materials Program).
+Cementitious wastewater/concrete wastewater (as defined in Standard Specification 8-01.1), and process wastewater (including pH impacted process wastewater) generated as part of a construction process, cannot be discharged to surface waters of the state even if the pH has been neutralized. Stormwater, conditionally authorized non-stormwater, and groundwater becomes a process wastewater if it’s used as part of a construction process, and therefore cannot be discharged to surface waters even if it is neutralized.
+BMPs must be used to minimize contamination of authorized discharges by pHmodifying substances. When stormwater comes into contact with pH-modifying substances as a natural course of work (e.g., rain hitting freshly poured concrete) runoff must be monitored in accordance with the Permit and may require neutralization prior to being discharged to surface waters. Neutralization is a process used to lower the pH levels of authorized discharges to the range of 6.5 to 8.5 standard units (su). Any water, including stormwater conditionally-authorized nonstormwater, and groundwater that comes in to contact with fine cementitious particles becomes a cementitious wastewater/concrete wastewater and cannot be neutralized and discharged or infiltrated.
+Design, Installation and Maintenance
+Dry ice, CO2, and food grade vinegar are the approved methods for neutralizing authorized discharges under the Permit. General neutralization procedures include: 
+Identify a treatment strategy for the source and quantity of water (e.g., using a tank and dry ice for single batch treatment).
+
+
+Isolate the high pH water as much as possible to treat it separately from sources of water that do not need to be neutralized.
+Sample the pH of the water. As a general rule, less CO2 is needed for clearer water. Add dry ice or compressed CO2 using a diffusing device (to create gas flushing or sparging effect) until the pH drops as close to 7 as practicable.
+Release water in a controlled manner to prevent the resuspension of settled sediment and downstream erosion. Implement flow control if required by surface water being discharged into.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-25 TESC Best Management Practices 5-1.1.17
+Chapter 5
+Maintain operational records in the site log book: Include a description of the treatment strategy being implemented, estimated volume of water treated daily, pH of untreated water, amount of CO2 needed to adjust water, pH of treated water, outfall location and discharge sample values.
+Obtain written approval from Ecology before using forms of chemical treatment other than dry ice or CO2.
+Implement related BMPs as required, including: Concrete Washout Areas (51.1.8) and Concrete Handling (5-1.1.7).
+
+High-Visibility Fencing
+Standard Specifications 1-07.16(2) – Vegetation Protection and Restoration 8-01.3(1) – General 8-01.3(9)A – Fencing 9-14.5(8) – High Visibility Fencing
+Standard Plan
+I-10.10 – High Visibility Fence
+SWMM Volume II equivalent: BMP C103 High Visibility Fence
+Function
+Use High-visibility fencing (HVF) to delineate areas to be protected from construction activity.
+Additional Information
+Install HVF in advance of clearing and grubbing to delineate sensitive or protected areas. The high-visibility orange color is intended to draw attention to a protected area. Use high-visibility (orange) silt fence only in sensitive or protected areas where turbid runoff is a concern; ensure it is trenched in to provide sediment control (Standard Plan I-30.16 or I-30.17).
+Where High Visibility Fencing cannot be effectively placed and maintained due to tidal water fluctuation or seasonal high water, or is in a position with low risk for accidental equipment entry and where staking can prevent temporary impacts to sensitive areas and natural vegetation associated with High Visibility Fence installation, the Engineer may approve use of High Visibility Staking (HVS). HVS shall be placed to identify limits of areas for preservation as identified in the approved
+
+Page 5-26
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 5
+TESC Best Management Practices
+TESC plans and as approved by the Engineer. HVS is not a substitute for High
+Visibility Silt Fence. Where HVS is used, active erosion control measures will also be required if there is potential for surface erosion to result in violation of State Water
+Quality standards.
+Design, Installation and Maintenance  5-1.1.18
+Maintain HVF or HVS as needed to ensure effective delineation.
+Hydraulically-Applied Erosion Control Products (HECPs)
+Standard Specifications 8-01.3(2) – Temporary Seeding and Mulching 8-01.3(2)E – Tackifiers 8-02.3(11) - Mulch 9-14.4(2)C – Hydraulically Applied Erosion Control Products (HECPs)
+
+SWMM Volume II equivalent: BMP C121 Mulching
+Function
+Hydraulically-applied erosion control products (HECPs), often referred to as hydromulch, adhere to the top layer of soil and create a permeable crust holding soil in place while allowing water to infiltrate.
+Additional Information
+All HECP products are different; they have different ingredients, different hydration rates (amount of water needed to hydrate the product so it can be sprayed) and look different on the soil once applied. Generally, HECPs are a combination of organic fiber and tackifier (and usually seed and fertilizer), which are sprayed onto soil to provide temporary stabilizing cover until permanent stabilizing vegetation establishes. HECPs do not prevent erosion in areas with channelized or concentrated flows and therefore BMPs must be used to prevent concentrated flows from hitting
+HECP installations.
+Most HECP products require some cure time (no heavy rain) before they effectively adhere to the top layer of soil and create a permeable crust. They must dry to fully cure. WSDOT’s Qualified Products List (QPL) contains approved HECP products.
+Proper application is the key to success with HECPs. The soil onto which the product is applied is a big factor. Like painting a wall, the texture of the soil will influence that amount of mulch needed to achieve full coverage. Generally soils that have
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 5-27
+
+TESC Best Management Practices
+Chapter 5 been prepared for application [8-01.3(2)A)] will take the least amount of mulch product. Unprepared soils with large rocks, mounds of soil or stumps will r

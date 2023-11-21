@@ -1,0 +1,1300 @@
+3.6 3.5
+3.9 3.7
+4.2 3.9
+4.6 4.2
+82
+WSDOT Pavement Policy 1992
+2.7
+3.1
+3.3
+3.6
+3.8
+1993 1994
+3.1 2.1
+3.6 2.3
+3.9 2.5
+4.3 2.7
+4.5 2.8
+1995 1996
+4.2 2.6
+4.5 2.7
+4.6 2.8
+4.8 2.8
+4.9 3.0
+1997 1998
+3.2 3.4
+3.3 3.5
+3.4 3.5
+3.5 3.6
+3.6 3.8
+1999 2000
+2.6 3.8
+2.7 3.9
+2.7 4.0
+2.7 4.0
+2.9 4.2
+2001 2002
+3.2 2.1
+3.2 2.8
+3.2 3.0
+3.2 3.1
+3.2 3.9
+2003 2004
+1.6 1.6
+1.9 2.1
+2.2 2.4
+2.5 2.8
+3.2 3.5
+2005 2006
+1.7 2.5
+2.0 2.6
+2.3 2.7
+2.5 2.8
+3.1 3.0
+2007 2008
+2.5 2.1
+2.6 2.3
+2.7 2.4
+2.8 2.6
+3.0 2.8
+2009 2010
+0.9 0.9
+1.6 1.6
+1.9 1.9
+2.4 2.2
+2.7 2.7
+2011 2012
+0.0 0.0
+0.4 0.4
+0.8 0.7
+1.3 1.1
+2.3 2.0
+2013 2014
+-1.4
+-0.7
+-0.8 0.0
+-0.4 0.5
+0.1 1.0
+1.1 1.9
+2015 2016
+0.1 0.3
+0.4 0.6
+0.7 0.8
+0.9 1.0
+1.4 1.5
+2017 Average
+-0.5
+-0.3
+0.0
+0.1
+0.7 3.8
+3.8. Analysis Period The analysis period is the time period used for comparing design alternatives. An analysis period may contain several maintenance and rehabilitation activities during the life cycle of the pavement being evaluated (Peterson, 1985). In general, the recommended analysis period coincides with the useful life of the most durable alternative. WSDOT’s recommended analysis period for all pavement types is 50 years. 3.9. Risk Analysis The deterministic approach to life cycle costs involves the selection of discrete input values for the initial construction costs, routine maintenance and rehabilitation costs, the timing of each of these costs, and the discount rate. These values are then used to calculate a discrete single value for the present value of the specified project. The deterministic approach applies procedures and techniques without regard for the variability of inputs. An example of the deterministic approach is shown in below.
+83
+WSDOT Pavement Policy
+Initial Cost = $1,000,000 Rehabilitation costs = $500,000
+l
+l
+Year 0
+Year 10
+l
+Year 20
+l
+Year 30
+Salvage value = $50,000
+t Year 40
+Discount rate = 4 percent
+PW = $1,000,000 +
+$500,000 $500,000 $500,000 $50,000 + + − 10 20 30 40 (1.04) (1.04) (1.04) (1.04)
+= $1,709,720 The deterministic approach is a viable method for determining life cycle costs; however, life cycle cost analysis contains several possible sources of uncertainty. In certain cases, the uncertainty factors may be sizeable enough to affect the ranking of the alternatives. To obtain more credible results, a systematic evaluation of risk should always be carried out. The primary disadvantage of the deterministic approach is that it does not account for the input parameter variability. The concept of risk comes from the uncertainty associated with future events – the inability to know what the future will bring in response to a given action today (FHWA, 1998). Risk analysis is concerned with three basic questions (FHWA, 1998): 1. What can happen? 2. How likely is it to happen? 3. What are the consequences of it happening? Risk analysis answers these questions by combining probabilistic descriptions of uncertain input parameters with computer simulation to characterize the risk associated with future outcomes (FHWA, 1998). It exposes areas of uncertainty typically hidden in the traditional deterministic approach to life cycle cost analysis, and it allows the decision maker to weigh the probability of an outcome actually occurring (FHWA, 1998). The two most commonly used methods of assessing the risk are probabilistic analysis and sensitivity analysis. The probabilistic approach combines probability descriptions of analysis inputs to generate the entire range of outcomes as well as the likelihood of occurrence. Probabilistic analysis represents uncertainties more realistically than does a sensitivity analysis. Sensitivity analysis assigns the same weighting to all extreme or mean values, whereas probabilistic analysis assigns the lowest probability to extreme values. A probabilistic analysis is advocated, but if this is not possible, a sensitivity analysis at the very least should be carried out. 3.10.
+Probabilistic Analysis
+The probabilistic approach takes into account the uncertainty of the variables used as inputs in the life cycle cost analysis. The probability distribution is selected for each input variable, which are then used to generate the entire range of outcomes and the likelihood of occurrences for both the associated costs and the performance life. The procedure often used to apply a probability distribution is a “Monte Carlo Simulation”. The Monte Carlo Simulation is a computerized procedure that takes each input variable, assigns a range of values (using the mean and standard deviation of the input variable), and runs multiple combinations of all inputs and ranges to generate a life cycle cost probability distribution. Using the
+84
+WSDOT Pavement Policy probabilistic approach allows for the ability of determining the variability or “spread” of the life cycle cost distributions and determining which alternative has the lower associated risk (see Figure A3.4). WSDOT input values for the probabilistic analysis are contained in Appendix 5. probabilistic analysis is included in Appendix 6.
+An example of a
+By performing the Monte Carlo computer simulation, thousands, even tens of thousands of samples are randomly drawn from each input distribution to calculate a separate what-if scenario (FHWA, 1998). Risk analysis results are presented in the form of a probability distribution that describes the range of possible outcomes along with a probability weighting of occurrence (FHWA, 1998). With this information, the decision maker knows not only the full range of possible values, but also the relative probability of any particular outcome actually occurring (FHWA, 1998).
+The narrower the distribution - the less associated risk
+Probability
+Alternative B
+Alternative A
+Life-Cycle Cost Figure A3.4. Probability Distribution 3.11.
+Sensitivity Analysis
+Sensitivity analysis is a technique used to determine the influence of major input assumptions, projections, and estimates on life cycle cost analysis results. In a sensitivity analysis, major input values are varied (either within some percentage of the initial value or over a range of values) while all other input values remain constant and the amount of change in results is noted (FHWA, 1998). An example of a sensitivity analysis is shown below.
+•
+•
+Two pavement design strategies with discount rates that vary from two to six percent over a 35-year analysis period will be described. Figure A3.5 summarizes Tables A3.6 and A3.7 show the comparison of net present value at the various discount rates. For this example, Alternative 1 is more expensive at discount rates of five percent and lower, while Alternative 2 is more expensive at discount rates six percent and above.
+85
+WSDOT Pavement Policy
+2,400 2,300
+Total Net Present Value
+2,200 2,100 Alternative 1 Alternative 2
+2,000 1,900 1,800 1,700 1,600 2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+Discount Rate
+Figure A3.5. Sensitivity of Net Present Value to Discount Rate
+Table A3.6. Sensitivity Analysis – Alternative 1 (FHWA, 1998) Activity
+Year
+Cost
+Construction User Cost Rehab #1 User Cost #1
+0 0 10 10
+Rehab #2 20 User Cost #2 20 Rehab #3 30 User Cost #3 30 Salvage 35 TOTAL NPV
+Net Present Value 2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+975 200 200 269
+975 200 164 220
+975 200 149 200
+975 200 135 182
+975 200 123 165
+975 200 112 150
+200 361 200 485
+-100
+135 243 110 268
+-50 2,266
+111 200 82 200
+-36 2,081
+91 165 62 150
+-25 1,934
+75 136 46 112
+-18 1,815
+62 113 35 85
+-13 1,718
+86
+WSDOT Pavement Policy Table A3.7. Sensitivity Analysis – Alternative 2 (FHWA, 1998) Activity
+Year
+Cost
+Construction User Cost Rehab #1 User Cost #1
+0 0 15 15
+Rehab #2 30 User Cost #2 30 Salvage 35 Total NPV
+Net Present Value 2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+1,100 300 325 269
+1,100 300 241 200
+1,100 300 209 173
+1,100 300 180 139
+1,100 300 156 129
+1,100 300 136 112
+325 361
+-217
+179 199
+-108 2,112
+134 149
+-77 1,987
+100 111
+-55 1,886
+75 84
+-39 1,805
+57 63
+-28 1,739
+A primary drawback of the sensitivity analysis is that the analysis gives equal weight to any input value assumptions, regardless of the likelihood of occurring (FHWA, 1998). In other words, the extreme values (best case and worst case) are given the same likelihood of occurrence as the expected value, which is not realistic (FHWA, 1998).
+Project Specific Details After completing the pavement design analysis and the life cycle cost analysis, evaluation of project specific details must be identified when there are two or more viable alternatives. Finding the HMA and PCCP alternatives to be approximately equivalent, in regards to life cycle cost, the Region must provide project specific details that support the selected pavement type. The fact that these are not easily quantified does not lessen their importance; in fact these factors may be the overriding reason for making the final pavement type selection. These decision factors should be carefully reviewed and considered, by WSDOT engineers most knowledgeable of the corridor and the surrounding environment. When reporting the project specific details for pavement type selection, the Region must not use reasoning or examples that have already been taken into account within the pavement design analysis or the life cycle cost analysis. Examples of reasoning that should not be presented in the project specific details include: 1. Availability of funds for the more expensive pavement type. 2. Supporting the choice for pavement type based on ESALs or average daily traffic (ADT) that has already accounted for in the life cycle cost analysis. 3. Supporting the choice for pavement type based on user delay that has already accounted for in the life cycle cost analysis. The Region should include the engineering reasons that suggest the selection of one pavement type over another, given that their life cycle costs are approximately equivalent. Not all factors will come into play on every project, nor will all factors have equal weight or importance on each project. Refer to Appendix 7 for a listing of these considerations.
+87
+WSDOT Pavement Policy
+88
+WSDOT Pavement Policy
+APPENDIX 4 – EXAMPLE PAVEMENT TYPE SELECTION REPORT
+Washington State Department of Transportation
+Memorandum
+June 8, 2009 TO:
+L. Laird Chief Engineer Assistant Secretary Engineering and Regional Operations
+FROM: Jeff Uhlmeyer (360) 709-5485 SUBJECT: SR 704, MP 0.00 to MP 6.00 VIC Cross Base Highway Pavement Type Selection Protocol Analysis
+Attached for your signature is the Pavement Type Selection Committee approval form for SR 704, Cross Base Highway. Please return the completed approval to the State Materials Lab. This approval is according to the procedure for activating the Pavement Type Selection Committee. The procedure is described in the attached June 29, 2004 letter (copy included for each committee member) approved by L. Laird. If you need clarification or have comments please call Jeff Uhlmeyer at 709-5485.
+JU:ctk JU cc:
+Jay Alexander, Director Capital Program Development & Management, 47325 Pasco Bakotich, State Design Engineer, 47329 Chris Christopher, State Construction Engineer, 47354 Kevin Dayton, Olympic Region Administrator, 47440
+89
+WSDOT Pavement Policy
+Washington State Department of Transportation
+Memorandum
+June 8, 2009 TO:
+L. Laird, 47315 Chief Engineer Assistant Secretary of Engineering and Regional Operations
+FROM: Chris Christopher, 47354 State Construction Engineer SUBJECT: Pavement Type Selection When the pavement type selection has been completed and forwarded to the State Materials Laboratory, the Pavement Division will formulate the Pavement Type Selection Committee (referred to as the Committee) Approval Letter and request that each member of the Committee sign and forward the letter on to the next member. The Committee is not required to convene if the life cycle cost analysis between the alternatives is greater than 15 percent and the recommendations are acceptable to both the Region and the State Materials Laboratory. The Approval Letter shall provide the necessary documentation that supports the Committee’s selection of the pavement type. Projects to be reviewed shall be distributed to the Committee members for approval (see attached example of Approval Letter). Based on this review and obtaining consensus from the Committee, the Pavement Division will either process the Approval Letter, take appropriate action to obtain consensus, or convene the Committee. In order to expedite the required time and expended level of effort for the review of pavement type selection projects, the following procedure is recommended: 1. The Committee should convene if the pavement type recommended by the Region is contrary to pavement design and engineering analysis recommendations. The pavement design and engineering analysis recommendations shall be subject to the review of the Pavement Division or any member of the Committee. Under these circumstances it shall be the responsibility of the Pavements Division or the Committee member to formulate, in writing, why the selected pavement type is not appropriate and distribute his/her rationale to all members. If all members agree with the recommendations a meeting will not be necessary, otherwise, the Committee should convene. 2. The Committee should convene at the request of any member. TEB: jsu
+90
+WSDOT Pavement Policy
+Washington State Department of Transportation
+Memorandum
+PAVEMENT TYPE SELECTION SR 704 Cross Base Highway MP 0.00 to MP 6.00 Vicinity
+The Pavement Type Selection Committee has completed its review of the pavement type selection for project SR 704 Cross Base Highway located in central Pierce County. This project consists of constructing a new six-mile long East-West divided highway connecting Interstate 5 at Thorne Lane and State Route 7 at 176th Street. The proposed roadway section will consist of two Eastbound and two Westbound 12-ft. lanes with 4-ft. inside and 10-ft. outside shoulders. The design allows for the addition of future HOV lanes in the median. Following the procedure in the Pavement Type Selection Protocol, the analysis indicates the following: I. Pavement Design Analysis. There are no pavement design issues. Both Hot Mix Asphalt (HMA) and Portland Cement Concrete (PCC) are viable alternatives. II. Life Cycle Cost Analysis. The HMA cost is 50-53% less than PCC. HMA is the selected option. III. Engineering Analysis. Not performed. The Life Cycle Cost difference is greater than 15% between the two pavement types. The Committee based on this analysis approves the use of HMA on this project. The Pavement Type Selection Committee ______________________________ Chief Engineer Assistant Secretary of Engineering and Regional Operations
+__________________________________ State Design Engineer
+______________________________ State Construction Engineer
+__________________________________ Director Capital Program Development and Management
+______________________________ Olympic Region Administrator JU:ck 
+91
+WSDOT Pavement Policy
+Washington State Department of Transportation
+Memorandum
+SR 704 - Cross Base Highway Pavement Type Selection Protocol Analysis
+October 28, 2005
+Prepared by:
+Mel Hitzke, PE - Olympic Region Materials Lab Terry MacAuley, Olympic Region Materials Lab Reviewed by:
+Jeff Uhlmeyer, PE – State Materials Lab – Pavements Division Chuck Kinne, PE – State Materials Lab – Pavements Division
+92
+Q
+1. Foundation Analysis and Results
+I. Pavement Design Analysis
+The SR 704 Cross Base Highway Project is located in central Pierce County. This project will create a new six-mile long, East-W est connection between I-5 at Thorne Lane (MP 123.5) and SR 7 at 176th St. (MP 48.3). The proposed multi-lane highway will consist of (4) 12-ft. lanes, 46-ft. wide median, 4-ft. inside shoulders and 10-ft. outside shoulders. The project is designed to provide for future HOV lanes in the median.
+SR 704 Project
+The purpose of this document is to evaluate and recommend either a hot mix asphalt (HMA) pavement or portland cement concrete (PCC) pavement for SR 704-Cross Base Highway. The W ashington State Department of Transportation (W SDOT) Pavement Type Selection Protocol will be used to compare and evaluate these two alternatives. The Protocol requires that a pavement type be selected based on the evaluation of three primary areas: pavement design, life cycle cost and project specific externalities.
+Pavement Type Selection Overview
+WSDOT Pavement Policy
+~
+~
+1.22
+0.25
+VARIES
+12 LANE
+1 1
+2
+0.67
+0.65
+0.15
+57 12 LANE 4' SHLDR
+00 2
+1
+23
+Figure A4.1
+CRUSHEDSURFACINGBASECOURSE
+HMACL. PG64-22
+LEGEND
+MEDIAN
+23 4' SHLDR
+12 LANE
+57
+VARIES
+12 LANE
+lllll
+10 SHLDR
+93
+The rehabilitation cycles are scheduled for 2021, 2034 and 2047. The 2021 and 2047 rehabilitation cycles are full width (edge of paved shoulder (EPS) to EPS) 0.15-ft. HMA overlays. The 2034 rehabilitation is a
+A historical analysis of state routes in the vicinity of the proposed project with similar AADT and truck percentage was performed to determine pavement rehabilitation cycles. Based on the W SPMS data a 13year rehabilitation cycle was selected (see Appendix 4-B, Table A4-B.1).
+3. HM A Rehabilitation
+2
+1
+10 SHLDR
+CL
+SR 704
+The HMA alternative includes 0.80-ft. of HMA Class ½” placed over 0.67-ft. Crushed Surfacing Base Course (CSBC) as shown in Figure A4.1. The inside shoulder is full depth to facilitate the addition of the future HOV lanes (see Appendix 4-A).
+2. HM A Design Alternative
+Soils within the projects limits are non-plastic medium dense, well-graded gravel with sand to poorly graded sand with gravel. Based on these favorable soil conditions, both HMA and PCC pavements are viable.
+'
+0
+13 26 39
+Initial Construction (2008)
+Rehabilitation #1 (2021) Rehabilitation #2 (2034) Rehabilitation #3 (2047)
+Overlay EPS to EPS with 0.15-ft. HMA Class ½”
+Grind & Inlay lanes EP to EP with 0.15-ft. HMA Class ½” and fog sealing of shoulders
+Overlay EPS to EPS with 0.15-ft. HMA Class ½”
+Right Shoulder 0.25-ft. HMA Class ½” 1.22-ft. CSBC
+Traveled Lanes and Left Shoulder 0.80-ft. HMA Class ½” 0.67-ft. CSBC
+Construct 2 (12-ft.) lanes in each direction
+Description
+1'
+2'
+VARIES
+12 LANE
+3 4
+2
+0.30
+0.30
+1.00
+57 12 LANE
+1'
+4' SHLDR
+0.35
+1
+23
+1
+4
+3
+2
+Figure A4.2
+HMAB
+PCCP
+CRUSHED SURFACING BASE COURSE
+HMA CL. PG 64-22
+LEGEND
+MEDIAN
+23
+1'
+12 LANE
+57
+VARIES
+12 LANE 2' 1'
+10 SHLDR
+94
+Only one rehabilitation cycle is scheduled for 2038 to diamond grind the wearing surface, clean and reseal all joints and cracks. A summary of the construction and rehabilitation is shown in Table A4.2.
+The 30-year rehabilitation cycles were selected by conducting a historical analysis from state routes in the vicinity with similar AADT’s and truck percentages (see Appendix 4-B, Table A4-B.2).
+5. PCC Rehabilitation
+0.35 1.25
+1 2
+SHLDR
+10
+CL
+SR 704
+The PCC alternative includes 1.00-ft. of PCC (0.05-ft. PCC added for future diamond grind) over 0.30-ft. HMA base placed over 0.30-ft. CSBC as shown in Figure A4.2. Both the inside and outside shoulders would be constructed with 0.35-ft. HMA Class ½” placed over 1.25-ft. CSBC. The HMA shoulder section has been increased from 0.25-ft. to 0.35-ft. to allow for section loss from future diamond grinding of the PCC. The additional HMA depth will also provide sufficient support when a temporary traffic shift is required for the addition of HOV lanes (see Appendix 4-A).
+4. PCC Design Alternative
+Year
+Construction Category
+Table A4.1. HM A Construction and Rehabilitation Summary
+0.15-ft. HMA grind and inlay (Edge of Pavement (EP) to EP) with the fog sealing of shoulders. A summary of the construction and rehabilitations are shown in Table A4.1.
+WSDOT Pavement Policy
+~ 0000
+WSDOT Pavement Policy Table A4.2. PCC Construction and Rehabilitation Summary Construction Category
+Year
+Initial Construction (2008)
+0
+Description Construct 2 (12 ft.) lanes each direction Mainline 1.00-ft. PCC 0.30-ft. HMA base 0.30-ft. CSBC Shoulders 0.35-ft. HMA Class ½” 1.25-ft. CSBC
+Rehabilitation #1 (2038)
+30
+PCC grinding, cleaning, reseal joints and cracks
+II. Life Cycle Cost Analysis (LCCA) 1. The LCCA is based on the following parameters:
+• Roadway Section: A one-mile section of roadway located between MP 3 and 4 was chosen to represent a typical section.
+• Economic Variables: Estimated initial construction costs, future rehabilitation costs and user costs for this analysis are in 2005 dollars using a 4% discount rate.
+• Traffic Data: The initial traffic volume of 15,000 ADT and annual growth factor of 1.92% were provided from a consulting firm contracted by the Olympia Design Office. Initial construction will not have traffic; therefore, no user cost will be assessed.
+• Truck Percentage o Single Unit Trucks (4.0%) o Combination Trucks (6.0%)
+• Free Flow Capacity: The LCCA software calculated a Free Flow Capacity of 2137 based on the Transportation Research Board’s “1994 Highway Capacity Manual”.
+• Traffic Speed during Work Zone Conditions: A 40 mph reduced speed limit was used during the work zone lane closure periods.
+• Functional Classification: This highway was assigned a “Rural” functional classification due to its location and population density.
+• Queue Dissipation Capacity: Queue Dissipation Capacity of 1,818 passenger cars/lane/hour was used for all rehabilitation cycles on both alternatives.
+• Maximum ADT (Both Directions): The ADT for this analysis was capped at 140,000.
+• Maximum Queue Length (Miles): On this project, a maximum queue length of 2.0 miles was assumed.
+• Work Zone Capacity: The work zone capacity of 1,340 vehicles per hour per lane (vphpl) was used during lane closure periods.
+• Day-time/Night-time Lane Closures: This hourly input is based on a 24-hour clock and marks the beginning and ending hours when a lane reduction will be in place during construction activities: o Day-time – Inbound: 9:00 a.m. start time of lane closure and 5:00 p.m. for the reopening time. – Outbound: 6:00 a.m. start time of lane closure and 3:00 p.m. for the reopening time.
+95
+WSDOT Pavement Policy o
+Night-time – Inbound: 7:00 p.m. start time of lane closure and 5:00 a.m. for the reopening time. – Outbound: 7:00 p.m. start time of lane closure and 5:00 a.m. for the reopening time.
+2. Estimates The initial construction and future rehabilitation estimated costs were based on past WSDOT project bidding and do not represent the actual estimated cost to complete the project. Only items directly related to pavement construction are included (see Appendix 4-C). 3. LCCA Analysis Software Real Cost Version 2.2.0 software was used to perform the analysis (see Appendix 4-D). 4. Results of LCCA The Probabilistic Daytime and Nighttime results are shown in Tables A4.3 and A4.4 and the Deterministic in Tables A4.5 and A4.6 Table A4.7 is a summary for a side-by-comparison of the results and percent difference. The costs shown here represent the analyzed one-mile section and not the entire 6 mile project length. Table A4.3. Probabilistic Results for Day Work Rehabilitation
+$111.66
+$171.50 $1,830.81
+$301.72
+$2,525.05
+$4,660.71
+$2,589.55
+$332.74
+$3,600.84
+$2,397.44
+$3,689.60
+$3,439.47 $117.38
+$2,521.57
+$464.44 $5.81 $2,595.36
+$131.70
+$193.05 $3,793.89
+Alternative 2: PCC Agency Cost User Cost Sum ($1000) ($1000)
+$190.06
+$2,353.55 $9.16 $3,578.79
+$7.98
+$171.47
+$559.78
+Alternative 1: HM A Agency Cost User Cost Sum ($1000) ($1000) $2,879.69 $109.40
+$2,350.10
+~
+$3,600.84
+~
+$332.74
+-....__
+$607.78 $5,268.49
+$2.92
+$68.49
+$5,641.41
+$2,592.47
+$401.23 $2,589.55 $4,660.71
+$3,638.56
+' $168.03
+$3,609.56
+$3,833.67
+$9.95
+96
+$177.98
+$213.65 $3,823.21
+$544.86 $4,378.53
+Alternative 2: PCC Agency Cost User Cost Sum ($1000) ($1000)
+$37.72
+Alternative 2: PCC Agency Cost User Cost Sum ($1000) ($1000)
+$980.70
+~ ~)
+Alternative 1: HM A Agency Cost User Cost Sum ($1000) ($1000)
+Mean Standard Deviation $1,821.65 $545.74
+-~
+~- - r -
+'L
+Total Cost (present value)
+Minimum $3,033.05
+$43.89
+)I.
+Table A4.4. Probabilistic Results for Night Work Rehabilitation
+Maximum
+.)\_
+C -____. /~
+..........
+Alternative 1: HM A Agency Cost User Cost Sum ($1000) ($1000) $2,353.55
+~
+Total Cost (present value) Mean
+$265.04
+$1,826.25
+'--------
+$74.98
+~
+'\r
+$190.06
+_, "- ~
+\
+$4.60
+$656.55
+~
+})
+.. \
+r
+-....,
+Standard Deviation
+- - J \..~
+\ .__
+$1,821.65
+~- ~
+(~
+Minimum
+..........
+Table A4.5. Deterministic Results for Day Work Rehabilitation
+c::
+Undiscounted Sum Present Value EUAC
+~
+\V
+Maximum
+Total Cost
+1
+~
+$3,033.05
+~- ~ -~ ~ ~ '\r~ \
+1\
+\~
+WSDOT Pavement Policy Table A4.6. Deterministic Results for Night Work Rehabilitation Total Cost
+Alternative 1: HMA Agency Cost User Cost Sum ($1000) ($1000)
+Alternative 2: PCC Agency Cost User Cost Sum ($1000) ($1000)
+Undiscounted Sum
+$2,879.69
+$51.71
+$2,931.40
+$3,833.67
+Present Value
+$2,350.10
+$15.58
+$2,365.68
+$3,609.56
+$109.40
+$0.73
+$110.13
+$168.03
+EUAC
+$21.30 $3,854.97 $8.35 $3,617.91 $0.39
+$168.42
+Table A4.7. Summary of LCCA Results Analysis
+Timing
+HMA Alternative ($1000)
+PCC Alternative ($1000)
+Probabilistic (mean present value)
+Day
+$2,525.05
+$3,793.89
+-50%
+Night
+$2,397.44
+$3,638.56
+-52%
+Day
+$2,521.57
+$3,823.21
+-52%
+Night
+$2,365.68
+$3,617.91
+-53%
+Deterministic (present value)
+Percent Difference
+III. Project specific externalities Identification of project specific externalities is not required, since the cost difference between HMA and PCC alternatives is greater than 15%. The HMA alternative is between 50 and 53 % less than the PCCP alternative for all cases. The Olympic Region recommends the use of HMA for constructing SR 704. Use of HMA represents a substantial savings to WSDOT.
+97
+WSDOT Pavement Policy
+Appendix 4-A – Pavement Design
+was
+gtm, Staite,
+_' I D pa,1Ment
+May 1 2
+M .,morandum
+n
+, Tran;por
+5
+TO:
+Lind· Pier elJ eff Uhlmeyer, 4-7 65
+FROM:
+Mel Hitz c, 4-7440
+..,:i0l'I Bas, Highway
+S BJECr:
+This i.c: · bo Olympic Region Mate .iaJs su ·facing r
+Ba · H.ighwa, long, EasP~
+·
+· tior.s
+e
+· din centl'. I Pierce Co,unt~
+a
+, ,ection between J-5 at Tbo prop sed mult,i~lane highway, i1l consist sl1oulders an<l l-0-ft. outside sho den,. T HO lmic::; i:ri1 tb ncdi -
+. 11
+The · tit . m dist rib ..ion de~em .init1
+t t u
+4 t is designe
+.1 p
+7 w
+-ft r futur-e
+esig1 ES .... s • r this project are 7 r mi.Ilion. Based o 9f ¾ lane SAL' s , en,'! lli ed in lhe p81 _em . e ig p -O!:,'farm DARW lN for n-faci n · · The atlacbed ES lcuhilions lll. based on ·l esi 1c . Th_ surfacing epths ere
+, . . n period ~· A
+e
+.
+,e an 5
+me l, epte,mber 20().1 Edition~ abk 16, li,o with 85% rcliabili.ty.
+he rnadlway ,g enerally fi Hows t 1e existing gl'Ound oonlour xi.ri'!h shall w cut and fill wiU1 thee cep ·on o. a 0.75 - j [e section on fill rnngi , from l0~30 foot The oil classificatio in thi a.r a ari,c from m dium dense. weU-graded GR_A EL with sand 1 to n1edium dense p rly grade<l AND wi.fr'i. gl'aveJ. Given these soil parameters it is ,estimated the R-Va u for this area wil1 range ftom 50-60. A subgrade r, silknt modulus of 15,000 psi was scfocted for 11 e in the DAR I . Layered thickness design p ·, gram. We req u. t that H adq rters Material r-ecommendaticms:
+ah review and cone
+with the following
+This memo addrcs& s surfacing depths for both .tle ibh: and rigid pav ment types s I in the life cyde cost analys·s for this project.
+98
+WSDOT Pavement Policy
+a. icrc· JcffUhl m
+SR 704
+1
+·r, 4--7365 ,
+-!.:lase Hi 1way
+- ll 7
+'M ay 12~ 2005
+a e2
+R COMMENDATIONS; Fkx'btc
+1ai111.ine rmd Left Shou.Jd :r
+:5-ft, HMA V2' (P 1.2 . ft_CSB ,
+.B ft.-H . A 1/i" (PG 6-1-22)
+0.6'7-Jl CS.BC
+64-2 )
+The i.nstde shou.ld,er is full depth to fac ilitate time addition of the future HOV
+wil:holl!l lbc nr,:,c;d o tempontrily - if!. tn-.Hi d1.1Jting «instruction.
+rug1d _avcmen t Shaul, e
+ainlbie l. -fit. p, ') 0.30-ft. HMAB
+0. . -ft H 1A ½" (PG 64-2J0 2 -.ft C' BC
+.30-ft.
+I MA sh 1M . se i l lit,o · 0.25- ft. t , (J _.-:,:5. ft, to allow for sec.tic. ! ss foam fulurc dian oml guiTicl irig of 1Lhc P. P. · additiomd H A depth il Hlw pro,dde suillcie t suppo t 1wl1en ate 1porary traffic shift is reqRired for the
+additio of
+O
+lanes.
+A t,C . A utii Ii zing the recommended surfacing depths wilJ e conducted for this proj c l ' e " Pa e.me- 1t 1-we Seloot1on P lOCOl ...
+as required b:
+MH :tm
+lM cc:
+Gordon Ro,y,crol.l/Ma:ry lol!I Nebergal l., 4- 7445
+OR Progr~r . .1~n g.e
+l, 4-7 440
+99
+WSDOT Pavement Policy
+Appendix 4-B – Documentation for HMA Performance Life Table A4-B.1. HMA Rehabilitation Cycle Determination BIHi NB
+1Dn
+BR6 BB
+811:lm.BB
+A DT QI II, 12.4'11,T ru Dk ,r;
+A DT 68 II, 12.4'11,Truok 1.
+Truok 'lb
+I
+M F'
+118.4:2
+Year 1=419:55 19$ 195? 19!i!B
+MF'
+M F'
+120.27
+120.27
+I
+MF'
+MF'
+120.87
+118.00
+I
+MF'
+M F'
+12D.DD
+120
+Sll: 1157.BB
+A IJI 41' Ii, 8.-.-.. .... .,, 41'1'!, 8.-..... Truok ,r; Truok1.
+16~.:l~ UI ,
+I . ...
+B.84
+MP 7.22 MP 7.8Z MP 8.92 M P S.72 MP 8.83
+~~· u•en11 D.D DHd•
+D.D Oll!dll
+-
+l ~l
+16
+l :,a.:
+1=:> 1$ ,j.
+13
+r: -=--= -- ---
+13
+19:iS 1$6 1$1 1...... 1 ::o=
+w. -·1 ll!nll
+1,:,, u 1=>'1
+I
+·-
+i •..... ~===r ..:
+1/ .•
+~
+D.Jl!I' le■ Cral'
+■ Crall'
+----
+_!el.!_~ 197 419'i 5
+~~!;
+10
+~g-
+~
+41' Ii, 8,'+'111
+Truok1.
+MF'
+122.83
+l= l :;oa.,
+1972
+BR 1117 BB AUi
+I ,.. p 1/L/
+(IJ
+-g-
+~ • n11
+17!11r 191:11 19132 i!x:13 1~,i.
+D.IB II ll!nll
+o.1B a•en11
+h 17
+I
+l;,cc,
+1~ 1,,..,.
+1989 1990 1991 1992 1993 1~ 41= 1""""
+II
+I I
+15
+l:,oo
+u. ,a a ll!nll
+U.:U H■ lliiNI'
+D.12 D ll!dll
+D.tS'-
+D.1S' a ll!dll
+15
+D.1S' 0 H dll
+16 12
+1= ,
+1993 191919 .!ID)
+21D1
+"""'"""
+D.11' D ll!dll
+..::i.u:,
+D.11' a ll!dll
+D.3:l'DHdll
+.::u.,,j.
+.:u..c,
+:
+LDgona
+... . . . . . .10
+rear ,r; ..,_1111n , ..nan
+A'WraDO
+13.6
+;ow [Ji, V
+'-""
+·---------------------------------------------------------------------------------------------------------------
+100
+WSDOT Pavement Policy Table A4-B.2. PCC Rehabilitation Cycle Determination SB __SRS ,. NB &S B __ ,, ~-·SR S IIB'"· .• ~- SRS ·-"• '"·· ·· Tl'UCkl Tl'Uek1 Tl'Uek 1 Tl'Uek% MP MP MP MP MP I MP 10) .17 10, . 14 v ur 130.58 11'.7' 114.S 1 128.08 ♦e tlon
+SRS NB& SB , ... o .• .• ~-••,.,.., o . .. Tl'UCkl
+,.
+, ,,,
+~
+NtwC t 111h
+NtwC t 111h
+,,
+NtwC•• •
+1 r7l1
+•
+:~ ~ . t82 ~ •83
+~!!!__,
+L•g•nd
+MP 134.1
+N-C• • h
+1959 19EO 1961 1960 1963 1964 1966 19'6 1967 19'8 1969 1970 197 1 1972 1973 1974 1975 1976 19iJ H•78 1li r H•aJ
+19.x> 19&; 1987 1988 1989 1900 1991 1992 1993 199' 1995 1996 1997 1993 1999 2000 2001 2002 2003 200, 2005
+MP 132.88
+.
+w-
+{;' ~ '
+"
+.;,-
+V
+,.
+•
+I
+lS
+lS
+Dlll. ~M.Gmi
+DBI. DiumlliGmi I..DiuMlliGmi
+FCCP
+YHr ee twun R•11aD1
+:............ -~ ~~~~ ... -~~:~ ...!.b?.~-~ .....~? ........................................ .
+101
+Appendix 4-C – Cost Estimates Table A4-C.1 Construction Items and Unit Prices
+SURFACING Ton
+Crushed Surfacing Base Course
+$15.00
+CEMENT CONCRETE PAVEMENT SY
+Portland Cement Concrete Pavement Grinding
+$9.00
+L.F.
+Clean and Seal Random Cracks
+$11.00
+L.F.
+Clean and Reseal Concrete Joints
+$2.20
+CY
+Cement Concrete Pavement (Excluding Dowel Bars)
+$160.00
+2%
+Ride Smoothness Compliance Adjustment
+2%
+Each Stainless Steel Dowel Bars
+$15.00
+L.F.
+$2.00
+Longitudinal Joint Seal
+ASPHALT Ton
+HMA CL 3/4” PG 64-22
+$45.00
+Ton
+HMA CL 1/2” PG 64-22
+$45.00
+Ton
+Anti Stripping Additive
+$1.00
+2%
+Compaction Price Adjustment (HMA CL 1/2” PG 64-22)
+2%
+2%
+Compaction Price Adjustment (HMA CL 3/4” PG 64-22)
+2%
+3%
+Job Mix Compliance (HMA CL 1/2” PG 64-22)
+3%
+3%
+Job Mix Compliance (HMA CL 3/4” PG 64-22)
+3%
+SY
+Planning Bituminous Pavement
+$2.00
+Ton
+Asphalt For Fog Seal
+$265.00
+TRAFFIC Day Traffic Control Labor (4 people, 10 hrs./day)
+$1,400.00
+Day Traffic Control Supervisor
+$320.00
+Day Traffic Control Vehicle
+$70.00
+MISCELLANEOUS LS
+Mobilization
+5%
+EST Engineering and Contingencies
+15%
+EST Preliminary Engineering
+10%
+EST Sales Tax
+8.4%
+102
+WSDOT Pavement Policy Table A4-C.2 Initial HMA Construction Year 2008 Detail: New HMA Construction - Lanes and Left Shoulder (0.80 ft HMA CL 1/2” PG 64-22 and 0.67 ft CSBC), Right Shoulder ( 0.25 ft HMA CL 1/2” PG 64-22 and 1.22 ft CSBC) Unit Price Amount
+Quantity
+Unit
+Bid Item
+33,374
+Crushed Surfacing Base Course
+$15.00 $500,610
+18,245
+Ton Ton
+HMA CL 1/2” PG 64-22
+$45.00 $821,025
+18,245
+Ton
+$1.00
+$18,245
+$694,440
+2%
+Anti Stripping Additive Compaction Price Adjustment (HMA CL 1/2” PG 64-22, 18,245 Tons-No shoulders)
+2%
+$13,889
+$821,025
+3%
+Job Mix Compliance (HMA CL 1/2” PG 64-22)
+3% $24,631 Items Subtotal $1,378,400
+Mobilization (5% of Items Subtotal)
+$68,920 Use same value on PCCP Mobilization
+Contract Items Subtotal (Items Incl. Mobilization) $1,447,320 Sales Tax (8.4% of Contract Items Subtotal) $121,575 Use same value on PCCP Sales Tax Contract Subtotal (Contract Items Incl. Sales Tax) $1,568,895 Engineering and Contingencies (15% of Contract Subtotal) $235,334 Use same value on PCCP Engineering and Contingencies Total Construction Subtotal (Contract Incl. Engineering and Contingencies) $1,804,229 Preliminary Engineering (10% of Total Construction Subtotal) $180,423 Use same value on PCCP Preliminary Engineering Total Project Cost (Total Construction Incl. Preliminary Engineering) $1,984,652
+103
+WSDOT Pavement Policy Table A4-C.3 HMA Rehabilitation #1 Year 2021, #3 Year 2047 Detail: Overlay Shoulder to Shoulder 0.15 HMA CL 1/2” PG 64-22 Unit
+150
+Ton
+Crushed Surfacing Base Course
+$15.00
+$2,250
+4,581
+Ton Ton
+HMA CL 1/2” PG 64-22
+$45.00
+$206,145
+Anti Stripping Additive
+$1.00
+$4,581
+4,581
+Bid Item
+Unit Price
+Quantity Per Day
+Quantity
+Amount
+$130,185
+2%
+Compaction Price Adjustment (HMA CL 1/2” PG 64-22, 2,893 Tons-No shoulders)
+2%
+$2,604
+$206,145
+3%
+Job Mix Compliance (HMA CL 1/2” PG 64-22)
+3%
+$6,184 Construction Time
+3
+Day
+Traffic Control Labor (4 people, 10 hr/days @$35/hr)
+$1,400.00
+$4,200
+3
+Day
+Traffic Control Supervisor
+$320.00
+$960
+3
+Day
+Traffic Control Vehicle
+$70.00
+$210
+Items Subtotal
+$227,134
+Mobilization (5% of Items Subtotal)
+$11,357
+Contract Items Subtotal (Items Incl. Mobilization)
+$238,491
+Sales Tax (8.4% of Contract Items Subtotal)
+$20,033
+Contract Subtotal (Contract Items Incl. Sales Tax)
+$258,524
+Engineering and Contingencies (15% of Contract Subtotal)
+$38,779
+Total Construction Subtotal (Contract Incl. Engineering and Contingencies)
+$297,303
+Preliminary Engineering (10% of Total Construction Subtotal)
+$29,730
+Total Project Cost (Total Construction Incl. Preliminary Engineering)
+$327,033
+104
+Days
+2,000
+3
+(Days)
+3
+WSDOT Pavement Policy Table A4-C.4 HMA Rehabilitation #2 Year 2034 Detail: Grind and Inlay Fog Line to Fog Line 0.15 HMA CL 1/2” PG 64-22
+Quantity 2,893
+Unit Ton
+2,893
+Bid Item
+Unit Price
+Amount
+HMA CL 1/2” PG 64-22
+$45.00
+$130,185
+Ton
+Anti Stripping Additive
+$1.00
+$2,893
+$130,185
+2%
+Compaction Price Adjustment (HMA CL 1/2” PG 64-22)
+2%
+$2,604
+$130,185
+3%
+Job Mix Compliance (HMA CL 1/2” PG 64-22)
+3%
+$3,906
+28,160
+SY
+Planning Bituminous Pavement
+$2.00
+$56,320
+3.0
+Ton
+Asphalt For Fog Seal (Shoulders)
+$265.00
+$795 Construction Time
+3
+Day
+Traffic Control Labor (4 people, 10 hr days)
+$1,400.00
+$4,200
+3
+Day
+Traffic Control Supervisor
+$320.00
+$960
+3
+Day
+Traffic Control Vehicle
+$70.00
+$210
+Items Subtotal
+$202,073
+Mobilization (5% of Items Subtotal)
+$10,104
+Contract Items Subtotal (Items Incl. Mobilization)
+$212,177
+Sales Tax (8.4% of Contract Items Subtotal)
+$17,823
+Contract Subtotal (Contract Items Incl. Sales Tax)
+$230,000
+Engineering and Contingencies (15% of Contract Subtotal)
+$34,500
+Total Construction Subtotal (Contract Incl. Engineering and Contingencies)
+$264,500
+Preliminary Engineering (10% of Total Construction Subtotal)
+$26,450
+Total Project Cost ( Total Construction Incl. Preliminary Engineering)
+$290,950
+Quantity Per Day
+Days
+1,500
+2
+1 (Days)
+3
+105
+WSDOT Pavement Policy Table A4-C.5 Initial PCCP Construction Year 2008 Detail: PCCP New Construction 1.00 ft PCCP with Stainless Steel Dowel Bars on 0.30' HMA CL 3/4” PG 64-22 Base, 0.30’ CSBC, Shoulder 0.35' HMA CL 1/2” PG 64-22 w/ 1.25' CSBC Quantity
+Unit
+10,169
+CY
+Cement Concrete Pavement (Excluding Dowel Bars)
+$160.00
+$1,627,040
+14,120
+Stainless Steel Dowel Bars
+$15.00
+$211,800
+50,036 $1,627,04 0
+EA L.F.
+Longitudinal Joint Seal
+$2.00
+$100,072
+CALC
+Ride Smoothness Compliance Adjustment
+2%
+$32,541
+27,176
+Ton
+Crushed Surfacing Base Course
+$15.00
+$407,640
+6,751
+Ton
+HMA CL 3/4” PG 64-22
+$45.00
+$303,795
+3,376
+Ton
+HMA CL 1/2” PG 64-22
+$45.00
+$151,920
+10,127
+Ton
+Anti Stripping Additive
+$1.00
+$10,127
+$455,715
+3%
+Job Mix Compliance (HMA CL 3/4” PG 64-22 & HMA CL 1/2” PG 64-22)
+3%
+$13,671
+Items Subtotal
+$2,858,606
+Use HMA's Initial Construction Mobilization
+$68,920
+Contract Items Subtotal (Items Incl. Mobilization)
+$2,927,526
+Use HMA's Initial Construction Sale Tax
+$121,575
+Contract Subtotal (Contract Items Incl. Sales Tax)
+$3,049,101
+Use HMA's Initial Construction Engineering and Contingencies
+$235,334
+Total Construction Subtotal (Contract Incl. Engineering and Contingencies)
+$3,284,435
+Use HMA's Initial Construction Preliminary Engineering
+$180,423
+Total Project Cost ( Total Construction Incl. Preliminary Engineering)
+$3,464,858
+Bid Item
+Unit Price
+Amount
+106
+WSDOT Pavement Policy Table A4-C.6 PCCP Rehabilitation #1 Year 2038 Detail: Grind PCCP and Clean and Reseal Joints Quantity Per Day
+Days
+$253,440
+5,000
+6
+$2.20
+$106,973
+17,000
+3
+Clean and Seal Random Cracks
+$11.00
+$1,540
+Ton
+Asphalt For Fog Seal (Shoulders)
+$265.00
+$795
+Calc
+Ride Smoothness Compliance Adjustment
+2%
+$5,069 (Days)
+9
+Quantity
+Unit
+Bid Item
+Unit Price
+28160
+SY
+Portland Cement Concrete Pavement Grinding
+$9.00
+48624
+Saw Clean and Seal Concrete Joints
+140
+L.F. L.F.
+3.0 253440
+Amount
+Construction Time 9
+Day
+Traffic Control Labor (4 people, 10 hr days)
+9
+Day
+9
+Day
+$1,400.00
+$12,600
+Traffic Control Supervisor
+$320.00
+$2,880
+Traffic Control Vehicle
+$70.00
+$630
+Items Subtotal
+$383,927
+Mobilization (5% of Items Subtotal)
+$19,196
+Contract Items Subtotal (Items Incl. Mobilization)
+$403,123
+Sales Tax (8.4% of Contract Items Subtotal)
+$33,862
+Contract Subtotal (Contract Items Incl. Sales Tax)
+$436,985
+Engineering and Contingencies (15% of Contract Subtotal)
+$65,548
+Total Construction Subtotal (Contract Incl. Engineering and Contingencies)
+$502,533
+Preliminary Engineering (10% of Total Construction Subtotal)
+$50,253
+Total Project Cost ( Total Construction Incl. Preliminary Engineering)
+$552,786
+107
+WSDOT Pavement Policy
+Appendix 4-D – LCCA Worksheets Table A4-D.1 Economic Variables, Analysis Options, Project Details and Traffic 1. Economic Variables Value of Time for Passenger Cars ($/hour)
+$13.99 LCCATRIANG(12,13.96,16) $22.11 LCCATRIANG(20,22.34,24) $26.96 LCCATRIANG(25,26.89,29)
+Value of Time for Single Unit Trucks ($/hour) Value of Time for Combination Trucks ($/hour) I 2. Analysis Options Include User Costs in Analysis Include User Cost Remaining Service Life Value Use Differential User Costs User Cost Computation Method Include Agency Cost Remaining Service Life Value Traffic Direction Analysis Period (Years) Beginning of Analysis Period Discount Rate (%)
+~~~~~~~~~!' =-Yes Yes Yes Calculated Yes Both
+50 2008 4.0
+LCCATRIANG(3,4,5) 3. Project Details and Quantity Calculations State Route Project Name Region County Analyzed By Mileposts Begin I ,............___... ' '--"'
+- End ir i~ II Length of Project (miles) Comments
+J}7
+SR 704 Cross Base Highway Olympic Region Pierce Terry MacAuley
+/I ),. . . . . -
+p
+I
+0.00 6.00 6.00 This project will create a new multi-lane East-West Highway, 6 miles long between I-5 at Thorne Lane and SR 7 at 176th Street.
+4. Traffic Data AADT Construction Year (total for both directions) Cars as Percentage of AADT (%) Single Unit Trucks as Percentage of AADT (%) Combination Trucks as Percentage of AADT (%) Annual Growth Rate of Traffic (%)
+I I I
+Speed Limit Under Normal Operating Conditions (mph) No of Lanes in Each Direction During Normal Conditions Free Flow Capacity (vphpl) Rural or Urban Hourly Traffic Distribution Queue Dissipation Capacity (vphpl)
+I l I I Rural I
+I
+I I
+30,866 90.0 4.0 6.0 1.9
+I LCCANORMAL(1.92,1)
+Maximum AADT (total for both directions) Maximum Queue Length (miles)
+60 2 2137
+j
+1818 J
+J LCCANORMAL(1818,144) 140,000 J I
+2.0
+108
+WSDOT Pavement Policy Table A4-D.2 Daytime HMA Alternative 1 Input Data Initial Construction Agency Construction Cost ($1000)
+Year 2008, Initial Construction $1,985.00 LCCANORMAL(1985,198.5)
+User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Activity Service Life (years) Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound First period of lane closure Second period of lane closure Third period of lane closure
+0 2 13.0 LCCATRIANG(11,13,15)
+Outbound First period of lane closure L] l r ~ Second period of lan e clos~ ure 1 ......., Third period of lane closure /1 ~ '
+~
+~
+~
+~/
+<VI ~ 1,,·- p ~
+R.-'ehabilitation #1
+/ tI ($10 /_ 00) "/&--" '-Agejncy Cons\truc\ tion Cos 1.,....---"'~ I" \. \ "·"'/\J ..I I I \ '-1~
+User Work Zone Costs ($1000)
+--- (days) Work ZIIoneJI Durat?ion I / /Open in Each Direction During Work No of J Lanes Acti/_,,,.J vity Service Life (years) ';,_.., ,::;,-Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) ' Inbound ' First period of lane closure Second period of lane closure Third period of lane closure
+" Start
+~
+End II
+.J ..,..J
+I i;;.-
+\
+A/
+I/
+VI ' \
+Start
+I
+II
+\
+//
+/ ,7 1.....\ IJ
+\
+End
+~
+J/
+,.:=,,
+-
+I
+Year 2021, Rehab # 1 - 0.15' HMA Overlay $327.00 I LCCANORMAL(327,32.7) 3 1 13.0 LCCATRIANG(11,13,15) 1.00 40 1340 Start
+End 9
+~
+Outbound First period of lane closure Second period of lane closure Third period of lane closure
+-
+1.00 40 1340 /
+-~
+I I JI
+-
+-
+~-Jf,
+' ' '
+-
+Start
+17
+End 6
+15
+109
+WSDOT Pavement Policy Table A4-D.2 Daytime HMA Alternative 1 Input Data (cont.) Rehabilitation #2 Agency Construction Cost ($1000) User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Activity Service Life (years) Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound First period of lane closure Second period of lane closure Third period of lane closure Outbound First period of lane closure Second period of lane closure Third period of lane closure Rehabilitation #3 Agency Construction Cost ($1000) User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Activity Service Life (years) Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound First period of lane closure Second period of lane closure Third period of lane closure Outbound First period of lane closure Second period of lane closure Third period of lane closure
+Year 2034, Rehab # 2 - 0.15' HMA Inlay $291.00 LCCANORMAL(291,29.1) 3 1 13.0 LCCATRIANG(11,13,15) 1.00 40 1340 Start
+End 9
+Start
+17
+End 6
+15
+Year 2047, Rehab # 3 - 0.15' HMA Overlay $327.00 LCCANORMAL(327,32.7) 3 1 13.0 LCCATRIANG(11,13,15) 1.00 40 1340 Start
+End 9
+Start
+17
+End 6
+15
+110
+WSDOT Pavement Policy Table A4-D.3 Daytime PCCP Alternative 2 Input Data Initial Construction Agency Construction Cost ($1000) User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Activity Service Life (years) Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound First period of lane closure Second period of lane closure Third period of lane closure Outbound First period of lane closure Second period of lane closure Third period of lane closure Rehabilitation #1
+Agency Construction Cost ($1000) User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Activity Service Life (years) Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound First period of lane closure Second period of lane closure Third period of lane closure Outbound First period of lane closure Second period of lane closure Third period of lane closure
+Year 2008, Initial Construction $3,465.00 LCCANORMAL(3465,346.5) 0 2 30.0 LCCATRIANG(25,30,35) 1.00 60 1340 Start
+End
+Start
+End
+Year 2038, Rehab #1 Diamond Grind, Reseal Joints, Repair Panels $553.00 LCCANORMAL(553,55.3) 9 1 30.0 LCCATRIANG(25,30,35) 1.00 40 1340 Start
+End 9
+Start
+17
+End 6
+15
+111
+WSDOT Pavement Policy Table A4-D.4 Daytime Deterministic Results Alternative 1: HMA Roadway (Day Time Construction)
+Total Cost
+Agency Cost ($1000) $2,879.69 $2,350.10 $109.40
+Undiscounted Sum Present Value EUAC
+User Cost ($1000) $559.78 $171.47 $7.98
+Alternative 2: PCCP Roadway (Day Time Construction) Agency Cost User Cost ($1000) ($1000) $3,833.67 $544.86 $3,609.56 $213.65 $168.03 $9.95
+Table A4-D.5 Daytime Probabilistic Results
+Total Cost (Present Value)
+Mean Standard Deviation Minimum Maximum
+Alternative 1: HMA Alternative 2: PCCP Roadway (Day Time Roadway (Day Time Construction) Construction) Agency Cost User Cost Agency CosV't User Cost ~ 0) ($1000) ($1000) ($1000) ($100 $2,353.55 $171.50 $3,600.84 .05 If$193 ......J/ 'Y" $190.06 $111.66 $332 $131.70
+- .74 $1,821.65 $9.16 /', / $2,589. $5.81 \ 55 \ 71 $3,033.05 $545.74 ., V/$4,'I660. $607.78
+Df-
+)p\__/
+/lRr,
+Table A4-D.6 Nighttime HMA Alternative 1 Input Data
+;n~
+V
+)---- -
+-
+Initial Construction Year 2008, Initial _..., .__ Construction ~ Agenc tion CU/4 ost ($1000) $1,985.00 \I y Cons ~
+--truc 1/ ..... Ll:, CCANORMAL(1985,198.5) ~ \ II ,:::.~ ~( Costs ($1000) User jJ Work \Zone I 0 Work Zone Duration (days) ./... ),._ (""' No \of Lanes ach Direction During Work Zone 2 I IOpe \ n\..in E'-..../ vice Li fe (years) 13.0 Activity Ser 11 ~ T7? LCCATRIANG(11,13,15) Maintenance Frequency (years) ~/ Agency Maintenance Cost ($1000) ...... Work Zone Length (miles) 1.00 Work Zone Speed Limit (mph) 40 Work Zone Capacity (vphpl) 1340 Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound Start End First period of lane closure Second period of lane closure Third period of lane closure
+~.,.,,.,,.-
+'
+H
+A-;J;V/ ./_..q
+~_,,..-
+Outbound First period of lane closure Second period of lane closure Third period of lane closure
+Start
+End
+112
+WSDOT Pavement Policy Table A4-D.6 Nighttime HMA Alternative 1 Input Data – continued… Rehabilitation #1 Agency Construction Cost ($1000) User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Zone Activity Service Life (years) Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound First period of lane closure Second period of lane closure Third period of lane closure Outbound First period of lane closure Second period of lane closure Third period of lane closure Rehabilitation #2 Agency Construction Cost ($1000) User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Zone Activity Service Life (years) Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) Work Zone Speed Limit (mph) Work Zone Capacity (vphpl) Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) Inbound First period of lane closure Second period of lane closure Third period of lane closure Outbound First period of lane closure Second period of lane closure Third period of lane closure
+Year 2021, Rehab # 1 0.15' HMA Overlay $327.00 LCCANORMAL(327,32.7) 3 1 13.0 LCCATRIANG(11,13,15)
+1.00 40 1340
+Start
+End 19 0
+Start
+24 5
+End 19 0
+24 5
+Year 2034, Rehab # 2 - 0.15' HMA Inlay $291.00 LCCANORMAL(291,29.1) 3 1 13.0 LCCATRIANG(11,13,15)
+1.00 40 1340
+Start
+End 19 0
+Start
+24 5
+End 19 0
+24 5
+113
+WSDOT Pavement Policy Table A4-D.6 Nighttime HMA Alternative 1 Input Data – continued… Rehabilitation #3
+Year 2047, Rehab # 3 0.15' HMA Overlay $327.00 LCCANORMAL(327,32.7)
+Agency Construction Cost ($1000) User Work Zone Costs ($1000) Work Zone Duration (days) No of Lanes Open in Each Direction During Work Zone Activity Service Life (years)
+3 1 13.0 LCCATRIANG(11,13,15)
+Maintenance Frequency (years) Agency Maintenance Cost ($1000) Work Zone Length (miles) 1.00 Work Zone Speed Limit (mph) 40 Work Zone Capacity (vphpl) 1340 Time of Day of Lane Closures (use whole numbers based on a 24-hour clock) art \ _ _ Endt l Inbound ~St_L First period of lane closure 19 /
+-- - - - ~ · -0 Second period of lane closure Third period of lane closure "',LV/ ~ - i- - i - ,i /_
+'
+V
+II 24
+- - 5
+~
+bJI
+/W
+~., Outbound First period of lane closure ....-------i ~.,,....- \I Sec_... ond'i7 period of lane closure ..Third\ per <. II iod of lane closure
+tH-~ -~
+B ~ ~ ;;\ ( /LY~
+-
+Start
+,,..
+,I,,,
+End
+19 0
+.,)_.,,....-
+24 5
+L,
+~
+Table A4-D.7 Nighttime PCCP Alternative 2 Input Data
+Initial CIIonstr IIucti'\on ~ V IIy CIL Agenc onstruc tion Cost ($1000)
+/It,,-~_,,,..,.,,,

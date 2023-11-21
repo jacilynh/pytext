@@ -1,0 +1,1887 @@
+Traffic Manual
+M 51-02.10
+
+Engineering and Regional Operations
+Traffic Operations Foreword
+The Traffic Manual is intended to provide instruction and guidance to department personnel who conduct traffic operations and design activities. This manual identifies state and federal laws and departmental directives, policies and publications that are used to aid in decision making for traffic operations and design issues. It also provides standards to assure uniform application of operational methods and traffic control devices statewide.
+Updating the Traffic Manual is a continuing process and revisions are issued periodically.
+Questions, observations and recommendations are invited. The next page is provided to encourage comments.
+WSDOT Traffic Manual Foreword
+WSDOT Traffic Manual Chapter 1 1-1
+General Information
+Overview
+The Washington State Department of Transportation (WSDOT) publishes the Traffic Manual to provide guidance on applicable policies, establish uniform methods and procedures, and communicate vital information about traffic operations on state highways. The intended audience is the department’s employees and others who develop traffic projects or conduct traffic engineering studies on state highways. The information, guidelines, and references herein are intended to support and complement sound engineering judgment and reflect the agency’s commitment to zero fatal and serious injuries and a sustainable, integrated multimodal transportation system.
+The Traffic Manual is available on the Internet and in print. It can be accessed electronically at www.wsdot.wa.gov/publications/manuals/m51-02.htm.
+The online version allows you to do a word search of the entire manual.
+
+1-2
+Subject Matter
+The Traffic Manual is composed of twelve additional chapters:
+Chapter 2 Signs
+Chapter 3 Delineation & Markings
+Chapter 4 Multimodal Planning and Design/Operational Considerations
+Chapter 5 Work Zone Traffic Control
+Chapter 6 Traffic Regulations
+Chapter 7 Specialized Highway Uses
+Chapter 8 Highway Advertising Control and MIS
+Chapter 9 Traffic Planning, Safety, Operations, and Design
+Chapter 10 Intersection Control Evaluation
+Chapter 11 Traffic Engineering Records Management
+Chapter 12 Multimodal Traffic Impact Analysis Guidelines
+Each chapter provides information, guidelines, and references relating to a specialized area of traffic operations. Because traffic control device systems and their application are dynamic, the Traffic Manual is updated periodically to reflect state-of-the-art traffic engineering practices.
+The Traffic Manual does not attempt to address all the possible traffic operations situations or questions. Contact the Headquarters Traffic Office for discussion and guidance on unique traffic operations matters.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 1-1 Chapter 1 1-3
+General Information
+WSDOT Traffic Coordination
+Most traffic activities within WSDOT are administered by the Headquarters Traffic
+Operations Division and the Regional Traffic Offices. The Maintenance Operations,
+Active Transportation, Transportation Data, GIS & Modeling Office, Transportation Safety & Systems Analysis, Local Programs, Multimodal Planning, Risk Management & Legal
+Services, Public Transportation, Development, Ferries, Urban Mobility and Access, Capital
+Program Development and Management, and Rail, Freight & Ports Divisions provide specialized support.
+The following subsections briefly describe how each of these work groups contributes to the goals of the department’s Traffic program.
+A.
+
+Page 1-2
+Headquarters Traffic Operations Division (Headquarters). Under the Director of
+Traffic Operations, the Headquarters Traffic Operations Division is responsible for traffic engineering and related safety functions in four fundamental areas: 1.
+Statewide Traffic Expertise – Headquarters provides expertise to the regions and other agencies, focusing on traffic design, traffic operations, ITS operations, work zone traffic control, traffic impact analysis, Practical Solutions, traffic engineering training, and highway advertising control. The Traffic Operations Division also coordinates statewide traffic activities including consulting with Attorney
+General’s Office on matters of traffic law, offering advice or guidance when requested by the regions or other WSDOT offices, and facilitating statewide meetings with regional traffic personnel. 2.
+Statewide Policy Development – Headquarters develops policy and responds to issues and questions on traffic engineering to provide for statewide consistency and uniformity. These tasks often require efforts to research, coordinate, and summarize issues for executive level decision-making. Policies include injury minimization speed management, traffic design, and traffic operations standards and procedures. 3.
+Statewide Resource Development and Deployment – Headquarters identifies the resources required to fund traffic operations for the state highway system, and for statewide traffic and lower cost investments that reduce crash potential.
+Decision packages are developed and submitted to the legislature for approval each biennium and once approved, the funds are allocated. Traffic operations activities are accomplished primarily under Program Q. 4.
+Traffic Systems Management and Operations (TSMO) Program – Headquarters serves as an agency TSMO champion, focusing on how to operate our existing facilities most efficiently. In coordination with other divisions and regions, the Traffic Operations Division leads the development, implementation and maintenance of the statewide TSMO Program Plan. This effort requires evaluating, planning and addressing areas like business processes, workforce development, culture, and technology and performance management. See the
+TSMO website (TSMOWA.org).
+
+WSDOT Traffic Manual
+M 51-02.10 General Information
+Chapter 1
+B.
+Regional Traffic Offices – The six Regional Traffic Engineers report to one of the regional senior managers, typically the regional Maintenance and Operations Engineer.
+Regionally administered traffic engineering services include: 1.
+Traffic engineering investigations and studies. 2.
+Crash analyses. 3.
+Operational analyses. 4.
+Multimodal analyses and assessments.
+
+5.
+Compliance with Rules and regulations. 6.
+Regional traffic expertise. 7.
+Freeway and arterial management. 8.
+Traffic related design support to the I and P subprograms. 9.
+Traffic control device inventories. 10. Public and media relations. 11. Administration of Program Q allocations. 12. Practical Solutions development and implementation.
+C.
+Maintenance Operations – Washington State Maintenance Operations personnel work through many challenges in maintaining the state highway system, including; increasing growth in population and vehicles, and extreme weather patterns that can bring wind, rain, snow, and ice. Providing for movement on our highway system during each season while performing a variety of maintenance activities that remove the potential for crashes involving our maintenance workers is a priority for our
+Maintenance Operations family. Through the use of tools, technology, techniques and talent; you, the maintenance professional take on these challenges and deliver through it all.
+D.
+
+Active Transportation Division – The Active Transportation Division provides leadership and expertise to guide policy, practice, and problem solving to increase walk, bike and roll safety, mobility and accessibility. Their work supports the agency’s mission of enabling Washingtonians of all ages and abilities to get where they want to go using the modes that work best for them. This includes an emphasis on active transportation network connectivity and quality, systematic safety, multimodal access, pedestrian crossing permeability, and injury minimization speed management on roadways where people walking or biking may be present. The division provides technical assistance within WSDOT and to local partners, coordinates with active transportation coordinators housed in region offices, and oversees the Safe Routes to
+School and Pedestrian and Bicycle funding programs.
+WSDOT Traffic Manual
+M 51-02.10
+Page 1-3 Chapter 1
+General Information
+E.
+Transportation Data, GIS & Modeling Office – The Transportation Data, GIS and
+Modeling Office (TDGMO) is part of Headquarters Multimodal Planning Division.
+The TDGMO collects, analyzes, reports, and stores much of the data the department uses to identify and address operational deficiencies on our state highways. Data includes information about the type of roadway surface, width of the travel lanes and shoulders, number and types of vehicles using the highway each day, and the location and severity of crashes. The TDGMO also provides technical support for planning functions, maintains video and digital imaging of state highways, and maintains the milepost system. www.wsdot.wa.gov/mapsdata/tdgo_home.htm
+
+F.
+Transportation Safety & Systems Analysis Division – WSDOT’s Transportation Safety & Systems Analysis division (TSSA) includes Transportation Safety & Enterprise Risk,
+Research & Library Services, Knowledge Management, Strategic Management and
+Performance Management.
+TSSA supports Practical Solutions by working with programs across the agency to help WSDOT achieve its strategic plan. TSSA provides actionable information through research, data analysis and coordination with other programs to helps agency leaders make decisions. We strive to be WSDOT’s resource of choice for information and expertise for better decisions. TSSA supports Practical Solutions by working with programs across the agency to help WSDOT achieve its strategic plan. TSSA provides actionable information through research, data analysis and coordination with other programs to helps agency leaders make decisions. We strive to be WSDOT’s resource of choice for information and expertise for better decisions.
+G.
+Local Programs Division – The Local Agency Traffic and Safety Services program provides traffic engineering assistance to cities, counties, tribal governments, transit and other agencies, as well as other organizations. They assist with traffic safety, operations, and design issues, help advance projects, and promote information sharing.
+Traffic and Safety Services also operates as a contact point between local agencies, tribal governments, WSDOT, Federal Highway Administration, and other state agencies. Traffic and Safety Services answers general questions about state highways, but directs questions about specific locations to the appropriate WSDOT region.
+Examples of the services offered are available at www.wsdot.wa.gov/LocalPrograms/
+Traffic/default.htm.
+Traffic and Safety Services also hosts the Washington Transportation Professionals peer exchange, a group of Washington State city and county traffic, transportation, and public works engineers and technicians, public works directors, managers, planners, and related professionals. This peer exchange provides a forum for local agencies to share ideas and information about traffic issues affecting local agencies through email, website, and regular meetings. Meeting dates and topics are listed at www.wsdot.wa.gov/LocalPrograms/Traffic/WTPF.htm.
+For more information about these services, contact the City Safety and Traffic
+Programs Manager at www.wsdot.wa.gov/LocalPrograms/staff.htm.
+
+Page 1-4
+WSDOT Traffic Manual
+M 51-02.10 General Information
+H.
+Chapter 1
+Multimodal Planning Division – The Multimodal Planning Division informs decisions through expertise and innovation in planning, policy and data and analysis services to support a sustainable and integrated statewide multimodal transportation system.
+The Multimodal Planning Division: 1.
+Plans transportation improvements for a variety of travel modes including transit, carpools, freight, general-purpose highway use and active transportation. 2.
+Coordinates with local agencies, sub-area transportation management forums, the Puget Sound Regional Council (PSRC), and other transportation providers to determine cost-effective investments for the state transportation system that meet the mobility needs of people and goods while systematically working to meet greenhouse gas reduction goals set in state law. 3.
+Improves the performance of the existing highway system by implementing new technology, and developing congestion pricing and tolling strategies.
+
+4.
+Coordinates state transportation facility planning between WSDOT’s Olympic and Northwest Regions, Tolling Organization, Washington State Ferries, and with local jurisdictions and the Puget Sound Regional Council. 5.
+Collects, processes, analyzes and reports data on over 80,000 miles of public roadway, including over 7,000 miles of state highway. Provides specialized GIS products and services in support of business operations throughout WSDOT.
+I.
+Risk Management & Legal Services Division – The Risk Management & Legal Services
+Division (RMLS) is responsible for the agency’s risk management function, including managing agency litigation, investigating tort claims, pursuing financial recovery for damage to agency property and resources, records and information management, public disclosure, and agency rules, policies, and forms. RMLS provides consultation and support on legal compliance issues, including the state public records laws. RMLS manages the agency’s records management and public disclosure programs and assists regions, divisions and offices with records retention schedules and disposition of records, and responding to public records requests. See Records and Information
+Management Manual M 3124.
+J.
+Public Transportation Division – The Public Transportation Division’s goal is to develop and deliver innovative, distinctive programs, services and approaches that support an integrated, multimodal, sustainable, transportation system, to consistently exceed our customers’ and partners’ expectations; and to be recognized as a great place to work. The Public Transportation Division strives to create and support integrated transportation solutions that connect people statewide through partnerships with local and regional services and organizations.
+WSDOT Traffic Manual
+
+M 51-02.10
+Page 1-5 Chapter 1
+General Information
+K.
+Development Division – The Development Division consists of 318 employees working in six distinctive areas actively supporting the agency’s goals and mission by providing responsive, reliable and progressive professional products and services to our customers. The division is committed to employee development and recognizing accomplishments, while fostering a productive and modern work environment. The
+Design Office in the Development Division maintains and updates the WSDOT Design
+Manual (DM). Staff across the agency engaged in highway design use the DM, along with other guidance resources, in the course of that work. Assistant State Design
+Engineers, who work in the division, are a primary staff resource when interpreting guidance and in addressing conflicts between manuals, providing information about the procedures and documentation that may be required.
+L.
+Ferries – Information Pending.
+
+M.
+Urban Mobility and Access – The Urban Mobility and Access (UMA) Office is focused on transportation needs in the central Puget Sound (King, Kitsap, Pierce, and
+Snohomish counties). The UMA Office has three divisions: Management of Mobility,
+Regional Transit Coordination, and the Toll Division.
+The Management of Mobility Division coordinates plans for state facilities with regional, local and modal partners; develops system strategies, corridor plans and investment proposals to improve multimodal mobility and access on state routes. In addition, the division coordinates closely with regions and local agencies to coordinate future construction impacts as well as develop strategies to manage major system changes and congestion caused by major incidents.
+Regional Transit Coordination Division supports and liaisons with Sound Transit, King
+County Metro, Community Transit, Everett Transit, and Pierce Transit. This includes collaborating and coordinating with transit and other agencies as well as with WSDOT divisions and offices if there is a potential for impacts to transit or opportunities for enhanced transit in the central Puget Sound Region.
+The Toll Division implements and operates the statewide toll program. The Toll
+Division works closely with the Northwest Region Traffic office and other offices statewide on key Transportation System Management & Operations (TSMO) concepts like express toll lanes and variable tolling rates, and provides revenue to fund transportation improvements, maintenance and operations.
+N.
+
+Page 1-6
+Capital Program Development and Management Division (CPDM) – CPDM is responsible in varying degrees for development and management of the capital construction programs for highways, ferries, and rail, as well as for traffic operations and capital facilities. CPDM develops the highway construction program working with
+Region program management and project development, and oversees development of construction programs for all other modes and functional areas, working with their respective staffs. CPDM is also responsible to ensure that construction programs meet the cost, scope and schedule of Legislative intent. CPDM seeks the most efficient means of utilizing available funding and workforce resources provided by the Legislature to construct projects that preserve and improve the state transportation system. As projects are scheduled for construction, CPDM allocates funding, monitors progress, and reports results to the Legislature, Governor’s Office,
+WSDOT Traffic Manual
+M 51-02.10 General Information
+Chapter 1
+WSDOT executives and the public. CPDM works with many others both within and outside the department to ensure the successful delivery of the department’s
+Construction Program.
+O.
+Rail, Freight and Ports Division – Rail, Freight, and Ports Division is responsible for: • Managing the Amtrak Cascades passenger rail system in conjunction with ODOT • Planning for the future of Washington’s rail, freight and ports programs and projects • Funding freight rail projects across the state through both grant and loan programs • Coordinating with ports, regional planning organizations and other freight stakeholders across the state to align priorities • Overseeing the WSDOT-owned short line railroad in eastern Washington– the
+Palouse River & Coulee City Rail System
+
+1-4
+Key Reference Material
+The following reference materials are essential to personnel involved with traffic operations and traffic design duties. • Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD) and
+Washington State Modifications to the MUTCD M 24-01. RCW 47.36.030 directs
+WSDOT to adopt a uniform standard for the application and location of traffic control devices installed along public roadways in the state of Washington. The MUTCD, published by FHWA, has been adopted into Chapter 468-95 of the Washington
+Administrative Code (WAC). To comply with state law, modifications to specific
+MUTCD sections have also been adopted into WAC 468-95.
+Amendments to the MUTCD are developed by the FHWA through the Federal
+Register process. The amendments become effective in our state after the department receives notification of the approved changes from the FHWA and adopts them into
+WAC 468-95.
+WSDOT Design Manual M 22-01. The Design Manual (DM) is maintained by the Design
+Office in the Development Division, and is the agency’s primary reference for highway design policy and guidance. In addition, it provides a uniform approach to methods and procedures for development of multimodal highway designs. Besides policy, methods, and guidance for designers, the DM provides the basic framework for documenting and approving designs. The DM also provides guidance for developing traffic components included in design reports and contract plans. Many of the components may also apply to traffic operations. Where possible, the Traffic Manual avoids duplication of Design Manual materials, but provides appropriate cross-references. • WSDOT Sign Fabrication Manual M 55 05. The Sign Fabrication Manual provides sign fabricators and designers with detailed layout information for official traffic signs used in Washington State. • WSDOT Standard Plans for Road, Bridge, and Municipal Construction M 21-01.
+The “Standard Plans” provide plans for traffic-related items. • WSDOT Standard Specifications for Road, Bridge, and Municipal Construction
+M 41-10. The Standard Specifications provide detailed requirements and techniques for construction and installation of traffic-related items.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 1-7 Chapter 1 1-4.1
+General Information
+Other Documents
+The following reference documents may also be helpful in conducting traffic related designs and analyses:
+WSDOT Manuals www.wsdot.wa.gov/publications/manuals • Plans Preparation Manual M 22-31 • Construction Manual M 41-01 • Maintenance Manual M 51-01 • Highway Advertising Control Act M 22-95 • Developer Services Manual M 3007
+FHWA (Federal Highway Administration) www.fhwa.dot.gov, www.fhwa.dot.gov/environment/ bicycle_pedestrian/publications/multimodal_networks • Traffic Monitoring Guide
+AASHTO (American Association of State Highway and Transportation Officials) www.transportation.org • A Policy on Geometric Design of Highways and Streets • Guidelines for Traffic Data Programs • Highway Safety Manual
+NACTO (National Association of City Transportation Officials) https://nacto.org/publications, https://nacto.org/safespeeds • Urban Street Design Guide • Urban Bikeway Design Guide
+TRB (Transportation Research Board) www.trb.org/main/public/home.aspx • Highway Capacity Manual
+ITE (Institute of Transportation Engineers) www.ite.org • Traffic Control Devices Handbook • ITE Trip Generation Manual Traffic Engineering Handbook • Manual of Transportation Engineering Studies
+
+1-4.2
+Other Reference Sources
+The following internal reference sources may also be helpful in conducting traffic engineering investigations and analyses: • Safety Analysis Guide • Traffic Electrical Design Webpage • Multimodal Traffic Impact Analysis Guidelines • SR View • Interchange Viewer • Washington State Highway Log • TRIPS — WSDOT corporate mainframe database for transportation data • NCHRP Human Factor Guides
+Page 1-8
+WSDOT Traffic Manual
+M 51-02.10 General Information 1-5
+Chapter 1
+Abbreviations
+Common abbreviations used in the Traffic Manual and other traffic engineering related publications are:
+AADT
+
+Annual Average Daily Traffic
+AASHTO
+American Association of State Highway and Transportation
+Officials
+ARM
+Accumulated Route Mileage
+VMS
+Variable Message Sign
+CVISN
+Commercial Vehicle Information Systems Network
+
+DMI/LRS
+Distance Measuring Instrument/Linear Referencing System
+FHWA
+Federal Highway Administration
+GPS/LRS
+Global Positioning System/Linear Referencing System
+HAR
+Highway Advisory Radio
+HOV
+High Occupancy Vehicle
+
+HOT
+High Occupancy Toll
+HPMS
+Highway Performance Monitoring System
+HSIS
+Highway Safety Information System
+ITE
+Institute of Traffic Engineers
+ITS
+Intelligent Transportation Systems
+
+MPO
+Metropolitan Planning Organization
+MUTCD
+Manual on Uniform Traffic Control Devices for Streets and Highways
+NHS
+National Highway System
+PSRC
+Puget Sound Regional Council
+PTR
+Permanent Traffic Recorder
+
+RCW
+Revised Code of Washington
+SRMP
+State Route Milepost
+MAP-21
+Moving Ahead for Progress in the 21st Century Act
+TDGMO
+Transportation Data, GIS & Modeling Office
+TMC
+Traffic Management Center
+
+TRAC
+Transportation Research Center (University of Washington)
+WAC
+Washington Administrative Code
+WSDOT
+Washington State Department of Transportation
+WSP
+Washington State Patrol
+WTSC
+Washington Traffic Safety Commission
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 1-9 Chapter 1
+General Information
+This page intentionally left blank.
+Page 1-10 Chapter 2 2-1
+Signs
+General
+Effective signing is the primary method to provide regulatory, warning, and guidance information to transportation system users (motorized vehicles, pedestrians, and bicyclists).
+Signing that is clear, concise, and accurate supports safe behaviors and safe operation, legal, and orderly travel on public roadways and transportation facilities. Sign use must be limited and conservative since signs can lose their effectiveness when used to excess. Signs are not typically used to confirm Rules of the Road.
+This chapter contains information about signing on the state highway system and is intended for persons involved in traffic operations or traffic design. Specific policies and guidelines are included that clarify the Manual on Uniform Traffic Control Devices (MUTCD) information. Situations not addressed in this chapter or the MUTCD may need to be determined on a case-by-case basis using engineering judgment.
+Where a change to the current sign installation is indicated by information in this chapter, replace as the current sign’s service life is reached. For MUTCD Target Compliance Dates, see page I-4, Table I-2 for required sign replacements.
+State law requires the department to adopt uniform standards for traffic control devices, including signs, along public roadways. WAC 468-95 adopts the MUTCD and
+Washington State Modifications to the MUTCD as these standards. The MUTCD and
+WSDOT modifications provide guidance on the intended use and placement of regulatory, warning, guide, and motorist information signs, as well as specific information on sizes and installation.
+This chapter supplements the MUTCD and WSDOT modifications with specific interpretations and unique applications for signs on the state highway system.
+Guidelines for the use of traffic control signs are discussed in the following
+MUTCD chapters:
+MUTCD Chapter
+
+WSDOT Traffic Manual
+Sign Type
+Chapter 2B
+Regulatory Signs, Barricades, and Gates
+Chapter 2C
+Warning Signs and Object Markers
+Chapter 2D
+Guide Signs – Conventional Roads
+Chapter 2E
+Guide Signs – Freeways and Expressways
+
+Chapter 2F
+Toll Road Signs
+Chapter 2G
+Preferential and Managed Lane Signs
+Chapter 2H
+General Information Signs
+Chapter 2I
+General Service Signs
+Chapter 2J
+Specific Service Signs
+
+Chapter 2L
+Changeable Message Signs
+Chapter 2M
+Recreational and Cultural Interest Signs
+Chapter 2N
+Emergency Management Signs
+Part 6
+Work Zone Signs
+Part 7
+School Area Signs
+
+M 51-02.10
+Page 2-1 Chapter 2
+Signs
+MUTCD Chapter 2-2
+Sign Type
+Part 8
+Railroad and Light Rail Signs
+Part 9
+Bicycle Facility Signs
+Sign Design
+The WSDOT Sign Fabrication Manual M 55-05 contains geometric layout details for most signs used by the department.
+The sign number codes indicated in the Sign Fabrication Manual and other departmental publications are exclusive to WSDOT and may not correspond to MUTCD number codes for similar signs.
+Any modification to a symbol regulatory or warning sign requires FHWA experimentation approval, contact HQ’s Traffic.
+Any non-standard sign design shall be submitted to the State Sign Engineer for the State
+Traffic Engineer’s approval.
+
+2-2.1
+Designing a Sign Message
+This section contains information about layout and fabrication of signs that are not addressed in the Sign Fabrication Manual.
+A.
+Message Content – A sign message must convey the necessary information in a simple, direct manner using clear and concise wording. English language is used on signs on the state transportation system. Historical names (including non-English) may be used for place names such as for a town or natural or cultural feature. Native Tribal language may be used on jurisdictional boundary and geographic features signs.
+B.
+Letter Sizing – Letter sizes for primary and supplemental guide signs are determined by roadway type and operating speed. A sign message must be large enough to give the viewer adequate time to read and comprehend the information, and to respond with a driving task or other action as required. MUTCD Tables 2E-2 through 2E-5 show the appropriate standard letter sizes to be used. Signs on non-roadway portions of the transportation system (i.e., bicycle or pedestrian paths, transit stations) are sized to reflect the specific conditions of use.
+Studies indicate the average driver comprehends three words per second, after a message perception time of up to two seconds. Unique messages require more perception time than messages that are commonly used. Determine the needed letter height for a particular sign by using the following formula that combines the comprehension rate and the perception time with the operational speed of the roadway.
+LETTER HEIGHT = (N/3 + 2) f
+Where:
+
+Page 2-2
+N =
+Number of words in the message. f =
+Legibility factor (see Exhibit 2-1). (Found by dividing vehicle speed in feet per second (fps) by 30, the legibility distance per inch of letter height.)
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+Exhibit 2-1 ‘f’ Values by Speed *MPH (fps) f 25 37 1.2 30 44 1.5 35 51 1.7 40 59 2.0 45 66 2.2 50 73 2.4 55 81 2.7 60 88 2.9 65 95 3.2 70 103 3.4 *Speed (legal speed limit or 85th percentile speed).
+The following example applies the formula and calculates desirable letter height:
+Example message:
+
+“SNOQUALMIE PASS RADIO TRAFFIC INFO 1 MILE”
+Roadway Posted Speed Limit
+N f
+Height
+LETTER HEIGHT = = = = =
+65 mph 7 3.2 (7/3 + 2) 3.2 = 14 inches
+Use 14-inch letters
+C.
+Message Layout and Spacing – Sign message layout and spacing requirements are specified in the Sign Fabrication Manual.
+D.
+
+Abbreviations – Abbreviations must be immediately recognizable by the viewer and are only used to avoid excessively long sign messages. Do not use abbreviations if the controlling (longest) message line is long enough to allow use of the complete word.
+Do not abbreviate place names except for those approved in the list below.
+To maintain statewide uniformity, the Headquarters Traffic Office must approve abbreviations other than those listed below. Periods are not used in sign abbreviations, except for British Columbia (B.C.) and United States (U.S. Customs).
+The following are the only pre-approved abbreviations:
+AFB
+Air Force Base
+Alt
+Alternate
+Ave
+Avenue
+
+B.C.
+British Columbia
+Bch
+Beach
+Blvd
+Boulevard
+Coll
+College
+Comm
+Community
+
+Co
+County
+Cr
+Creek
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-3 Chapter 2
+Page 2-4
+Signs
+Ct
+
+Court
+Ctr
+Center
+DNR
+Department of Natural Resources (campground, etc.)
+Dr
+Drive
+E
+East
+Elev
+
+Elevation
+FS
+Forest Service
+Ft
+Fort
+Fwy
+Freeway
+Fy
+Ferry
+Hist
+
+Historic (as in “Nat’l Hist District”)
+HOV
+High Occupancy Vehicle
+Hts
+Heights
+Hwy
+Highway and State Route
+Info
+Information
+Int’l
+
+International
+Jct
+Junction km
+Kilometers
+Lab
+Laboratory
+Lk
+Lake
+Ln
+Lane
+
+Lp
+Loop
+Lt
+Left
+M
+Meters
+Max
+Maximum
+Med
+Medical
+
+Mi
+Mile(s)
+Min
+Minimum
+MPH
+Miles Per Hour
+Mt
+Mount (Rainier)
+Mtn
+Mountain
+
+N
+North
+NE
+North East
+NW
+North West
+NAS
+Naval Air Station
+Nat’l
+National
+
+Ore
+Oregon
+ORV
+Off Road Vehicle
+Pk
+Park
+Ped
+Pedestrian
+Pkwy
+Parkway
+WSDOT Traffic Manual
+
+M 51-02.10 Signs 2-2.2
+Chapter 2
+Pl
+Place
+Pop
+Population
+Pt
+Port or Point
+Rd
+Road
+
+Rec Area
+Recreational Area
+Res
+Reservation
+RR
+Railroad
+Rt
+Right
+RV
+Recreational Vehicle
+
+S
+South
+SE
+South East
+SW
+South West
+Sea-Tac Airport
+Seattle-Tacoma Airport
+Spdwy
+Speedway
+
+St
+Street
+Temp
+Temporary
+Thru
+Through
+Univ
+University
+U.S.
+U.S. (Customs, etc.)
+
+USA
+United States of America
+USFS
+U.S. Forest Service
+W
+West
+Wy
+Way
+WSDOT
+Washington State Department of Transportation
+
+State Patrol
+Washington State Patrol
+Xing
+Crossing
+Reflective Sign Sheeting Material Requirements
+Traffic control signs are fabricated using various types of reflective sheeting material. Each sheeting type has different retroreflective properties and different practical applications.
+The sign type and its location determine the specific sheeting to be used. The following sheeting types are designated in ASTM Specification D 4956: • Type I – Medium-intensity retroreflective sheeting, referred to as “Engineer Grade.”
+Warranty life of 7 years. • Type II – Medium-high-intensity retroreflective sheeting referred to as “Super Engineer
+Grade.” Warranty life of 10 to 12 years. • Type III – High-intensity retroreflective sheeting referred to as “High Intensity.”
+Warranty life of 10 years. • Type IV – High-intensity prismatic retroreflective sheeting, referred to as “High
+Performance.” Warranty life of 10 years.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-5 Chapter 2
+Signs • Type VIII – Super high-intensity prismatic retroreflective sheeting, referred to as “Super
+High Performance.” Warranty life of 10 years. • Type IX – Very high-intensity prismatic retroreflective sheeting, referred to as “VIP
+Diamond Grade” or “Omni-View.” Warranty life of 12 years. • Type X – Super-high-intensity prismatic retroreflective sheeting, referred to as “Fluorescent Orange Prismatic.” Warranty life of 3 years. • Type XI – Very high-intensity prismatic retroreflective sheeting, referred to as “Diamond Grade Cube” or “Omni-Cube.” Warranty life of 12 years.
+The following table shows the specific sheeting type to use, based on the sign type, location, and lighting environment. When ordering a sign from the WSDOT Yakima sign shop, specify the sheeting type.
+Exhibit 2-2
+Sheeting Type (Background)
+Sheeting Type (Legend,
+Symbols, Border)
+
+• Ground Mounted
+IV
+N/A1 • Overhead
+N/A • Overhead
+XI
+N/A • Overhead Exit Only
+IV or XI2 • Overhead Left Side Exits • Other Overhead Guide • Overhead Street Name • Route Markers (M-Series Signs)
+IV3
+General Information (I-Series Signs)
+School (S-Series Signs)4
+
+N/A
+Milepost Markers
+IV
+Blue and Brown Background Signs
+Fluorescent Orange (Work Zone Signs)
+X
+Sign Type
+Regulatory
+Warning
+Guide Signs
+
+(S1-1, S4-3, “School” portion of S5-1, and S5-101)
+1 Red is Type IV, black is non-reflective.
+2 For Yellow Background sheeting, use Type XI Fluorescent sheeting.
+3 Black is non-reflective.
+4 Fluorescent Yellow Green (FYG) sheeting.
+Page 2-6
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-3 2-3.1
+Chapter 2
+Sign Location, Installation, and Storage
+Sign Location
+Signs shall be located and positioned according to standards outlined in the MUTCD Section address sign mounting height and lateral and longitudinal placement. • Place signs in a manner that provides a clear view for the roadway user and to not obstruct other signs. • Space signs to allow the roadway user time for making required decisions and to safely execute any necessary maneuver. • Overloading roadway users with too much information may cause confusion; use engineering judgment based on Perception Reaction Time (PRT) and posted speed limit. • Signs should be individually installed on separate posts or mountings except where one sign supplements another or where route or directional signs must be grouped.
+An exception is an Adopt A Highway sign with a Milepost marker. • Signs should be located as far from the traveled way as possible, while remaining visually effective (road user’s cone of vision). They should be placed on the backslope of a ditch, rather than the inslope or bottom. • Sign spacing on Freeways and Expressways: – Minimum mainline spacing between all primary and supplemental guide signs shall be 800 feet. – Minimum sign spacing between all other signs except Milepost (MP) and
+Object Marker signs shall be 500 feet. This shall include spacing to primary and supplemental guide signs, and Highway Advisory Radio (HAR and Variable Message
+Signs (VMS). – Minimum spacing on ramps shall be 100 feet. • Sign spacing on Conventional Highways: – Minimum spacing between all signs except Milepost (MP) Markers and Object
+Marker signs is 500 feet desirable and a minimum of 350 feet for posted limit of 40 mph or greater. – Minimum spacing between all signs except Milepost (MP) Markers and Object
+Marker signs is 300 feet desirable and a minimum of 100 feet for posted limit of 35 mph or less.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-7 Chapter 2 2-3.2
+Signs
+Sign Installation
+Standard Plans Section G, and MUTCD Section 2A.16–2A.21. Refer to these documents for installation standards for: • Ground mounted signs on steel, wood, and box beam posts. • Overhead sign installations, including service walkways. • Height of sign (vertical clearance or “v” dimension). • Horizontal location of sign (“w” dimension). • Sign post break-away safety features. • Windload information, see Standard Plans Section G or contact HQ’s Traffic. 2-3.3
+Temporary and Permanent Attention Devices
+Attention getting devices, such as flags, may be used temporarily with newly installed warning or regulatory signs. They can draw attention to a traffic revision such as a speed limit change or the addition of a traffic signal. Temporary attention devices are fluorescent yellow in color. They are generally displayed for a minimum of two weeks and a maximum of one month. Devices may be displayed up to two months when greater conspicuity is needed.
+Attention devices may be permanently placed when a high impact continues to be needed to improve compliance with a specific traffic regulation or other traffic control. Permanent attention devices have been used on Interstate or other major roadways where there is a speed limit reduction of 10 mph or greater.
+Permanent attention devices shall be fluorescent yellow prismatic sheeting and must be approved by the region traffic engineer following an engineering investigation, which includes a review of crash and speed data. The unnecessary use of attention devices erodes their effectiveness and must be avoided. Therefore, permanent attention devices must be re-evaluated every 12 to 24 months for continued effectiveness and re-approved by the
+Region Traffic Engineer.
+
+Page 2-8
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-3.4
+Chapter 2
+Controlling Vegetation Around Signs
+The department’s maintenance crews are responsible for maintaining visibility to signs by clearing vegetation that obscures the full view of a sign face. Thoughtful sign placement can reduce the need for vegetation control.
+The following guidance will generally provide sign visibility. Greater clearing may be necessary in some situations to achieve full visibility to the sign.
+Exhibit 2-3
+Area Description
+Distance* From Vegetation
+
+Width**
+Low Speed Urban
+200 feet
+Varies
+Rural
+500 feet
+Freeways and All Guide Signs
+800 feet *Distance is measured in the direction that the sign faces, along the edge of the traveled way. **Width varies. Clear vegetation from edge of pavement to 5 feet beyond the sign edge that is farthest from the roadway, or to the edge of the right of way.
+For vegetation control at grade intersections with county roads, the department is only responsible for vegetation within state highway right of way. The county is responsible for the vegetation on their legs of the intersection outside of state highway right of way. For vegetation on private property, the department has no authority to remove or cut back.
+Maintenance should try working with the property owner on these vegetation issues.
+
+2-3.5
+Sign Storage
+Store signs to prevent damage to the sign face. Sign sheeting is damaged by exposure to dirt and water during storage, which can reduce its retroreflectivity. Never store signs lying flat.
+Moisture accumulation between signs will cause sheeting failure.
+Store all packaged signs on edge and indoors. If packaged signs become wet, unpack them immediately and separate the signs to dry (clothespins work well). Provide ample space between signs to allow free air circulation and moisture evaporation from each sign face.
+If outdoor storage is required for short periods, remove all packing materials so nothing is against the sign face. Store signs on edge, separated with clothespins, and set above the ground in a clean area. 2-4
+Sign Installation and Maintenance Jurisdiction
+Jurisdictional responsibility for traffic control signs (and other traffic control devices) on public highways is assigned through several state statutes. • The department is responsible for erecting and maintaining traffic control signs upon every state highway (RCW 47.36.050) and (WAC 468-18-040). Local jurisdictions are assigned the responsibility to erect and maintain traffic control signs on roadways within their jurisdiction (RCW 47.36.060).
+WSDOT Traffic Manual
+M 51-02.10
+
+Page 2-9 Chapter 2
+Signs
+These responsibilities are further defined: – On limited access roadways, including any interchange cross-streets, the department is responsible for signing (RCW 47.52.020 and RCW 47.24.020(2)).
+This can be superseded by an agreement with a local agency that designates other responsibility arrangements (RCW 47.52.090). – Responsibility for signing along city streets that are part of the state highway system is assigned based on the population of the city (RCW 47.24.020(12) and (13)) and is shown in Exhibit 2-4. Population is determined by the Washington State
+Office of Fiscal Management and can be found at www.ofm.wa.gov/sites/default/ files/public/dataresearch/pop/april1/ofm_april1_population_final.pdf.
+It is important to work with each city to ensure that city signs are not installed on department sign posts and that adequate sign spacing is maintained. The only exception is for STREET NAME signs above a STOP sign. Cities are to obtain approval from the department prior to installing their signs on a state highway (RCW 46.61.085).
+Exhibit 2-4
+Sign Installation and Maintenance Responsibility Non-Limited
+Access Highways
+Responsibility Based on City Population
+
+Sign Type
+Over 27,5001
+Under 27,5001
+Regulatory
+City
+State
+Parking
+Warning
+Route Markers
+Primary Guide Signs
+
+Street Name
+School
+MIS Logo
+City*
+Informational
+City
+DUI Victim Memorial
+1 Thirty thousand (30,000) on July 1, 2023; Thirty-two thousand five hundred (32,500) on July 1, 2028; and
+Thirty-five thousand (35,000) on July 1, 2033 *The department may install these signs, if authorized through a specific agreement with a city or town.
+Page 2-10
+
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-5
+Chapter 2
+Traffic Sign Management System (TSMS)
+TSMS is a statewide sign inventory computer program that provides both a complete inventory and a history of maintenance actions for each sign on the state highway system.
+The Headquarters and Region Traffic Offices use TSMS to provide accurate records regarding: • Sign location. • Original installation and replacement dates. • Sign message. • Sign size. • Letter height. • Direction of sign face. • Sheeting type and color. • Program Code (What Program – M, Q, or Other paid for the last Maintenance Action). • Maintenance history.
+The Region Traffic Offices are the data stewards and are responsible for keeping the TSMS up to date including: • Entering new sign data. • Conducting periodic field inventories. • Inventorying all signs installed by contract. • Updating inventory after construction projects are completed. • Night reflectivity review.
+Maintenance personnel in Eastern, Olympic, and South Central regions are responsible for filling out a Sign Activity Report (SAR) that details each activity performed. This provides important history and identifies needed maintenance actions. The SAR is sent to the region
+Traffic Office for input into the TSMS. In some regions, maintenance personnel input SAR data directly into TSMS.NET in cooperation with the region Traffic Office.
+Regions also provide TSMS reports to Traffic, Maintenance, or other offices as requested.
+The Headquarters Traffic Operations Office is responsible for maintaining and updating the TSMS program to meet the department’s business needs, including data storage and selective retrieval of sign inventory and maintenance activity data.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-11 Chapter 2 2-6
+Signs
+State Traffic Laws and Regulations Requiring a Sign for Enforcement
+Some Rules of the Road (RCW 46.61) are not enforceable unless appropriate signs are posted. The following signs must be installed to enforce a regulation (RCW). Place these signs at the point of regulation or where the prohibition begins and ends.
+Exhibit 2-5
+Signs Needed for Enforcement
+Sign Message
+Sign Number
+
+RCW
+STOP & YIELD
+R1-1 & R1-2 47.36.110
+SPEED LIMIT
+R2-1 46.61.405 46.61.480
+SPEED LIMIT, TRUCKS
+R2-2 46.61.410
+MINIMUM SPEED LIMIT
+R2-4 46.61.425
+R3-10, 11, 12, 13
+
+46.61.165
+BICYCLES MUST EXIT
+R5-601 46.61.160
+TRUCKS USE RIGHT LANE
+R4-5 46.61.100
+HOV FACILITIES 47.36.260
+TRUCK LANE 500 FEET
+R4-6 47.36.260
+R5-1003 & R5-1004 46.61.710
+PARKING RESTRICTIONS, TOW AWAY ZONES
+
+R7 SERIES 46.61.575
+RESERVED PARKING FOR DISABLED PERSONS
+R7-801 46.61.581
+NO STOPPING RESTRICTIONS
+R8 SERIES 46.61.570
+R9-4 & R9-4A 46.61.255
+PEDESTRIAN PROHIBITION
+R5 SERIES
+WAC 468-58-030
+WAC 468-58-050
+
+WEIGHT RESTRICTIONS, etc.
+R12 SERIES 46.61.450
+S5-1 46.61.440
+RANGE AREA
+I2-401 & I2-501 16.24.060
+LIMITED ACCESS
+I2-601 & I2-701 47.52.110
+SLOW VEHICLES MAY USE SHOULDER
+I8-501 46.61.428
+TRACTION DEVICE REQUIREMENTS
+
+R16-2100 SERIES 47.36.250
+NO MOTORIZED FOOT SCOOTERS
+NO HITCHHIKING
+SCHOOL SPEED LIMIT
+Page 2-12
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-7
+Chapter 2
+Regulatory Signs
+Regulatory signs alert transportation system users to applicable traffic laws or regulations, and provide information and instructions required for compliance. Regulatory signs, whose installation is required for enforcement of a law, are listed in Section 2-6.
+All Regulatory sign sizes are per Table 2B-1 in the MUTCD, unless specifically stated otherwise in the Regulatory sign section.
+
+2-7.1
+Stop Signs
+The department shall install and maintain all STOP (R1-1) signs at the intersections of county roads with state highways (RCW 47.36.100).
+The department shall install and maintain all STOP signs at the intersections of city streets with state highways within the corporate limits of cities having populations less than 27,500 (RCW 47.24.020(13)).
+STOP signs shall be a minimum 36 × 36 inches on all roadways. A 48 × 48 inch sign may be used on divided highways with at-grade intersections, at ramp terminals, or where otherwise indicated by engineering judgment. On low-volume roads (under 400 ADT), that intersect with a state highway a 30 × 30 inch STOP sign may be used in lieu of 36 × 36 inch
+STOP sign.
+Existing STOP signs with smaller sign sizes, as described above, may remain in place until they need to be replaced. 2-7.2
+Yield Signs
+YIELD (R1-2) signs are installed to assign right of way to traffic on certain approaches to an intersection. In addition to guidance in the MUTCD, YIELD signs are installed as follows: • They shall be installed to assign right of way at the entrance to a roundabout intersection per the MUTCD. • They should be installed along freeway or expressway on-ramps where acceleration ramp geometry and/or sight distance do not meet Design Manual minimum standards.
+Install the Yield sign so that it is primarily visible only to ramp traffic. • They may be installed at entrances to ramp and at-grade intersections with right turn islands. minimum length for the acceleration lane portion of an on-ramp.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-13 Chapter 2 2-7.3
+Signs
+Speed Limit Signs
+SPEED LIMIT (R2-1) signs are installed to display the maximum allowable vehicle speed as established by law or regulation. Install a TRUCKS XX (R2-2) sign below the standard speed limit sign where a special speed limit is mandated for trucks over 10,000 pounds gross weight, or vehicles in combination, or where the maximum speed limit for cars and trucks is different.
+Speed limit signs are prominently located for maximum awareness at the following locations: • At the location where a speed limit changes to another. • On the far side of major interchanges or intersections, including between state highways. • At entrances to Washington State and at boundaries of cities and towns. • In rural areas, at 10- to 20-mile intervals.
+On conventional roadways, locate a sign for each direction of travel, opposite one another at the speed zone boundary. If existing features prohibit opposite installation, the signs may be offset up to 150 feet in either direction from the speed zone boundary and located a maximum of 300 feet apart. If the signs cannot be installed within these parameters, the speed zone boundary may be changed by the State Traffic Engineer to accommodate sign installation.
+On multilane divided highways, install signs on both the right and left sides of the roadway at speed zone boundaries. Confirmation speed limit signs may be installed on the right side only.
+On freeways, install signs a minimum of 1,500 feet beyond on-ramp acceleration lanes (MUTCD Section 2E-38). Where interchange ramps are closely spaced, use engineering judgment to determine the most effective intervals for posting speed limit signs. On freeways with three or more lanes in one direction consider installing signs on both the right and left sides of the roadway. Do not place a speed limit sign between a CURVE or TURN warning sign and the roadway curve or turn itself. Adjust the speed limit boundary location if necessary, to avoid this placement.
+See Appendix 2-1 for typical Speed Limit sign layout. See Section 2-8.4 for use of the
+SPEED REDUCTION (W3-5) warning sign.
+See Chapter 6 for information on setting permanent speed limits and Chapter 5 for guidelines on temporary construction zone speed limits.
+
+2-7.4
+U-Turn Prohibition & U-Turns Allowed
+The MUTCD states that TURN PROHIBITION signs (R3-1 through R3-4, R3-18) shall be installed where U-turns are prohibited. U-turns are allowed where the maneuver can be made safely, without interfering with other traffic, and at least 500 feet from a horizontal or vertical curve (RCW 46.61.295).
+On limited access roadways, with median sections, restricted U-turn locations are installed for use by law enforcement, maintenance, and emergency vehicles only (RCW 47.52.120).
+Sign these median locations with a NO U-TURN (R3-4) sign.
+Page 2-14
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+U-Turns are allowed at some roadway intersections, both inside and outside of cities and towns. Signing may be installed to designate where U-turns are allowed and that the side street must yield to the U-turn movement. Appendix 2-2 shows typical U-turn signing associated with left turn lanes at signalized intersections.
+
+2-7.5
+Two-Way Left Turn Lane
+TWO-WAY LEFT TURN ONLY signs may be installed where a lane in the center of a highway is reserved for the use of left-turning vehicles (in either direction) and is not used for passing or overtaking. The post-mounted (R3-9a or R3-9b) or the overhead mounted (R3-9) sign may be used to supplement two-way left turn lane pavement markings. A plaque indicating
+BEGIN or END may be mounted above either sign to identify the limits of the two-way left turn area.
+Additional WSDOT criteria apply to the use of two-way left turn lane signs: • Install the initial sign near the beginning of the two-way left turn lane and repeat installation as necessary, based on engineering judgment. • BEGIN or END plaques are not installed where a two-way left turn lane is interrupted by left turn channelization on either one or both intersection approaches. 2-7.6
+Auxiliary Climbing and Passing Lanes
+For sections of state highway that include auxiliary climbing lanes: • Install a TRUCK LANE XXX FEET (R4-6) sign in advance of the climbing lane. • Install a SLOWER TRAFFIC KEEP RIGHT (R4-3) sign near the beginning of the climbing lane. • Install a RIGHT LANE ENDS (W9-1R) in advance of the climbing lane terminus, where spacing allows. • Install a LANE ENDS (W4-2L) sign in advance of the climbing lane terminus. A distance plaque may be installed as a supplement to this sign.
+See Appendix 2-3 for signing layout.
+For sections of state highway that include auxiliary passing lanes: • Install a PASSING LANE XXX MILES (R4-601) sign ¼ to ½ mile in advance of the passing lane. Show the approximate distance to the passing lane, measured to the nearest ¼ mile. • Install a KEEP RIGHT EXCEPT TO PASS (R4-301) sign at the beginning of the passing lane. • Install a RIGHT LANE ENDS (W9-1R) sign in advance of the passing lane terminus, where spacing allows. • Install a LANE ENDS (W4-2L) sign in advance of the passing lane terminus. A distance plaque may be installed as a supplement to this sign. • An optional NEXT PASSING LANE XXX MILES (R4-602) sign may be installed up to
+500 feet beyond the passing lane terminus to show the approximate distance to the next passing lane.
+See Appendix 2-4 for signing layout.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-15 Chapter 2 2-7.7
+Signs
+Keep Right Except to Pass
+The KEEP RIGHT EXCEPT TO PASS sign (R4-301) may be used on multi-lane roadways to remind motorists of state law RCW 46.61.100 which requires vehicles to stay in the right lane of multilane roadways, except to pass. The sign has also been installed at the request of law enforcement agencies to aid their enforcement efforts at specific locations.
+Use the following criteria when determining sign locations: • The preferred sign location is in the median. • Signs are not to be placed within ½ mile in advance of an interchange. • Signs are not to be placed through an interchange area. • Signs are not to be placed within 5 miles of each other in the same direction of travel. 2-7.8
+Vehicles Over 10,000 lbs. Prohibited in Left Lane
+VEHICLES OVER 10,000 LBS. PROHIBITED IN LEFT LANE (R4-302) signs shall be installed on multilane roadways with three or more lanes in one travel direction to remind drivers of large vehicles that they are prohibited from travelling in the left lane per RCW 46.61.100(3) and WAC 468-510-020. 2-7.9
+Do Not Enter and Wrong Way Signing
+DO NOT ENTER (R5-1) signs shall be installed at every location where traffic is prohibited from entering a restricted roadway. ONE WAY (R6-1) signs are to be installed above DO
+NOT ENTER signs. Install WRONG WAY (R5-1a) signs as a supplement to the DO NOT
+ENTER signs at each location. WRONG WAY signs are placed further from the crossroad than DO NOT ENTER sign.
+Complete WRONG WAY signing for freeway at-grade intersections, interchange ramps, and roundabouts shall be installed as shown in Appendices 2-5, 2-6 and 2-7.
+
+2-7.10
+Bicycle and Motorized Foot Scooters Prohibition
+As part of vehicular traffic, bicycles are permitted on all state highways except where restricted by regulation (RCW 46.61.160 and WAC 468-58-050).
+Additionally, “motorized foot scooters may have access to highways of the state to the same extent as bicycles” (RCW 46.61.710(5)); thus, they are also restricted in the same areas as bicycles. Restrictions are located primarily on limited access freeways, but may be determined for other locations based on an engineering investigation. They are noted at www.wsdot.wa.gov/bike/closed.htm.
+Install advance signing to inform bicyclists and motorized foot scooter riders of the upcoming restricted section, and to give alternate route directions. • On the mainline, install a BICYCLES AND MOTORIZED FOOT SCOOTERS MUST
+EXIT 1/4 MILE (R5-602) sign in advance of the prohibited area. • Install a BICYCLE AND MOTORIZED FOOT SCOOTERS MUST EXIT (R5- 601 with arrow) sign at the closest off-ramp or intersection in advance of the restricted segment.
+Page 2-16
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+
+• Install a BICYCLES AND MOTORIZED FOOT SCOOTERS PROHIBITED (R5-1003) sign at a prohibition point such as an on-ramp to a prohibited freeway segment. • Install PEDESTRIANS, HITCHHIKERS, BICYCLES, AND MOTORIZED FOOT
+SCOOTERS PROHIBITED (R5-1004) sign at on-ramp entrances to prohibited areas. 2-7.11
+Roundabout Directional Arrow
+Install ROUNDABOUT DIRECTIONAL ARROW signing (R6-4 series) at the central island of the roundabout.
+Exhibit 2-6 2-7.12
+Roundabout Type
+Approach Posted
+Speed Limit
+Sign Number
+Sign Size
+
+Single
+35 MPH or less
+R6-4a 48” x 24”
+40 MPH or greater
+R6-4b 60” x 24”
+Multi-Lane
+All Speeds
+R6-4b 60” x 24”
+No Pedestrian Crossing
+NO PEDESTRIAN CROSSING signing (R9-3 or R9-3A) may be installed at a signalized intersection or other locations, based on engineering judgment, where pedestrian crossing is prohibited. Locate the sign so that it is visible to all pedestrians who may consider crossing, normally on the opposite side of the roadway in line with the travel path of the pedestrian.
+Additional signage may be needed to direct pedestrians to alternative crossings. Prohibiting pedestrian crossings may be considered on a case by case basis but should not be used systematically to limit pedestrian crossing opportunities. The supplemental sign USE
+CROSSWALK (R9-3B R or L) may be installed below.
+
+2-7.13
+Pedestrian Prohibition
+Install a PEDESTRIANS PROHIBITED sign (R5-10 series) at access points to limited access highways where pedestrians are prohibited by a department regulation (WAC 468-58-050). 2-7.14
+No Turn On Red
+When a turn is prohibited, based on engineering judgment, at a signalized intersection install a NO TURN ON RED BALL (R10-11) sign on the signal mast arm or signal pole.
+When existing NO TURN ON RED (R10-11a or R10-11b) signs need to be replace use NO
+TURN ON RED BALL (R10-11) sign.
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-17
+
+Chapter 2 2-7.15
+Signs
+Shoulder Driving
+Shoulder driving is permitted on selected portions of two-lane highways (RCW 46.61.428).
+Section 7-14, of this manual defines the roadway characteristics required to designate a shoulder driving area. Identify designated shoulder driving areas by installing signs to inform roadway users of the permitted action. • Install a SLOW VEHICLES MAY USE SHOULDER (I8-501) sign at the beginning of the shoulder driving zone. • Supplement with a NEXT XXX MILES (I7-702) advisory distance plaque and a
+DAYLIGHT HOURS ONLY (I8-701) sign. • Repeat this signing as appropriate at a maximum interval of 5 miles. • Install an END SHOULDER DRIVING (I8-601) sign at the end of the designated shoulder driving zone. • Consider bicycle traffic that may be using shoulder, see Section 2-8.19.B, BIKES ON
+SHOULDERS when there is less than minimum stopping sight distance along the driving section.
+See Appendix 2-8. 2-7.16
+Specialized Haul Vehicle Weight Restrictions
+Specialized Hauling Vehicles (SHV’s) are closely spaced multi-axle single unit trucks introduced by the trucking industry in the last decade. SHV’s exhibit concentrated loads in short wheel lengths, resulting in greater stress in certain bridge members.
+The Bridge Preservation Office (BPO) will identify the bridge location, and what specific message is to be used. Install SPECIALIZED HAUL VEHICLE WEIGHT RESTRICTION (R125B, R12-5C, or R12-5D) signs.
+
+2-7.17
+Emergency Vehicle Weight Restrictions
+The Fixing America’s Surface Transportation (FAST) Act revised the weight limits of emergency vehicles. For bridges on the Interstate System and bridges within one-road- mile of the Interstate System with a load rating that results in operating factor less than 1.0 for emergency vehicles, weight limit restrictions signs shall be posted. More information is available at: FHWA Load Rating for EV’s.
+The Bridge Preservation Office (BPO) will identify the bridge location, and what specific message is to be used. Install EMERGENCY VEHICLE WEIGHT RESTRICTION (R12-701 or
+R12-702) signs at bridge approaches and additional advance posting signs in advance of the nearest intersecting roads, ramps or a wide point in the road where a first responder’s can detour or turn around.
+Page 2-18
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-7.18
+Chapter 2
+Slow Vehicle Turnouts
+Slow vehicle turnouts provide passing opportunities along state roadways and are identified by specific signing to inform motorists of the turnout location: • Install a SLOW VEHICLES USE TURNOUTS NEXT XXX MILES (I8-101) sign where turn-outs occur at several consecutive locations. Place in advance of the initial turnout. • Install the DELAY OF 5 VEHICLES ILLEGAL (I8-201) sign in advance of each turnout. • Install the SLOW VEHICLE TURNOUT XXX FT/MILE (I8-401) sign in advance of each turnout. • Install a SLOW VEHICLE TURNOUT “arrow” (I8-301) sign at the beginning of each turnout. • NO PARKING (R8-3) or NO PARKING SYMBOL (R8-3A) signs may be installed within the turnout area.
+See Appendix 2-9.
+
+2-7.19
+Range Area
+A RANGE AREA sign (I2-401) shall be installed wherever a state highway enters an open range area, as determined by the local county government (RCW 16.24.060). Repeat signing at points designated by the governing county commissioners and install signs at county boundaries if the range area spans adjoining counties. Some county websites list the designated range areas within their county.
+Install the LEAVING RANGE AREA (I2-501) sign where a state highway leaves an open range area. 2-7.20
+Unmuffled Compression Brakes
+It is against the law to use unmuffled compression brakes (RCW 46.37.395). The department installs signs (R4-605) near border crossings used by trucks, a few miles inside state boundaries and along the ramps to or from weigh stations to inform drivers of this regulation.
+When installing a R4-605 use these guidelines to determine spacing between a R4-605 sign and other roadway signing: • On freeway installations, use a minimum spacing of 500 feet. • On multilane high speed roadways with at grade intersections, use a minimum spacing of 400 feet. • On two-lane, high-speed roadways, use a minimum spacing of 300 feet. • On multilane and two-lane, low speed facilities within incorporated areas, use a minimum spacing of 150 feet.
+The department will not install these signs on non-access controlled highways within incorporated areas. The local agency may install and maintain such signing.
+WSDOT Traffic Manual
+M 51-02.10
+
+Page 2-19 Chapter 2 2-7.21
+Signs
+Compression Brake Prohibition
+Signs prohibiting compression brake use may be installed only where a local agency ordinance prohibiting their use has been adopted (RCW 70A.20.060(3)) and where sign spacing is available. The local agency must agree to pay the fabrication, installation, and subsequent maintenance costs.
+Install signs (R4-604) before the restricted area as follows: • On limited access routes, install signs beyond major interchanges. Locate between the route marker assembly and the speed limit signs. Where sign space is limited, install below the city entrance marker. • Along non-access controlled routes outside corporate limits, install signs upon leaving corporate limits, and beyond the junction of major intersections, not to exceed one sign every 5 miles. • Along non-access controlled city streets that are also state highways, the local agency may work with the department to install signs about the prohibition.
+When installing a R4-604 use these guidelines to determine spacing between a R4-604 sign and other roadway signing: • On freeway installations, use a minimum spacing of 500 feet. • On multilane high speed roadways with at grade intersections, use a minimum spacing of 400 feet. • On two-lane, high-speed roadways, use a minimum spacing of 300 feet. • On multilane and two-lane, low speed facilities within incorporated areas, use a minimum spacing of 150 feet.
+Note: Compression brake regulations are noise regulations rather than traffic regulations.
+The department does not regulate compression brake use. 2-7.22
+Traction Device Requirements for Snow Prone Areas
+Install TRACTION DEVICE REQUIREMNTS (R16-2100 Series) signs per RCW 47.36.250 for snow prone areas approaching mountain passes and other areas where snow and ice are prevalent during winter months.
+These signs should be turned away from traffic during non-winter months. See
+Appendix 2-28.
+
+Page 2-20
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-8
+Chapter 2
+Warning Signs
+Warning signs are installed to alert roadway users to unexpected conditions on or adjacent to the roadway that require special attention and that may require a reduction in speed or other action desired from the road users while operating on the roadway. These conditions may include expected presence of pedestrians and/or bicyclists.
+Determine the appropriate placement of warning signs based on the MUTCD Guidelines for
+Advanced Placement of Warning Signs, Table 2C-4, and on an engineering judgment. The guidelines provide minimum advance placement distances, based on vehicle speeds and location specific conditions.
+Warning signs are installed on both sides of the road on multilane divided roadways that have two or more lanes in one direction. Speed limit signs should not be located between any warning sign and the condition warned for, when the warning sign indicates a need to reduce speed.
+Warning signs may be supplemented with a warning beacon(s) when additional warning is needed for vehicles approaching a crossing or other locations. Some examples are: midblock crossings; narrow shoulders with bicyclists and/or pedestrians and less than adequate stopping sight distance per MUTCD Section 4L.03.
+Yellow is the standard background color for warning signs. Fluorescent yellow/green (FYG) may be used for bicycle, pedestrian, or playground signs where there are an unusual number of conflicts or where greater attention is needed for the sign because of distracting surroundings.
+Exhibit 2-7
+
+2-8.1
+Warning (Diamond Shape) Sign Sizes
+Roadway Type
+Minimum Sign Size
+Freeways and Expressways – Mainline & Ramps 48″ × 48″
+Multilane and Conventional Roadways 36″ × 36″
+Turn and Curve (Horizontal Alignment) Signs and Advisory Speed Plaques
+TURN and CURVE signs are installed to alert motorists to horizontal curvature in the roadway alignment. Advisory speed plaques supplement the signs as determined by a traffic engineering study (generally using a ball banking instrument to provide readings as the study vehicle traverses each curve).
+WSDOT has adopted the following application when determining curve and advisory speed signing installations:
+Exhibit 2-8
+Advisory Speed (mph)
+
+Maximum Ball Bank Reading
+20 mph or less 14
+25 and 30 mph 12
+35 mph and greater 10
+The TURN (W1-1) sign is used where the engineering and traffic investigation indicates the advisory speed for a horizontal turn to be 30 mph or less.
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-21 Chapter 2
+Signs
+The CURVE (W1-2) sign is used where the engineering and traffic investigation indicates the advisory speed for a horizontal curve to be from 35 mph to 65 mph.
+Install the appropriate TURN or CURVE sign where the recommended curve speed is 5 MPH or more below the posted speed limit.
+Install a supplemental ADVISORY SPEED PLAQUE (W13-1) below the TURN or CURVE sign if the advisory speed is 5 mph or more below the posted speed limit, or if engineering judgment indicates the need for the sign.
+If a supplemental DISTANCE PLAQUE is used, such as beneath a WINDING ROAD (W15L/R) sign, show the distance as a fraction of a mile rather than a decimal (½ mile rather than .5 mile). The fraction is more quickly read and easily understood by the motorists.
+The placement of the horizontal alignment signs should be located per MUTCD Table 2C-4.
+
+2-8.2
+Hairpin Curve
+Install a HAIRPIN CURVE sign (W1-901L/R) where the change in the roadway horizontal alignment is 135 degrees or more, and: • A traffic engineering analysis of roadway, geometric, and operating conditions shows the recommended curve speed to be 30 mph or less. • The recommended curve speed is equal to or less than the posted speed limit.
+Install a supplemental advisory speed plaque (W13-1) below the HAIRPIN CURVE sign if an engineering and traffic investigation indicates the need for the sign. Large arrow sign(s) (W1-6) or chevron alignment signs (W1-8) should be used in conjunction with the hairpin curve sign. 2-8.3
+Large Arrow
+LARGE ARROW (W1-6) signs are used at curves with a curve speed advisory is 15 mph or more below the speed limit, or when a curve is 1200 feet radius or less, or when there is not space to install three chevrons in sequence, or where run off the road crashes have demonstrated an operational deficiency. 2-8.4
+Chevron Alignment
+CHEVRON ALIGNMENT (W1-8) signs are used to provide emphasis and guidance for a change in horizontal road alignment. When the curve advisory speed is 15 mph or more below the speed limit, CHEVRONS shall be installed.
+If used, CHEVRONS shall be installed on the outside of a turn or curve, in line with and at approximately a right angle to approaching traffic. Install a minimum of three signs in a series, with at least two signs visible to the motorist at all times throughout the curve.
+They should be installed on circular interchange ramps, or on other curving alignments where run off the road crashes have demonstrated an operational deficiency.
+
+Page 2-22
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-8.5
+Chapter 2
+Truck Tipping
+The TRUCK ROLLOVER (W1-13) sign may be installed in advance of a horizontal curve where there is a history of truck tipping crashes, a ball bank indication of 12 degrees or more, or a side friction factor of f=>0.21*. Display the recommended speed on an
+ADVISORY SPEED PLAQUE (W13-1) below the TRUCK ROLLOVER sign. Install the TRUCK
+ROLLOVER sign in addition to standard CURVE, TURN, LARGE ARROW, and/or CHEVRON warning signs. * Use the following formula for a third method to determine the truck speed of a curve:
+V2 = 15 R (e + f)
+Where:
+V = Speed in miles per hour
+R = Radius curve in feet e = Rate of super-elevation in feet per foot f = > 0.21 (Safe coefficient of side friction)
+
+2-8.6
+Stop Ahead/Signal Ahead
+Install a STOP AHEAD (W3-1A) sign if the stop sign is not visible for at least the minimum distance indicated in MUTCD Table 2C-4 (Advanced Placement of Warning Signs). Install a SIGNAL AHEAD (W3-3) sign if the traffic signal is not visible for at least the minimum distance indicated in MUTCD Table 4D-2 (Minimum Sight Distance for Signal Visibility).
+On county or city road approaches to state highways, the county or city is responsible for installation and maintenance of these signs. 2-8.7
+Signal Ahead Sign With Flashing Beacons
+Install a SIGNALIZED INTERSECTION WARNING (SIW) sign assembly to warn motorists of the signal installation when: • The posted speed limit is 55 mph or above; and • The intersection is more than 2 miles away from the adjacent signalized intersection; or • The visibility requirements to the signal in Table 4D-2 of the MUTCD cannot be met.
+The recommended SIW sign assembly consists of: • A modified 48″ × 48″ W3-3 sign on an optional black back plate for added target value. • Two 8-inch LED yellow beacons. • A flasher circuit activated continuously by a separate circuit from the service. • A lighting circuit.
+Locate the sign per the MUTCD Table 2C-4.
+The use of a PREPARE TO STOP WHEN FLASHING (PTSWF) system may also be considered. For more information on Advance Warning Systems (i.e. Flashing Beacons) are available at: www.wsdot.wa.gov/sites/default/files/2006/02/02/PTSWF.pdf
+WSDOT Traffic Manual
+
+M 51-02.10
+Page 2-23 Chapter 2 2-8.8
+Signs
+Speed Limit Reduction Ahead
+The SPEED LIMIT REDUCTION AHEAD (W3-5) warning sign has replaced the black on white “SPEED LIMIT AHEAD XX” regulatory sign. The SPEED LIMIT REDUCTION AHEAD sign is installed at locations where the speed limit reduces by 10 mph or greater. On multilane divided roadways, install a SPEED LIMIT REDUCTION AHEAD sign on both the left and right sides. Locate the sign to allow sufficient distance to slow the vehicle to the reduced speed as shown in Exhibit 2-9.
+Exhibit 2-9
+Speed Reduction Signs Advance Location
+Approach Speed Limit (mph)
+Reduced Speed Limit (mph) 70 2-8.9 65 60 55 50 45 40 35 30 65 430 60 720 390 55 1000 660 350 50 1250 910 600 310 45 1470 1140 820 540 270 40 1670 1340 1030 740 470 230 35 1850 1520 1200 920 650 410 200 30 2000 1670 1360 1070 810 570 350 160 25 2140 1800 1490 1200 940 700 480 290 120 20 2240 1910 1600 1310 1040 800 590 390 230
+Low Vertical Clearance
+For the installation of new low vertical clearance warning signs or the replacement of existing low vertical clearance warning signs shall be as follows:
+The maximum legal vehicle height permitted on state highways is 14 feet (RCW 46.44.020).
+At the direction of the MUTCD, and through operational experience, a 15-inch buffer (which includes 3 inches for frost heave) has been added to the 14-foot maximum legal height, setting the minimum LOW CLEARANCE signing threshold at 15′3″.
+The advance posting of a low vertical clearance is to be consistent with (RCW 46.61.450).
+The MUTCD defines “Traveled Way” as the portion of the roadway for the movement of vehicles, exclusive of the shoulders, berms, sidewalks, and parking lanes. The MUTCD defines “Roadway” a portion of a highway improved, designed, or ordinarily used for vehicular travel and parking lanes, but exclusive of the sidewalk, berm, or shoulder even though such sidewalk, berm, or shoulder is used by persons riding bicycles or other humanpowered vehicles. In the event a highway includes two or more separate roadways, the term roadway as used in this manual shall refer to any such roadway separately, but not to all such roadways collectively. RCW 46.04.500 defines “Roadway” a portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the sidewalk or shoulder.
+
+Page 2-24
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+The Bridge Office periodically measures vertical clearance heights for bridges and tunnels during inspections. The actual clearance height is to the nearest inch rounded down (actual measurement of 15’ 1-3/4” equals 15’1”). Bridge clearance data is available through the Bridge Engineering Information System (BEIST) at: http://beist/InventoryAndRepair/
+Inventory/BRIDGE.
+Criteria for new or replacement of existing LOW CLEARANCE (W12-2; W12-301 or W12-302L/R) warning signs: • A bridge or a tunnel is signed for a low vertical clearance of 15’-3” or less, the height on the low vertical warning signs shall be the actual measured opening minus three inches.
+Criteria for replacing existing LOW CLEARANCE (W12-2; W12-301 or W12-302L/R) warning signs: • If the actual measured opening for a bridge or tunnel increases by 2” or less the existing signing may remain. (e.g. a bridge clearance changes from 15’-0” to 15’-2”, the existing warning sign of 14’-9” may remain.) • If the actual measured opening for a bridge or tunnel increases by more than 2” the signs shall be replaced. (e.g. a bridge clearance changes from 14’-9” to 15’-0”, the existing warning sign of 14’-6” shall be corrected.) • If the actual measured opening for a bridge or tunnel decreases by 1” or less the existing signs may remain. (e.g. a bridge clearance changes from 15’-0” to 14’-11”, the existing warning sign of 14’-9” may remain.) • If the actual measured opening for a bridge or tunnel decreases by more than 1” the existing signs shall be replaced. (e.g. a bridge clearance changes from 14’-10” to 14’-8”, the existing warning sign of 14’-7” shall be corrected.)
+M 51-02.10
+Page 2-25
+
+Chapter 2
+Signs
+Through Truss Bridges:
+There are two key conditions with Through Truss Bridges – minimum vertical clearance over the bridge deck (includes traveled lanes and shoulders), and shoulder width between right side of the edge stripe and curb or barrier. When there is no edge line present the height is measured from the face of the curb or barrier to the bottom of the portal. See Exhibit 2-10 for Conditions and Signing requirements.
+Exhibit 2-10
+Through Truss Bridges
+Required Low Vertical
+Clearance Signs
+See
+Appendix
+
+Shoulder
+Width (Ft.)
+W12-2
+Clearance on any portion of the structure is between 14′3″ and 15′3″ 2-10-1 <2
+X1,2
+X3
+Clearance above traveled lanes is between 14′3″ and 15′3″ 2-10-2
+X1
+Clearance above shoulders is 15′3″ or less 2-10-3
+Condition
+
+W12-302L W12-302R >2
+1 Install a W12-2 before the vertical restriction, in accordance with MUTCD Table 2C-4 (Advanced Placement of
+Warning Signs).
+2 Install a second W12-2 in advance of the closest intersecting road that provides a vehicle a turnaround or detour. Supplement the W12-2 with an ADVISORY DISTANCE (W13-501) plaque, showing the distance to the vertical restriction.
+3 Install the appropriate sign(s) to fit the vertical restriction (i.e. arch structure, etc.).
+4 On divided highways where the lowest vertical clearance is over the traveled lane nearest the median install an additional W12-2 sign in the median.
+Non-Truss Bridges:
+The key condition with Non-Truss Bridges is the minimum vertical clearance over traveled roadway to the bridge above, see Exhibit 2-11 for Condition’s and Signing requirements.
+Exhibit 2-11
+Non-Truss Bridges
+Required Low Vertical Clearance Signs
+
+See
+Appendix
+W12-2
+W12-301
+Clearance on any portion of the structure is 14′3″ or less over the traveled lanes 2-10-4
+X1,2,4
+X3
+Clearance is greater than 14′3″and to 15′3″ over the traveled lanes 2-10-5, 2-10-6, or 2-10-7
+X4
+Condition (See Footnotes)
+
+W12-302L W12-302R
+1 Install a W12-2 before the vertical restriction, in accordance with MUTCD Table 2C-4 (Advanced Placement of
+Warning Signs).
+2 Install a second W12-2 in advance of the closest intersecting road that provides a vehicle a turnaround or detour. Supplement the W12-2 with an ADVISORY DISTANCE (W13-501) plaque, showing the distance to the vertical restriction.
+3 Install the appropriate sign(s) to fit the vertical restriction (i.e. arch structure, etc.).
+4 On divided highways where the lowest vertical clearance is over the traveled lane nearest the median install an additional W12-2 sign in the median.
+Page 2-26
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+
+Tunnels:
+The key condition with Tunnels is the minimum vertical clearance over traveled roadway to the tunnel above, see Exhibit 2-12 for Condition’s and Signing requirements.
+Exhibit 2-12
+Tunnels
+Required Low Vertical Clearance Signs
+Condition
+W12-2
+Where any portion of the structure is 15′3″ or less over the traveled lanes (See Appendix 2-10-8)
+X
+W12-301
+
+W12-302L W12-302R
+Other Vertical Clearance Restrictions: • At locations with a divided highway where the minimum clearance is between 14′3″ and 15′3″ over the traveled lane at the median side, (See Appendix 2-10-7). • At locations where a mounted sign, utilities, or lights extend below the structure, the appurtenance is at 15′3″or less: – Region Traffic and Maintenance coordinate to relocate/remove the appurtenance.
+If that is not possible, sign for appurtenance (actual measurement minus 3-inches), sign in advance of the structure with a W12-2 and on the structure with either a
+W12-301 or W12-302. • At locations with Parking Lots and Private Roads under Bridges: – Case by case; Region Maintenance work with a parking lot owner or request the private road owner to lower the grade underneath the bridge. – When low vertical clearance signing is requested at bridge locations with a minimum vertical clearance greater than 15′3″ over the traveled lane; the bridge has a history of being hit by over height vehicles and work with the local entities to determine why the bridge is being struck. The signing shall be approved by the
+Region Traffic Engineer. – At locations (gore areas, or tapers to exit ramps) where shoulder running is common due to traffic backups with an actual lower vertical clearance of 15′3″ or less over any portion over the shoulder lanes. Consider partnering with enforcement. If these items are not successful and signing is still recommended, the signing shall be approved by the Region Traffic Engineer. Vertical clearance for all overhead signs 2-8.10
+Merge
+Install the MERGE (W4-1) sign to warn mainline motorists of upcoming merging movements, where sight distance to the merge point is less than MUTCD Table 2C-4 (Advanced
+Placement of Warning Signs) Condition A. Locate the sign on the major alignment in advance of the point where two roads converge. An additional MERGE sign may be placed on the entering roadway, particularly where acceleration ramp geometry and/or sight distance do this sign where roads converge with added lanes and no merging movement is required.
+See Appendix 2-20.
+WSDOT Traffic Manual
+
+M 51-02.10
+Page 2-27 Chapter 2 2-8.11
+Signs
+Added Lane
+An ADDED LANE (W4-3) sign is used in advance of a point where two roadways converge, but merging movements are not required. The sign should be used at all added lane conditions that are greater than 700 feet in length to eliminate unnecessary mainline lane changes. Install the sign so it is visible from both roadways, if possible. Otherwise, install an
+ADDED LANE sign on each roadway.
+See Appendix 2-22. 2-8.12
+Lane Ends
+Install a LANE ENDS (W4-2) sign: • To warn of a reduction in the number of same direction traffic lanes on a • Multi-lane highway. • To emphasize that a parallel on-connection is ending, as shown in Standard Plan
+M-1.80-02. • In advance of the downstream end of an extra lane provided for slower vehicles. • A RIGHT LANE ENDS (W9-1) or a LANE ENDS MERGE LEFT (W9-2) sign may be used, if sign space is available to supplement the LANE ENDS (W4-2) sign. • The LANE ENDS sign shall not be used in drop-lane situations.
+See Appendix 2-21.
+
+2-8.13
+Exit Advisory Speed
+Install the EXIT ADVISORY SPEED (W13-2) sign at freeway/expressway exit ramps to inform motorists of the recommended exit speed. Locate the sign along the right shoulder of the deceleration lane prior to the exit gore, at a point that allows time for the motorist to make a safe slowing and exiting maneuver. Exit speed is determined by an engineering and traffic study.
+In some locations, a CURVE sign is warranted beyond the exit gore. Install standard curve advisory signs in accordance with MUTCD Table 2C-4 as space allows. Otherwise, consider the advisory speeds for the entire ramp when determining the speed to put on the exit speed sign. 2-8.14
+Ramp Advisory Speed
+Install a RAMP ADVISORY SPEED (W13-3) sign to inform motorists of the recommended speed for traversing a ramp alignment with curvature or other unexpected conditions. Use this sign where needed on freeway/expressway entrance ramps, and freeway/expressway to freeway/expressway connection ramps. Locate signs in accordance with MUTCD Table 2C-4. Ramp speed is determined by an engineering and traffic study.
+In addition, if an advisory speed condition is located well beyond the gore or ramp entrance from surface streets, install a standard TURN or CURVE sign with an advisory speed plaque (W13-1) in accordance with MUTCD Table 2C-4 as space allows. Otherwise, consider the advisory speeds for the entire ramp when determining the speed to put on the ramp advisory sign.
+Page 2-28
+WSDOT Traffic Manual
+M 51-02.10
+
+Signs 2-8.15
+Chapter 2
+Intersection Warning
+The INTERSECTION WARNING (W2 Series) sign indicates the presence of an intersection with the possibility of turning or entering traffic and the possibility of pedestrian/bicyclist crossing at the intersection. Consider installing this sign where the side road approach is not continuously visible to mainline traffic for a minimum distance as shown in MUTCD Table 2C-4, use engineering judgment to place the sign for distance greater than the MUTCD minimums and where any of the following conditions exist: • The intersection is not channelized. • Left-turning vehicles may queue in the traveled lane. • Approach to the intersection does not provide adequate stopping sight distance. • Un-signalized channelized intersections.
+Do not use INTERSECTION WARNING signs on approaches controlled by STOP or YIELD signs, or at signalized intersections.
+INTERSECTION WARNING signs may be modified to show offset intersection geometrics or approach curves. The relative importance of the roadways may be shown by varying the line widths used.
+As guidance to motorists, the INTERSECTION WARNING sign shall be supplemented with the black on yellow ROAD NAME (D3-201) sign. The road name should be upper/ lower case letters. Refer to the MUTCD Section 8B.06, for installation criteria for railroad/ intersection signs, W10-2, W10-3, and W10-4. 2-8.16
+Roundabout Ahead
+ROUNDABOUT AHEAD (W2-6) signs shall be installed in advance of any roundabout established on a state highway and may be supplemented with the ROUNDABOUT plaque (W2-6P), and SPEED ADVISORY (W13-1) plaque may be installed based on engineering judgment. 2-8.17
+Slippery When Wet
+The HQ’s Materials Lab is responsible for the testing of skid resistance on the state highway system pavement on a two-year cycle, any newly or overlaid pavement, and retest locations with skid numbers at or below 30, see Pavement Manual.
+For locations with an average skid number is at or below 30, and when a surface treatment to increase the skid resistance number is not feasible install a SLIPPERY WHEN WET
+SYMBOL (W8-5) sign in advance of the location. The SLIPPERY WHEN WET sign may be supplemented with a SPEED ADVISORY (W13-1) plaque and/or a DISTANCE (W13-501) plaque.
+
+2-8.18
+Tunnel Ahead
+A TUNNEL AHEAD (W14-501) sign should be installed in advance of any tunnel that has an obscured entrance, is not illuminated, or has a shoulder width of less than four feet.
+A TUNNELS AHEAD sign may be used to address a series of tunnels.
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-29 Chapter 2 2-8.19
+Signs
+Vehicular Traffic Signs
+Vehicular traffic signs may be used to alert roadway users to locations where entering traffic would be unexpected; where road users may encounter other modes of transportation in the traveled lanes or on the shoulder; or where sight distance for the road user ahead is restricted. The vehicular traffic signs may be supplemented with an activated flashing beacon(s) when there is sight distance restrictions and/or when there is narrow or no shoulders.
+A.
+
+Bicycle – A BICYCLE SYMBOL (W11-1) may be used to alert road users to locations where there is restricted stopping sight distance or where unexpected entries into the roadway by bicyclists may occur, such as at bicycle path crossings. It may also be considered where there are conflicts between users of different modes. Use
+Fluorescent yellow green sheeting as the background color in areas where extra attention must be drawn to the crossing, such as urban areas with many distractions.
+B.
+Bikes on Road – The BICYCLE SYMBOL sign (W11-1) may be used with the BIKES ON
+ROAD plaque (W11-101) to alert motorists to narrow shouldered roadway sections where bicyclists may be in the lanes. Use a mileage plaque to inform motorists of the distance they can expect to encounter people biking in the traveled lane. Do not install these signs on highways that have designated bicycle lanes. Consider using these signs on sections of state highway where the paved shoulder width is less than 4 feet and one or more of the following conditions are met: • Average Daily Traffic volume is greater than 1,700 vehicles, based on the WSDOT’s
+Traffic Geoportal: www.wsdot.wa.gov/data/tools/geoportal/?config=traffic. • The state highway is part of a recreational or commuter bicycle route that is officially recognized by the department, or a county or regional transportation organization, such as a Regional Transportation Planning Organization or Municipal
+Planning Organization. • When there is a history of public complaints, or ongoing operational issues observed by law enforcement and/or department staff. • Install the BICYCLE sign with BIKES ON ROAD plaque in advance of or within the first 300 feet of the narrow shoulder area. If the narrow shoulder distance is between 3 and 8 miles, a reminder sign should be placed at mid-point.
+If the mileage distance exceeds eight miles, reminder signs should be placed at 5-mile spacing. • This sign can be modified to read “BIKES ON BRIDGE” and installed at bridge locations where there is inadequate shoulder (less than 4 feet) for bicyclists. • This sign can be modified to say “BIKES ON SHOULDER” and should be installed at the beginning of highway sections where shoulder driving is allowed and there is less than minimum stopping sight distance for vehicles approaching bicyclists on the shoulder.
+Page 2-30
+WSDOT Traffic Manual
+
+M 51-02.10 Signs
+Chapter 2
+C.
+Share the Road – WSDOT does not use the supplemental SHARE THE ROAD (W16-1) plaque. Instead, use a BIKES ON ROAD plaque (W11-101) to supplement a warning sign that indicates the specific roadway condition, such as NO SHOULDERS (W8-1801) or NARROW SHOULDERS.
+D.
+Fire Station/Emergency Vehicle – FIRE STATION/EMERGENCY VEHICLE (W11-8) signs with the EMERGENCY SIGNAL AHEAD (W11-12P) supplemental plaque shall be placed in advance of all emergency vehicle traffic control signals. The signs may also be installed at locations where there is limited sight distance to the fire station road approach or where the approach is in an area where a motorist would not normally expect to see a fire truck or emergency vehicle enter the roadway. Fire station/ emergency vehicle warning signs are not generally used at intersections, unless an emergency vehicle traffic control signal is present.
+E.
+Snowmobile – A snowmobile crossing which is located at least 100 feet from any public roadway intersection (RCW 46.10.460) may be signed with SNOWMOBILE (W11-6) signs. This sign is seasonal and should be removed, folded, or covered when the condition does not exist.
+F.
+Farm Machinery – FARM MACHINERY signs (W11-5, W11-5A) may be installed at locations where farm machinery or equipment enters, crosses, or travels along a roadway and where there is limited sight distance or an operational concern. If the farm machinery will be on the roadway for more than ¼ mile, a supplemental
+DISTANCE PLAQUE (W13-401) may be added. Consider sign installation where: • There is limited stopping sight distance to the farm machinery crossing or entrance onto the roadway. • The road user would not normally expect to see a farm vehicle, such as where a farm is operating in an area that has or is being developed for residential or commercial use. • There is less than minimum stopping sight distance to a slow moving vehicle along the roadway. • There is a history of police, farmer, or public complaints, or operational conflicts.
+To reduce operational conflicts, work with the farmer to restrict highway driving to daylight hours and non-peak periods, to drive on the shoulder if possible, and to use alternate routes if available.
+Farm equipment used on the roadway must be equipped with a reflective hazard triangle sign and a flashing beacon (RCW 46.37.160).
+
+G.
+Wheeled All Terrain Vehicle (WATV) Cities and Counties shall submit an application to Local Programs requesting WATV warning signs on WSDOT right of way for WATV’s to travel on the state highway (inside cities only) and/or cross a state highway. Local Programs will forwarded the applications to Region Traffic for review and consideration.
+WATV’s Traveling Along State Highways –
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-31 Chapter 2
+Signs
+Install WHEELED ALL TERRIAN VEHICLES (W11-1601) on state highways that are part of a city street with a posted speed limit of 35 mph or less, and the city has passed an ordinance to allow WATV’s on city streets within their jurisdiction in accordance with
+RCW 46.09.455(1) and (1)(d)(i). The WATV sign shall be supplemented with an ON
+ROAD NEXT X MILES (W13-1601) plaque.
+WATV’s Crossing State Highways –
+Install WHEELED ALL TERRIAN VEHICLES (W11-1601) signs on state highways in advance of an at grade intersection in accordance with RCW 46.09.455(1)(b)(i). The
+WATV sign should be located in advance of the intersection per MUTCD Table 2C-4.
+The WATV sign shall be supplemented with CROSSING AHEAD (W16-1601) plaque.
+Only when all of the following conditions are met: • WATV may cross state highways only at controlled intersections; • The intersection should be approximately 90 degree angle (30 degrees +/-); • The state highway intended for crossing has a posted speed limit between 35-60 MPH; • County/City road, crossing the state highway must be approved for WATV use (Posted Speed Limit of 35 MPH or less on the local agency roadway with an approved city or county ordinance allowing the use of WATV’s.) • Part of the approval process is for the local agency to secure grant money from
+Local Programs to pay for fabrication and installation of the WATV signs.
+
+2-8.20
+Pedestrian Signs
+Pedestrian signs may be used to alert road users to general locations (e.g. narrow shoulders, mid-block crossings, ramps) where unexpected entries into the roadway or shared use of the roadway may occur.
+A PEDESTRIAN CROSSING sign (W11-2) may be installed where attention needs to be drawn to the pedestrian presence, as evidenced by a traffic engineering analysis, operational issues reported by individuals, or Level of Traffic Stress analysis and other information provided from the Active Transportation Division. Fluorescent yellow green may be used as a background sign color where extra attention needs to be drawn to a crossing, such as in urban areas with many distractions. When used at a specific crossing, the sign shall be supplemented with a diagonal downward pointing arrow plaque (W16-7P) showing the crossing location.
+For additional information on pedestrian crossings: Guidance – Uncontrolled
+Pedestrian Crossings for enhancement criteria and interim guidance for supplemental treatments for marked pedestrian crossings. https://wsdot.wa.gov/Design/Standards/
+PlanSheet/IS-22.htm
+Page 2-32
+WSDOT Traffic Manual
+M 51-02.10
+
+Signs 2-8.21
+Chapter 2
+Non-Vehicular Traffic Signs
+NON-VEHICULAR TRAFFIC signs may be used to alert road users to general locations where unexpected entries into the roadway or shared use of the roadway may occur.
+A.
+Deer Crossing – Install DEER CROSSING (W11-3) signs to alert motorists when approaching an area where deer or elk may unexpectedly enter the roadway.
+Gather information from the following sources when considering sign installation: • Region Maintenance personnel. • WSDOT Headquarters Environmental Services Office, Fish and Wildlife program.
+They compile a Wildlife Carcass Removal data base which notes deer and other wildlife killed on state highways. • Records of crashes with wildlife, maintained by the WSDOT Travel and Collision
+Data Office. • The Department of Fish and Wildlife’s regional biologists have additional information on concentrations and migratory routes of deer.
+Consider the following criteria before installing DEER CROSSING (W11-3) signs: • Minimum of five documented deer/vehicle collisions per mile per year for at least two of the past 10 years. The crash data is available through Cognos. • Minimum of 10 carcass counts per one mile per year for at least three of the past
+10 years. The carcass information can be found in HATS, for Choose Type: select
+Roadkill from pull down menu, for Activity: select 1671 – Roadkill/Animal Disposal, fill in the begin date and end date, select SR, and fill in Start SRMP and End SRMP. • Concurrence from region maintenance personnel.
+Existing DEER CROSSING sign locations should be reviewed every five years.
+
+B.
+Cattle Crossing (Livestock) – The CATTLE CROSSING (W11-4) or HORSE CROSSING (W11-7) sign may be used where there are frequent cattle, horse, or other livestock crossings at a specific site. Consider each request based on roadway type, traffic volumes, and number of crossings. A crossing site used once a day would warrant a sign, whereas one used once a month would not.
+Cattle signs are not used for the movement of livestock along a highway such as a sheep or cattle drive. Requests for temporary traffic control to accommodate livestock movement are handled by the region on a case by case basis.
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-33 Chapter 2 2-8.22
+Signs
+Congested Area
+CONGESTED AREA (W14-2202) signs may be installed at locations where traffic congestion occasionally occurs. Examples include rural areas where businesses or other community development periodically generate traffic volumes greater than normally would be expected at that location. 2-8.23
+Congestion Ahead
+The CONGESTION AHEAD (W14-2203) sign is only used where sight distance to the congested area is restricted.
+
+2-8.24
+Grated Bridge Deck
+The GRATED BRIDGE DECK sign (W8-2101) shall be installed in advance of all bridges with grated decks on any portion of the roadway. Because deck grates may affect the handling characteristics of some vehicles, particularly motorcycles and bicycles, it is important to alert these road users to the road surface condition. 2-8.25
+Pavement Ruts
+The PAVEMENT RUTS sign (W8-2201) may be installed on roadway sections where there are longitudinal wheel track ruts. Such ruts may cause vehicle vibration or other unexpected movements when a vehicle crosses them to change lanes or exit the roadway. The region
+Traffic Office should determine appropriate placement of these signs, based on an engineering judgment.
+On multilane divided roadways, post signs on both sides of the roadway. 2-8.26
+Rocks
+The ROCKS sign (W8-1701) may be installed to alert roadway users to roadway sections that are known to have or are subject to frequent rockfall occurrences.
+Maintenance crew’s track and input “Roadway Rock Removal” activities into Highway
+Activities Tracking System (HATS) https://hats.wsdot.wa.gov/OtherActivityRecords/Records.
+The department Material Lab developed a numerical rating system for identifying and ranking unstable slopes and is available at: Unstable Slope information.
+When a potential rockfall location has a numerical rating of 200 points or greater, a ROCK sign should be installed. A separate sign is not required at each location if adjacent locations can be combined using a FOR NEXT XX MILES sign.
+
+Page 2-34
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+Exhibit 2-13
+Rating Criteria
+Category
+3 Points
+9 Points
+27 Points
+
+81 Points
+Problem Type: Soil
+Cut or Fill Slope
+Erosion
+Settlement or
+Piping
+Slow Moving
+Landslides
+Rapid Landslides or
+Debris Flow
+
+Problem Type:
+Rock
+Minor Rockfall
+Good Catchment
+Average Daily
+Traffic < 5,000 5,000 to 20,000 20,000 to 40,000 > 40,000
+Decision Sight
+Distance
+Adequate
+Moderate
+
+Limited
+Very Limited
+Impact of Failure on Roadway < 50 Feet
+50 to 200 Feet
+200 to 500 Feet > 500 Feet
+Shoulder Only ½ of Roadway ¾ of Roadway
+Full Roadway 50% to 75% > 75% of the Time
+Roadway
+Impedance
+Average Vehicle
+Risk
+
+2-8.27
+Moderate Rockfall
+Major Rockfall
+Major Rockfall No
+Fair Catchment Limited Catchment
+Catchment < 25% of the Time 25% to 50% of the
+Time of the Time
+Pavement Damage
+Minor – Not
+Noticeable
+
+Moderate – Driver
+Must Slow
+Severe – Driver
+Must Stop
+Extreme – Not
+Traversable
+Failure Frequency
+No Failures in
+Last 5 Years
+One Failure in Last
+5 Years
+
+One Failure Each
+Year
+More Than One
+Failure per Year
+Annual < $5,000 per Year
+Maintenance Costs $5,000 to $10,000 per Year $10,000 to > $50,000 per Year $50,000 per Year
+Economic Factor
+No Detours
+Required
+Short Detours < 3 Miles
+
+Long Detours > 3 Miles
+Sole Access
+Accidents in Last
+10 Years
+0 or 1
+2 or 3
+4 or 5 >5
+Transit Stop Ahead
+Install the TRANSIT STOP AHEAD (W14-1101) symbol sign in advance of a Region Traffic office approved transit stop in the travel lane of a state highway when: • The transit stop is located in an unincorporated area; and • There is less than 500 feet of sight distance to the transit stop.
+Install the sign in accordance with MUTCD Table 2C-4 (Advance Placement of Warning
+Signs). Refer to WAC 468-46 and Section 7-9 of this manual, for further information about the transit stop approval process.
+For pedestrian crossings at or near a transit stop follow the Guidance – Uncontrolled
+Pedestrian Crossings. www.wsdot.wa.gov/publications/fulltext/Standards/psl/IS-22/
+Uncontrolled_Ped_Crossing_Guidance.pdf
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-35 Chapter 2 2-8.28
+Signs
+Left Turning Vehicles Ahead
+The LEFT TURNS AHEAD (W2-601) sign may be used in advance of intersections to alert to possible left turning movement conflicts, as determined by an engineering judgment.
+Consider installing this sign at locations where any of the following conditions exist: • The intersection is not channelized. • Left-turning road users with a history of rear-end crashes. • Approach to the intersection does not provide less than minimum stopping sight distance. 2-8.29
+Lateral Clearance Markers (Object Markers)
+The department installs Type 3 OBJECT/LATERAL CLEARANCE MARKERS (W12-401 L/R) to identify objects or conditions within or adjacent to the roadway such as: • narrow bridges with reduced width shoulders • drop-offs • small traffic islands • underpass piers • bridge abutments • barriers • handrails • culvert headwalls
+IMPACT ATTENUATOR MARKERS (W12-501 and W12-502) are used to identify the nose section of an impact attenuator. Install a W12-501 when traffic approaching an attenuator passes only one side of the attenuator. Install a W12-502 when approaching traffic passes on both sides of the attenuator.
+MUTCD Section 2C.64 and 2C.65 addresses appropriate use and installation requirements of lateral clearance markers. See Appendix 2-11 and 2-11A.
+
+2-8.30
+Water Over Roadway
+The WATER OVER ROADWAY (W8-501) sign may be installed where water periodically and consistently accumulates. Hinge the sign to allow crews to open and close it as needed based on field personnel observations in the vicinity of the sign. 2-8.31
+Severe Side Winds Ahead
+The SEVERE SIDE WINDS AHEAD (W14-801) sign may be installed where geologic or geographic features or other unique situations create unexpected and severe windy conditions that can impact the handling of a vehicle based on engineering judgment.
+Page 2-36
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-8.32
+Chapter 2
+Watch for Ice
+The department no longer routinely uses WATCH FOR ICE (W8-1601) signs. They may be considered in unique conditions such as where a natural or manmade feature causes consistent roadway wetness and where ice is likely to form during cold temperatures.
+Examples may include, but are not limited to locations where: • A waterfall causes roadway moisture. • An industrial facility consistently causes spray on the roadway. • There is wetness from short or long-term drainage problems. • Pavement sensors connected to the WATCH FOR ICE sign discern the outside temperature and flash an alert to motorists about the potential of ice on the roadway. • Moisture vapor forms on the highway.
+Any decision to post a WATCH FOR ICE sign must be based on a traffic engineering analysis and approved by the State Traffic Engineer, in consultation with the appropriate Region
+Traffic Engineer.
+
+2-8.33
+Grooved Pavement
+Install the GROOVED PAVEMENT sign (W8-2001) where the roadway surface features closely spaced longitudinal grooves. Do not use this sign in areas of rutted pavement.
+RCW 47.36.200 notes that where a GROOVED PAVEMENT sign is used, a MOTORCYCLES
+USE EXTREME CAUTION (W21-1701) sign must also be used. 2-8.34
+School Areas
+School related signing is installed to alert motorists to an upcoming school bus stop or school crossing, and the possible presence of children standing near, walking along, or crossing the roadway. Fluorescent yellow-green (FYG) is the standard background color for school signs.
+The department is responsible for school bus stop and crossing related signing. Additional signs (such as an overhead School Crossing sign) are generally the responsibility of the school district requesting them. 2-8.35
+School Bus Stops
+Install a SCHOOL BUS STOP AHEAD (S3-1) sign where there is less than minimum stopping sight distance to the bus stop, or when engineering judgment indicate the need for a warning sign. Where there is less minimum stopping sight distance to the bus stop, it should be relocated if possible to provide ample visibility. All school bus stops requiring an advance school bus stop sign must be reviewed and approved by the Region Traffic Operations staff.
+Because of the frequent changes to bus stop locations, they should be reviewed before the start of each school year for possible sign removal or relocation.
+The Region Traffic Engineer must approve any school bus stops on limited access facilities (WAC 468-58-030) and provide this information to the State Traffic Engineer who maintains an inventory of the locations.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-37 Chapter 2 2-8.36
+Signs
+School Bus Turnaround
+The SCHOOL BUS TURNAROUND sign (S3-201) may be installed to alert motorists to an upcoming school bus turnaround location, where minimum sight distance to the turnaround is less than that shown in MUTCD Table 2C-4, or when other operational factors indicate the need for a warning sign. Department policy is to not use the SCHOOL BUS TURN
+AHEAD sign as shown in the MUTCD. 2-8.37
+Signing for Reduced School Zone Speed Limit
+Reduced speed limits in school zones are established in compliance with RCW 46.61.440(1) which establishes a 20 mph speed zone at a marked school or playground crosswalk when the crosswalk is posted with standard school or playground speed limit signing, or on a roadway bordering a school or playground when posted. See Section 6-4 for additional information on reduced school speed zones.
+Standard reduced school zone speed limit signing at a marked school or playground crosswalk is shown in Appendix 2-12 and includes: • The SCHOOL (S1-1) sign with AHEAD plaque (W16-9P). • The SCHOOL SPEED LIMIT (S5-101) sign assembly. • The SCHOOL (S1-1) sign with ARROW plaque (W16-7P). • The END SCHOOL ZONE (S5-2) sign with the subsequent SPEED LIMIT (R2-1) sign below.
+The SCHOOL SPEED LIMIT (S5-501) sign assembly consists of three sections: • SCHOOL legend (S4-3) with black letters on a fluorescent yellow green background. • 20 MPH SPEED LIMIT sign (R1-1). • WINDOW OF ENFORCEMENT legend.
+The enforcement legend is determined by the school district and can be any of the following: • WHEN FLASHING (S5-1) used in conjunction with a flashing beacon above the sign, as described in MUTCD Section 4L.04. • WHEN CHILDREN ARE PRESENT (S5-101) used in conjunction with definitions provided in WAC 392-151-035 and WAC 468-95-350. • WHEN FLAGGED (S5-102) used in conjunction with warning flags that are installed on the sign during the window of enforcement. The school is responsible for installation and removal of the flags. • X:00 A.M. TO X:00 A.M./P.M. (S4-5) used to display the specific hours of the school speed limit.
+
+Page 2-38
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-8.38
+Chapter 2
+Flashing Beacons or Flags
+The SCHOOL SPEED ZONE sign assembly may be supplemented with flashing beacons or flags to draw attention and increase compliance with the reduced speed zone. A Washington
+State Traffic Safety Commission study noted that WHEN FLASHING school zone signs were more effective in slowing vehicles than either WHEN CHILDREN ARE PRESENT or WHEN
+FLAGGED signs. The study notes that where the approach speed to a school speed zone is 35 mph or above, schools with WHEN FLASHING signs had significantly fewer vehicles travelling in excess of 35 mph (only 3 percent) than WHEN CHILDREN ARE PRESENT signs (30 percent) and WHEN FLAGGED signs (23 percent).
+On highways where the approach speed to a school speed zone is 35 mph or more, or where a wide roadway increases children’s exposure, consider the use of flashing beacons above the SCHOOL SPEED ZONE assembly. Beacons are generally paid for by the school district requesting the speed zone. 2-8.39
+School Crossings
+School crossings may be established either adjacent to the school or as part of a school pedestrian route. Install a SCHOOL sign (S1-1) with a Diagonal Arrow plaque (W16-PL) at or near the crossing, and a SCHOOL sign (S1-1) with an AHEAD plaque (W16-9P) in accordance with MUTCD Table 2C-4. • The SCHOOL (S1-1) sign may be installed at a crossing controlled by a traffic signal. • Do not install a SCHOOL (S1-1) sign at an intersection crossing controlled by a STOP or
+YIELD sign.
+
+2-8.40
+Overhead School Crosswalk Sign
+The OVERHEAD CROSSWALK (W11A-301) sign is used only at marked school crosswalks where a traffic engineering study has determined that conventional traffic control measures are not adequate. The sign is installed in addition to the standard school crosswalk signing.
+The OVERHEAD CROSSWALK sign must include pedestrian or school activated flashing lights. The MUTCD allows the option to use the STOP FOR PEDESTRIANS overhead sign (R1-9a) instead. Consider these factors when determining installation of this sign: • Approach speed of traffic. • Width of crossing. • Number of lanes.
+Costs associated with installing and maintaining this traffic control device generally are the responsibility of the requesting school district.
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-39 Chapter 2 2-9
+Signs
+Guide Signs
+Guide signs direct roadway users along roads and highways by providing information about: • Route designation. • Directional and distance information (includes multimodal connections: air, rail, ferries, or transit stations. • Geographical, recreational, or cultural points of interest. • Motorist services.
+The department receives frequent requests for guide signs. The quantity and spacing of guide signs is controlled so that the roadway user has adequate time to read, understand, and respond to the sign messages.
+The Design Manual notes that guide sign plans are needed for Interstate highways and require Headquarters Traffic approval. Where a highway passes through a national forest or national park, there may be agreements in place that designate which agency is responsible for each sign type, as well as design requirements for signs. Sign design must consider these requirements.
+Review sign requests by considering both the MUTCD sign purpose and the sign spacing criteria. Work with local groups to review conflicting requests, and to determine the most essential and effective signing. It may be necessary to remove or relocate existing signs to accommodate the addition of a more important sign, while avoiding sign proliferation.
+Guide signs shall not include advertising.
+
+2-9.1
+Types of Guide Signs
+Guide signs are grouped by their purpose. Their use is determined according to standards and guidance in the MUTCD. • Route Markers display the official highway number or US Bicycle Route number and direction of travel. • Primary Guide Signs include advance directional signs, exit directional signs, diagrammatic signs and pull-through signs. They direct roadway users to exit points for principal destinations served by intersections or interchanges, and to cities located on intersecting state routes. • Distance Signs display distances to destinations and junctions along state routes. • Supplemental Guide Signs provide direction to major traffic generators or other points of interest, or to destinations preempted from the primary guide sign. • Follow-Through Signs provide continued direction, beginning at the point of exit from the state highway, and following through to the destination displayed on the guide sign. • General Motorist Service Signs (MSS) provide information for the unfamiliar traveler about services available at or accessed from upcoming intersections and interchanges. • Motorist Information Signs (MIS) provide information about specific businesses that meet certain service criteria. The MIS program is regulated by RCW 47.36.310,
+RCW 47.36.320, and WAC 468-70.
+Page 2-40
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+Where sign space is available, guide signs on expressways or freeways generally include: • One or two advance directional signs where interchange spacing allows. • An exit directional sign. • One supplemental guide sign, installed approximately halfway between the advance directional and exit directional sign. It is only installed if spacing requirements can be met.
+MUTCD minimum spacing requirements between directional guide signs are: • 800 feet for freeway and expressways. • 500 feet for two-lane, high-speed roadways. • 300 feet for high speed multilane with at-grade intersections • 200 feet for two-lane and multilane low speed highways within incorporated areas.
+
+2-9.2
+Guide Sign Color
+Guide signs are generally white letters on a green background. However, some types of signs use other background colors to distinguish the type of destination to which they are signing.
+Following are standard guide sign background colors: • Brown – Heritage Markers, State Parks, National parks, U.S. Forest Service facilities,
+Department of Natural Resources campgrounds, Recreation Activity signs with symbols,
+Watchable Wildlife, State Public fishing areas. • Blue – Motorist Service signs (MSS), Motorist Information signs (MIS), Washington
+State Patrol, fire district boundary, fish related signs. • Green – All other guide signs. 2-9.3
+Guide Signs On Conventional Roads
+Install guide signs in accordance with guidelines in MUTCD Chapter 2D. Guide sign installation for route intersections is shown in Appendix 2-13 for: • Junctions of state highways. • Junctions of county roads or city streets that lead to significant destinations. 2-9.4
+Guide Signs On Expressways and Freeways
+Install guide signs in accordance with guidelines in MUTCD Chapter 2E. Guide sign installation illustrations are shown in Appendices 2-14 through 2-22 for: • Crossroad Interchange Approach (Appendix 2-14) • Expressway Intersection Approach (Appendix 2-15) • Expressway Interchange Approach (Appendix 2-16) • Freeway Interchange Approach (Appendix 2-17) • Freeway Exit Ramp (Appendix 2-18) • Freeway Post Interchange (Appendix 2-19) • Auxiliary Freeway Lane – Less than ¼ mile long (Appendix 2-20) • Parallel On Connection – More than ¼ mile long (Appendix 2-21) • Auxiliary Freeway Lane – More than ¼ mile long (Appendix 2-22)
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-41 Chapter 2 2-10
+Signs
+Route Signs
+A route sign assembly consists of a route sign and auxiliary signs that further identify the route and indicate direction of travel. For conventional roadways, MUTCD Section 2D.29 through 2D.32 provide guidance for the various types of route sign assemblies.
+For expressways and freeways, route sign assemblies are typically used for route confirmation and trailblazing purposes. In addition to the guidance provided in MUTCD
+Section 2E.25, install route confirmation sign assemblies at these locations: • Entrances to Washington State. • Beyond interchanges. • On the far side of intersections with other numbered routes or major local roads. • Beyond city limits.
+In urban and residential areas, install route confirmation sign assemblies at intervals that will keep an unfamiliar motorist informed of the route. Note that where interchanges and intersections are closely spaced and available sign space is limited, speed limit signs are a higher priority than route confirmation sign assemblies. 2-11
+Primary Guide Signs
+
+2-11.1
+General
+Advance directional, exit directional, diagrammatic, and pull-through signs are all considered primary guide signs that provide guidance to the motorist about destinations served by upcoming exits or intersections. The MUTCD defines the required and allowable numbers of guide signs for the various roadway types and interchange classifications. Information is also provided about installation, location, and letter/legend criteria for these signs.
+On Conventional roads, a maximum of three lines of destinations may be displayed on a primary guide sign (MUTCD Section 2D.07). On Freeways/ Expressways, a maximum of two destinations may be displayed on a primary guide sign (MUTCD Section 2E.10). A sign support having two or more signs may display a maximum of three destinations. Display the same message on all advance and exit directional signs installed in a series. This provides consistent and effective information to the roadway user, especially the unfamiliar traveler.
+Department guidelines require that any freeway exit that is a left-hand rather than righthand exit must be signed with a yellow LEFT EXIT plaque on both the advance directional and the exit directional sign.
+Page 2-42
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-11.2
+Chapter 2
+Destination Selection
+Display the primary destination(s) served by the upcoming exit or intersection and a second destination using the prioritized list below.
+Consider: • The control city along the intersecting route. • A junction with another numbered highway. • The name of a city or town (when multiple cities are requesting to be added; choose a city with the largest population). • A tribal reservation. • A street name or roadway name. • Other major destination such as mountain passes, National Parks, or major airports.
+Apply the same destination selection criteria for signs on all conventional roads, expressways, and freeways. As development occurs, it may be necessary to replace existing destinations with ones that have become more essential.
+Ventures operated by private entities for profit, and to other ventures not of general interest to the traveling public are not signed on guide signs on state highways. These entities may instead qualify for Motorist Service Signs (MIS), Tourist Activity signs, or Recreation signing.
+Current ventures must be signed under the new criteria when the current sign service life is over. Shopping malls that qualify for signing under RCW 47.36.270 are an exception and may be signed on primary or supplemental guide signs.
+
+2-11.3
+Control City on Destination Signing
+A control city is used on guide signs at junctions with other highways (MUTCD Chapter 2D).
+The designated control city for selected state routes is shown as follows:
+US 2
+EB from Everett
+Wenatchee
+EB from Wenatchee
+Spokane
+EB from Spokane
+
+Newport
+WB from Idaho State Line
+WB from Spokane
+Davenport
+WB from Davenport
+WB from Wenatchee
+Everett
+I-5
+NB from Vancouver, WA
+Seattle
+
+NB from Seattle
+Vancouver, B.C.
+SB from Vancouver, B.C.
+SB from Seattle
+Portland
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-43 Chapter 2
+Signs
+US 12
+EB from Aberdeen
+
+Olympia
+EB from Elma
+Centralia
+EB from I-5
+Yakima
+EB from Yakima
+Richland
+EB from Pasco
+Walla Walla
+EB from Walla Walla
+
+Lewiston
+WB from Idaho State Line
+WB from Walla Walla
+Pasco
+WB from Richland
+Yakima
+WB from Yakima
+Interstate 5
+WB from I-5
+Aberdeen
+
+SR 14
+EB from Vancouver
+I-82
+WB from I-82
+Vancouver
+SR 20
+EB from Keystone
+Anacortes
+EB from Anacortes
+Burlington
+
+EB from Burlington
+Okanogan
+EB from Okanogan
+Colville
+EB from Colville
+Newport
+WB from Idaho State Line
+WB from Colville
+WB from Okanogan
+Burlington
+
+WB from Burlington
+Anacortes
+WB from Anacortes
+Coupeville
+I-82
+EB from Ellensburg
+Yakima
+EB from Yakima
+Richland
+EB from Richland
+
+Hermiston
+WB from Oregon State Line
+Kennewick
+WB from Kennewick
+WB from Yakima
+Ellensburg
+I-90
+Page 2-44
+EB from Seattle
+Spokane
+
+EB from Spokane
+Coeur d’Alene
+WB from Idaho State Line
+WB from Spokane
+Seattle
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+US 97
+NB from Oregon State Line
+
+Yakima
+NB from Ellensburg
+Wenatchee
+NB from Wenatchee
+Okanogan
+NB from Okanogan
+Penticton, B.C.
+SB from Canadian Border
+SB from Wenatchee
+Ellensburg
+
+SB from Yakima
+Goldendale
+US 101
+NB from Oregon State Line
+Aberdeen
+NB from Aberdeen
+Port Angeles
+NB from Olympia
+SB from Port Angeles (East Leg)
+Olympia
+
+SB from Port Angeles (West Leg)
+SB from Aberdeen
+Astoria
+I-182
+EB from I-82
+Richland
+EB from Richland
+Pasco
+WB from Pasco
+WB from Richland
+
+I-82/Yakima
+US 195
+NB from Idaho State Line
+Spokane
+SB from Spokane
+Lewiston
+I-205
+NB from Oregon State Line
+Seattle
+SB from Jct. I-5
+
+Salem
+US 395
+Kennewick
+NB from Pasco
+Spokane
+NB from Spokane
+Colville
+NB from Colville
+Grand Forks, B.C.
+SB from Canadian Border
+
+SB from Ritzville
+Pasco
+I-405
+NB from Jct. I-5 (Southcenter)
+Renton
+NB from Renton
+Bellevue
+NB from Bellevue
+Lynnwood
+SB from Jct. I-5 (Lynnwood)
+
+SB from Bellevue
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-45 Chapter 2 2-12
+Signs
+Distance Signs 2-12.1
+General
+A distance sign can display up to three destinations (MUTCD Chapter 2D). Apply the same destination selection criteria for signs on all conventional roads, expressways, and freeways. • On the first line, identify the next city with services available, or the next intersected numbered route. • On the second line, if used, identify communities of general interest along the route.
+Vary the named community on successive distance signs to provide maximum information to the traveler. • On the third or bottom line, display the next control city along the route or terminal destination.
+Install distance signs at the following locations: • Beyond intersections and interchanges of numbered state highway routes. • Beyond city limits or urban boundaries. • In rural areas at 10- to 15-mile intervals. • At entrances to Washington State.
+Where two or more of these locations occur within 10 miles, sign the most effective location.
+
+2-12.2 2-13
+Determining Mileage Displayed on Distance Signs
+A.
+Freeways and Expressways – Display the distance (in miles) from the sign to either the first interchange/intersection within the destination city limits, or to the city center.
+Regions must work with city administration to determine the preferred city center reference location.
+B.
+Conventional Highways – Display the distance in miles from the sign to the destination city limits. For destinations such as Mt. Rainier National Park, display the distance to the park boundary.
+Supplemental Guide Signs 2-13.1
+General
+Supplemental guide signs direct unfamiliar motorists to additional destinations or points of interest that are not displayed on the primary guide signs. The MUTCD allows only one supplemental guide sign to be installed for each interchange approach and it shall display a maximum of two destinations. Supplemental guide signs shall be installed only when MUTCD minimum spacing requirements can be met.
+Supplemental guide signs should not be installed for a traffic generator that would require a motorist to travel on the interchanging road beyond a second state highway (i.e., I-5 to
+SR 18 to SR 164).
+
+Page 2-46
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+In general, destinations that generate the greatest traffic volume or have the widest scope of recognition are given highest priority. Nationally recognized traffic generators receive priority over those that have state, regional, or local recognition. Evaluate the given interchange and select the destinations that provide the most benefit to the highway user.
+As development occurs, it may be necessary to replace existing destinations with ones that have become more essential. 2-13.2
+Destination Selection Factors for Supplemental Guide Signs
+Apply the destination selection criteria equally, whether the signs are on conventional roads, freeways, or expressways. Consider the following factors when evaluating a supplemental sign request: • On an expressway or freeway, determine if the destination meets criteria contained in the American Association of State Highway and Transportation Officials (AASHTO) publication Guidelines for the Selection of Supplemental Guide Signs for Traffic Generators
+Adjacent to Freeways Fifth Edition. • State law mandates destination signing for State Parks and regional shopping centers when distance criteria are met. • Consider how the proposed signing will affect local roadway traffic operations. Work with the local agency to determine the route to a destination and the sign locations. In general, sign to the supplemental destination from the interchange or intersecting road that provides the most direct route to the destination. • Determine if follow-through signing is needed and work with the local agency to determine sign locations. Local agencies assume responsibility for sign installation and maintenance and must concur with any proposed signs. • Avoid signing to destinations that require complex navigation on multiple highways, unless the activity is of national significance. 2-13.3
+Destination Selection Priorities
+A.
+
+Overflow Messages From Primary Guide Signs – Occasionally, essential messages cannot be included on primary guide signs due to space limitations. Instead, place these essential messages on supplemental guide signs, giving them priority over any other supplemental sign messages.
+B.
+Destinations Mandated by Statute 1.
+State Parks – State law (RCW 47.36.290) directs the department to install guide signing on interstate highways to State Parks located within 15 miles of the highway. These destinations have first priority on supplemental guide signs on interstate highways. Additionally, WSDOT policy is to install guide signs to a State
+Park within 15 miles of any state highway.
+The department installs and maintains these signs and provides follow through signing on any state route that connects the state highway to the park. All State
+Park signs shall have white letters, symbols, and border on a brown background.
+The State Parks and Recreation Commission is responsible for any State Park signing not located on a state highway.
+WSDOT Traffic Manual
+M 51-02.10
+
+Page 2-47 Chapter 2
+Signs a.
+Freeway and Expressway Interchanges
+Mainline – Install signs displaying the name of the STATE PARK and a directional message, such as NEXT EXIT, in advance of the interchange, located to meet guide sign spacing requirements. If the park has restricted hours or days of operation, add a supplemental plaque displaying the operating schedule (i.e., CLOSED TUESDAYS) below the STATE PARK sign.
+No other supplemental plaques are used on the freeway mainline sign. Do not install mainline signing until all follow through signing is in place.
+Ramp – Install signs displaying the message STATE PARK and a directional message, with a maximum of four recreational symbol plaques. Display the mileage to the park from the ramp terminal, using ¼ mile increments if the distance is less than 1 mile. b.
+Conventional Roadway Intersections – Install signs displaying the name of the STATE PARK and a directional message (NEXT RIGHT/NEXT LEFT) in advance of the intersection leading most directly to the park. Install a maximum of four recreational symbol plaques below.
+Install a white on brown sign with the message STATE PARK (D1-101) and a directional arrow at the intersection of a state route and roadway leading to a state park. Display the mileage to the park from the intersection. Use ¼-mile increments if the distance is less than 1 mile. c.
+Recreational Symbol Plaques – A maximum of four recreational symbol plaques may be displayed under a state park directional sign, on both conventional roads and on freeway off-ramps. • Plaques are 24 inch × 24 inch with white message on a brown background. • If the park does not have camping facilities, display the text message NO
+CAMPING as one of the recreational plaques. • If a park has restricted hours or days of operation, display the operating schedule (i.e., CLOSED TUESDAYS) as one of the plaques. • The park manager for each individual park will determine the additional supplemental symbols to be displayed. • If a BEACH message is to be shown, use a text message plaque instead of a symbol. • Before replacing any state park sign, contact the park manager, to determine if any plaque changes are needed. • If the symbols are seasonal, a written agreement is developed between the state park manager, the local maintenance superintendent, and region
+Traffic Operations. The agreement outlines who will be responsible for changing the symbols, at what specific time periods, as well as any cost reimbursement that may be involved. • Headquarters Traffic Office maintains an inventory of the recreational symbols used at each state park. Inform Headquarters Traffic when symbol plaques are changed, added, or removed.
+
+Page 2-48
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2 d.
+Additional Signs – CAMPGROUND FULL signs may be used at offramps and on conventional highways in conjunction with a State Park directional sign. It can be either a post mounted stand-alone sign or a changeable message plaque under the ramp or conventional highway sign.
+CAMPGROUND FULL signs may not be displayed on a freeway mainline.
+A written agreement is developed between the state park manager, the local maintenance superintendent, and region Traffic Operations. The agreement outlines who will be responsible for changing the CAMPGROUND FULL sign, and for the sign fabrication, installation, maintenance, and removal. State
+Parks will be responsible for all associated costs, administered through a
+J account.
+During seasonal closures, STATE PARK CLOSED plaques are installed on all state parks guide signs, including those on the freeway mainline. This is done rather than removing or turning them. Mount the plaque diagonally from lower left corner to upper right corner on the sign face. Use a panel size that is large enough to effectively cover the legend and a letter size at least as large as the upper case letters in the STATE PARK message. See Exhibit 2-1.
+Exhibit 2-14
+
+2.
+State Park Closed
+Regional Shopping Centers – State law (RCW 47.36.270) and WAC 468-95-140 requires that regional shopping centers be signed from state highways, if spacing requirements can be met and the shopping center: • Has at least 500,000 square feet of leasable retail space. • Contains at least three major department stores owned by a national or regional retail chain. • Is located within 1 highway mile of a state highway. • Generates a minimum of 9,000 daily one-way vehicle trips.
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-49 Chapter 2
+Signs
+All costs associated with fabricating, installing, and maintaining signs shall be the responsibility of the shopping center.
+If the shopping center is not clearly visible from the state highway point of exit, follow-through signing must be in place on city or county roads prior to mainline sign installation.
+Signing on the state highway to a county road or city street that bears the name of the regional shopping center fulfills the statutory requirements for signing to those centers.
+C
+
+Other Supplemental Guide Sign Destinations – The following non- prioritized list includes examples of destinations (traffic generators) that may warrant supplemental guide signing. It is intended to aid in determining appropriate destinations.
+Airports
+Amtrak/Other Railroad
+Bike Routes
+Business Routes
+Colleges/Universities
+Event Venues,
+Fairgrounds
+Ferries
+Historic District (may be signed as a Tourist Activity under MIS program if guide signs are full)
+Industrial Parks
+Military Installations
+National Parks
+Natural/Cultural/Historic Attractions
+Park and Ride Lots
+Ports/Port Districts
+Recreational Areas
+Scenic Byways
+Stadiums (Sports Facilities)
+Trails/Trailheads
+Tribal Reservations
+USFS (Headquarters Facilities/Campground)
+
+Page 2-50
+WSDOT Traffic Manual
+M 51-02.10 Signs 2-14
+Chapter 2
+Destination Selection Requirements and Installation Details for Specific
+Types of Traffic Generators
+Specific traffic generators (destinations) must meet the criteria listed below to warrant a message on a supplemental guide sign. Appendix 2-23 contains the criteria for freeway installations in a table format. Supplemental guide signing shall be installed in accordance with the specific details shown below. 2-14.1
+Airports
+Airports are eligible for signing if they are included in the National Plan of Integrated Airport
+Systems and meet these criteria: • Associated with an area population of 10,000 or more. • Located within 5 miles of interchange or intersection. • Airport runway shall be paved, lighted and 2,500 feet or more in length. • Municipally or privately owned, and used for commercial enterprise with the following minimum number of regularly scheduled commercial flights per day: • 35 flights per day in major metropolitan area (greater than 50,000). • 20 flights per day in an urban area (5,000-49,999). • 15 flights per day in rural areas.
+Contact the WSDOT Aviation Division to determine if a specific airport meets these criteria.
+Airports that have scheduled flights can be signed with the airport name.
+All other airports are signed with the airport symbol or word message.
+Airports at remote locations serving a smaller population may be signed when their location is not obvious from the state highway, even if there are no commercial flights.
+Existing signs to airports that do not meet these criteria may remain in place until a higher priority destination warrants a supplemental sign.
+
+2-14.2
+Amtrak/Other Passenger Rail Stations
+Install Amtrak logo signing to Amtrak stations as described below. For other types of rail passenger stations such as those of a Public Transit Authority, a specific logo may be cooperatively developed with Public Transit Authority and department approval, and installed as described below.
+A.
+Conventional Roadways • Use Amtrak symbols or other approved logo signs in the trailblazer format with the appropriate directional arrows.
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-51 Chapter 2
+Signs
+B.
+
+Multilane Highways • If there is enough space to install an individual sign, the Amtrak symbol plaque or other approved logo may be placed on a green background panel with either of these messages: NEXT RIGHT or EXIT XXX (Appendix 2-24, part a). • If there is not enough space to install an individual sign, the Amtrak symbol plaque or approved logo sign may be installed below the advance exit or the exit directional sign, on the post closest to the traveled way (Appendix 2-24, part b). • If the sign cannot be installed as above, the Amtrak symbol plaque or approved logo sign may be installed below the supplemental guide sign, on the post closest to the traveled way (Appendix 2-24, part c). • Install Amtrak trailblazer signs or other approved logo signs along freeway ramps or at ramp terminals. All trailblazer signs must be in place before any mainline signs are installed. • The Amtrak symbol plaque or other approved logo sign may be installed as part of a multi-modal transportation logo board, along with approved symbols for other modes of transportation. 2-14.3
+Business Route
+BUSINESS ROUTE signs (M4-3) direct motorists to alternate routes passing through the business portion of a city or through a district of continuous business development.
+BUSINESS ROUTE signing is generally installed at the request of a local agency.
+Any addition or deletion of an Interstate or US highway segment as a Business Route must first be approved by AASHTO. Proposals to add or delete such routes should be sent to the department’s Transportation Data GIS & Modeling Office (TDGMO).
+Designated Business Routes may be signed as follows: • Install signing on a state highway business route only if it passes adequately and logically through a business district. • BUSINESS LOOP (M1, 2, or 3) trailblazers along the route are installed and maintained by the local agency which has jurisdiction over the business route. A written agreement clarifies the jurisdiction. 2-14.4
+Colleges and Universities
+Supplemental signing may be considered for a State College or University, their satellite campuses, other regional public or private colleges and universities, and technical schools if they meet the guidelines below and if sign spacing requirements can be met.
+Signing is installed from the state highway nearest the campus and is limited to the nearest and most direct interchange or intersection. Signing may also be installed from a freeway or expressway to a conventional state highway where the conventional highway is used primarily by local traffic. Signing is not provided from a freeway or expressway to another freeway or expressway.
+Page 2-52
+
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+Supplemental signing may be installed when: • The school is accredited in Washington State. Accredited schools are listed on the
+Northwest Commission on Colleges and Universities (NWCCU) agency website at www.nwccu.org. • The main or satellite campus is located within 5 miles of a state highway. • Enrollment criteria are met. Call the Higher Education Coordinating Board at 360- 7537800 for the current enrollment figures.
+Enrollment criteria (including part time and full time) based on any semester or quarter within the last school year: • 4,500 students in a major metropolitan area (50,000 or greater). • 2,500 students in an urban area (5,000-49,999). • 1,000 students in a rural area.
+In metropolitan and urban areas where two or more colleges or universities share a common campus, enrollments may be combined. The enrollment for the minor school should be at least 1,000 students. Metropolitan and urban area boundaries can be determined from the state urban boundary map.
+If school enrollment falls below the minimum number for one year, the school will be given written notice that the highway signing will be removed if the following fall semester or quarter enrollment does not reach the minimum number.
+Two schools may not share the same sign, if they do not share a common campus. If two schools are located in the same area, but do not share a common campus, determine which school is shown on the sign by the following order of priority: • State university. • State college. • Private university or college. • Technical college or school.
+University Mascot Logos – At a University’s request, a University mascot logo may be installed on guide signs under the following conditions: • It is a State University. • The university name is already displayed on the guide sign. • Mascot logos may be added only on signs for main campuses. • The university must supply the logos and pay all costs including engineering, fabrication, installation, and traffic control. • Maximum logo size is 30″ × 30″.
+If there is insufficient space to display a mascot logo on the sign face, the logo will be installed directly above the upper left-hand corner of the guide sign. If the university wants the logo incorporated onto the face of the guide sign, they have the option of paying for a complete new guide sign to include the logo.
+When the guide sign is due for replacement, it may be enlarged to incorporate the mascot logo onto the sign face at no cost to the university.
+WSDOT Traffic Manual
+
+M 51-02.10
+Page 2-53 Chapter 2 2-14.5
+Signs
+Event Venues, Arenas, Auditoriums, Convention Halls, Fairgrounds,
+Stadiums
+Event venues may be considered for supplemental guide signs using the following criteria, but only where MUTCD spacing guidelines are met. • In a major metropolitan area of 50,000 or greater population, the venue must be within
+2 miles of the state highway, and the annual attendance at the facility must be at least 300,000. • In an urban area of 5,000-49,999 population, the venue must be within 2 miles of the state highway, and the annual attendance at the facility must be at least 250,000. • In rural areas, the venue must be within 5 miles of the state highway, and the annual attendance at the facility must be at least 200,000. • Signs may be installed directing venue traffic from one state highway to another. 2-14.6
+Industrial Parks
+Supplemental guide signing to an industrial park may be considered using the following criteria, but only where MUTCD spacing guidelines are met. • The industrial park has at least 500,000 square feet of space available for lease (may include a mix of manufacturing, service, and warehouse facilities). • The industrial park is within 5 miles of the state highway. 2-14.7
+Natural, Historic, and Cultural Attractions
+A.
+
+General Criteria – Consider supplemental guide signing to natural, historic, and cultural attractions if the attraction meets guidelines shown below, but only where MUTCD sign spacing guidelines can be met. Signing is not provided if the attraction is readily visible from and has direct access to the state highway. Privately operated commercial attractions (i.e., Wild Waves) are signed as part of the Motorist Information Sign (MIS) program as a Tourist Activity.
+Periodic reviews by region personnel confirm that signing is displayed only for attractions that meet eligibility criteria and that signs are removed or covered when the attraction is closed for the season, no longer meets criteria, or is no longer in operation. Reviews may also identify new attractions that meet eligibility criteria.
+Natural, historic, and cultural attractions must meet the following general criteria to be considered for supplemental signing: • The attraction must have regional or national significance and meet destination or traffic generator guidelines. Do not sign attractions that are primarily of local interest. • The attraction must be located within 10 miles of the interchange or intersection being signed. Signing is installed only on the state highway nearest to the attraction.
+Any necessary follow-through signing shall be in place prior to installing state highway signs.
+Page 2-54
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2 • The attraction must be open without appointment to the general public. • Attractions must be accessible by a two-lane, all-weather road as a minimum. • The attraction must be maintained in good repair and presented in a professional manner. • If the attraction charges an entrance fee, the activity is responsible for all costs for fabrication, installation, maintenance and replacement. A co-signed agreement with the business or organization establishes the approximate costs and payment method. Examples are Fort Vancouver Historic Site and Maryhill Museum. • If the activity is operated by a governmental agency or organization, the department will install the signs at no cost to that agency or organization. • The signs shall be white letters on a green background. This color change increases the reflective service life of the signs. All existing white on brown signs should be replaced with white on green as normal service life expires. Signing for Heritage
+Markers, State Parks, National Parks, or U.S. Forest Service facilities will remain white on brown. • For attractions located more than 1 mile from the interchange or intersection, display mileage information on the ramp terminal or direction signs. • For seasonal operations, signs must be removed or covered with a CLOSED plaque during the off season. See Exhibit 2-1 for example
+B.
+
+Natural Attractions – In addition to the general criteria above, consider signing to natural attractions if they are unique or of a type not generally accessible to the public.
+Examples of natural attractions are the Snoqualmie Falls, Palisades Rock Formation, the Ice Caves west of Trout Lake, Hurricane Ridge, and the Snake River Canyon.
+C.
+Historic Attractions – In addition to the general criteria above, historic attractions may be considered for signing if: • They are included in the National Register of Historic Places or the Washington
+Heritage Register as designated and maintained by the Washington State
+Department of Archaeology and Historic Preservation. • The attraction includes one or more of the following features at the site: a.
+An interpretive center and/or a guided tour. b.
+Visible historic buildings, features, or ruins with interpretive markers.
+Examples of historic attractions are the Whitman Mission, Steptoe
+Battlefield, Jackson House, Fort Simcoe, and the Monticello Convention
+Site. The application form (Appendix 2-24) may be used to document if the attraction meets the eligibility criteria.
+Determine if the attraction is included on the National Register of Historic
+Places or the Washington Heritage Register at: https://wisaard.dahp.wa.gov.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 2-55 Chapter 2
+Signs
+D.
+Cultural Attractions – In addition to the general criteria above, consider signing to cultural attractions if they are similar to, or fall within, one of the following categories: • Museums – Endorsed by the Washington State Historical Society. • Religious – Sites, shrines, etc., that are of a unique religious nature and provide visitor facilities or tours. • Educational – Centers other than public or private schools, vocational schools, or colleges and universities that are of outstanding educational value and provide visitor facilities or tours. • Scientific – Locations used for research or scientific advancement that provide visitor facilities or tours.
+Examples of cultural attractions are the Maryhill Museum, St. Mary’s Mission, the
+Forest Learning Center near Mount St. Helens, and the Goldendale Observatory. The form in Appendix 2-25 may be used as an application for cultural attractions. 2-14.8
+Heritage Markers
+HERITAGE MARKER signs (I5-103/104) guide motorists to historical or other interpretive markers located along state highways (see Section 7-11). They are used where there is a marker but no building or other facility. Use both the advance sign as well as the “at point” sign to give adequate guidance and time for a motorist response. HERITAGE MARKER signs are white on a brown background and replace existing HISTORIC MARKER and ROADSIDE
+ATTRACTION signs. Examples of HERITAGE MARKER sites include Willy Keil’s Grave, the
+Bridge of the Gods, and Earthquake Point north of Entiat.
+Do not use a HERITAGE MARKER sign to direct motorists to a historical site on either the national or state registers. These sites are signed using Historical attraction criteria and signing.
+
+2-14.9
+Ports/Port Districts
+Supplemental guide signing to Ports, or Port Districts may be considered if sign space is available per the MUTCD, using the following criteria: • The facility is served by two or more modes of transportation and is generating commercial traffic. • Goods move in and out of the facility.
+For more information on Marine Ports, see Chapter 2 of the Marine Ports and
+Navigation Plan. 2-14.10
+Recreational Activities and Areas
+Supplemental guide signs to specific recreation activities open to the public (such as
+Emerald Downs racetrack, Cheney Stadium, or Northwest Trek) may be considered if
+MUTCD spacing guidelines are met, together with the following attendance criteria: • Major Metropolitan Area – 300,000 • Urban Area – 250,000 • Rural Area – 100,000
+Page 2-56
+
+WSDOT Traffic Manual
+M 51-02.10 Signs
+Chapter 2
+Install RECREATION AREA (D7-7701) signing to guide motorists to public or private recreational activities that meet the criteria below. Display a maximum of four activity symbol plaques below the RECREATION AREA and direction message. • The activity is not readily visible from the highway, and has no direct access to the highway. • The activity is within 10 miles of the interchange or intersection being signed, and is served by at least a two lane, all-weather road. • The activity is open to the public, without appointment, at least eight hours a day, five days a week including a Saturday and/or a Sunday. • The destination facility must be maintained in good repair and presented in a professional manner. • Location shall include free public restroom facilities with a sink and running water for hand washing, a flush toilet, toilet tissue, and sanitary towels or other hand-drying devices. Restroom facilities shall contain appropriate locks for occupant security and must be ADA accessible. • If the activity charges an entrance fee, all costs for fabrication, installation, maintenance, and replacement are paid by the activity or organization. • A co-signed agreement with the business or organization establishes the approximate costs and method for payment. • Privately owned or operated recreational activities should be signed under the Motorist
+Information Signing Program, where applicable. • Signing is installed only on the state highway nearest to the attraction. Follow-through signing shall be in place prior to installing state highway signs. For activities more than
+1 mile from a freeway interchange, display mileage information on the ramp terminal sign. On conventional roads, show the mileage on the direction signs. The hours of operation may also be shown. • Recreation signs without symbols shall be white letters on a green background. Replace existing brown and white signs as service life expires.
+Exhibit 2-15 • For seasonal operations, signs must be removed or covered with a CLOSED plaque during the off season.
+M 51-02.10
+Page 2-57 Chapter 2
+Signs
+
+Along non-access controlled city streets that are part of the state highway system, within incorporated cities or towns with populations over 25,000, the local agency has jurisdiction for this signing.
+Supplemental guide signs to specific recreation areas may be considered when the area is of regional significance such as Quinault Recreation Area. Signs and the symbol plaques shall be white on brown. See Exhibit 2-16.
+Exhibit 2-16
+Public Recreation Areas – Display the AREA NAME (e.g., CAPITAL FOREST).
+Multiple Agency Recreation Areas – Display the AREA NAME (e.g., CUSHMAN- STAIRCASE
+RECREATION AREA) and each agency’s logo.
+Do not include recreational activity symbols on multi-agency signs. Requesting agencies shall coordinate installation of follow-through signing with l

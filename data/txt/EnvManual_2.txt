@@ -1,0 +1,1010 @@
+ and products developed during planning to inform the environmental review process. See Chapter 200 and the Environmental Guidance for Planning Studies webpage for additional PEL guidance. Potentially Affected Environment – The affected area (national, regional, or local) and its resources, such as listed species and designated critical habitat under the Endangered SpeciesAct. Practical Solutions – An approach to making project decisions that focuses on the specific problems the project is intended to address. This performance-based approach looks for lower cost solutions that meet outcomes that WSDOT, partnering agencies, communities and stakeholders have identified. With practical solutions, decision-making focuses on maximum benefit to the system, rather than maximum benefit to the project. Focusing on the specific project need minimized the scope of work for each project so that system-wide needs can be optimized. For additional information see Design Manual Chapter 1100 and the WSDOT Practical Solutions webpage. Purpose and Need – The Purpose and Need statement explains to the public, decision makers, and stakeholders why the project should be implemented. The Purpose and Need statement is the foundation for determining which alternatives will be considered.
+Chapter 400
+Environmental review (NEPA/SEPA) and transportation decision making
+Reasonable Alternatives – Reasonable range of alternatives that are technically and economically feasible and meet the purpose and need for the proposed action. (40 CFR 1508.1) Responsible Official – Official of the lead agency who has been delegated responsibility for complying with NEPA and SEPA procedures. Scoping (public and agency scoping) – A formal process for engaging the public and agencies to comment on the project Purpose and Need statement, identify the range of alternatives, environmental elements and impacts, and mitigation measures to be analyzed in an EIS or an EA. It should not be confused with internal scoping to set a project’s budget. SEPA Checklist – A standard form used by state and local agencies to obtain information about a proposal and to assist them in making a threshold determination. It includes questions about the proposal, its location, possible future activities, and questions about potential impacts of the proposal on each element of the environment. The SEPA rules under WAC 197-11-960 list the information required in an SEPA checklist. Significant Impact – Under NEPA (40 CFR 1501.3), agencies must analyze the potentially affected environment and degree of the effects of the action. Significance varies with the setting of the proposed action (i.e., the potentially affected environment). For instance, in the case of a site-specific action, significance would usually depend only upon the effects in the local area. Consider:
+• The type, quality, and sensitivity of the resource involved.
+• The location of the proposed project.
+• The duration of the effect (short or long term).
+• The setting of the proposed action and the surrounding area. Under SEPA, WAC 197-11-330 specifies a process, including criteria and procedures, for determining whether a proposal is likely to have a significant adverse environmental impact. Threshold Determination (SEPA) – The threshold determination process is the process used to evaluate the environmental consequences of a proposal and determine whether the proposal is likely to have any “significant adverse environmental impacts.” The SEPA lead agency makes this determination and documents it as either a DNS, or a DS. A DS requires preparation of an EIS. State and local agencies use the SEPA checklist (see above) to help make a threshold determination. Tribal Consultation – As defined in WSDOT Executive Order E 1025, tribal consultation means respectful, effective communication in a cooperative process that works towards a consensus, before a decision is made or action is taken on actions that affect identified tribal rights and interests.
+Chapter 412 412.01 412.02 412.03 412.04 412.05 412.06 412.07 412.08 412.09 412.10
+Indirect and cumulative effects
+Introduction Applicable statutes, regulations, & executive orders Considerations during project development Analysis & documentation requirements External engagement Internal Roles and responsibilities Mitigation Applicable permits & approval process Abbreviations and acronyms Glossary
+412.01 Introduction This chapter provides the policy direction regarding the assessment of indirect and cumulative effects for projects requiring a NEPA environmental assessment (EA) or a NEPA/ SEPA environmental impact statement (EIS). This chapter also contains WSDOT’s policy regarding the consideration of climate change as a cumulative effect. Find direction regarding Endangered Species Act indirect effects and cumulative effects in Chapter 436. NEPA requires that any agency proposing a major federal action that may significantly affect the environment, consider the environmental impacts of the proposed action, any unavoidable adverse environmental impacts, and the relationship between local short term uses and long-term productivity of the environment (42 U.S.C. § 4332(c)). 40 CFR 1508.1(q) provides definitions and criteria for major federal actions. SEPA rules direct state agencies to identify and evaluate probable impacts, alternatives and mitigation measures, emphasizing important environmental impacts and alternatives (including cumulative, short-term, long-term, direct and indirect impacts). The CEQ NEPA regulations require federal agencies to evaluate three types of effects in environmental reviews: (i) direct effects, which are “caused by the action and occur at the same time and place;” (ii) indirect effects, which are “caused by the action and are later in time or farther removed in distance, but are still reasonably foreseeable;” and (iii) cumulative effects, which result from “the incremental impact of the action when added to other past, present, and reasonably foreseeable future actions, regardless of what agency or person undertakes such other actions”. Indirect effects should be considered as part of direct effects for all projects. Cumulative effects analysis is required only for EAs and EISs. Projects or activities that are categorically excluded do not have the potential for significant impacts and therefore do not trigger a cumulative effects analysis.
+Chapter 412
+Indirect and cumulative effects
+Exhibit 412-1
+Highlights the distinctions between direct, indirect and cumulative Distinctions between direct, indirect, and cumulative effects
+Type of Effect Nature of effect
+Direct Typical, predictable
+Cause of effect
+Project
+Timing of effect
+Project construction and implementation Within project impact area
+Location of effect
+Indirect Reasonably foreseeable, probable Project’s direct effects
+At some future time after direct effects Within boundaries of systems affected by project
+Cumulative Reasonably foreseeable Project’s direct and indirect effects together with effects of other activities Past, present, or in the future Within boundaries of systems affected by the project
+Adapted from: NCHRP Report 403, Guidance for Estimating the Indirect Effects of Proposed Transportation Projects (1998), reprinted in AASHTO Practitioner’s Handbook #12 (2016)
+412.01(1)
+Recent changes
+On September 14, 2020, new federal NEPA implementing regulations took effect (see Chapter 400). The 2020 CEQ NEPA rules eliminated the terms indirect effects and cumulative impacts. The revised regulations repealed the prior definition of “cumulative impacts” and limited the consideration of effects to those “that are reasonably foreseeable and have a reasonably close causal relationship to the proposed action or alternatives”. Despite this 2020 rule change, WSDOT’s management direction has been to continue considering cumulative effects in NEPA documents (EAs and EISs). In 2022, CEQ revised its NEPA regulations to restore some of the basic elements of its 1978 NEPA regulations. One of these was restoring the requirement for federal agencies to evaluate all relevant environmental impacts of projects and decisions, including cumulative effects. The 2022 rulemaking is considered ‘Phase 1’ of revisions to the 2020 CEQ NEPA regulations. CEQ anticipates a ‘Phase 2’ to begin in late 2022 to continue revisions to its 2020 regulations. Phase 2 is expected to include rule changes that further support the current Administration’s commitments to environmental justice and climate change. At the state level, WSDOT has new direction as a result of the passage of Senate Bill 5141, known as the Health Equity for All (HEAL Act). Project teams should follow the direction in Chapters 458 and 460 regarding the use of the Environmental Health Disparity tool and consider cumulative human health effects. Environmental justice is an important topic that should be considered during the assessment of direct, indirect, and cumulative effects.
+Indirect and cumulative effects
+Chapter 412
+412.02 Applicable statutes, regulations, & executive orders 412.02(1)
+Federal
+• National Environmental Policy Act (NEPA), 42 USC Section 4321. 42 USC 4332(c) re: relationship to long term productivity of the environment
+• CEQ NEPA Implementing Regulations – 40 CFR 1500 - 1508 (Note: WSDOT refers to the 1978 version)
+• FHWA and FTA Rules – 23 CFR 771
+412.02(2)
+State
+• State Environmental Policy Act (SEPA), RCW 43.21C, and RCW 43.21C.031.
+• SEPA implementing regulations are WAC 197-11-792 and WAC 197-11-060(4).
+• RCW 70A.02 Environmental Justice, also referred to as the HEAL Act.
+412.02(3)
+Local
+• N/A
+412.03 Considerations during project development 412.03(1)
+Planning
+Chapter 200 explains how planning projects (any pre-NEPA plan) can consider environmental issues. Cumulative effects include long-term issues like climate change and land use conversion. These issues can be effectively considered at a planning level to inform the proposed solutions.
+412.03(2)
+Scoping
+Chapter 400 explains the importance of public and agency outreach during pre-NEPA and scoping of our environmental documents. Often the members of the public raise concerns around issues that may seem outside the project. These concerns may indicate cumulative effects, that should be captured early and considered as important context for the project. For example, a pattern of development in the flood plain, increased flooding, and concerns surrounding future climate change projections.
+412.03(3)
+Design
+Project NEPA documents should disclose all the effects and respond to public and agency concerns. The proposed project should highlight ways to address the direct and indirect effects, and ways to be resilient to climate and other hazards. See the cumulative effects & climate resiliency webpage for additional guidance.
+412.03(4)
+Construction
+• N/A
+412.03(5)
+Maintenance and Operations
+• N/A
+Chapter 412
+Indirect and cumulative effects
+412.04 Analysis & documentation requirements 412.04(1)
+Right size to classification (CE, EA, EIS)
+Indirect effects Any project regardless of NEPA classification may have indirect effects. These should be assessed and described alongside direct effects. This is consistent with both the 1978 and the 2020 versions of the CEQ NEPA regulations. WSDOT project teams should follow the AASHTO’s guide “Practitioner’s Handbook #12: Assessing Indirect and Cumulative Impacts under NEPA.”
+Cumulative effects The level of the environmental document being prepared will dictate whether a cumulative effects analysis should be prepared. If so, the scope of the cumulative effects analysis should be limited to those resources that are directly affected by the proposed action. If a project will not impact a resource, it will not contribute to a cumulative effect on the resource. The one exception to this is climate change impacts. Regardless of project impacts, WSDOT’s EAs and EISs should include a discussion of climate change, see below.
+• Categorical Exclusion (CE): Not Required – These projects are by definition minor projects without significant environmental impacts, and as such should not require a cumulative effects analysis. There may be unusual circumstances requiring such an analysis, but this should be very rare.
+• Environmental Assessment (EA): Required – These are projects in which the significance of environmental impacts is unknown. As one of the primary purposes of the EA is to help decision makers and the public understand whether an EIS is needed, you need to consider potential cumulative effects. The degree to which resources may be impacted will determine the extent of the cumulative effects analysis needed. Where direct and indirect effects are found to be present, you will need to complete a cumulative effects analysis.
+• Environmental Impact Statement (EIS): Required – These are projects in which there are anticipated significant environmental impacts, and a cumulative effects analysis may assist decision makers and the public in making informed decisions. The cumulative effects analysis should include substantial information about affected resources, past actions that have contributed to trends, and reasonably foreseeable effects.
+412.04(2)
+Analysis & Methodology
+Indirect effects should be documented with the direct effects. It is not necessary to document the indirect effects separately. The NEPA project lead determines the approach for documenting cumulative effects. Options are to: 1. Prepare a separate chapter or section on cumulative effects. 2. Integrate the disclosure of cumulative effects within the individual discipline studies and report within those chapters or sections.
+Indirect and cumulative effects
+Chapter 412
+In either case, a separate cumulative effects discipline report or technical memo may help to keep the document size to a minimum. As explained in the SEPA Handbook, “When describing the environmental impacts of a proposal, the lead agency should consider direct, indirect, and cumulative impacts. For example:
+• A new residential development may propose to place fill in a wetland in order to construct a road (a direct impact).
+• The new road may encourage increased development in the area because of the improved access (an indirect impact). [Note that if the development is already forecast by a locally approved plan, the road project is not inducing the growth, but the relationship can be noted.]
+• Increased runoff and contaminants from the development would be added to the volumes and levels of contamination from similar developments surrounding the wetland (cumulative impacts).”
+Recommended resources WSDOT is following the 1978 CEQ NEPA regulations with regard to indirect and cumulative effects analysis. WSDOT project teams should use the AASHTO guidance for cumulative effects analysis. AASHTO’s guide “Practitioner’s Handbook #12: Assessing Indirect and Cumulative Impacts under NEPA” recommends five general stages, and five analytical steps: I.
+Information gathering
+II. Initial assessment of cumulative effects III. Determining the scope and methodology (count what counts) IV. Conducting the analysis 1) Describe resource conditions and trends 2) Summarize proposed project’s effects on key resources 3) Describe other actions and their effects on key resources 4) Estimate combined effects 5) Consider minimization and mitigation (be sure to reflect the distinction between the proposed action and other actions) V. Documentation WSDOT has useful information in GIS on several topics, including climate change and natural hazards. Local agencies maintain land use information as well as emergency management plans that contain valuable information on flooding and other natural hazards. Transportation planners can reach out to locals, tribes, and representatives from traditionally underrepresented, underserved, and overburdened communities to find out what issues are of most concern. The State Department of Health’s Environmental Health Disparities tool is a great resource.
+Chapter 412
+Indirect and cumulative effects
+Indirect effects Any project, regardless of NEPA classification, may have indirect effects. These should be assessed and described alongside direct effects. This is consistent with both the 1978 and the 2020 versions of the CEQ NEPA regulations. Analysis of indirect effects is needed when effects are reasonably foreseeable and have a reasonably close causal relationship to the proposed action. A separate indirect effects analysis is not recommended, except in rare cases when a project is likely to cause otherwise unplanned changes in land use patterns. Most indirect effects are derived from project-related changes in land uses. Under the Growth Management Act, land use changes are controlled by local planning decisions. However, indirect effects may be associated with a transportation project if the project affects the rate and pattern of land use development. For example, if WSDOT constructs a bypass route around a town, the rate of planned growth around the new route may increase. WSDOT’s projects should consider the potential indirect effects, including whether there is a likelihood that development and economic vitality along the original route may decline. Other examples of indirect effects include changes in wildlife habitat selection or migration patterns due to direct project-related effects on habitat, for example – increased park use due to improved access. It is very important to determine if the project is likely to support planned land use. Ask whether the project will alter the type, rate, or timing of planned growth. Consider whether there is potential for indirect effects on either the natural or the human environments (including environmental justice populations). To evaluate the potential for indirect effects, consider the likelihood of development in the project area following project construction. Carefully examine the land use discipline study for your project (See Chapter 455 for land use analysis). Consider the following:
+• Look at population and land use trends in the project area and region or subarea. How has the area developed? How fast is it planned to develop? Will the project affect the rate of development? Are people building in the area? Look at the pattern of zoning. Has it recently changed or is it about to change?
+• Review the local comprehensive plans. Is the project area within the urban growth boundary or outside it? Is the local jurisdiction considering changes in the urban growth boundary to allow for growth or are they concentrating on infill? Confirm that the proposed project is aligned with the transportation element of the plan. Would the transportation project support other modal decisions contained within adopted plans? Do the city planners expect the project to support or encourage development? Document your conclusion and describe the indirect effects associated with the proposed action. If your project is likely to induce growth that is not planned, refer to AASHTO’s guide “Practitioner’s Handbook #12: Assessing Indirect and Cumulative Impacts under NEPA” for direction and national best practices.
+Indirect and cumulative effects
+Chapter 412
+Cumulative effects For EAs and EISs, potential cumulative effects should be considered as early as possible in the NEPA process. Use information from existing environmental documents and other relevant information such as natural resource plans, local comprehensive plans, existing zoning, recent building permits, and interviews with local government. These may also be good sources for information on past actions. Quantifying cumulative effects may be difficult, since a large part of the analysis requires projections about what may happen in a project area. The analyst must develop a list of reasonably foreseeable future actions taken by governmental and private entities. We recommend coordinating with the authors of the social, environmental justice, and land use and transportation studies to capture the information they have on future actions. Coordinate your outreach to other agencies and the public so that you understand the likely future context for the project and the surrounding area. A cumulative effect analysis builds upon information derived from direct and indirect effect. This makes it tempting to postpone the identification of cumulative effects until the direct and indirect effect analyses are well under way. However, early consideration of cumulative effects may facilitate the design of alternatives to avoid or minimize impacts. Do not defer the consideration of cumulative effects. Instead, as you begin to consider a project’s potential direct and indirect effects, start outlining the potential cumulative effects as well. As more information about direct and indirect effects becomes available, use it to further refine the cumulative effects analysis. If you determine that cumulative effects are not an issue, document that decision along with the reasons for the decision.
+Climate Change and Greenhouse Gases WSDOT developed the nation’s first DOT project-level guidance for GHG analysis and climate change in 2009. WSDOT’s direction is scaled to the NEPA classification; projectlevel NEPA Environmental Impact Statements and Environmental Assessments must disclose project-level greenhouse gas (GHG) emissions and consider ways to address extreme weather and potential climate threats. Greenhouse gases – The emission of greenhouse gases (such as carbon dioxide) and issues related to global climate change should be discussed in environmental assessments and environmental impact statements as a cumulative effects. The discussion should include efforts currently underway in Washington State to reduce GHG emissions and the effects of current projects on GHG emissions (see the Addressing climate change webpage. Find also more information in the Air Quality, Greenhouse Gases, Energy Chapter 425). Climate change & project resilience – Project teams are expected to examine available information about climate trends and to use the results of WSDOT’s assessment of vulnerable infrastructure. By doing this, project teams will satisfy WSDOT’s directive to consider ways to make their proposed projects more resilient to future climate impacts and severe storm events. Past trends for a specific resource (water, habitat, air) may not be accurate predictions for the future; instead, we need to look at science-based projections of the changing climate as part of our analysis of cumulative effects. WSDOT advises project teams to use the current climate projections available from the University of Washington’s Climate Impacts Group in combination with the WSDOT Climate Impacts Vulnerability Assessment (completed
+Chapter 412
+Indirect and cumulative effects
+) and WSDOT’s Guidance for Project-Level Climate Change Evaluations, or contact WSDOT’s NEPA/SEPA Program Manager.
+Endangered Species Act The Endangered Species Act (ESA) requires consideration of cumulative effects as part of the Section 7 consultation process but defines cumulative effects differently than NEPA. Under the ESA, cumulative effects include “those effects of future state or private activities, not involving Federal activities, that are reasonably certain to occur within the action area of the Federal action subject to consultation” (50 CFR § 402.02). This definition differs from the NEPA/SEPA definition in two key ways: (1) only “future state or private activities” are considered, and (2) the impacts must be “reasonably certain” to occur, not just reasonably foreseeable. The distinction between general and ESA definitions should be taken into account when preparing cumulative effects analyses that are intended to serve both laws.
+412.04(3)
+Required documentation for cumulative effects
+WSDOT projects that are preparing a NEPA EA or EIS should document the analysis of cumulative effects in the same way they did under the 1978 CEQ NEPA regulations. WSDOT project teams should follow the documentation requirements described in: 1. AASHTO’s guide “Practitioner’s Handbook #12: Assessing Indirect and Cumulative Impacts under NEPA.” That direction is consistent with WSDOT policy and SEPA rules. 2. WSDOT’s procedures for climate change and greenhouse gas. Cumulative effects can either be discussed in individual sections on each element of the environment or included in a separate section. A separate section is most appropriate when there are a lot of cumulative effects that are interrelated across disciplines. Most project teams find it useful to have a separate discipline report or technical memo to document the details of methodology and findings. In some cases where there are few cumulative effects, a project team can write cumulative effects entirely within the EA or EIS. Whatever approach you take, be sure that the reader can find your discussion of cumulative effects.
+412.05 External engagement Public involvement and inclusive engagement are central to NEPA and SEPA. It is part of how you successfully identify direct, indirect, and cumulative effects of a proposed project. We must reach out to others. Work with your project team, communications, tribal liaison, and the other subject matter experts to find out what they’ve heard about cumulative effects. Tribal leaders and staff have very deep knowledge of the trends that have adversely impacted tribal resources. This information is very useful in preparing the cumulative effects analysis and in identifying potential mitigation. Environmental justice community members and local government staff have very valuable insights as well.
+Indirect and cumulative effects
+Chapter 412
+412.06 Internal Roles and responsibilities The following offices have a key role in indirect and cumulative effects analysis. See NEPA Roles Table for more information about general NEPA documentation roles.
+412.06(1)
+Region/Modal Planning Office
+Conduct environmental screening to locate WSDOT assets that are vulnerable to climate threats. Consult with local planning partners to determine availability of additional areaspecific climate data. Use this information to document how climate change and extreme weather vulnerability are considered and to propose practical long-term solutions that improve resilience. Provide documentation and recommendations to environmental staff.
+412.06(2)
+Region/Modal Environmental Office
+Identify resource areas that require a cumulative effects analysis under NEPA. Pre-pare analysis or review analysis prepared by environmental technical experts.
+412.06(3)
+Environmental technical experts
+Perform technical analysis to determine effects, including cumulative effects, for the range of environmental disciplines evaluated under NEPA. Consultants may also fulfill this role. WSDOT environmental technical experts can provide assistance developing consultant scopes of work. WSDOT environmental technical experts re-view consultant work to ensure requirements are met and the analysis is technically sound.
+412.06(4)
+Headquarters Environmental Services Office
+The Environmental Services Office (ESO) keeps the indirect and cumulative effects guidance current and consistent with rules and regulations. The ESO NEPA Specialist provides support and technical assistance with EA and EIS projects. The NEPA/SEPA Program Manager is available to consult on cumulative effects and cli-mate analysis.
+412.07 Mitigation It is the project team’s responsibility to define mitigation for direct and indirect effects. Mitigation requirements are discussed within the other discipline chapters. With regard to cumulative effects and potential mitigation, refer to the AASHTO practitioners guide.
+412.08 Applicable permits & approval process There are no permits or approvals associated with indirect or cumulative effects.
+Chapter 412
+Indirect and cumulative effects
+412.09 Abbreviations and acronyms AASHTO
+American Association of State Highway and Transportation Officials
+CEQ
+Council on Environmental Quality
+CFR
+Code of Federal Regulations
+EA
+Environmental Assessment
+EIS
+Environmental Impact Statement
+ESA
+Endangered Species Act
+NEPA
+National Environmental Policy Act
+SEPA
+State Environmental Policy Act
+412.10 Glossary Cumulative Effect – Effects on the environment that result from the incremental effects of the action when added to other past, present, and reasonably foreseeable actions, regardless of what agency or person undertakes such other actions. Cumulative effects can result from individually minor but collectively significant actions taking place over a period of time (40 CFR 1508.8). Cumulative Impact/Effect (NEPA) – The impact on the environment, which results from the incremental impact of the action when added to other past, present, and reasonably foreseeable future actions, regardless of what agency or person undertakes such other actions. Cumulative impacts can result from individually minor but collectively significant actions taking place over a period of time. (This is the CEQ definition as it was established 1978. See note in introduction regarding the repeal effective 9/14/2020.) Cumulative Effects (ESA) – Effects of future state or private activities, not involving federal activities, that are reasonably certain to occur within the action area of the federal action subject to consultation (50 CFR 402.02). Note: NEPA and ESA share a common threshold for determining whether to consider the potential for the action to change the rate of growth thereby increasing the indirect effects of an action. Therefore, the same causal relationship should be used for writing the NEPA document as for writing the biological opinion for ESA compliance (see EM Section 436.05). Direct Effect – Direct effects are caused by the proposed action and occur at the same time and place. Direct effects may occur during construction or operation of the project. Effects may be ecological, aesthetic, historic, cultural, economic, social, or health related. (40 CFR 1508.8). Effects (or Impacts) – Changes to the human environment that are from the proposed action or alternatives that are reasonably foreseeable, including direct effects, indirect effects, and cumulative effects. Effects include ecological (such as the effects on natural resources and on the components, structures, and functioning of affected ecosystems), aesthetic, historic, cultural, economic, social, or health, whether direct, indirect, or cumulative. Effects may also include those resulting from actions which may have both beneficial and detrimental effects, even if on balance the agency believes that the effects will be beneficial. (40 CFR 1508.1).
+Indirect and cumulative effects
+Chapter 412
+Indirect Effect (NEPA) – Indirect effects are caused by the proposed action or alternative and occur later in time or are farther removed in distance but are still reasonably foreseeable. Indirect effects may include effects related to changes in the pattern of land use, population density or growth rate, and related effects on air and water and other natural systems, including ecosystems (40 CFR 1508.8). Induced Growth or Growth Inducing Effect – Terms used as examples of an indirect effect related to changes in the pattern of land use, population density, or growth rate. (WSDOT discourages the use of these terms because they are vague and confuse the local decisions regarding planned growth under the Washington State Growth Management Act with project-specific effects). Irretrievable – Impossible to retrieve or recover. Irreversible – Impossible to reverse. Mitigation – According to 40 CFR 1508.20, includes: (a) Avoiding the impact; (b) Minimizing impacts by limiting the degree or magnitude; (c) Rectifying the impact by repairing, rehabilitating, or restoring; (d) Reducing or eliminating the impact over time; and (e) Compensating by replacing or providing substitute resources. Reasonably Foreseeable – An action is reasonably foreseeable if it is considered “likely to occur” and isn’t too “speculative.” Reasonably foreseeable impacts are predictable and probable. They are not impacts that are just merely possible. EPA’s Consideration of Cumulative Impacts in EPA Review of NEPA Documents (May, 1999) states that “Court decisions . . . have generally concluded that reasonably foreseeable future actions need to be considered even if they are not specific proposals. The criterion for excluding future actions is whether they are “speculative.” The NEPA document should include discussion of future actions to be taken by the action agency. The analysis should also incorporate information based on the planning documents of other federal agencies, and state and local governments. For example, projects included in a 5-year budget cycle might be considered likely to occur while those only occurring in 10-25 year strategic planning would be less likely and perhaps even speculative.” Language from court decisions can be helpful in formulating questions and criteria as practitioners proceed with analysis to determine which actions may be reasonably foreseeable. For example, one court case defined “reasonably foreseeable” as an action that is “sufficiently likely to occur, that a person of ordinary prudence would take it into account in making a decision.” Sierra Club v. Marsh, 976 F.2d 763, 767 (1st Cir. 1992) (Sierra Club IV). Courts have also recognized that “An environmental impact is considered ‘too speculative’ for inclusion in an EIS (Environmental Impact Statement) if it cannot be described at the time the EIS is drafted with sufficient specificity to make its consideration useful to a reasonable decision maker.” Dubois v. US. Dept. of Agriculture, 102 F.3d 1273,1286 (1st Cir. 1996). Factors that indicate whether an action or project is “reasonably foreseeable” for the purposes of cumulative effects analysis include: whether the project has been federally approved; whether there is funding pending before any agency for the project; and whether there is evidence of active preparation to make a decision on alternatives to the project. Clairton Sportmen’s Club v. Pennsylvania Turnpike Commission, 882 F. Supp 455 (W.D. Pa 1995).
+Chapter 412
+Indirect and cumulative effects
+Resource – Referred to in NEPA and SEPA implementing regulations as “natural or depletable” resources (CEQ 1502.16, WAC 197-11-440(6)) and renewable or nonrenewable resources (WAC 197-11-444). FHWA Technical Advisory T 6640.8A (October 30, 1987) refers to “natural, physical, human, and fiscal resources” in guidance on irreversible and irretrievable commitments of resources. Resource Study Area – A Resource Study Area is specific for each resource and focused on the area where cumulative effects on the resource are expected to occur. It may be the same or larger than the study area for direct and indirect effects. Significance – The significance of a potential impact on the natural or built environment depends upon context, setting, likelihood of occurrence, and severity, intensity, magnitude, or duration of the impact. Almost every transportation project that would be recognized as major federal action, no matter how limited in scope, has some adverse impact on the environment. Review and consideration of case law can help clarify interpretations of the term “significance.” In deciding whether a project will significantly impact the environment, case law suggests that agencies should review the proposed action in light of the extent to which the action will cause adverse environmental effects in excess of those created by existing uses in the affected area and the absolute quantitative adverse environmental effects of the action itself, including the cumulative harm. In any proposed major federal action, the public must have an opportunity to submit factual information on this issue which might bear on the department’s threshold decision of significance. Hanley V. Kleindienst, 471 F.2d 823 (2nd Cir. 1972, cert. denied, 412 U.S. 908 (1973). If you are concerned about the role that the level of significance and controversy may have, you should consult your Attorney General’s office or other legal counsel.
+Chapter 420 420.01 420.02 420.03 420.04 420.05 420.06 420.07 420.08 420.09 420.10
+Earth (Geology and Soils)
+Introduction Applicable statutes, regulations, executive orders, & agreements Considerations during project development Analysis & documentation requirements External involvement Internal roles & responsibilities Applicable permits and approvals Mitigation Abbreviations and acronyms Glossary
+420.01 Introduction Geology and soils discussions are primarily focused on hazards to the highway or hazards that the highway may pose on existing hazards. However off-highway activities such as development of borrow pits or mitigation sites also need to be evaluated. Geologic hazards include seismic activity: ground shaking, surface rupture, liquefaction and differential settlement that must all be considered in the design of highway structures. Other geologic hazards include shallow and deep landslides. Soil related hazards my include high shrink-swell soils and saline soils that require consideration when designing highway structures. Highway projects may cause or reactivate landslides by removing materials that support the slope or removing the vegetation and changing the local runoff patterns so that slopes vulnerable to landslides receive additional water. Highway development may cover over mineral resources or important farmlands, irreversibly committing the resources to the highway system. Finally, off-highway development is sometimes needed to create borrow pits, mitigation sites, and construction sites. Geologic hazards and resources effects need to be evaluated at these locations as well as within the highway corridor. Although soil erosion is a concern, protecting soils and stabilizing them to prevent erosion is a covered in the surface water chapter of this manual (Chapter 430) and the design of temporary and permanent erosion control and stormwater facilities are covered in the Hydraulics Manual M 23-03 and the Highway Runoff Manual M 31-16.
+420.02 Applicable statutes, regulations, executive orders, & agreements
+• 42 United States Code (USC) Chapter 55. National Environmental Policy Act of 1969 (NEPA)
+• 23 CFR 771 Environmental Impact and Related Procedures
+• 40 CFR 1500-1508 National Environmental Policy Act Implementing regulations
+• 7 CFR 658 Farmland Protection Act
+• 30 CFR 700 Surface Mining Reclamation and Enforcement
+• USDOT Policy statement on climate change adaption. (2011) 
+Chapter 420
+Earth (Geology and Soils)
+• USDOT Climate Adaption Plan - Ensuring Transportation Infrastructure and System Resilience (2014)
+• FHWA Order 5520. Transportation System Preparedness and Resilience to Climate Change and Extreme Weather Events (2014)
+• Executive Order 12898 - Environmental Justice
+420.02(1)
+State
+• RCW 47.01.260 Authority of WSDOT on state highway system design
+• WAC 197-11 SEPA Rules
+• WAC 468-12 Transportation Commission and Transportation Department State Environmental Policy Rules
+• Governor’s Directive on Acquisitions of Agricultural Resource Land
+420.02(2)
+Local
+• Grading Permit – Specifics vary for each jurisdiction
+420.03 Considerations during project development 420.03(1)
+Planning
+During the planning phase it would be expected that the Regions use geologic and soil mapping to identify areas of potential geologic hazards and prime and important farmlands, as well as soil indicators such as soil chemistry, depth to groundwater, etc. that may influence the engineering design of the project. Hydric soils may serve as gross level mapping of wetlands if other wetland mapping is not available. It would be expected that the Region would use the information to develop alternatives that minimized impacts to resources as well as limited threats to the highway from geologic hazards to the greatest extent possible. The Region would also be expected to identify possible local permits that may be required.
+420.03(2)
+Scoping
+During scoping it would be expected that the Regions would use the information developed in planning to develop a project concept that considered the constraints put forward and identify additional specialized studies or permitting that were needed to move to design.
+420.03(3)
+Design
+It would be expected that the Region would use the preliminary and specialized studies to develop a design using the guidance provided in the Geotechnical Design Manual M 46-03 and other applicable design manuals to develop a project that that that is resilient through its design life. It would be expected that the Region develop information: drawings quantities and other information needed for local permitting efforts.
+Construction During construction best management practices are implemented to prevent and minimize erosion of soil to protect water resources. Certified inspectors check the BMPs regularly and after precipitation events. These are practices are described in greater detail in Chapter 430 as well as the Highway Runoff Manual M 31-16.
+Earth (Geology and Soils)
+Chapter 420
+Maintenance and Operations Maintenance and operations requirements for geology and soil are generally limited to the safety of the public and WSDOT structures. For example, a seismic event would trigger the need for bridge inspections, the depending on the severity of the event, the highway may need to be closed until it is inspected and deemed to be safe. Similarly, landslides may force a highway closure until the site can be inspected and determined to be safe before debris can be removed and the highway reopened.
+420.04 Analysis & documentation requirements This section describes analysis and documentation requirements based on regulatory requirements. Determine level of detail based on complexity/size of project, expected severity of impacts, and potential for public controversy.
+420.04(1)
+Analysis & documentation for NEPA
+The National Environmental Policy Act (NEPA) requires that all actions sponsored, funded, permitted, or approved by federal agencies undergo planning to ensure that environmental considerations are given due weight in project decision making. At a minimum the general topographic and geologic setting, significant features and landforms, soil types and their properties, and known geologic hazards within the project area should be identified. Geologic hazards include such things as highly erodible soils, landslides, debris flows, seismic hazards (e.g., faults and areas subject to liquefaction), volcanic hazards, subsidence, rockfall and other critical/sensitive areas. The analysis evaluates the potential for direct construction and operations impacts on identified geologic and soil conditions for all project alternatives, including the “no-build” option. Potential impacts to mineral resources and prime farmlands should also be evaluated. The analysis should also describe the potential for identified geologic hazards to impact project alternatives. Mitigation measures, commitments, and monitoring procedures associated with geologic hazards should be described. If no geologic hazards or potential impacts are anticipated, the conclusion should be stated in the environmental documents. The results of the analysis should be written directly into the project’s environmental document (EIS, EA or CE) with supporting information included in the appendices if needed. In rare cases when warranted by the nature of the project, the analysis can be documented in a separate discipline report, which supplements the environmental document.
+420.04(2)
+Analysis & documentation for SEPA only (No federal nexus)
+The SEPA requirements are the same as the federal requirements.
+420.04(3)
+Analysis & documentation for local permits
+Off highway actions may be subject local critical area ordinance or grading permits. Specific local permit requirements vary throughout the state. Additional permitting information can be found in Chapter 500.
+Chapter 420
+Earth (Geology and Soils)
+420.05 External engagement Geology and soils impact analyses do not require a specialized external engagement process beyond the standard NEPA/SEPA scoping, public noticing, accepting agency and public comments, and responding to comments appropriate to the level of the environmental review process.
+420.06 Internal roles and responsibilities 420.06(1)
+Region/Modal Environmental Manager
+The Region/Modal environmental manager’s role is to oversee the general preparation of environmental review documents, providing expert guidance to Region staff to as to the type of analysis needed and identifying need for specialized analysis. The manager provides quality assurance and quality control. The manager is responsible for disseminating new or updated guidance and verifying that the guidance is being followed. The manger is also responsible for reporting to ESO when guidance is not adequate, confusing, or in need of revision.
+420.06(2)
+Project Engineer
+It is the project engineer’s role and responsibility to oversee that all engineering studies and technical reports are prepared consistent with Geotechnical Design Manual M 46-03 and provide appropriate levels of analysis to support the environmental review process and permitting activities to the environmental staff.
+420.06(3)
+Region Environmental Coordinator
+The region environmental coordinator role is to oversee the development of the environmental review documents. The coordinator is responsible to for exchange of information between the project engineer and the environmental review specialists on the team and to ensure that any environmental requirements are incorporated into the project design as well as engineering information needed for permits and other agency approvals is provided.
+420.06(4)
+ESO
+ESO role is primarily to keep the guidance current with evolving and changing rules and regulations. ESO staff also provide expert assistance for developing scopes of work for consultants and internal WSDOT staff as well as reviewing environmental documents.
+420.07 Applicable permits & approval process Generally, there are no local permits or approvals needed to address geologic and soil resources. Highway projects are exempt from local agency critical areas ordinances and grading permits. However off-highway projects may need to local agency and/or Tribal approvals. For example, when WSDOT replaced the SR520 floating bridge, the site that was used to build the pontoons was subject to local permitting. Similarly, if WSDOT developed a borrow pit to provide fill, that borrow pit would likely be subject to local critical areas ordinances and require grading permits. For more information on the permitting process, see Chapter 500.
+Earth (Geology and Soils)
+Chapter 420
+420.08 Mitigation Impacts to geologic and soil resources are usually minimized to the extent practicable by adjusting the project alignment to avoid these resources. Mitigation of any residual impacts is usually in the form of financial compensation to the owner of the property for loss of future income. For example, a highway project may bisect a farmer’s land, leaving a portion of his land inaccessible to his equipment. If the farmland could not be avoided by a realignment, the mitigation would likely to purchase the land and/or provide compensation for lost revenue. In more extreme cases segregating a farmer’s land may make the whole operation not feasible from a financial perspective and the entire site may need to be purchased. Geologic hazards are usually avoided to the extent practicable by adjusting the alignment, but many hazards such as ground shaking are regional and not avoidable. The Geotechnical Design Manual M 46-03 provides specific guidance on engineering solutions to address geologic hazards.
+420.09 Abbreviations and acronyms 420.10 Glossary Hydric soil – a soil that formed under conditions of saturation, flooding or ponding long enough during the growing season to develop anaerobic conditions in the upper part. Prime and important farmland – includes all land that is defined as prime, unique, or farmlands of statewide or local importance. Saline soils – Soils with high concentrations of salts in the soil profile
+Chapter 420
+Earth (Geology and Soils)
+This page intentionally left blank.
+Chapter 425 425.01 425.02 425.03 425.04 425.05 425.06 425.07 425.08 425.09 425.10
+Air Quality, Greenhouse Gases, Energy
+Introduction Applicable statutes, regulations, executive orders, & agreements Considerations during project development Analysis & documentation requirements External engagement Internal roles and responsibilities Applicable permits & approval process Mitigation Abbreviations and acronyms Glossary
+425.01 Introduction This chapter contains policies to be followed when state transportation projects trigger air quality, greenhouse gas, or energy analyses. WSDOT ensures our projects meet all state and federal air quality requirements. The Clean Air Act requires conformity determinations for projects in nonattainment and maintenance areas and addresses criteria pollutants. A conformity determination ensures a project will not cause or contribute to a violation of the National Ambient Air Quality Standards (NAAQS) set by EPA to protect human health and welfare. Pollutant concentrations can increase, as long as the result does not exceed the standard. NEPA requires documenting and, as applicable, comparing air quality and energy effects of project alternatives. The NEPA requirement may encompass criteria pollutants, mobile source air toxics (MSAT), greenhouse gases, and energy, depending on the project. In addition, temporary construction emissions (fugitive dust), are evaluated qualitatively for larger projects and WSDOT commits to construction best management practices to reduce fugitive dust emissions through NEPA. WSDOT policy requires addressing the greenhouse gas emissions and climate change in NEPA documents. This chapter covers greenhouse gas emissions; information on WSDOT climate adaptation and resiliency approach is in Chapter 412. Federal policy on considering greenhouse gas emissions under NEPA has changed overtime. In , the White House Council on Environmental Quality (CEQ) rescinded the 2019 Draft NEPA Guidance on Consideration of Greenhouse Gas Emissions. The Council is now “reviewing, for revision and update, the 2016 Final Guidance for Federal Departments and Agencies on Consideration of Greenhouse Gas Emissions and the Effects of Climate Change in National Environmental Policy Act Reviews.”1
+425.02 Applicable statutes, regulations, executive orders, & agreements U.S. Environmental Protection Agency (EPA), Washington State Department of Ecology (Ecology), and regional clean air agencies regulate ambient air quality in Washington. Permits and approvals required pursuant to these statutes are listed in Section 425.07.
+1
+https://ceq.doe.gov/guidance/ceq_guidance_nepa-ghg.html, accessed March 9. 2021.
+Chapter 425
+Air Quality, Greenhouse Gases, Energy
+425.02(1)
+Federal
+• National Environmental Policy Act (NEPA) 42 USC 4321-4370 and federal implementing regulations 23 CFR 771 (FHWA) and 40 CFR 1500-1518 (CEQ).
+• Clean Air Act (CAA) 42 USC 7401-7431 et seq. and Clean Air Act and Amendments (CAAA) of 1990.
+• 40 CFR 93 Federal conformity regulations, including exempt projects in 40 CFR 93.126.
+• 23 CFR 450 FHWA regulations for statewide and metropolitan transportation planning and programming are defined in Planning Assistance and Standards
+• FHWA Technical Advisory T 6640.8A for NEPA documents, Section 8 for Air Quality and Section 22 for Energy.
+• President’s Executive Order 13423 Strengthening Federal Environmental, Energy, and Transportation Management.
+• U.S. Department of Transportation Guidance on Fuel Consumption and Air Pollution, including USDOT Order 5610.1C and Energy Requirements for Transportation Systems
+425.02(2)
+State
+• State Environmental Policy Act (SEPA) and state implementing regulations WAC 197-11 and WAC 468-12.
+• Washington Clean Air Act, RCW 70A.15.
+• WAC 173-420 state conformity regulations, including exempt projects in WAC 173-420-110 and WAC 173-420-120.
+• WAC 173-400-040(9) state fugitive dust regulations.
+• RCW 39.35D requires that new “major facility projects” achieve the Leadership in Energy and Environmental Design (LEED) silver building rating standard.
+425.02(3)
+Local
+• Memorandum of Agreement on Fugitive Dust from Construction Projects (1999) between WSDOT and the Puget Sound Clean Air Agency (PSCAA).
+• Guide to Handling Fugitive Dust from Construction Projects (1997) from Construction Projects by the Associated General Contractors (AGC) of Washington
+425.03 Considerations during project development 425.03(1)
+Planning
+Conformity Regional conformity is determined for MPO Transportation Improvement Plans (TIP) when the MPO includes a maintenance or nonattainment area. See External Engagement below for more information.
+Greenhouse Gas Emissions WSDOT is working with other agencies to improve the methods and tools to evaluate transportation emissions reduction strategies, including electrification and mode shift to reduce vehicle miles travelled. Transportation sector GHG emissions are best addressed at the region, state, and transportation systems level where multiple projects can be analyzed
+Air Quality, Greenhouse Gases, Energy
+Chapter 425
+in aggregate. Most current plans at these broader levels, however, do not yet provide the emissions analysis that would put a proposed transportation improvement project in a larger context. WSDOT recognizes the public’s interest in these issues and the need to disclose GHG emissions at the project level for major public projects. The differences in GHG emissions between project alternatives are typically small and closely follow changes in VMT.
+425.03(2)
+Scoping
+During the scoping stage, determine which type of analysis is likely to be needed for your project. Note that the analysis of air quality, energy, and greenhouse gas emissions typically uses the same tools and inputs related to traffic. Public scoping comments on large projects also informs the analysis. Chapter 400 explains the importance of public and agency outreach during pre-NEPA and scoping of our environmental documents. Often the members of the public raise concerns around issues that may seem outside the project. These concerns may indicate cumulative effects, that should be captured early and considered as important context for the project. A project team may decide to address greenhouse gas emissions as both a direct effect and a cumulative effect as regards future climate change.
+425.03(3)
+Design
+Follow the guidance that is posted on the Air quality, energy and greenhouse gas emissions website. Prepare conformity demonstration, if needed, and address relevant NEPA requirements. Project NEPA documents should disclose all the effects and respond to public and agency concerns. The proposed project should highlight ways to address the direct and indirect effects, and ways to be resilient to climate and other hazards. See the cumulative effects & climate resiliency webpage for additional guidance.
+425.03(4)
+Construction
+Track and manage commitments across project stages. Take measures to reduce fugitive dust and use fuel efficiently. As appropriate, consider materials choices to reduce embodied emissions.
+425.03(5)
+Maintenance and Operations
+Ensure compliance with environmental commitments made during project development. Maintain and operate the facility for longevity and efficiency to reduce operational and embodied emissions.
+Chapter 425
+Air Quality, Greenhouse Gases, Energy
+425.04 Analysis & documentation requirements This section describes analysis and documentation requirements based on regulatory requirements. Determine the level of detail based on project complexity and size, expected severity of impacts, and potential for public controversy. The decision tree identifies the triggers for conformity, MSAT, GHG, and energy analyses.
+425.04(1)
+Analysis & documentation for NEPA
+NEPA requires documenting and comparing environmental effects of project alternatives for projects that are not categorically excluded. These effects include air quality, energy, and greenhouse gas emissions. The type of analysis and discussion required for a project depends on a variety of project factors, including, but not limited to, location, traffic volume, and documentation type (EA, EIS, etc.). The WSDOT Air Quality, Greenhouse Gas, and Energy Guidance and decision tree help analysts determine which analyses are required for their project and provide guidance in completing the required analyses. In addition to text included in a project’s environmental document, a discipline report or technical memo should be prepared when a quantitative analysis requiring EPA’s Motor Vehicle Emissions Simulator (MOVES) is conducted and for most projects requiring an EA or EIS. There may be projects elevated to the EA or EIS level that do not require a full discipline report, such as when there are significant concerns over just one element. In all cases, the level of detail in a discipline report should reflect the complexity and concerns of the proposed project. One discipline report should address all air quality, energy, and greenhouse gas analyses conducted for a project. For each alternative, describe the affected environment, current conformity status, latest planning assumptions, analysis methodology and results, potential operational and construction impacts, recommended mitigation, and the results of any interagency coordination. Refer to the WSDOT Air Quality, Greenhouse Gas, and Energy Guidance for specific information to include in the discipline report and use the WSDOT Air Quality, Greenhouse Gas, and Energy Discipline Report Template to document a project. Refer to the WSDOT Air Quality, Energy & Greenhouse Gas Emissions web page for more information.
+Criteria Pollutants NEPA documentation must include documentation that a project meets all applicable conformity requirements and a full conformity statement. See the analysis and documentation for conformity section below. Refer to the WSDOT Air Quality, Greenhouse Gas, and Energy Guidance for information on conformity statements.
+Mobile Source Air Toxics (MSATs) WSDOT follows the FHWA requirements for MSATs. Refer to their 2016 Updated Interim Guidance on MSATs. Information on how to apply the requirements are available in the WSDOT Air Quality, Greenhouse Gas, and Energy Guidance along with current thresholds and text to include in environmental documentation.
+Air Quality, Greenhouse Gases, Energy
+Chapter 425
+Greenhouse Gas Emissions (GHG) It is WSDOT policy to address climate change and greenhouse gas emissions in our environmental documentation. Find information on climate adaptation on our Addressing climate change in planning and project documents webpage. A tiered approach based on the type of environmental documentation (CE, EA, EIS) focuses analysis resources on the data available at different levels of documentation, and the usefulness of the results in decision making. Exhibit 1 identifies the recommended analysis for each documentation type. There may be instances when deviating from these recommendations is warranted. Such circumstances should be discussed with WSDOT headquarters air quality staff. Because of the overlap in triggers, tools, and inputs, GHG analysis should completed at the same time as air quality and energy analyses. However, WSDOT believes GHG emissions are an issue of global concern and, therefore, should be described as cumulative effects in NEPA and SEPA documentation. Refer to the WSDOT Air Quality, Greenhouse Gas, and Energy Guidance for template language to use at each documentation level and for details on how to complete and document these analyses. Exhibit 425-1
+GHG analysis based on NEPA or SEPA classification
+Documentation NEPA and SEPA CE DCE/SEPA Checklist EA EIS
+Operational No evaluation Qualitative Quantitative or Qualitative2,3 Quantitative3
+Construction No evaluation Qualitative Qualitative Quantitative
+Maintenance No evaluation Qualitative Qualitative Quantitative
+2 At the EA level, the type of analysis completed will depend on data available and tools being used for other
+project analyses.
+3 If the project is included in a planning study that underwent a quantitative GHG emissions analysis, a qualitative
+analysis may be sufficient.
+Energy WSDOT follows the direction in FHWA’s Energy Technical Advisory. Energy analysis is not typically required for non-EIS level documentation because energy consumption is typically not a key decision-making criterion. More often, other project benefits like congestion reduction, improved travel time, and improvements in level-of-service (LOS) are project goals and reduction of energy consumption is an additional effect. Information on how to complete and document an energy analysis is in the WSDOT Air Quality, Greenhouse Gas, and Energy Guidance document.
+Temporary Construction Effects EA and EIS documents must address construction effects:
+• For criteria pollutants (including fugitive dust) and MSAT emissions, a simple qualitative description is sufficient.
+• Estimate GHG and energy using FHWA’s Infrastructure Carbon Estimator (ICE) Tool. ICE accommodates most project types. However, in the case of project that may not be 
+Chapter 425
+Air Quality, Greenhouse Gases, Energy
+compatible with ICE, such as a large bridge, consult with the WSDOT headquarters air quality staff to identify an alternate approach. Typical projects report construction GHG emissions at both the EA and EIS level. Construction-related energy use should only be included in EIS-level documents. The current version of the tool is hosted by Minnesota Department of Transportation (MNDOT) and can be found on the MNDOT Greenhouse Gas Analysis webpage. Direct any questions about tool versions to the WSDOT headquarters air quality staff.
+• If project construction will last more than five years at one location, additional requirements must be met. This is a very rare occurrence; consult with the WSDOT headquarters air quality staff for more information. Requirements on handling and disposing of asbestos are covered in Chapter 447.
+Fugitive Dust For projects involving earthwork, construction plans and specifications should be evaluated to identify possible dust producing activities and appropriate best management practices (BMPs). In King, Kitsap, Pierce, and Snohomish counties, BMPs are required for all WSDOT projects per our Memorandum of Agreement with the Puget Sound Clean Air Agency (MOA). It is WSDOT policy to minimize fugitive dust from project construction throughout the state. WSDOT will:
+• Require the appropriate use of BMP on all WSDOT projects. The BMPs to be included are found in the Associated General Contractors of Washington (AGC) publication, Guide to Handling Fugitive Dust from Construction Projects from Construction Projects.
+• Evaluate the construction plans and specifications for each WSDOT project to identify possible fugitive dust producing activities.
+• Ensure that the duties of WSDOT project engineers or other persons in charge of project sites include observing and reporting potential fugitive dust problems during the course of their work. They shall also ensure implementation of BMPs in accordance with the contract. BMPs prevent or reduce fugitive dust emissions. Common methods are outlined in the Guide to Handling Fugitive Dust from Construction Projects from Construction Projects by the Associated General Contractors (AGC) of Washington and are not mutually exclusive. In summary, the BMPs
+• Limit creation or presence of dust-sized particles. Cover exposed surfaces, use dust suppressants, install erosion control, minimize surface disruptions, pave dirt access roads, reschedule “dusty” work with consideration to wind and weather, reduce vehicle speeds, minimize spills.
+• Reduce wind speed at ground level.
+• Bind dust particles together. Apply flocculating agents, spray water.
+• Remove and capture fugitive dust from the source. Filter fabric around catch basin, street sweepers, wheel wash, vehicle scrape. Although water can be one of the main control agents for dust, it is important to plan ahead for water shortages and consider the use of other measures.
+Air Quality, Greenhouse Gases, Energy
+425.04(2)
+Chapter 425
+Analysis & documentation for SEPA only (No federal nexus)
+Projects without a federal nexus should follow procedures similar to NEPA (above) for SEPA.
+425.04(3)
+Analysis & documentation for Conformity
+Transportation conformity requirements (40 CFR 93) in the Clean Air Act apply in nonattainment and maintenance areas to ensure that transportation projects do not cause or contribute to a violation of the National Ambient Air Quality Standards (NAAQS). Transportation projects must be found to conform before they are adopted, accepted, approved, or funded. Projects not exempt from conformity require a conformity determination regardless of the type of NEPA document they are evaluated with. WSDOT’s GIS workbench includes air quality maps showing current nonattainment and maintenance areas. In recent years, several areas have had maintenance requirements expire and requirements in several other areas will expire in the next few years. Check that conformity requirements are current before undertaking an analysis. If you are uncertain of the status of the project’s area, contact the WSDOT headquarters air quality staff. Conformity must be redetermined for any FHWA or FTA project if one of the following occurs:
+• A significant change in the project’s design concept and scope
+• Three years elapse since the most recent major step to advance the project
+• Initiation of a supplemental environmental document for air quality purposes Major steps include NEPA process completion, start of final design, acquisition of a significant portion of the right-of-way, and construction (including Federal approval of plans, specifications, and estimates). (40 CFR 93.104(d)) In addition to WSDOT-specific guidance referenced below, FHWA’s transportation conformity website provides federal direction, interpretation, and resources.
+Exempt Projects Projects exempt from conformity are listed in federal and state regulations (40 CFR 93.126 and WAC 173-420-110). These are mostly projects that maintain existing transportation facilities, improve mass transit, or are considered to have a neutral impact on air quality. Some projects, like park and ride lots, may reduce regional air emissions but can increase emissions locally, which is why they are exempt from regional but not project-level conformity analysis. Both the federal and state exempt lists include the category “hazard elimination program” for projects that are normally air quality neutral, like removing fallen rock from the road or replacing guardrails. However, not all projects with hazard elimination program funds are automatically exempt from conformity analysis. For example, if installation of a new traffic signal or re-striping to add new lanes is funded by the program, then conformity analysis is required. A metropolitan planning organization (MPO), in consultation with partner agencies, may also determine that a project on the exempt list has the potential for adverse emissions impacts and requires analysis. 
+Chapter 425
+Air Quality, Greenhouse Gases, Energy
+425.04(4)
+Region-Level Analysis
+Regional conformity analysis is conducted by an MPO for their four-year transportation improvement program (TIP) (see Chapter 200). An MPO must demonstrate through modeling that the emissions from the package of planned projects remain below the motor vehicle emissions budget for the region. WSDOT’s Planning Office coordinates annual MPO TIP conformity review with the consultation partners and affected MPOs. Projects requiring a region-level conformity determination must be included in a conforming plan. See WAC 173-420-120 for projects exempt from regional analysis. If project design concept or scope changes in a way that could affect region-level emissions, the regional-level conformity determination must be updated. A project conformity determination must identify that the following conditions apply:
+• Project is in a conforming program
+• The whole project is included in the regional analysis and conforming TIP
+• Project design and scope is not significantly different from the conforming TIP
+425.04(5)
+Project-Level Analysis
+Transportation conformity regulations require project-level quantitative, or “hotspot,” determinations for nonexempt projects within carbon monoxide (CO) or particulate matter (PM2.5 or PM10) nonattainment and maintenance areas. Exempt projects are listed in 40 CFR 93.126 and 40 CFR 93.128. All project alternatives must be analyzed for the existing year, estimated year of completion, and design year (end year of current transportation plan). FHWA’s Technical Advisory describes the requirements for CO hot-spot analysis; it has not been updated to reflect PM analysis requirements. Motor Vehicle Emissions Simulator Model EPA’s Motor Vehicle Emissions Simulator Model (MOVES) is the required model for conformity analysis. WSDOT also requires the use of MOVES for MSAT, GHG, and energy analysis. EPA announced the most recent version, MOVES3, in the Federal Register on January 7, 2021, which starts a two-year grace period during which both MOVES3 and the previous version, MOVES 2014, are acceptable. After January 9, 2023, MOVES3 will be required for both regional and hotspot analysis. Carbon Monoxide (CO) Transportation conformity regulations require analysis of all intersections with at least a 10 percent increase in volume or a degradation to LOS D or worse with the project. Refer to the WSDOT Air Quality, Greenhouse Gas, and Energy Guidance for more information on how to complete and document a CO hotspot analysis. When the total predicted one-hour CO concentrations (standard is 35 ppm) are less than the eight-hour CO standard (9 ppm), no separate eight-hour analysis is necessary.
+Air Quality, Greenhouse Gases, Energy
+Chapter 425
+FHWA has released a Carbon Monoxide Categorical Hotspot Finding that satisfies projectlevel conformity requirements for eligible projects. For projects outside the parameters of FHWA’s finding, Washington State Intersection Screening Tool (WASIST) is approved for hot-spot analysis throughout the state. Because WASIST is based on MOVES 2014 when the MOVES3 grace period ends in , WASIST will no longer be approved for CO hotspot analyses. Because CO maintenance requirements are ending across the state, WSDOT does not plan to update WASIST. Particulate Matter (PM) A project-level particulate matter (PM2.5 or PM10) conformity determination is required for all nonexempt projects located in particulate matter nonattainment or maintenance areas. 40 CFR 93.123(b)(1) requires that the following project types be evaluated through interagency consultation to determine if they are “projects of air quality concern” (POAQC); any project determined to be a POAQC requires a quantitative PM hotspot analysis. These project types include:
+• New or expanded highway projects that have a significant number or significant increase in the number of diesel vehicles
+• Projects affecting intersections that are at or will change to a Level of Service (LOS) D, E, or F with a significant number of diesel vehicles
+• New or expanded bus and rail terminals and transfer points that have a significant number of diesel vehicles congregating at a single location
+• Projects in or affecting locations, areas, or categories of sites which are identified in the PM10 or PM2.5 applicable implementation plan as sites of violation or possible violation If a project is one of these types, contact the WSDOT headquarters air quality staff, who will coordinate the POAQC interagency consultation process. If the interagency consultation partners concur that a project meeting one of these definitions is not a POAQC, a hot-spot analysis is not required. A project-level conformity determination is still required for projects determined to not be POAQC. For all other project types, a hot spot analysis is not required and the project documentation should clarify that EPA has determined that projects not listed in 40 CFR 93.123(b)(1) meet the Clean Air Act’s requirements.
+425.04(6)
+Multi-Modal and Non-Road Requirements
+Rail, ferry, and aviation projects require a different type of conformity analysis (general conformity). Consult the WSDOT headquarters air quality staff for assistance on these.
+Required Documentation A project-level conformity determination must be documented in the NEPA document. Use the WSDOT Air Quality, Greenhouse Gas, and Energy Discipline Report Template to document the project technical analysis.
+Chapter 425
+Air Quality, Greenhouse Gases, Energy
+425.05 External engagement 425.05(1)
+Planning
+MPOs with air quality maintenance or nonattainment areas must show that their transportation improvement plans (TIP) meet regional transportation conformity requirements. Each year, the WSDOT Planning Office coordinates review of the TIPs with affected MPOs and statewide consultation partners:
+• Ecology
+• EPA Region 10
+• FHWA Division Office
+• FTA Region
+• WSDOT Planning
+• WSDOT Air Quality Once partners agree that an MPO has adequately addressed conformity requirements, the FHWA Division Office issues letters to the MPO documenting the approval.
+425.05(2)
+Project-level consultation
+Projects in air quality nonattainment or maintenance areas must meet project level-air quality requirements (see analysis and documentation section). Some projects require consultation to determine if a hotspot analysis is required. For these projects, the partners listed above should be included, along with the local MPO and, if there is one, local air quality agency. The WSDOT headquarters air quality staff coordinates project-level consultation.
+425.06 Internal roles and responsibilities 425.06(1)
+Planning division
+Regarding conformity, the WSDOT planning division coordinates the annual conformity consultation process to review and approve the conformity determination in MPO Transportation Improvement Plans (TIP). Consultation partners include WSDOT, FHWA, EPA Region 10, FTA, and Ecology. At the corridor or region planning level, WSDOT may conduct preliminary GHG analyses.
+425.06(2)
+Project engineer
+For projects requiring a quantitative analysis of air quality, energy, or greenhouse gas emissons, the project office supplies traffic data to the air quality analyst. The type of traffic data required depends on the specific analysis required and should be discussed early with the air quality analyst.
+425.06(3)
+Environmental coordinator
+The environmental coordinator identifies the type of analysis required for individual projects. The analysis and documentation section of this chapter describes the triggers for different types of analyses. The project team should reach out to the planning office to determine whether any relevant planning has been conducted that would inform the project-level analysis.
+Air Quality, Greenhouse Gases, Energy
+425.06(4)
+Chapter 425
+Environmental technical experts
+Air quality analysts perform the technical analysis, WSDOT staff or consultants may fulfil this role. WSDOT air quality staff review consultant work to ensure requirements are met and the analysis is technically sound.
+425.06(5)
+Environmental services office
+The WSDOT headquarters air quality staff is part of the WSDOT Environmental Services Office (ESO) and is available to consult on projects requiring quantitative analysis. This specialist also leads all required project-level conformity consultations and participates in the conformity review of MPO TIPs.
+425.07 Applicable permits & approval process Regional clean air agencies may require air quality permits for the following activities:
+• Land clearing burns
+• Demolition of structures containing asbestos
+• Asphalt batching, mixing concrete, crushing rock, or other temporary sources (new source construction)
+425.08 Mitigation Project documentation should describe any recommended mitigation measures and commitments to stakeholders for the design, construction, and post-construction phases. The documentation should also describe whether additional mitigation measures were considered and why these were not included. WSDOT commits to best management practices (BMPs) to control fugitive dust during construction. These include measures that
+• Limit creation or presence of dust-sized particles: Cover exposed surfaces, use dust suppressants, install erosion control, minimize surface disruptions, pave dirt access roads, reschedule “dusty” work with consideration to wind and weather, reduce vehicle speeds, minimize spills
+• Reduce wind speed at ground level
+• Bind dust particles together: Apply flocculating agents, spray water
+• Remove and capture fugitive dust from the source: Filter fabric around catch basin, street sweepers, wheel wash, vehicle scrape Additional best practices used to reduce GHG emissions and energy use, in addition to air pollution, include:
+• Educate vehicle operators to shut off equipment when not in active use to reduce idling
+• Use cleaner fuels as appropriate
+• Include detours and strategic construction timing (such as night work) to continue moving traffic through the area and reduce backups and delays to the traveling public to the extent possible
+• Promote ridesharing and other commute trip reduction efforts for employees working on the project
+Chapter 425
+Air Quality, Greenhouse Gases, Energy
+425.09 Abbreviations and acronyms AADT
+Average Annual Daily Traffic
+BMP
+Best Management Practices
+CAA
+Clean Air Act (Federal)
+CAAA
+Clean Air Act Amendments
+CAWA
+Clean Air Washington Act
+CEQ
+Council on Environmental Quality
+CMAQ
+Congestion Mitigation and Air Quality Improvement Program
+CO
+Carbon Monoxide
+CO2
+carbon dioxide
+EIS
+Environmental Impact Statement
+FHWA
+Federal Highway Administration
+GHG
+Greenhouse Gas
+LOS
+Level of Service
+MPO
+Metropolitan Planning Organization
+MSAT
+Mobile Source Air Toxic
+NAAQS
+National Ambient Air Quality Standards
+NEPA
+National Environmental Policy Act
+NOX
+Nitrogen Oxides
+O3
+Ozone
+PM2.5
+Fine particulate matter, smaller than 2.5 micrometers in diameter
+PM10
+Course particulate matter, smaller than 10 micrometers in diameter
+POAQC
+Project of air quality concern
+SEPA
+State Environmental Policy Act (for Washington)
+SIP
+State Implementation Plan
+SO2
+Sulfur Dioxide
+TCM
+Transportation Control Measure
+TIP
+Transportation Improvement Program
+VMT
+vehicle miles traveled
+425.10 Glossary Air Quality Analysis – An evaluation of various air pollutants at the project level based on specific project location and type. This evaluation should include discussion of construction phase emissions such as fugitive dust, odors, and asbestos if applicable. This evaluation may include discussion of other air related concerns identified in project development. Average Annual Daily Traffic (AADT) – The estimated average daily number of vehicles passing a point or on a road segment over the period of one year. Carbon Monoxide (CO) – A by-product of the burning of fuels in motor vehicle engines. Though this gas has no color or odor, it can be dangerous to human health. Motor vehicles are the main source of carbon monoxide, which is generally a wintertime problem during still, cold conditions.
+Air Quality, Greenhouse Gases, Energy
+Chapter 425
+Conformity – Projects are in conformity when they do not (1) cause or contribute to any new violation of any standards in any area, (2) increase the frequency or severity of any existing violation of any standard in any area, or (3) delay timely attainment of any standard or any required interim emission reductions or other milestones in any area. Construction GHG Emissions – Primarily GHG emissions from the fuel used by the equipment that builds the project. Criteria Pollutants – Carbon monoxide, sulfur dioxide, particulate matter, ground level ozone, lead, and nitrogen dioxide. Embodied GHG Emissions – GHG emissions generated from the energy used to extract materials, fabricate them for construction, and transfer them to construction site. Embodied GHG emissions are also referred to as “cradle to site” GHG emissions. Exempt Projects – Listed in federal and state regulations (40 CFR 93.126 and WAC 173420-110), these are mostly projects that maintain existing transportation facilities or are considered to have a neutral impact on air quality. See also WAC 173-420-120 for projects exempt from regional analysis. Fugitive Dust – Particulate matter that is suspended in the air by wind or human activities and does not come out of an exhaust stack. Greenhouse Gases (GHG) – Greenhouse gases absorb and emit radiation within the thermal infrared range. Common GHGs in the Earth’s atmosphere include water vapor, carbon dioxide, methane, nitrous oxide, ozone, and chlorofluorocarbons. Hot-Spot Analysis – Estimate of localized CO, PM2.5, and PM10 pollutant concentrations and a comparison of those concentrations to the National Ambient Air Quality Standards. Uses an air quality dispersion model to analyze the effects of emissions on air quality near the project. (See 40 CFR 93.101 and 40 CFR 93.116.) Lifecycle GHG Emissions – Referred to as “cradle to grave emissions” that include embodied GHG emissions and GHG from energy used to demolish and/or dispose of materials after completion of usable life. Maintenance Area – Area previously in nonattainment now in compliance with NAAQS and under a maintenance plan. Areas previously in nonattainment must be under a maintenance plan for 20 years after regaining compliance with the standard. Metropolitan Transportation Improvement Program (MTIP) – A fiscally constrained prioritized listing or program of transportation projects covering a period of four years and formally adopted by an MPO in accordance with 23 CFR 450, as required for all regionally significant projects and projects requesting federal funding. Mobile Source – Any nonstationary source of air pollution such as cars, trucks, motorcycles, buses, airplanes, and locomotives. Mobile Source Air Toxic (MSAT) – A priority group of nine volatile gases or small particulate compounds coming from the tailpipe of a vehicle: 1,3-butadiene, acetaldehyde, acrolein, benzene, diesel particulate matter (diesel PM), ethylbenzene, formaldehyde, naphthalene, and polycyclic organic matter. EPA has determined that these compounds have significant contributions from mobile sources and contribute to cancer and non-cancer health problems. 
+Chapter 425
+Air Quality, Greenhouse Gases, Energy
+Nonattainment Area – An area that does not meet one or more of the NAAQS for the criteria pollutants designated in the Clean Air Act. Operational GHG Emissions – “Tailpipe” GHG emissions from vehicles using the project facility or nearby facilities affected by the project. Ozone (O3) – Ground level ozone forms in the atmosphere as a result of complex sunlight activated chemical transformations between nitrogen oxides (NOX) and hydrocarbons (i.e., O3 precursors). Particulate Matter (PM10 and PM2.5) – Particles with a diameter of less than 10 microns or 2.5 microns, respectively. Sources of particulate matter include sea salt, pollen, smoke from wildfires and wood stoves, road dust, industrial emissions, and agricultural dust. These particles are small enough to be drawn deep into the lungs where they can contribute to a variety of respiratory and cardiovascular health problems. Project of Air Quality Concern (POAQC) – POAQCs located in PM nonattainment and maintenance areas require a quantitative hot-spot analysis. EPA has identified the following categories of projects that maybe projects of air quality concern: New or expanded highway projects that have a significant number or significant increase in the number of diesel vehicles. Projects with intersections that are at Level-of-Service D, E, or F with a significant number of diesel vehicles. New or expanded bus and rail terminals and transfer points that have a significant number of diesel vehicles congregating at a single location. Regionally Significant Project – A nonexempt transportation project that serves regional transportation needs, major activity centers in the region, major planned developments, or transportation terminals, and most terminals. Such projects are normally included in the modeling of a metropolitan area’s transportation network, including, at a minimum, all principal arterial highways and all fixed guide way transit facilities that offer an alternative to regional highway travel (40 CFR 93.101). Regional Transportation Improvement Program (RTIP) – A fiscally constrained prioritized listing/program of transportation projects for a period of six years that is formally adopted by a Regional Transportation Planning Organization in accordance with RCW 47.80, as required for all regionally significant projects and projects requesting federal funding. State Implementation Plan (SIP) – Required by federal law (40 CFR Part 51), this state plan describes how the state will meet and maintain compliance with the National Ambient Air Quality Standards (NAAQS). Specific plans are developed when an area does not meet the NAAQS and include controls to quickly reduce air pollution in a nonattainment area and provide controls to keep the area in compliance. WSDOT projects must conform to the SIP before the FHWA and the EPA can approve construction. Transportation Improvement Program (TIP) – A staged, multiyear program of multimodal transportation projects covering a metropolitan planning area consistent with the state and metropolitan transportation plan and developed pursuant to 23 CFR 450. The entire program must conform to the NAAQS before any federal funding can be used for nonexempt projects.
+Chapter 430 430.01 430.02 430.03 430.04 430.05 430.06 430.07 430.08 430.09 430.10
+Stormwater and Water quality
+Introduction Applicable statutes, regulations, executive orders, & agreements Considerations during project development Analysis & documentation requirements External involvement Internal roles & responsibilities Applicable permits and approvals Mitigation Abbreviations and acronyms Glossary
+430.01 Introduction WSDOT must evaluate potential stormwater, groundwater, and water quality impacts prior to submitting permit applications to resource agencies so project construction can proceed. These water quality obligations emerge through several laws and regulations including the Clean Water Act (CWA), Safe Drinking Water Act, and Washington State’s Water Pollution Control laws and regulations (RCW 90.48 and WAC 173-201A). Chapter 600: Construction covers aspects of erosion and sediment control and includes a section on water quality during construction. For additional water-related considerations for other disciplines, see Chapters 431: Wetlands, 432: Special flood hazard area, 420: Earth (Geology and Soils), and 436: Fish, Wildlife & vegetation.
+430.02 Applicable statutes, regulations, executive orders, & agreements This section identifies the primary statutes and regulations applicable to water quality issues.
+430.02(1)
+Federal
+• National Environmental Policy Act – The National Environmental Policy Act (NEPA), 42 USC 4321, requires that all major actions sponsored, funded, permitted, or approved by federal agencies undergo environmental planning. This planning ensures that environmental values, such as impacts to water quality, receive appropriate consideration during decision making. 23 CFR 771 and 40 CFR 1500–1508 (CEQ) contain Federal implementing regulations. For details on NEPA procedures see Chapter 400.
+• Clean Water Act – The Water Pollution Control Act, better known as the Clean Water Act (CWA), 33 USC 1251 et seq., provides federal regulation of water pollution sources. In Washington State, the Environmental Protection Agency (EPA) has delegated administrative authority of the CWA to the Department of Ecology (Ecology) except on tribal and Federal lands (and discharges to tribal waters).
+• Safe Drinking Water Act – The Safe Drinking Water Act (SDWA) sets national primary drinking water standards, regulates underground injection of fluids, and allows for designation of Sole Source Aquifers (SSA). Implementation of the SDWA is delegated to individual states.
+Chapter 430
+Stormwater and Water quality
+430.02(2)
+State
+• State Environmental Policy Act – The State Environmental Policy Act (SEPA) requires that all major actions sponsored, funded, permitted, or approved by state and/or local agencies undergo planning to ensure environmental values receive consideration during decision making, including impacts to water quality. WAC 197-11 and WAC 468-12 (WSDOT) describe state implementing regulations. For details on SEPA procedures see Chapter 400.
+• State Water Quality Laws and Rules – The Water Pollution Control Act (RCW 90.48) is the primary water pollution law for Washington State, which requires the use of all known, available, and reasonable methods of prevention, control, and treatment (AKART) to prevent and control the pollution of the waters of the state of Washington. State statute prohibits the discharge of pollutants into waters of the state unless authorized. WAC 173-201A identifies and mandates water quality standards pertaining to surface waters. RCW 90.48 also mandates that all underground water be protected. WAC 173200 identifies and mandates groundwater quality standards to maintain the highest quality of the state’s groundwater and to protect existing and future beneficial uses of the groundwater.
+• Accommodation of Stormwater Runoff Onto Right of Way Executive Order (E 1103) – This Secretary’s Executive Order (E1103.00) is a reference on accommodation of stormwater from adjacent properties onto WSDOT right of way. It cites multiple offices, manuals, procedures, and state and federal laws that provide requirements and policies on this subject.
+• Drinking Water – Source Water Protection – Protection of drinking water sources (surface and groundwater) is mandated by the SDWA. In Washington, RCW 43.20.050 designates the State Department of Health (DOH) as lead agency for assuring safe and reliable public drinking water supplies, in cooperation with local health departments and water purveyors. State regulations (WAC 246-290135 for Group A systems; WAC 246-291 for Group B systems) provide for two types of area based controls for source protection of wells and springs serving as sources of public water supplies:
+• Underground Injection Control – The Underground Injection Control (UIC) Program, authorized by the SDWA, is designed to prevent contamination of underground sources of drinking water from the use of injection wells. The national UIC Program is administered by the EPA under 40 CFR 144. Ecology was delegated authority by the EPA to administer the program in Washington State, and operates under RCW 43.21A.445 and RCW 90.48 and WAC 173-218. All new underground control activities must treat the “waste” fluid before injection.
+• Growth Management Act (GMA) – This statute (RCW 36.70A), combined with Article 11 of the Washington State Constitution, mandates development and adoption by local jurisdictions of ordinances that classify, designate, and regulate land use in order to protect critical areas. Aquifer recharge areas are one type of critical area and are regulated through local Critical Aquifer Recharge Area (CARA) ordinances. Under the GMA, state agencies must comply with local comprehensive plans and development regulations; likewise, local agencies should coordinate with WSDOT. See the section of Local Critical areas Ordinances below for more information and links.
+Stormwater and Water quality
+Chapter 430
+• Local Critical Areas Ordinances – The purpose of Critical Aquifer Recharge Area (CARA) ordinances is to provide cities and counties with a mechanism to classify, designate, and regulate areas deemed necessary to provide adequate recharge and protection to aquifers used as sources of potable (drinking) water. Unless the local laws conflict with state law, WSDOT must meet the requirements of local regulations. Local planning departments should be contacted to determine the location or descriptive criteria of geologically hazardous areas that may impact the project. Additional information on local implementation of CARAs may be available at websites for the appropriate local jurisdictions.
+430.02(3)
+Local
+• N/A
+430.02(4)
+Tribal
+• Several federal environmental laws authorize EPA to treat eligible federally recognized Indian tribes as a state (TAS) for the purpose of implementing and managing certain environmental programs and functions, and for grant funding. Tribes must apply for and receive EPA approval for each specific program or function. Some tribes have applied for and received EPA approval to adopt specific water quality standards that may be stricter than those required by Ecology. For projects where stormwater is discharging within tribal lands or waters, coordinate with your region’s environmental staff to determine what standards apply. Information about Section 401 Water Quality Certification is available in Section 430.03 and Chapter 530: Tribal Approvals.
+430.02(5)
+Interagency Agreements
+Appendix B contains the following interagency agreement pertaining to stormwater and water quality:
+• Implementing Agreement Regarding Application of the Highway Runoff Manual (HRM) – In , WSDOT and Ecology signed an implementing agreement committing WSDOT to apply the HRM statewide to direct the planning, design, construction, and maintenance of stormwater facilities. The implementing agreement was most recently amended and revised in .
+• Sole Source Aquifers (SSA) - This 2014 Memorandum of Understanding between the Federal Highway Administration (FHWA) Washington Division, EPA Region 10, and WSDOT assures that each highway project that is to receive FHWA financial assistance is designed and constructed in a manner that will prevent the introduction of contaminants into a SSA in quantities that may create a significant hazard to public health.
+• Highways & Drinking Water Well Sanitary Control Areas “Screening Criteria” - This 2006 agreement between WSDOT and the DOH clarifies expectations, establishes project screening criteria, and facilitates communication among WSDOT, DOH, and water purveyors when a proposed highway project intersects with the sanitary control area of a public water supply.
+Chapter 430
+Stormwater and Water quality
+430.03 Considerations during project development 430.03(1)
+Planning
+See the Stormwater & water quality webpage for guidance and resources on the following requirements:
+• Determine whether a project has the potential to discharge to impaired waters on the 303(d) list or covered by a Total Maximum Daily Load (TMDL) and identify the pollutants of concern.
+• Identify existing BMPs using as-builts, WSDOT’s GIS Workbench, hydraulics reports, the Stormwater BMP Specifications (SWABS) database, field verification, and guidance in the HRM.
+• Identify stormwater retrofit needs using web guidance.
+430.03(2)
+Scoping
+• Due to changes under CWA Section 401, Individual Water Quality Certifications require additional steps be taken prior to application. It is important during scoping to determine whether the project will or has the potential to, discharge pollutants into waters of the United States and defer to the information below in the design stage. See the Stormwater & water quality webpage for guidance and resources on the following requirements:
+• Confirm whether a project has the potential to discharge to impaired waters on the 303(d) list or covered by a Total Maximum Daily Load (TMDL) and identify the pollutants of concern. Use the guidance found in Identifying Impaired Water Bodies for the Environmental Review Summary (ERS).
+• Document stormwater features and discharge points when preparing hydraulics reports. See the Hydraulics & hydrology and Highway Runoff Manual webpages for guidance and resources on the following requirements:
+• Confirm impacts to existing BMPs and address mitigation for those impacts. See the HRM for more information about assessing impacts on existing BMPs.
+• Read the Stormwater Retrofit Guidance section on the Hydraulics & hydrology webpage which includes considerations for scoping stand-alone stormwater retrofits, a site visit checklist, and instructions for determining cost-effectiveness and feasibility of stormwater retrofits. The scoping engineer must include seed money for the Puget Sound Basin retrofit requirement (if applicable) following the guidelines in the Retrofit CostEffectiveness and Feasibility (RCEF) document. – Complete a stormwater retrofit assessment for all fish passage projects prior to Project Summary submittal for HQ review. A separate assessment is required for each fish passage site in a project. – Determine if the project will add enough new impervious surface to trigger HRM requirements for stormwater treatment and/or flow control. If so, preliminarily select BMPs that could be used from Chapter 5 of the HRM to meet these requirements and the potential locations where they would be cited.
+Stormwater and Water quality
+430.03(3)
+Chapter 430
+Design
+• Document stormwater treatment and flow control BMP information in SWABS.
+• Review Geotechnical Design Manual Chapter 3 for well decommissioning and piezometer removal requirements.
+• Identify any man-made stormwater connections to our system and follow the Accommodation of Stormwater Runoff Onto Right of Way Executive Order (E1103.00) to permit each accordingly.
+• Apply for a water rights permit for project work that uses surface water or groundwater. Temporary water rights can be granted for dust control during construction. Find information about water rights permits on the Wetlands & other waters webpage.
+• If a project may alter groundwater and impact a wetland, (e.g., draining a wetland, altering natural drainage patterns, increasing or decreasing water levels), see Chapter 431: Wetlands or the Wetlands & other waters webpage for guidance. See the Stormwater & water quality webpage for guidance and resources on the following requirements:
+• Projects that require a federal permit or approval and discharge or have the potential to discharge pollutants into water of the United States must receive a Water Quality Certification (WQC) from the appropriate Section 401 certifying agency or tribe.
+• As of September 11, 2020, Individual 401 certifications require: a prefiling request to be submitted 30 days prior to application as well as a Draft Water Quality Monitoring and Protection Plan (WQMPP). The pre-filling request is a mandatory precursor that starts the application process. The WQMPP needs to be prepared to ensure State Water Quality Standards will be met during in-water work.
+• Prior to beginning in-water work, review environmental permits and approvals to determine project-specific requirements for in-water work and sampling.
+• Whether or not a sampling report is prepared for a project, WSDOT must comply with the state surface water quality standards (WAC 173-201A) when performing in-water work unless a project has an extended temporary area of mixing granted by Ecology in a 401 certification.
+• Complete the Surface Water Technical Guidance to calculate annual pollutant loads and assess potential impacts to receiving waters. The results help identify differences in impacts between project alternatives and can be included in discipline reports and other NEPA/SEPA documentation.
+• Determine if a stormwater discipline report is necessary. Use the Stormwater Discipline Report Checklist to make sure all project-related stormwater impacts are considered in the discipline report.
+• Determine if a groundwater discipline report is necessary. Use the Groundwater Discipline Report Checklist to make sure all project-related groundwater impacts are considered in the discipline report.
+• Consider connections to special flood hazard areas. Refer to Chapter 432: Special Flood Hazard Area for more information on special flood hazard areas.
+• Construction projects must apply for coverage under the Construction Stormwater General Permit (CSWGP) if the project has the potential to discharge stormwater to surface waters and will either disturb one or more acres of soil, or is part of a larger common plan that will disturb one or more acres of soil. 
+Chapter 430
+Stormwater and Water quality
+• WSDOT transfers CSWGP coverage to the contractor, except for special cases which must be approved by the Assistant State Construction Engineer, so the contractor becomes responsible for implementing all permit requirements. WSDOT’s role shifts to inspecting projects for compliance with the CSWGP and contract enforcement.
+• Prepare a Stormwater Pollution Prevention Plan (SWPPP) for all work, even when not applying for coverage under the CSWGP. The SWPPP is made up of two plans, the Spill Control and Countermeasure (SPCC) plan and Temporary Erosion and Sediment Control (TESC) plan. More information about SPCC plans is available in Chapter 447 Hazardous Materials and Solid Waste. The TESC plan must identify stormwater-related erosion risks at construction sites and document plans for minimizing those risks. Develop a preliminary TESC plan to be included in the project contract as an appendix. If the project is design-build, the contractor must develop a TESC plan for WSDOT review and comment.
+• Review the SWPPP prior to construction to ensure all requirements are included.
+• Submit monthly discharge monitoring reports (DMRs) to Ecology’s WQWebPortal once CSWGP coverage is granted, even if construction has not started or there have been no discharges. DMRs must be submitted monthly until the CSWGP coverage terminates or permit coverage is transferred to the contractor. See the Highway Runoff Manual and Hydraulics & hydrology webpages for guidance and resources on the following requirements:
+• If the project will add enough new impervious surface to trigger HRM requirements for stormwater treatment and/or flow control, use the HRM to select appropriate BMPs for a project. Use the TMDL considerations in Chapter 5 of the HRM to choose appropriate BMPs if discharging to impaired waters on the 303(d) list or covered by a Total Maximum Daily Load (TMDL) based on the pollutant(s) of concern.
+• Develop a Hydraulics Report and BMP Maintenance Manual for all BMPs.
+430.03(4)
+Construction
+See the Stormwater & water quality webpage for guidance and resources on the following requirements:
+• All WSDOT and contractor staff performing CSWGP-related site inspections must be current Certification for Erosion and Sediment Control Leads (CESCL). See the Environmental training webpage for more information.
+• Report spills and illicit discharges that might impact the stormwater drainage system. If a spill or illicit discharge occurs, immediately follow the reporting procedures on WSDOT’s Report a spill webpage.
+• Ensure that all in-water work meets applicable water quality standards and follow reporting protocols. For Individual 401 Certifications, the contractor must prepare a Final WQMPP for Ecology approval prior to in-water work. For more information on environmental commitments during construction, see Section 600.03.
+Stormwater and Water quality
+430.03(5)
+Chapter 430
+Maintenance and operations
+Perform inspection and maintenance activities and enter records into the Highway Activity Tracking System (HATS) database and conduct quarterly QA/QC.
+430.03(6)
+Stormwater and water quality resources
+Refer to the following resources for additional guidance and tools: 1. GIS Workbench – The WSDOT GIS Environmental Workbench provides a GIS interface for internal WSDOT users. It has numerous environmental and natural resource management data layers from federal, state, and local agencies that provide useful information for water quality analyses. Available databases include water resource inventory areas (WRIAs) and sub-basins, major shorelines, 303(d)s and TMDLs, and NPDES municipal stormwater permit areas. 2. FHWA Guidance Documents and Resources
+• FHWA Technical Advisory – FHWA Technical Advisory T 6640.8A (October 30, 1987) provides guidelines for preparing environmental documents.
+• FHWA Environmental Review Toolkit and Guidebook – This online resource contains several guidance documents and federal MOAs on topics related to stormwater and water quality, the CWA, and coastal zone management. 3. Department of Ecology Resources
+• Water Quality 305(b) Assessment – The CWA Section 305(b) requires Washington State to prepare a water quality assessment report every five years and submit it to EPA. In addition, EPA requires the state to submit certain assessment data annually for compilation in a national report. For access to the data and a description of requirements for ecoregions, stream/river basins, estuaries, and lakes, refer to the Washington State’s Current Water Quality Assessment.
+• Watershed Basin Reports and Action Plans (Local or State Plans) – Many watershed and basin plans include specific recommended action items on priority environmental issues. The stormwater analysis should address the guidance outlined in watershed/ basin action plans related to water quality.
+• Water Quality Atlas – The Water Quality Atlas is a web-based map application to obtain information about water quality in Washington State. Available datasets include 303(d)s and TMDLs, and NPDES municipal stormwater permit areas, among others.
+430.04 Analysis & documentation requirements This section describes analysis and documentation requirements based on regulatory requirements. Determine level of detail based on complexity/size of project, expected severity of impacts, and potential for public controversy.
+430.04(1)
+Analysis & documentation for NEPA
+WSDOT estimates potential water quality impacts during scoping and through the NEPA and SEPA environmental documentation process. If the project may result in adverse impacts to water quality, NEPA and SEPA require impact analyses to be completed and recorded in the environmental document (see Chapter 400).
+Chapter 430
+Stormwater and Water quality
+1. Determining the Necessary Level of Effort Stormwater - A proposed project generally needs to analyze stormwater impacts when the project could affect receiving waters by:
+• Increasing the amount of pollutants discharged to receiving waters.
+• Presenting a risk of eroded sediments or spilled pollutants entering receiving waters.
+• Involving construction or other work in or over surface water bodies, their buffers, or floodplains.
+• Using, diverting, obstructing, or changing the natural flow or bed of receiving waters. Groundwater - A proposed project generally needs to analyze groundwater impacts when:
+• Introducing enough stormwater or wastewater into an aquifer or its recharge zone to create a significant adverse environmental impact.
+• Stormwater or wastewater discharges produced by any project alternatives are likely to enter SSAs, CARAs, or WPAs in quantities sufficient to produce a significant adverse environmental impact.
+• When other potential impacts to groundwater are identified. Situations where build options reduce the amount of pollutants to receiving waters may also require impact analyses if significant differences exist in the water quality benefits provided by each of the alternatives. Document the analysis of stormwater and groundwater impacts as part of the environmental document for the project (i.e., ECS, EA, or EIS). In rare cases, when warranted by the nature of the project, the analysis can be documented in a separate discipline report which supplements the environmental document. In these situations, use the Stormwater Discipline Report Checklist or the Groundwater Discipline Report Checklist to help ensure adequate consideration of all project-related impacts in the report. If uncertainty exists as to whether impacts may occur, perform a preliminary investigation of the impacts from each of the alternatives. Project managers can also contact the regional water quality lead for assistance. End the investigation if it becomes apparent no significant impacts or differences exist among the alternatives. In the project file, explain why the project did not need a stormwater or groundwater impact analysis. 2. Methodology for Analyzing Surface Water Impacts – Calculate annual pollutant loads to assess potential impacts of a project. The Surface Water Technical Guidance describes the two appropriate methods to use in the scoping stage of a project. Do not use other pollutant loading methodologies when analyzing impacts from stormwater. 3. Highway Runoff Manual – The Highway Runoff Manual M 31-16 summarizes stormwater management requirements and describes approved methods of managing stormwater runoff known as Best Management Practices. Used together, HRM and Hydraulics Manual M 23-03, provide tools for designing effective stormwater collection, conveyance, and treatment systems for highways, ferry terminals, park and ride lots, and other transportation-related facilities. The project stormwater designer must first follow HRM Chapter 2 guidelines for integrating the planning and design of stormwater-related project elements into the context of WSDOT’s project development process. Then the designer must use Chapter 3 to determine the applicable minimum requirements for a specific project. In
+Stormwater and Water quality
+Chapter 430
+most cases, this process will spur the need to design construction and post construction BMPs according to the criteria in Chapters 4, 5, and 6. Chapter 6 describes and links to WSDOT’s Temporary Erosion and Sediment Control Manual M 3109 (TESCM). The TESCM describes how to meet the requirements of the National Pollutant Discharge and Elimination System (NPDES) Construction Stormwater General Permit (CSWGP). It covers Stormwater Pollution Prevention Plans (SWPPP), BMP selection, discharge sampling and reporting, and other compliance-related issues, as well as potential effects to receiving water during construction. Ecology approved the TESCM and HRM as equivalent to the Ecology Stormwater Management Manuals for Western and Eastern Washington for compliance with Ecologyissued stormwater permits. Standard BMP options from the HRM fit most projects. See HRM Section 1-4 on who to contact when a site presents a challenge and does not lend itself easily to the approaches prescribed in the manual. 4. 303(d) and TMDL Impaired Water Bodies Ecology may assign WSDOT specific action items, compliance timelines, and waste load allocations (WLAs) when a TMDL identifies WSDOT discharges as a source or conveyer of the pollutant of concern. Ecology includes EPA-approved TMDLs that contain WLAs and/ or actions for WSDOT in Appendix 3 of WSDOT’s NPDES Municipal Stormwater Permit. For 303(d)s and TMDLs approved by EPA that do not specifically identify WSDOT stormwater discharges as a pollutant source, projects should avoid discharging stormwater to the impaired water body and avoid adverse impacts where feasible. Follow the guidance on WSDOT’s Stormwater & water quality webpage to determine if stormwater from a project will discharge to an impaired water body. For more information on TMDLs or 303(d) listings, contact the Stormwater Branch in the Environmental Services Office, or visit Ecology’s Water Quality Improvement website.
+430.04(2)
+Analysis & documentation for SEPA only (No federal nexus)
+SEPA requirements are the same as federal requirements.
+430.05 External engagement WSDOT participates in external engagement during the project development process. WSDOT develops Environmental Impact Statements (EIS) to describe environmental impacts, project benefits, and mitigation measures for projects with probable impacts to the natural or built environment. Through the EIS, the public is consulted and involved in the decisionmaking process.
+430.06 Internal roles and responsibilities 430.06(1)
+Region/Modal Environmental Manager
+• Signs water quality permit applications.
+• Oversees the development of stormwater and groundwater discipline reports.
+• Supports and decides on conflicting environmental issues. 
+Chapter 430
+Stormwater and Water quality
+• Evaluates stormwater and water quality non-compliance and determines if ECAP is applicable.
+• Supports stormwater compliance during design and construction phases of projects.
+430.06(2)
+Project Engineer/Design and Construction
+• Prepares design plans in compliance with water quality requirements.
+• Develops and completes stormwater hydraulic reports.
+• Identifies stormwater BMPs that are necessary and included in a project.
+• Ensures mitigation requirements are incorporated into the design and contract.
+• Ensures stormwater and other water quality permit commitments are covered in the project contract.
+• Develops and gets approval on any stormwater deviation from the HRM.
+• Ensure construction compliance with stormwater and water quality permit conditions and mitigation requirements.
+• Identifies non-compliance with permit requirements or regulations and completes ECAP documentation.
+• Develops stormwater BMP Maintenance Plans for stormwater features.
+430.06(3)
+Region Environmental Coordinator/Permit Specialist/Biologist/ Stormwater Hydraulic Engineer
+• Identifies in the ERS stormwater treatment needs and water quality discharges to TMDLs, impaired waters, and 303d waters.
+• Identifies the need for stormwater and groundwater discipline reports.
+• Identifies in the ECS stormwater treatment needs and water quality discharges to TMDLs, impaired waters, and 303d waters.
+• Coordinates the internal review of stormwater and groundwater discipline reports.
+• Submits for water quality permits and approvals.
+• Identifies stormwater and water quality mitigation and permit commitments through CTS to the Design PE.
+• Identifies stormwater and water quality non-compliance and processes with Construction ECAP documentation.
+• Identifies and coordinates mitigation for listed endangered species.
+430.06(4)
+HQ Environmental Services Office
+• Supports regions and modes on the development and completion of impact analysis documents.
+• Provides technical assistance on impact analysis documents.
+• Provides policy and guidance on stormwater and water quality reports.
+430.06(5)
+Area Maintenance
+• Responsible for maintaining stormwater treatment facilities.
+Stormwater and Water quality
+430.06(6)
+Chapter 430
+Region Maintenance Environmental Coordinator
+• Coordinates with services and local agencies.
+• Supports area maintenance and ensures correct permits are in place.
+• Reviews In-water work windows, interference in streams, critical areas, stormwater runoff, and 303d/TMDL.
+430.06(7)
+Region Hydraulic Engineer
+• Responsible for reviewing and accepting the Stormwater Hydraulic Report.
+• Ensures designs comply with long term permanent stormwater requirements.
+• Evaluates and coordinates deviations from the HRM for approval with Ecology.
+• Supports stormwater compliance for local programs and developer services clients.
+• Liaison for local jurisdictions.
+• Supports stormwater construction.
+430.06(8)
+State Stormwater Hydraulic Engineer
+• Works with regions on HRM deviations and Ecology approval.
+430.07 Applicable permits & approval process WSDOT must comply with all applicable federal, state, and local laws, regulations, policies, and plans. Consider obligations for each water quality permit or approval listed in this section during design and environmental review. Stormwater and water quality requirements and BMPs get developed and implemented through Section 401 Water Quality Certifications, NPDES permits, WSDOT’s HRM, and project-specific BMPs. See the additional information for Stormwater & water quality related permits and approvals.
+430.07(1)
+Federal
+• N/A
+430.07(2)
+State
+• CWA Section 401 – Water Quality Certification – This certification requires tribal consultation or approval under federal statutes. The Confederated Tribes of the Chehalis Reservation, Kalispel Tribe of Indians, Makah Tribe, Port Gamble S’Klallam Tribe, Puyallup Tribe of Indians, Spokane Tribe of Indians, and Tulalip Tribe have authority to approve Section 401 Water Quality Certifications.
+• CWA NPDES Construction Stormwater General Permit
+• CWA NPDES Industrial Stormwater General Permit
+• CWA NPDES WSDOT Municipal Stormwater General Permit
+• CWA NPDES Bridge and Ferry Terminal General Permit
+430.07(3)
+Local
+For more information on the permitting process, see Chapter 500 Environmental permitting.
+Chapter 430
+Stormwater and Water quality
+430.08 Mitigation Guidance and resources for mitigation options can be found on the Stormwater & water quality webpage. Mitigation options include:
+• Stormwater retrofit
+• HRM required treatment
+• Special or newly researched BMPs
+• Assistance with watershed priorities set through watershed planning
+430.09 Abbreviations and acronyms
+AKART
+All Known, Available, and Reasonable Methods of Prevention, Control, and Treatment
+BA
+Biological Assessment
+BMP
+Best Management Practice
+CARA
+Critical Aquifer Recharge Area
+CEQ
+Council on Environmental Quality
+CFR
+Code of Federal Regulations
+CSWGP
+Construction Stormwater General Permit
+CTS
+Commitment Tracking System
+CWA
+Clean Water Act
+DOH
+Washington State Department of Health
+Ecology
+Washington State Department of Ecology
+EA
+Environmental Assessment
+ECS
+Environmental Classification Summary
+EIS
+Environmental Impact Statement
+ERS
+Environmental Review Summary
+EPA
+Environmental Protection Agency
+ESA
+Endangered Species Act
+FHWA
+Federal Highway Administration
+GIS
+Geographic Information System
+GMA
+Growth Management Act
+HPA
+Hydraulic Project Approval
+HIRUN
+Highway Runoff Dilution and Loading Stormwater model
+HRM
+Highway Runoff Manual M 31-16
+MHHW
+Mean Higher High Water
+MOA
+Memorandum of Agreement
+NEPA
+National Environmental Policy Act
+NOAA
+National Oceanic and Atmospheric Administration
+NPDES
+National Pollutant Discharge Elimination System
+RCEF
+Retrofit Cost-Effectiveness and Feasibility
+RCW
+Revised Code of Washington State
+SCA
+Sanitary Control Area 
+Stormwater and Water quality
+Chapter 430
+SDWA
+Safe Drinking Water Act
+SEPA
+State Environmental Policy Act
+SPCC
+Spill Prevention, Control, and Countermeasures Plan
+SSA
+Sole Source Aquifer
+SWABS
+Stormwater BMP Specifications database
+SWPPP
+Stormwater Pollution Prevention Plan
+TESCM
+Temporary Erosion and Sediment Control Manual M 3109
+TMDL
+Total Maximum Daily Load
+UIC
+Underground Injection Control
+USC
+United States Code
+USFWS
+U.S. Fish and Wildlife Service
+WAC
+Washington Administrative Code
+WLA
+Waste Load Allocation
+WPA
+Wellhead Protection Area
+WRIA
+Water Resource Inventory Area
+WSDOT
+Washington State Department of Transportation
+WSF
+Washington State Ferries
+WQMPP
+Water Quality Monitoring and Protection Plan
+430.10 Glossary These definitions provided context for the Stormwater process. Some terms may have other meanings in a different context. Council on Environmental Quality (CEQ) – Coordinates Federal environmental efforts and works closely with agencies and other White House offices on the development of environmental policies and initiatives. Critical Aquifer Recharge Area (CARA) – An area designated by a city or county for protection under the Growth Management Act that has a critical recharging effect on aquifers used for potable water. Groundwater – Water that occurs below the surface of the earth, contained in pore spaces. It is either passing through or standing in the soil and underlying strata and is free to move under the influence of gravity. Group A water systems regularly serve 15 or more residential connections or 25 or more people/day for 60 or more days per year. All remaining systems are designated Group B. Group B wells serve a single residential connection and are not considered public water supplies but are generally regulated by local ordinances. Highway Runoff Manual (HRM) – WSDOTs Highway Runoff Manual M 31-16 directs the planning and design of stormwater management facilities that meet state and Federal regulations for new and redeveloped Washington state highways, rest areas, park-and-ride lots, ferry terminals, and highway maintenance facilities throughout the state.
+Chapter 430
+Stormwater and Water quality
+Injection Well – Any disposal system designed to place fluids, including highway runoff and treated wastewater from on-site sewage disposal systems, into the subsurface. Such systems include bored, drilled, or dug holes; for example, dry wells, French drains, and drain fields. National Pollution Discharge Elimination System (NPDES) – Pollution control permits that require point source dischargers to obtain permits. These are issued to WSDOT and other entities, by Ecology, for construction stormwater, municipal separate storm sewer systems, industrial, and sand and gravel operations. Sanitary Control Area (SCA) – An area (minimum radius 100 ft) maintained around a public water source (surface or well) for the purpose of protecting that source from existing and potential sources of contamination. No sources of contamination may be constructed within the sanitary control area without the permission of the DOH and the water purveyor. DOH guidance identifies stormwater runoff and spills resulting from vehicular accidents on roadways as potential sources of contamination. Sole Source Aquifer (SSA) – An aquifer designated by EPA that (1) supplies 50 percent or more of the drinking water to the population living over the aquifer, (2) has distinct hydrogeological boundaries, and (3) for which there is no economically feasible alternative source of drinking water if it should become contaminated. Source Water Protection Area – Area protected for drinking water supplies; these include Wellhead Protection Areas and Sanitary Control Areas. Stormwater – That portion of precipitation that does not naturally percolate into the ground or evaporate, but flows via overland flow, interflow, pipes, and other features of a stormwater drainage system into a defined surface water body or a constructed infiltration facility. Surface Water – All water naturally open to the atmosphere, such as rivers, lakes, reservoirs, ponds, streams, wetlands, seas, and estuaries. Total Maximum Daily Load (TMDL) – A requirement of the Clean Water Act, TMDLs consist of a watershed-based pollution control plan developed to address water quality impairment. Watershed – The land area that drains into a surface waterbody; the watershed for a major river may encompass several smaller watersheds that ultimately combine at a common point. Waters of the State or State Waters – Lakes, rivers, ponds, streams, inland waters, underground waters, salt waters and all other surface waters and watercourses located within the jurisdiction of the state of Washington. (RCW 90.48.020) Wellhead Protection Area – Area managed by a community to protect groundwater drinking water supplies. Wellhead Protection Areas (WPA) – A portion of the zone of contribution for a Group A well or spring, as determined by delineation criteria based on the estimated time of travel for a particle of water from the zone boundary to its eventual arrival at the well. Water purveyors are required to inventory all known and potential groundwater contamination sources within the WPA and complete a susceptibility assessment every five years. Additional information is available in DOH’s Wellhead Protection Guidance Document.
+Chapter 431 431.01 431.02 431.03 431.04 431.05 431.06 431.07 431.08 431.09 431.10 431.11
+Wetlands and other waters
+Introduction Applicable statutes, regulations, executive orders, & agreements Considerations during project development Analysis & documentation requirements External engagement Internal roles and responsibilities Applicable permits & approval process Mitigation Abbreviations and Acronyms Glossary Exhibits
+431.01 Introduction This chapter presents policies to be followed when planning work in or near wetlands or other waters of the state or of the United States. It includes information on describing and assessing wetlands and other waters, determining impacts (adverse effects), compensating for unavoidable impacts, and links to related information. Work described in this chapter that applies to wetlands may also apply to other waters. Project teams should follow the guidance in this chapter and the step-by-step procedures on our Wetlands and other waters webpage. Washington State Department of Transportation (WSDOT) Wetlands Protection and Preservation Secretary’s Executive Order (EO) E 1102.00 directs employees to protect and preserve Washington’s wetlands, to ensure no net loss of wetland acreage and function is caused by department actions, and to increase the quantity and quality of wetlands in the long term. These activities must be implemented in planning, designing, constructing, and maintaining the state’s transportation system. Employees, our contractors and consultants must avoid impacts to wetlands and other waters where practical; minimize impacts when wetland impacts are unavoidable; provide compensatory mitigation for unavoidable impacts; and protect, preserve, and maintain wetlands under department stewardship. WSDOT’s environmental policies direct employees to protect and preserve state natural resources while providing for cost-effective delivery and operation of transportation systems. Our Strategic Plan webpage details WSDOT’s values, including integrity and sustainability, that reinforce protection and preservation of wetlands and other waters. See Exhibit 431-1 for a flow chart of work to be performed throughout the project phases, from Planning to Maintenance and operations.
+Chapter 431
+Wetlands and other waters
+431.02 Applicable statutes, regulations, executive orders, & agreements 431.02(1)
+Federal
+• 42 United States Code (USC) 4321 National Environmental Policy Act of 1969 (NEPA)
+• Clean Water Act of 1977 (Section 404)
+• Final Rule on Compensatory Mitigation for Losses of Aquatic Resources (2008)
+• Rivers and Harbors Act of 1899 (Section 10)
+• Title 23: Highways Part 771 – Environmental Impact Related Procedures (23 CFR 771)
+• Title 33 Navigation and Navigable Waters, Part 332 Compensatory Mitigation for Losses of Aquatic Resources (33 CFR § 332.2)
+• Title 40: Protection of Environment (40 CFR § 1500 – Purpose and Policy, Part 1508
+- Definitions)
+431.02(2)
+State
+• Environmental mitigation in highway construction projects – Public lands first or other sites that avoid loss of long-term, commercially significant agricultural lands (RCW 47.01.305)
+• Environmental mitigation - Exchange agreements (RCW 47.12.370)
+• Governor’s EO 89-10 Protection of Wetlands
+• Procurement of Goods and Services (RCW 39.26)
+• State Environmental Policy Act (SEPA)
+• WSDOT Secretary’s EO E 1102.00 Wetlands Protection and Preservation
+• WSDOT Strategic Plan
+• Shoreline Management Act RCW 90.58 and WAC Title 173
+• Optional Shoreline process RCW 90.58.356
+• Water Rights RCW 90.03 WAC 173-152
+431.02(3)
+Local
+• Shoreline ordinances and Shoreline Master Program (see local agency webpages).
+431.02(4)
+Agreements
+• Interagency wetland mitigation guidance: Wetland Mitigation in Washington State Part 1 – Agency Policies and Guidance and Part 2 – Developing Mitigation Plans
+• The Environmental Protection Agency (EPA) and United States Army Corps of Engineers (Corps) “Exempt Construction or Maintenance of Irrigation Ditches” joint memo provides information including terms and definitions as well as guidance for how both agencies will work together to apply these exemptions. This memorandum refers to citations 404(f) (1)(C) and 404(f)(2) of the Clean Water Act (CWA) as well as 33 CFR 323.4(c).
+Wetlands and other waters
+Chapter 431
+431.03 Considerations during project development 431.03(1)
+Planning
+Planners screen proposed projects to identify the potential for wetlands and other waters in the planning study area. If the planner identifies possible wetlands or other waters in the planning study area, they notify the region environmental coordinator who can prepare to coordinate wetland and stream reconnaissance for scoping as project-level information develops. Identifying mitigation opportunities and needs during planning, corridor studies, and scoping phases allows time to coordinate with other planning efforts and forecast compensation needs. Early coordination aids in planning sustainable and effective watershed-based solutions and may expand the range of mitigation options for project impacts. WSDOT must protect existing compensatory mitigation sites. See the Environmental guidance for planning studies webpage for information on how to conduct environmental screening to identify WSDOT compensatory mitigation sites in a study area. WSDOT must protect existing compensatory mitigation sites. See the Environmental planning webpage for information on how to conduct environmental screening to identify WSDOT compensatory mitigation sites in a study area.
+431.03(2)
+Scoping
+WSDOT environmental teams begin considering compensatory mitigation options as soon as they think impacts to wetlands and other waters in the project area may occur. During scoping and environmental review, WSDOT considers available compensatory mitigation options in the following order: 1. Wetland mitigation banks (established by WSDOT or others) 2. In-Lieu Fee Programs (established by a non-profit entity or a government agency involved in natural resource management) 3. Advance mitigation established by WSDOT (permittee-responsible mitigation) 4. Constructing a new WSDOT compensation site concurrently with the project (permitteeresponsible mitigation) The 2008 Final Rule on Compensatory Mitigation for Losses of Aquatic Resources expresses a preference for using credit from mitigation banks as a first choice, credit from an in-lieu fee programs as a second choice, and permittee-responsible mitigation as least desirable. Project specifics provide additional context for determining which mitigation option is the most suitable choice. Find information on how to determine compensatory mitigation options in case impacts are unavoidable during Scoping on the Wetlands & other waters webpage.
+Chapter 431
+Wetlands and other waters
+WSDOT Geographic Information Systems workbench The WSDOT Geographic Information Systems (GIS) workbench is a comprehensive collection of GIS datasets that can be used to approximate the location and extent of known wetlands that is accessible to WSDOT employees. The workbench contains map data from several sources helpful in determining if wetlands may be present including the National Wetland Inventory, local wetland inventories, WSDOT mitigation site locations, hydric soils, topography, satellite imagery, and infrared and true-color aerial photographs. The workbench provides general information at a small scale suitable for screening for environmental impacts in the early stages of planning and scoping. Wetland biologists (biologists; see Section 431.06 Roles and Responsibilities) pair this office-based activity with a field assessment scaled to suit the purposes of the investigation. It can be a first phase of a wetland and stream reconnaissance or assessment. The workbench doesn’t provide enough information to determine presence or absence of wetlands for permitting purposes.
+Wetland and stream reconnaissance A reconnaissance survey confirms the presence or absence of wetlands and other waters based on a field visit by a biologist. Reconnaissance may include estimation of wetland category, stream water type, and buffers depending on the necessary level of information to address project needs. WSDOT staff can use reconnaissance to inform the preliminary design and avoid and minimize impacts to wetlands and other waters. If the reconnaissance survey concludes no wetlands or other waters are present in the project area, no further wetland work needs to be done unless the project area changes. The Region/ Modal Environmental Manager documents this in the Environmental Review Summary and Environmental Classification Summary (ERS-ECS) database. No further action is needed. If wetlands or other waters are present, the permit/environmental coordinators must identify permit needs and enter preliminary information into ERS. They continue the mitigation sequence (see Section 431.08 Mitigation) started during Planning and strategize to avoid and minimize impacts. Biologists don’t complete reconnaissance for every project. Biologists may skip this step for projects with known wetlands and other waters and begin documenting existing conditions with a wetland and stream assessment. Either a wetland and stream reconnaissance or assessment is required to complete the ECS. Wetland permit applications require a wetland and stream assessment. Find information on how to:
+• Conduct a wetland, stream and tidal water reconnaissance survey, determine which agency has jurisdiction over the waters and your permitting needs during Scoping on the Wetlands & other waters webpage.
+• Identify applicable permits and approvals in Section 431.07.
+Wetlands and other waters
+431.03(3)
+Chapter 431
+Design
+Wetland and stream assessment A Wetland and Stream Assessment is a detailed field study of wetlands and other aquatic resources within the project area. Biologists may conduct an assessment instead of a reconnaissance if detailed wetland information is needed during scoping. If wetlands or other aquatic resources will be impacted by a transportation project, the permit application submittal will require a Wetland and Stream Assessment Report. A wetland and stream assessment includes delineating:
+• Boundaries of wetlands and other aquatic resources
+• Ordinary High Water Mark (OHWM) of streams/tributaries and lakes
+• High Tide Line (HTL) of tidal waters Survey should collect ditch centerlines to include in the assessment. Biologists use the Washington State Wetland Rating System to determine the category of wetlands based on the functions and values the wetlands provide. They classify the wetlands using one or more national methods. More complex projects may need additional functional assessment to develop detail. A Wetland and Stream Assessment Report summarizes the field data and includes:
+• A map showing: – Surveyed wetland boundaries – Surveyed OHWM – HTL and mean high water – Ditches that meet United States Army Corps of Engineers (Corps) criteria for Waters of the US – Regulatory buffers – Study area limits
+• A narrative describing the wetlands and other waters
+• Photographs
+• Data sheets including – Wetland delineation – Wetland rating and figures – Functions analysis WSDOT staff use this information to show how the project avoids and minimizes impacts where possible, determine unavoidable impacts, and document compensatory mitigation for unavoidable impacts. The Corps considers wetland delineations valid for five years from the date of the field work. If the project is delayed beyond the five year time frame, the field work and report will need to be updated before submitting the permit application.
+Chapter 431
+Wetlands and other waters
+Find information on how to:
+• Assess and document wetlands and other waters in a Wetland and Stream Assessment Report during Preliminary Design on the Wetlands & other waters webpage.
+• Determine which agencies have jurisdiction over any wetlands or other waters assessed during Scoping on the Wetlands & other waters webpage.
+Identifying impacts to wetlands and other waters WSDOT staff identify impacts to wetlands and other waters by comparing the surveyed wetland boundaries to the project footprint during environmental review. A short description of wetland impacts may be included directly in the environmental review document. The environmental coordinator writes a separate Wetland Discipline Report if the impacts are environmentally controversial or complex. If no compensatory mitigation is required, wetland reconnaissance documentation is all that is required. Common transportation project activities that may impact wetlands or other waters include:
+• Filling wetlands
+• Compacting wetland soils
+• Draining wetlands
+• Using wetlands as staging areas
+• Altering natural drainage patterns
+• Increasing or decreasing water levels
+• Altering wetland or stream buffer areas
+• Discharging sediment or toxicants in runoff
+• Converting aquatic resource
+• Shading impacts to wetlands
+• Mechanically removing wetland vegetation Impacts to wetlands and other aquatic resources include:
+• Permanent – when work results in the permanent loss of wetlands or other aquatic resources.
+• Long-term temporary – When work affects wetland functions, and the functions are restored in a year or more following impacts.
+• Short-term temporary – When work affects wetland functions, but functions are restored within one year or within one growing season following impacts.
+• Indirect – When work may affect the functions of wetlands or other aquatic resources.
+• Loss of a wetland – When the entire area of the wetland is permanently impacted or no longer provides any functional value.
+• Aquatic resource conversions – For example, converting a wetland to a stream channel during a fish passage barrier correction, or a forested or scrub-shrub wetland to an emergent wetland. Regulators may not require compensatory mitigation for unavoidable impacts for projects designed for aquatic habitat restoration or enhancement, such as projects specifically built for fish barrier correction, if they result in net increases in aquatic resource functions and values.
+Wetlands and other waters
+Chapter 431
+See Washington State Department of Ecology’s (Ecology) Interagency wetland mitigation guidance webpage for detailed definitions of the different types of impacts and when regulators may require compensatory mitigation. Find information on how to:
+• Document impacts and find the Wetland Discipline Report Checklist during Preliminary Design on the Wetlands & other waters webpage.
+• Write appropriately sized discipline reports on the NEPA & SEPA webpage. See Section 431.08 Mitigation for information on developing Mitigation Plans.
+431.03(4)
+Construction
+See Chapter 600: Construction for considerations of wetlands and other waters during and at the end of construction including:
+• Submitting a right-of-way plan
+• Submitting an as-built plan Find information on how to initiate compensation site monitoring and apply for a permit modification on the Environmental during construction webpage.
+431.03(5)
+Maintenance and Operations
+Site coordination during monitoring period Region or mode compensatory mitigation site manager coordinates with the wetland monitoring group throughout the monitoring period by:
+• Reviewing the monitoring manager’s proposed fieldwork schedule to coordinate management and monitoring activities (e.g. to make sure weed spraying isn’t conducted just before the monitoring visit.)
+• Sending documentation of management activities to the wetland monitoring group for inclusion in the annual monitoring report.
+• Responding to feedback from the wetland monitoring group regarding emerging problems at the site. For example, if the wetland monitoring group sees invasive weed species, they will notify the site manager so that weed control can take place.
+• Reviewing draft monitoring reports before they are submitted to the permitting agencies. The ESO wetland monitoring group:
+• Coordinates and conducts monitoring activities for compliance with permits.
+• Provides management recommendations based on site observations and data to inform the adaptive management cycle.
+• Facilitates annual meetings with the regions/modes to review site development.
+• Provides annual monitoring reports for site compliance.
+Chapter 431
+Wetlands and other waters
+Concluding monitoring At the end of the monitoring period, the wetland monitoring group documents that WSDOT has replaced the acreage and functions of the impacted wetlands and other waters. They request concurrence from regulators that permit obligations have been met. The wetland monitoring group continues to monitor compensatory mitigation sites while waiting for either a release from further monitoring from the regulators or concurrence that permit conditions have been met. The WSDOT maintenance division or environmental restoration crews protect compensatory mitigation sites that remain in WSDOT ownership after monitoring in perpetuity. They follow the long-term management plan for the site. See Section 431.08 Mitigation for WSDOT’s long-term responsibilities for compensatory mitigation sites.
+431.04 Analysis & documentation requirements This section describes analysis and documentation requirements based on regulatory requirements. Determine level of detail based on complexity/size of project, expected severity of impacts, and potential for public controversy.
+431.04(1)
+Analysis & documentation for NEPA
+Wetland and Stream Assessment Report is required for NEPA documentation if wetlands or other waters are present. WSDOT submits the Wetland and Stream Assessment Report and as part of the permit application. WSDOT performs Section 404(b)(1) analysis as part of the NEPA document for individual permits to submit with the Section 404 permit application. Environmental coordinators write a Wetland Discipline Report if impacts are environmentally controversial or complex. The Wetlands Discipline Report Checklist can be found on the Wetlands & other waters webpage during Preliminary Design.
+Analysis & documentation for SEPA only (No federal nexus) Analysis and documentation for SEPA-only projects are the same as for NEPA.
+431.05 External engagement For most Nationwide Permits (NWPs), the Corps will send the project description, impacts numbers, and drawings out for a 10-day Agency & Tribal Review. All tribal and agency comments must be addressed before the Corps can verify the work under a NWP. For Individual Permits, the Corps will issue a joint public notice (15-30 days depending on the activity) with the Section 401 certifying agency or tribe once they have a complete application.
+Wetlands and other waters
+Chapter 431
+431.06 Internal roles and responsibilities 431.06(1)
+Planner
+• Conducts environmental screening for potential wetlands and other waters.
+• Notifies the region environmental coordinator if obvious wetlands or other waters are in the study area.
+431.06(2)
+Project Engineer
+• Works with environmental managers and permit coordinators to request a reconnaissance from a WSDOT regional or headquarters environmental office or consultant.
+• Works with environmental managers and permit coordinators to request a wetland and stream assessment from a WSDOT regional or headquarters environmental office or consultant.
+• Provides the biologist the project description, purpose, and location, project plan sheets including the study area or area of potential effect, written right of entry for access to non-DOT property, and survey crew.
+431.06(3)
+Region/Modal Biology Programs, Environmental Services Office Wetland Program, or Consultant
+• Biologists must meet the minimum qualifications for wetland biologists (PDF 565KB).
+• Performs wetland and stream reconnaissance and prepares the Wetland and Stream Reconnaissance Memo to provide to the project engineer, environmental coordinator, and permit coordinator.
+• Performs wetland, stream, and other waters assessment, evaluates and documents ditches, evaluates wetland and stream buffers, and prepares the Wetland and Stream Assessment Report.
+• Writes the Conceptual Mitigation Plan.
+• Writes the Draft and Final Mitigation Plan.
+• WSDOT biology staff review and comment on consultant prepared reports/plans.
+431.06(4)
+Region Environmental Coordinator
+• Fills out the ERS
+• Determines potential unavoidable impacts with Region Permit Coordinator and Biologist.
+• Documents impacts in the environmental review document or a wetland discipline report.
+• Plans for and documents avoidance and minimization of impacts.
+431.06(5)
+Region Permit Coordinator
+• Fills out the ERS.
+• Determines potential unavoidable impacts with Region Environmental Coordinator and Biologist.
+• Plans for and documents avoidance and minimization of impacts.
+• Applies for permits.
+431.06(6)
+Region/Modal Environmental Manager
+• Reviews and approves documentation that goes into ECS. 
+Chapter 431
+Wetlands and other waters
+431.06(7)
+Environmental Services Office Wetland Monitoring Group
+• Monitor WSDOT owned mitigation banks and compensatory mitigation sites. – Communicate with site managers in the region/mode and restoration crews and provide site observations and data to inform adaptive management of mitigation sites to achieve permit requirements.
+• Write annual monitoring reports.
+• Write and submit emails to regulatory agencies to request closeout of permit monitoring requirements for mitigation banks and compensatory mitigation sites.
+431.07 Applicable permits & approval process Apply for one or more of the following permits when work is in or over a wetland or stream:
+• Navigable waters permit under Section 10 of the Rivers & Harbors Act
+• Discharge permit under Section 404 of the Clean Water Act
+• Administrative Order for fill in non-federally regulated wetlands See the Graphic depiction of the Limits of Corps Regulatory Jurisdiction on the Corps’ webpage. Permits under Section 10 of the Rivers & Harbors Act and Section 404 of the CWA require a Water Quality Certification per Section 401 of the CWA. See Chapter 430 Surface Water for information on Water Quality Certifications and compliance with Section 401 of the CWA.
+431.07(1)
+Section 10 of the Rivers & Harbors Act
+The purpose of the Rivers and Harbors Act is to ensure the free flow of interstate commerce on our aquatic “highways”, or navigable waters. Navigable waters are tidally influenced waters currently or historically used to transport commerce, such as Puget Sound, Lake Washington, and the Columbia River. You will need a Section 10 permit from the Corps when you work on a structure in or over a navigable water of the US. Check the lists of Navigable Waters in Washington State (PDF 100KB) on the Streams, Rivers, and Tidal Waters page of the Corps Permit Guidebook to see if the Corps has Section 10 jurisdiction of the waterbody. Use the same permit processes as the Section 404 discharge permits, below, to obtain coverage under Section 10.
+431.07(2)
+Section 404 Nationwide Permits
+The Corps issues programmatic permits covering activities that have minimal individual and cumulative adverse environmental effects every five years. The Corps will verify projects fit under one or more of the NWPs. Permit coordinators can use Section 5 of the Corps’ User’s Guide for Nationwide Permits in Washington State (PDF 2.27MB), the Corps’ 2017 NWP Summary Chart (PDF 110KB) to find out if an activity is covered by an NWP. To be covered under an NWP, the work must also follow the:
+• National General Conditions - broad conditions that apply to all NWPs nation-wide. See Section 4 of the User’s Guide.
+Wetlands and other waters
+Chapter 431
+• Regional General Conditions – Corps Seattle District conditions that apply to all NWPs for work in Washington. See Section 3 of the User’s Guide.
+• NWP-specific Regional Conditions – Corps Seattle District conditions that apply only when work will be verified under that NWP. See Section 5 of the User’s Guide.
+431.07(3)
+Section 404 Individual Permits
+Permit coordinators need to apply for an Individual Permit for work that cannot be verified under the NWPs.
+431.07(4)
+Section 404 Regional General Permits
+Section 404 of the Clean Water Act also allows the Corps to issue 5-year Regional General Permits (RGPs) for certain types of activities, similar to the NWPs. There are currently no RGPs that WSDOT work can use at this time.
+Exemptions from Section 404 Permits Work in or over navigable waters is not exempt from getting a permit under Section 10 of the Rivers and Harbors Act. The maintenance or emergency repair of transportation structures or riprap that was previously authorized may be exempt from getting a permit under Section 404 of the Clean Water Act (33 CFR 323.4). This can include bank stabilization, culvert repairs, and bridge footing scour repairs. To be exempt, work must be consistent with the previously authorized work in the following ways:
+• Scope – The purpose of the work must be the same as the purpose of the previous work.
+• Character – The material must be of the same type and size (or one size larger) as was previously placed.
+• Size – The footprint of the work must be the same as the previous footprint. The repair must also be done within a “reasonable period of time” after the damage occurs to be exempt. If you are certain the work is exempt, it is not necessary to submit a permit application or request approval from the Corps. If you are not sure if the work is exempt, contact the liaison program for help.
+431.07(5)
+Non-federally regulated wetlands
+For waters of the state under Ecology’s jurisdiction, and where there is no Corps jurisdiction, Ecology will issue an Administrative Order that the work is consistent with the State Water Pollution Control Policy and other state laws (Chapter 430). Follow the procedures on the Wetlands & other waters webpage during Final Design to apply for an Administrative Order from Ecology. Coordinate with the tribes and the Environmental Protection Agency early in the design process for work in waters of the state on tribal lands to find out what approval is needed for the work.
+Chapter 431
+Wetlands and other waters
+431.07(6)
+Shoreline permits and approvals
+Shoreline permits and approvals may be required for work within 200 ft. of a shore-line of statewide significance. Shorelines include floodways, wetlands, and all ma-rine waters along the Puget Sound and Pacific Ocean. The Department of Ecology is responsible for implementing the Shoreline Management Act, which directs local governments to develop Shoreline Master Programs (SMP). Local governments issue Shoreline permits and approvals, following their SMP. Types of Shoreline Permits & approvals:
+• Substantial Development Permits
+• Conditional Use Permits
+• Variance
+• Exemption Issued by Local Government
+• Exemption (optional shoreline process for WSDOT only RCW 90.58.356) Many WSDOT projects within 200 ft. of shoreline jurisdiction qualify for the optional shoreline process under RCW 90.58.356. The optional shoreline process allows WSDOT to perform certain maintenance, repair, safety, and replacement work without applying for a shoreline permit or approval. Check RCW 90.58.356 to determine if your project meets the criteria for this process. If the project does not require a permit and will cost more than $1 million to plan and design, send written notification of the project prior to construction to all:
+• Agencies, federal and state, with jurisdiction in the area, including the Ecology Regional Planner.
+• Agencies with facilities or services that may be impacted by the project, including utility companies, transit systems, and schools.
+• Adjacent property owners within 300 feet of the shoreline jurisdiction area. If there are dozens to hundreds of property owners that require notification under the optional shoreline process or if the local agency’s permit process is simple, consider applying for a shoreline permit or approval instead. If your project doesn’t meet the criteria for an optional shoreline process, apply for a shoreline permit or approval during final design. See the local SMP and coordinate with local government staff to determine which permit you need. Sometimes local governments have different criteria for different types of shoreline permits and approvals.
+Coastal Zone Management Certification Ecology evaluates federal activities and permit applicants (15 CFR 930.39) to en-sure consistency with the state’s Coastal Zone Management Program (CZMP). This applies to projects within the 15 coastal counties. Washington State does not have a stand-alone law on Coastal Zone Management, but Ecology looks at how the project is consistent with the state’s the Shoreline Management Act, Water Pollu-tion Control Act, and the Ocean Resources Management Act.
+Wetlands and other waters
+Chapter 431
+Water Rights Ecology issues water right permits to applicants that need to withdraw any amount of surface water or more than 5,000 gallons per day of groundwater (RCW 90.03 and WAC 173-152). WSDOT or the contractor may need to acquire a temporary water right permit for dust control or watering a mitigation site if potable water is not available near a site.
+431.08 Mitigation WSDOT’s Wetland Protection and Preservation Secretary’s EO is to mitigate for all adverse effects to wetlands in accordance with Governor’s EO 89-10. WSDOT uses the mitigation sequence outlined in state and federal EOs and state and federal regulations. Mitigation sequencing requires the applicant to: 1. Avoid impacts to wetlands and other aquatic resources. 2. Minimize unavoidable impacts. 3. Compensate for unavoidable impacts through required compensatory mitigation. Avoidance is the preference because it has the greatest reliability and is the simplest, most effective way to preserve and protect wetlands. The Federal Highway Administration Mitigation of Environmental Impacts section of the Environmental Review Toolkit webpage summarizes parts of 40 CFR § 1500, 1508, and 23 CFR 771 that pertain to mitigation.
+431.08(1)
+Selecting a compensatory mitigation option
+WSDOT develops mitigation strategies that result in the greatest ecological benefit while making efficient use of financial resources. Compensatory mitigation should make ecological sense in the landscape context in which it occurs. WSDOT prioritizes compensation projects that restore environmental processes at the site scale or at a larger landscape scale. Find more information about evaluating landscape and site scale environmental processes on Ecology’s Watershed Characterization webpage. WSDOT follows guidance in the Final Rule on Compensatory Mitigation for Losses of Aquatic Resources (2008) uses mitigation credits established prior to project impacts when possible. Agencies must approve mitigation bank and in-lieu fee program instruments, including identification of initial sites, before any credits are released for use. If the impacts are not in the service area of an approved third-party mitigation bank or in-lieu fee program, permittee-responsible mitigation may be the only option. WSDOT uses credit from previously implemented compensatory mitigation before considering construction of a new compensatory mitigation sites when possible. See the Wetlands & other waters webpage during Final Design for how to purchase third-party mitigation credits or use advance WSDOT mitigation credits. If credits aren’t available from mitigation banks, in-lieu fee programs, or advance mitigation sites, then WSDOT plans permittee-responsible mitigation.
+Chapter 431
+Wetlands and other waters
+WSDOT can only use agricultural lands of long-term commercial significance for compensatory mitigation when there no other options (RCW 47.01.305). Washington law directs WSDOT to consider public and private lands before using agricultural lands. WSDOT must make every effort to avoid net loss of commercial agricultural lands. Like any other project, existing wetlands and other waters must be documented prior to construction of permittee-responsible compensatory mitigation sites in a Wetland and Stream Assessment Report. The mitigation design team uses the baseline resource conditions to determine the area available for different types of compensatory mitigation (e.g. restoration, establishment, enhancement, and preservation). The wetland monitoring group uses digital files (MicroStation design or GIS shapefiles) of the delineations of pre-existing wetlands or other waters to evaluate how many acres of each type of mitigation has been provided after the site has been constructed.
+431.08(2)
+Developing Conceptual and Draft Mitigation Plans
+WSDOT documents the full mitigation sequence, including avoidance and minimization measures, unavoidable impacts and compensatory mitigation proposals in Conceptual, Draft and Final Wetland and Stream Mitigation Plans. A Conceptual Mitigation Plan contains general information to allow for discussion of the design alternatives and proposed mitigation. WSDOT staff can bring the Conceptual Mitigation Plan to pre-application meetings and append it to the environmental review document. See Ecology’s Interagency wetland mitigation guidance webpage for information on what biologists include in a Conceptual Mitigation Plan. State and federal regulatory agencies evaluate the mitigation concept to determine if it would adequately compensate for the expected project impacts. A commitment to the mitigation option must be made during the NEPA process, leaving sufficient time to develop an appropriate detailed Wetland and Stream Mitigation Plan and design for the application. Biologists document how the project avoids and minimizes impact to wetlands or other waters in a Draft Wetland and Stream Mitigation Plan. They describe the project, the remaining unavoidable impacts, and the approach for providing compensatory mitigation. Regulatory agencies will determine the adequacy of the proposed compensatory mitigation after they review the compete project proposal and Wetland and Stream Mitigation Plan. Complete Wetland and Stream Mitigation Plans include:
+• Details of impact avoidance
+• Details of minimization
+• Proposed compensatory mitigation for unavoidable impacts
+• A plan for establishing a legal mechanism to protect the compensatory mitigation property in perpetuity
+• An outline of a Long-Term Management Plan to implement after the compensatory mitigation site permit obligations are met As of , the Corps and Ecology require Wetland and Stream Mitigation Plans to contain a commitment to develop a 10-Year Long-Term Management Plan. This requirement does not affect the ongoing requirement for perpetual stewardship of compensatory mitigation sites.
+Wetlands and other waters
+Chapter 431
+Additional work necessary to develop the Wetland and Stream Mitigation Plan for submittal with the application varies depending on the compensatory mitigation option chosen. Mitigation Bank & In-Lieu Fee Programs – A Mitigation Bank Credit Use Plan or an In-Lieu Fee Program Use plan must be submitted. Advance Mitigation – Advanced Mitigation Plans are approved at the time the site is authorized. It includes details of how the advance mitigation credit will be developed and used, briefly explains how the available credit compensates for project impacts, and provides a ledger showing the debits and remaining credit value. Permittee-Responsible Mitigation – The Draft Mitigation Plan includes all the information needed for WSDOT to plan appropriate mitigation. It includes the rationale for selecting the site, data describing baseline (pre-construction) conditions, a detailed mitigation plan (including a grading plan and planting plan), and goals, objectives, and performance standards. If WSDOT plans to develop more wetland area than needed for compensation of the project impacts, WSDOT can propose that the excess be available for use by other projects. The permitting agencies won’t approve the value for later use unless it is documented in the Wetland and Stream Mitigation Plan that excess credit generated can be used for other projects. See Ecology’s Interagency wetland mitigation guidance webpage for information on how to write Conceptual, Draft and Final Mitigation Plans. See the Wetlands & other waters webpage during Preliminary Design for information on how to:
+• Use available WSDOT mitigation credits.
+• Write Credit Use and Mitigation Plans.
+• Develop a Long-Term Management Plan. See the Wetlands & other waters webpage during Final Design for information on how to purchase third-party mitigation credits.
+431.08(3)
+Establishing the mechanism for compensatory mitigation site protection
+The 2008 Final Rule on Compensatory Mitigation for Losses of Aquatic Resources requires long-term compensatory mitigation site protection. Long-term site protection must be in perpetuity. Another natural resource management entity may provide the long-term management with or without direct property transfer to their ownership. Consider opportunities to develop partnerships in mitigation development with other natural resource management entities or local jurisdictions. If possible, establish willing partners to transfer compensatory mitigation sites to manage long-term. Qualified natural resource entities must agree to restrict the use of the property to preserve the natural and beneficial values of the wetland (RCW 47.12.370). WSDOT most often uses recordings on the right-of-way plan or a sundry site plan that identify it as a compensatory mitigation site with the Corps permit number as the long-term site protection mechanism. If the site won’t be maintained for the long term in WSDOT ownership, another legal mechanism for long-term protection must be developed. 
+Chapter 431
+Wetlands and other waters
+WSDOT environmental staff and project managers coordinate with the region real estate services office to develop the long-term protective mechanisms for land transferred to other ownership. Conservation easements, restrictive covenants, or other mechanisms may be suitable for long-term protection. WSDOT project managers and environmental staff also coordinate with the region real estate services office and legal counsel as needed to develop any compensatory mitigation site transfer mechanism. See RCW 47.12.370 on the Washington State Legislature webpage for the requirements for environmental mitigation exchange agreements. Regulatory agencies only allow transfer of compensatory mitigation site ownership to other parties for long-term management after meeting all performance criteria during monitoring. There must be an agreement that the new entity will protect the environmental functions in perpetuity.
+431.08(4)
+Final Wetland and Stream Mitigation Plan development
+WSDOT submits the permit application when further design refinements are not likely to change the wetland and other waters impacts. Reports supporting the application may include one or more Wetland and Stream Assessment Reports and a Draft Wetland and Stream Mitigation Plan. See Final design on the Wetlands & other waters webpage for MicroStation and AutoCAD application drawing pattern templates. After the permit application has been submitted, WSDOT finalizes the Draft Wetland and Stream Mitigation Plan in coordination with the permitting agencies. The Final Wetland and Stream Mitigation Plan is completed after the appropriate agencies have provided written conditional approval of the Draft Wetland and Stream Mitigation Plan. WSDOT prepares the final mitigation design, approved by the permitting agencies, for contract during the design phase with development of the final Plans, Specifications and Estimates.
+431.08(5)
+Monitoring
+The ESO wetland monitoring group evaluates each compensatory mitigation site annually. They compare the site’s performance to criteria established in the Wetland and Stream Mitigation Plan and environmental permits. The wetland monitoring group collects quantitative data to evaluate mitigation sites according to the WSDOT Wetland Mitigation Site Monitoring Methods (PDF 98KB). This document describes methods to collect data on factors specific to each site’s performance criteria. Find the most recent two years of Monitoring Reports on the See the Wetlands & other waters webpage under Tools & resources.
+431.08(6)
+WSDOT’s long-term responsibilities for compensatory mitigation sites
+WSDOT owns most of its compensatory mitigation sites. They will remain in state ownership in perpetuity. WSDOT transfers ownership of some compensatory mitigation sites to entities that have agreed to keep the area as a compensatory mitigation site after monitoring is complete. WSDOT may transfer department-owned wetlands to qualified entities that agree to restrict the use of the property consistent with preservation of the wetland and other aquatic resources after permit obligations have been met (RCW 47.12.370). Any such transfer must
+Wetlands and other waters
+Chapter 431
+include an approved legal mechanism for long-term protection. WSDOT regions evaluate this option to reduce agency risk. For WSDOT-owned sites, the regions transfer long-term stewardship to either the maintenance division or environmental restoration crews after the regulatory agencies concur that permit obligations have been met.
+431.09 Abbreviations and Acronyms Corps
+US Army Corps of Engineers
+Ecology
+Washington State Department of Ecology
+ECS
+Environmental Classification Summary
+ERS
+Environmental Review Summary
+EO
+Executive Order
+EPA
+Environmental Protection Agency
+ERS
+Environmental Review Summary
+GIS
+Geographic Information System
+HTL
+High Tide Line
+NEPA
+National Environmental Policy Act
+NWP
+Nationwide Permit
+OHWM
+Ordinary High Water Mark
+RCW
+Revised Code of Washington
+SEPA
+State Environmental Policy Act
+WQC
+Water Quality Certification
+WQMPP
+Water Quality Monitoring and Protection Plan
+WSDOT
+Washington State Department of Transportation
+431.10 Glossary This glossary provides reader friendl

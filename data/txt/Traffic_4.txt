@@ -1,0 +1,2049 @@
+inutes
+25 feet mile 1 time interval in minutes �∗� �∗� �
+Queue (miles) = ∗# �unserved vehicles ∗ � � 5280 feet # lanes
+25 feet mile 1
+60 minutes vehicle
+Queue (miles) = # unserved vehicles ∗ � �∗� �∗� � vehicle 5280 feet # lanes
+25 feet mile 1
+Queue (miles) = # unserved vehicles ∗ � �∗� �∗� � vehicle feet #60lanes 15280 minutes 25 feet mile 1
+Delay (minutes) # unserved vehicles (miles) = =
+Queue # unserved vehicles ∗ �∗ �WZ hourly � ∗ � capacity�� ∗∗ �� hour� � minutes
+15280 feet vehicle #60lanes
+Delay (minutes) = # unserved vehicles ∗ � �∗� �
+WZ hourly hour
+1 capacity
+60 minutes
+Delay (minutes) = # unserved vehicles ∗ � �∗� �
+WZ hourly hour 5
+1 capacity
+60 minutes
+Traffic(minutes) demand ==1350 ∗ �1 − vehicles � = 1283
+Delay # unserved ∗ � vehicles/hour � ∗ � � 100
+WZ hourly capacity hour 5
+Traffic demand = 1350 ∗ �1 − � = 1283 vehicles/hour 100 5
+Traffic demand = 1350 ∗ �1 − � = 1283 vehicles/hour
+WSDOT Traffic Manual M 51-02.10 100
+Work zone capacity = 650 vehicles/hour 5
+Traffic demand = 1350 ∗ �1 − � = 1283 vehicles/hour 100
+Work zone capacity = 650 vehicles/hour
+
+Work Zone Traffic Control
+Chapter 5
+Explanation of Variables and Calculations: • Average typical traffic volume: Expected traffic volume traveling through the work zone; see Section 5-9.A and Section 5-9.B for details. • Traffic diversion: Percentage of vehicles that avoid traveling through the work zone during hours of congestion; see Section 5-7 and Section 5-8 for details. Diversion rates are determined by Region Traffic Operations. • Work zone capacity: Anticipated traffic volume a work zone can serve; see
+Section 5-9.C for freeways and Section 5-9.D for conventional roadways. • Unserved vehicles: Calculated value to determine how many vehicles are still waiting to proceed through the work zone for the giventraffic time diversion interval in % minutes. Number of
+Traffic demand = average typical traffic volume ∗ �1 − traffic diversion %� unserved vehicles willtypical carry traffic over to any subsequent time
+Traffic demand = average volume ∗ �1 − � until dissipated. 100intervals 100 traffic diversion % • Queue:
+Calculated value to traffic determine work queue length and
+Traffic demand = average typical volume ∗ �1 zone − � is dependent on 100 the number of unserved open lanes are available prior to the
+Number of unserved vehicles vehicles and how manytraffic diversion %
+Number of unserved vehicles
+Traffic demand ==average typical traffic volume ∗ �1 − � capacity restriction (typically a lane closure merge point). (hourly traffic demand − WZ hourly capacity) 100 = (hourly traffic demand − WZ hourly capacity) interval in minutes
+Number of Calculated unservedtime vehicles • Delay: value to determine time%through work zone and interval in minutes�the additional traffictravel diversion ∗ �time �(hourly60 minutes traffic demand −�WZ ∗hourly
+Traffic demand =∗=average typical traffic volume �1 − capacity) � is dependent on the number of unserved vehicles and100 the work zone’s current capacity.
+60 minutes interval in minutes
+Number of unservedtime vehicles ∗ � � but both queue and delay are dependent on the
+Delay is independent of queue length, minutes = (hourly60 traffic demand − WZ hourly capacity) mile 1
+25 feet number of unserved vehicles. time interval in minutes
+Queue (miles) = # unserved vehicles ∗ � 25 feet � ∗ � mile � ∗ � 1 �
+Number of unserved vehicles � � ∗ �5280 feet� ∗ �# lanes�
+Queue (miles) = ∗# �unserved vehicles ∗ �vehicle
+60 minutes # lanes vehicle 5280 feet = (hourly demand −pages
+WZ hourly capacity)
+Examples are provided ontraffic the following as reference. mile 1
+25 feet time interval in minutes
+Queue (miles) = # unserved vehicles ∗ � �∗� �∗� � # lanes vehicle
+5280 feet ∗ � �
+1 to a single 60open minutes minutes
+Example #1a: A two-lane60rural freeway is reduced lane shifted onto the
+1 mile � ∗ �601minutes
+Delay (minutes) = # unserved vehicles ∗25 � feet � (miles)
+Queue = # unserved vehicles ∗ � � ∗ � � ∗ � �
+Delay (minutes) = #typical unserved vehicles ∗ �WZ � 5 percent traffic capacity� ∗ � hour shoulder.
+Average traffic volume is hourly 13505280 vehicles/hour.
+Assume # lanes vehicle feet
+WZ hourly capacity hour 1 60 minutes diversion.
+Determine the queue and∗delay mile of �the
+1 hour.� 25
+Delay (minutes) = # unserved vehicles � feetat the end ∗ � first hour�
+Queue (miles) = # unserved vehicles ∗ � WZ hourly � ∗ � capacity� ∗ � # lanes vehicle
+5280 feet 5 1
+60 minutes 5 � = 1283
+Traffic(minutes) demand = 1350 ∗ �1 − vehicles
+Delay # unserved ∗ � vehicles/hour �∗� �
+Traffic demand ==1350 ∗ �1 − 100� = 1283 vehicles/hour
+WZ hourly capacity hour 100 5 1
+60 minutes
+Traffic(minutes) demand = 1350 ∗ �1 − � = 1283 vehicles/hour
+Delay = # traffic unserved vehicles ∗� �∗� � • Average typical volume 100 = 1350
+WZ hourly capacity hour
+Work zone capacity = 650 vehicles/hour 5
+Work zone capacity vehicles/hour • Diversion ==5 650 percent
+Traffic demandrate = 1350 ∗ �1 − or�5/100. = 1283 vehicles/hour 100
+Work zone capacity = 650 vehicles/hour 5
+Work zone capacity = 900 × (1 open lane) = 900 vehicles/hour
+Traffic demand = 1350 ∗ �1vehicles/hour/lane − � = 1283 vehicles/hour
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour 100
+Work zone capacity = 650 vehicles/hour • Freeway work zone information×is(1found in Exhibit 5-4 in Section 5-9.C, which
+Work zone capacity = 900capacity vehicles/hour/lane open lane) = 900 vehicles/hour
+60 value by number of open lanes. is capacity per open lane.
+Thus, multiply this
+Number of unserved vehicles = (1283 − 900) ∗ �60� = 383 unserved vehicles in first hour
+Work zone capacity =
+650 vehicles/hour
+Number of unserved = (1283 − 900) ∗×�60 = 383 unserved vehicles in first hour
+Work zone capacity =vehicles
+900 vehicles/hour/lane (1�open lane) = 900 vehicles/hour 60 60
+Number of unserved vehicles = (1283 − 900) ∗ � � = 383 unserved vehicles in first hour 60
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour
+25 feet mile 1
+Queue = 383 unserved vehicles ∗ � 25 feet � ∗ � mile � ∗ � 1 � = 0.91 = 0.9 mile 60 vehicle 5280 feet 2 lanes � ∗ � � ∗ � � = 0.91vehicles = 0.9 mile
+Queue = 383 unserved vehicles ∗ � (1283
+Number unserved vehicles = the − 900)5280 ∗ � feet �= 383 unserved in first • Sinceofwe are determining queue/delay at the of the first hour, the hour time interval vehicle
+2 end lanes 60
+25 feet mile 1 is 1 =hour
+60 minutes; thus, factor.
+Queue
+383 or unserved vehicles ∗ � the �60/60 ∗� �∗� � = 0.91 = 0.9 mile vehicle 5280 60 feet
+2 lanes
+Number of unserved vehicles = (1283 − 900) ∗ � � = 383 unserved vehicles in first hour 1
+60 minutes � = 25.5 = 26 minutes
+Delay = 383 unserved vehicles ∗ � 25 feet 1 mile 60� ∗ �60 minutes 1
+900 vehicles per hour� ∗ � hour �= 25.5 = 26 minutes
+Delay = = 383
+383 unserved unserved vehicles vehicles ∗∗ �� �∗� �∗� �= 0.91 = 0.9 mile
+900 vehicles per hour vehicle
+5280 feet 1
+
+hour
+2 lanes
+60 minutes �∗� � = 25.5 = 26 minutes
+Delay = 383 unserved vehicles ∗ � 900 vehicles permile
+25 feet 1 • There are unserved two open lanes10prior the freeway
+Queue = 383 vehicles ∗ � to �the ∗ � lane closure � ∗ � where � = 0.91 = 0.9 mileis reduced to a
+5280 feet
+2 lanes 10 �vehicle
+Traffic demand = 915 ∗ �1 − = 824 vehicles/hour 1
+60 minutes single open length will� occur in the 2-lane section.
+Delay = 383 unserved ∗queue �� = 824 ∗� �= 25.5 =
+26 minutes
+Traffic demand =lane;
+915 thus, ∗vehicles �1 −the vehicles/hour 100 hour 100 900 vehicles per hour 10
+Traffic demand = 915 ∗ �1 − � = 824 vehicles/hour 1
+60 minutes 100 �∗� � = 25.5 = 26 minutes
+Delay = 383 unserved vehicles ∗ �
+900 vehicles per× hour hour
+Work zone capacity = 900 vehicles/hour/lane (1 open lane) = 900 vehicles/hour 10
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour
+Traffic demand = 915 ∗ �1 − � = 824 vehicles/hour 100
+WSDOT Traffic Manual M 51-02.10
+Page 5-29 10 60
+Traffic = 915vehicles ∗ �1 − = (824 � =−824 vehicles/hour
+Numberdemand of unserved 900) ∗ �60� = −76 unserved vehicles in second hour 100
+
+Chapter 5
+Queue (miles) = # unserved vehicles ∗� �∗� �∗� � time interval in minutes # lanes vehicle
+5280 feet ∗ � �
+60 minutes
+25 feet mile 1
+Queue (miles) = # unserved vehicles ∗ � �∗� �∗� � Work Zone Traffic Control vehicle 5280 feet # lanes 1
+60 minutes
+Delay (minutes) = #zone unserved vehicles ∗25 � feet as 0.9mile � ∗ � 261 minute� delays at the end of
+Answer:
+The work queue is estimated mile with
+WZ hourly capacity hour�
+Queue (miles) = # unserved vehicles ∗ � �∗� �∗� vehicle
+5280 feet # lanes the first hour. 1
+60 minutes
+Delay (minutes) = # unserved vehicles ∗ � �∗� �
+WZ hourly capacity hour
+As demonstrated In Example #1a, the number of unserved vehicles is positive (+383); thus, 5 1
+60 minutes
+Traffic demand = 1350 ∗ �1 − � = 1283 vehicles/hour
+Delay (minutes) = # unservedexceeds vehicles ∗ � work zone capacity � ∗ �and queues � and delays are 100 traffic demand significantly the
+WZ hourly capacity hour increasing rather quickly. At the
+5 end of the first hour, the queue has increased to 0.9 mile
+Traffic demand = 1350 ∗ �1 − � = 1283 vehicles/hour with
+26 minute delays and serves
+100 as the initial values for determining the queues and delays
+Work zone capacity = 650 vehicles/hour 5 for the second hour.
+Traffic demand = 1350 ∗ �1 − � = 1283 vehicles/hour 100
+Workhourly zone capacity = 650 vehicles/hour
+Each calculation incremental; the×unserved vehicles from the previous hour
+Work zone capacity = 900are vehicles/hour/lane (1 open lane) = 900 vehicles/hour
+
+carries over to the next hour. Thus, the longer traffic demand exceeds a work zone’s
+Work zone capacity = 650 vehicles/hour capacity, the worse=the becomes.
+Work zone capacity 900congestion vehicles/hour/lane × (1 open lane) = 900 vehicles/hour 60
+Number of unserved vehicles = (1283 − 900) ∗ � � = 383 unserved vehicles in first hour
+On the other hand, as traffic volumes decreases
+60 overnight, then the work zone’s capacity
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour will eventually exceed the traffic demand, and60the queue and delays begin dissipating as demonstrated in Example #1b on25the 60 feet next page. mile 1
+Queue = 383 unserved vehicles ∗ � �∗� �∗� � = 0.91 = 0.9 mile vehicle 5280 60 feet
+2 lanes
+Number of unserved vehicles = (1283rural − 900) ∗ � �lane = 383 unserved vehicles in#1 first hour in
+Example #1b:
+The same two-lane freeway closure in Example remains 60
+25 feet mile 1 place second hour.
+The average traffic second hour is
+Queuefor =a 383 unserved vehicles ∗� �typical ∗� � ∗ �volume � =during 0.91 =the
+0.9 mile vehicle 1 5280 feet
+2 minutes lanes 60 � ∗ �as it is later � = in 25.5
+26 minutes
+Delay = 383 unserved ∗ � traffic diversion 915 vehicles; assume vehicles
+10 percent the=evening with a good 900 vehicles permile hour hour
+25 feet 1
+Queue = 383 unserved vehicles ∗ � � ∗ � � ∗ � � = 0.91 = 0.9 mile alternate route nearby. Determine the queue and delay at the end of the second hour. vehicle
+
+1
+5280 feet
+2 lanes
+60 minutes �∗� � = 25.5 = 26 minutes
+Delay = 383 unserved vehicles ∗ � hour 10 900 vehicles per hour
+Traffic demand = 915 ∗ �1 − � = 824 vehicles/hour
+60 minutes 100 �∗� � = 25.5 = 26 minutes
+Delay = 383 unserved vehicles ∗�
+900 vehicles per hour hour 10 • Average typical traffic 915vehicles/hour
+Traffic demand = 915 ∗ �1 −volume � ==824 100
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour • Diversion rate = 10 percent
+10 or 10/100.
+Traffic demand = 915 ∗ �1 − � = 824 vehicles/hour 100
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour 60
+Number of unserved vehicles = (824 − 900) ∗ � � = −76 unserved vehicles in second hour • Freeway work zone information×60 is(1found in Exhibit 5-4 in Section 5-9.C, which
+Work zone capacity = 900capacity vehicles/hour/lane open lane) = 900 vehicles/hour is capacity per open lane. Thus, multiply 60 this value by number of open lanes.
+Number of unserved vehicles = (824 − 900) ∗ � � = −76 unserved vehicles in second hour 60 60
+Number of unserved vehicles = (824 − 900) ∗ � � = −76 unserved vehicles in second hour 60
+
+• Since we are determining the queue/delay at the end of the second hour, the time interval is 1 hour or 60 minutes; thus, the 60/60 factor. • A negative number means the work zone capacity exceeds the traffic demand; thus, unserved vehicles from the first hour will be dissipated.
+Queue = 0.91 miles + �−76 unserved vehicles ∗ �
+25 feet vehicle
+25 feet �∗� mile
+5280 feet mile �∗� 1
+2 lanes 1 �� =
+Queue = 0.91 miles + �−76 unserved vehicles ∗ � �∗� �∗� �� =
+0.91 miles − 0.18 miles = 0.73 = 0.7 mile vehicle
+5280 feet
+2 lanes
+0.91 miles − 0.18 miles = 0.73 = 0.7 mile
+
+Delay = 25.5 minutes + �−76 unserved vehicles ∗ � 1
+900 vehicles per hour 1 �∗�
+Delay = 25.5− minutes + �−76 unserved
+25.5 minutes
+5.1 minutes = 20.4 = 20vehicles minutes∗ �900 vehicles per hour� ∗ �
+25.5 minutes − 5.1 minutes = 20.4 = 20 minutes
+60 minutes hour
+60 minutes hour �� = �� =
+Answer: The work zone queue is estimated as 0.7 mile with 20 minute delays at the end of 15 the second hour.
+Traffic demand = 600 ∗ �1 − � = 510 vehicles/hour
+Page 5-30
+
+Traffic demand = 600 ∗ �1 − 100 15 � = 510 vehicles/hour 100
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = WSDOT
+900 vehicles/hour
+Traffic Manual M 51-02.10
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour Work Zone Traffic Control
+Chapter 5
+In Example #1b, the number of unserved vehicles is negative (-76). This is good news because now the work zone capacity exceeds traffic demand causing queues to dissipate.
+This is why congestion is targeted in the PM overnight hours when traffic volumes are declining because any congestion created initially will dissipate overnight.
+At the end of the second hour, the queue has reduced to 0.7 mile with 20 minute delays and serves as the initial values for determining the queues and delays after the third hour.
+25 feet mile 1 = 0.91 miles + �−76are unserved vehiclesthe ∗ �queue � ∗ � delays � ∗will � reduce �� = even quicker.
+IfQueue the third hour volumes even lower, vehicle and
+5280 feet
+2 lanes
+0.91 miles −the 0.18 miles and = 0.73 = 0.7will milefully dissipate and the work zone will be free flow.
+Eventually, queue delays
+Queue = 0.91 miles + �−76 unserved vehicles ∗ �
+
+25 feet vehicle �∗� mile
+5280 feet �∗� 1
+2 lanes �� =
+Example
+Themiles same lane closure in Example #1 remains in place
+0.91 miles#1c: − 0.18 = two-lane 0.73 = 0.7 rural mile freeway
+25 feet mile 1
+Queue 0.91 miles �−76 unserved ∗volume �∗ � � during ∗ �1 � ∗�second �∗ �60 minutes �� = ��is=600 vehicles; for a third hour.
+The+ average typicalvehicles traffic the hour
+Delay = 25.5 minutes + �−76 unserved vehicles vehicle 5280 feet 2 lanes
+900 vehicles per hour hour assume 15−percent traffic diversion it is even later in the evening with a good alternate 0.91 0.18 = 0.73 = 0.7
+25.5 miles minutes − 5.1miles minutes = 20.4 = mile 20asminutes 1
+60 minutes route nearby.
+Determine the queue and delay hour.
+Delay = 25.5 minutes + �−76 unserved vehicles ∗ �at the end of the � ∗second � �� =
+900 vehicles per hour hour
+25 feet
+
+mile 1
+Queue = 0.91−miles + �−76 = unserved vehicles ∗� �∗� �∗� �� =
+25.5 minutes
+5.1 minutes 20.4 = 20 minutes vehicle 5280 feet
+2 lanes
+1 mile 60
+25 feet
+1 minutes 15
+Delay = 25.5 minutes + �−76 unserved vehicles ∗ � � ∗ �
+Queue 0.91 miles + �−76 vehicles ∗ � 900 �vehicles ∗ � per hour �∗� �� = �� =
+0.91 miles − 0.18 = 0.7 hour � =mile
+510 vehicles/hour
+Traffic demand = miles 600 ∗= �10.73 −unserved vehicle
+5280 feet
+2 lanes 100
+25.5 miles minutes − 5.1miles minutes = 20.4 = mile
+20 minutes 0.91 − 0.18 = 0.73 = 0.7 15 •
+Average typical traffic volume = 600vehicles/hour
+Traffic demand = 600 ∗ �1 − � = 510 1
+60 minutes 100
+Delay = 25.5 minutes + �−76 unserved vehicles×∗(1 � open lane) = 900 � ∗ �vehicles/hour �� =
+Work zone capacity 900 vehicles/hour/lane
+900 vehicles per hour hour • Diversion rate ==15 percent or 15/100. 1
+60 minutes 15
+Delay = 25.5− minutes �−76 unserved vehicles ∗� �∗� �� =
+Traffic demand = 600 ∗+�1 −= 20.4 � = 20 510 vehicles/hour
+25.5 minutes 5.1 minutes minutes
+900 vehicles per hour hour 100
+Workminutes zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour 25.5 − 5.1 minutes = 20.4 = 20 minutes 60
+Number of unserved vehicles = (510 − 900) ∗ � �
+15 information60 • Freeway work zone capacity in Exhibit 5-4 in Section 5-9.C, which
+Work zone capacity = ∗900 vehicles/hour/lane ×is(1found open lane) = 900 vehicles/hour
+Traffic demand ==600 �1 − � vehicles = 510 vehicles/hour −390 unserved in second hour 15 is capacity per open lane.100
+Thus, multiply 60 this value by number of open lanes.
+Numberdemand of unserved 900) ∗� �
+Traffic = 600vehicles ∗ �1 − = (510 � =−510 vehicles/hour 60 100 = −390 unserved vehicles in second hour 60 25 feet mile 1 � open
+Number unserved = (510 −vehicles 900) ∗ �×
+Work zone capacity =vehicles
+900 vehicles/hour/lane = 900 � ∗lane) � � ∗ �vehicles/hour �� =
+Queue =of 0.73 miles + �−390 unserved ∗60�(1 vehicle
+5280 feet
+2 lanes
+Work zone capacity = 900 vehicles/hour/lane × (1 open lane) = 900 vehicles/hour −390=unserved
+0.91 miles − 0.92=miles −0.01 = vehicles
+0.0 mile in second hour
+25 feet
+
+mile 1 �∗� �∗� �� =
+Queue = 0.73 miles + �−390 unserved vehicles ∗ � 5280
+2 lanes hour, the time
+60 vehicle • Sinceofwe are determining the queue/delay at the end offeet the second (510
+Number unserved vehicles = − 900) ∗ � �
+0.91 miles − 0.92 miles = −0.01 = 0.0 mile 6060/60
+25 feet factor. mile 1 interval is miles
+1 hour or 60 minutes; thus, the (510 � ∗ �1 � ∗� �∗ �60 minutes �� = �� =
+Queue =of 0.73 +vehicles �−390 unserved
+Number unserved = unserved −vehicles 900) �∗ �∗�vehicle
+Delay 25.5 minutes + �−390 vehicles � hour = −390 unserved vehicles in∗second 5280 feet vehicles per hour 2 lanes hour 60 900 • A negative number the work zone capacity 0.91 − 0.92 =means −0.01 = vehicles 0.0 =miles −390 unserved in second hour exceeds the traffic demand; thus,
+25.5 miles minutes − 26.0 minutes = −0.05 =mile
+0 minutes 1
+60 minutes unserved vehicles from the first hour will be dissipated.
+Delay = 25.5 minutes + �−390 unserved vehicles ∗ � �∗� �� = 900 vehicles per hour
+25 feet mile
+1 hour � ∗ � � ∗ � �� =
+Queue = 0.73 miles + �−390 unserved vehicles ∗ �
+25.5 minutes − 26.0 minutes = −0.05 = 0 minutesvehicle 5280 feet
+2 lanes 1
+60 minutes
+0 vehicles vehicles
+Delaymiles = 25.5 minutes +=�−390 unserved ∗25 �feet � ∗ � mile � ∗� �∗ � 1 �� = �� =
+Queue 0.73 miles + �−390 unserved vehicles ∗ � 0.91 − 0.92 miles −0.01 = 0.0 mile
+900 vehicles per hour 2 lanes hour
+Traffic demand = (263 + 524) ∗ �1 − � = 787vehicle 5280 feet 100
+25.5 miles minutes − 26.0 minutes = −0.05
+0 minutes hour 0.91 − 0.92 miles = −0.01 = 0.0=mile 0 vehicles
+Traffic demand = (263 + 524) ∗ �1 − � = 787 1
+60 minutes 100vehicles ∗ �hour
+Delay zone = 25.5 minutes + �−390 unserved �∗� �� =
+Work capacity = 350 vehicles/hour
+900 vehicles per hour hour 1
+60 minutes
+0 vehicles ∗vehicles
+Delay = 25.5 minutes + �−390 unserved � � ∗ � �� =
+Traffic demand = (263 + 524) �1 − = 0 �minutes = 787 900 vehicles per hour
+25.5 minutes − 26.0 minutes = ∗−0.05 hour 100 hour
+Work zone capacity
+350 vehicles/hour
+25.5 minutes − 26.0 = minutes = −0.05 = 0 minutes 30
+Answer:
+The work zone queue has−fully with no delays at the end of the
+Number of unserved vehicles = (787 350)dissipated ∗� �
+60 vehicles 0 third hour.
+Work capacity = 350 vehicles/hour
+Trafficzone demand ==(263 + 524) ∗ �1 − � = 787minutes
+219 unserved vehicles
+30 vehicles 100 hour
+0 after 30
+Number of unserved vehicles � �
+Traffic demand = (263 + 524)=∗(787 �1 −− 350) � =∗ 787
+In Example #1c, the number of unserved vehicles is negative (-390). This is great news 60 100 hour = 219 unserved vehicles after 30 minutes 30 because now the work zone capacity exceeds
+25 feet significantly mile
+1 unserved traffic demand from
+Number unserved = (787
+Work zone capacity =vehicles 350 vehicles/hour � ∗ �∗ �60� � ∗ � � = 0.52 = 0.5 mile
+Queue =of 219 unserved vehicles ∗ � − 350)
+5280 feetdissipate
+2 directions the second hour; causing queuesvehicle to completely by the end of the third hour. This
+Work zone capacity = 350 vehicles/hour = 219 unserved vehicles after 30 minutes is why congestion is targeted in the
+PM overnight hours1when traffic volumes are declining
+25 feet mile �∗� �∗� � = 0.52 = 0.5 mile
+Queue = 219 unserved vehicles ∗ � vehicle 5280 feet
+2 directions 30 because any congestion created will dissipate overnight. 1 60 minutes
+Number unserved vehicles = ∗(787 �
+Delay = of 219 unserved vehicles � − 350) ∗ �60 30 � ∗ � hour1 � = 37.5 = 38 minutes 350 vehicles permile hour
+25 feet (787 � ∗ �
+Queue = 219 unserved vehicles ∗ � � � ∗ �2 directions� = 0.52 = 0.5 mile
+Number of unserved vehicles = − 350) ∗ � = 219 unserved after 30 minutes
+Now traffic through work zonevehicles isvehicle free flow. 5280 feet 60 1
+60 minutes �∗� � = 37.5 = 38 minutes
+Delay = 219 unserved � = 219 vehicles unserved∗ vehicles after minutes
+350 vehicles per30 hour hour
+WSDOT Traffic Manual M 51-02.10
+Page 5-31 0
+Traffic demand = (263 + 524) ∗ �125 −feet �1 = 787 vehicles/hour
+60 minutes mile 1 100 ��∗∗�� � �==37.5
+Delay = 219 �∗� 0.52==38 0.5minutes mile
+Queue
+219 unserved unserved vehicles ∗ � 350 vehicles per hour vehicle 5280 feet
+
+hour
+2 directions Chapter 5
+15 vehicles in second hour = −390 unserved
+Traffic demand = 600 �1 vehicles/hour/lane − � = 510 vehicles/hour
+Work zone capacity = ∗900 × (1 open lane) = 900 vehicles/hour 100 60(1 open lane) = 900 vehicles/hour
+Work zone capacity = 900 vehicles/hour/lane ×
+Number of unserved vehicles = (510 − 900) ∗ � �
+Work Zone Traffic Control 60 25 feet mile 1 �∗� �∗� �� =
+Queue = 0.73 miles + �−390 unserved vehicles ∗ � hour = −390 unserved vehicles in second vehicle
+5280 feet
+2 lanes 60(1
+Work zone capacity = 900 vehicles/hour/lane × open lane) =lane 900with vehicles/hour
+Example #2A:
+U.S.
+Highway 12 is reduced to a single open traffic alternating (510
+Number of unserved vehicles = − 900) ∗ � � 60
+0.91 miles − 0.92 miles = −0.01 = 0.0 mile 60� (510 − 900)
+Number of unserved vehicles =mountain ∗ �without via flagger (no pilot car) in a pass any alternative routes available
+60 hour = −390 unserved vehicles in second
+25 feet mile 1 during daylight hours.
+The distance between = −390 unserved vehicles in second hour � ∗ is � 1 mile. � ∗The � average �� = typical traffic
+Queue = 0.73 miles + �−390 unserved vehicles ∗60�flaggers vehicle 5280 feet 2 lanes 1
+60 minutes
+Number of unserved vehicles = (510 − 900) ∗ � � volume this hour is 263 from
+Delay =during 25.5 minutes +=�−390 unserved vehicles ∗ � eastbound and � ∗ �524 vehicles/hour �� = 60from
+0.91 miles − 0.92 miles −0.01 =vehicles/hour
+0.0 mile
+900 vehiclesmile per hour
+25 feet
+1 hour = −390 unserved vehicles in second hour � ∗minutes � �of ∗ �lane closure. �� =
+Queue = 0.73Determine �−390 unserved ∗ after � westbound. the= queue 30
+Assume
+25.5 minutes −miles 26.0+ minutes −0.05and =vehicles
+0 delay minutes vehicle 5280 feet
+2 lanes
+25 feet mile 1 �∗� �∗� �� =
+Queuequeues = 0.73 miles + �−390 unserved vehicles ∗two � directions. traffic are split evenly between the vehicle
+5280 feet
+2 lanes
+0.91 miles − 0.92 miles = −0.01 = 0.0 mile 1
+60 minutes
+0.91 miles − 0.92 miles+=�−390 −0.01unserved = 0.0 mile
+Delay = 25.5 minutes vehicles ∗25�feet � ∗ �1 �� =
+900 vehiclesmile per hour hour � ∗ � � ∗ � �� =
+Queue = 0.73 miles + �−390 unserved vehicles ∗ � 0 vehicles
+5280 feet
+2 lanes
+Traffic demand = (263 + 524) �1 − = 0 �minutes = 787vehicle
+25.5 minutes − 26.0 minutes = ∗−0.05 1
+60 minutes
+0.91 miles − 0.92 miles+=�−390 −0.01unserved = 0.0 100 mile
+Delay = 25.5 minutes vehicles ∗ �hour �∗� �� =
+900 vehicles hour
+1 per hour
+60 minutes
+Delay = 25.5 minutes + �−390 unserved vehicles ∗ � �∗� �� =
+900 vehicles per hour hourthe work zone must • Because alternated in a=single open lane via flagger-control, 25.5 minutes traffic − 26.0 is minutes = −0.05
+0 minutes vehicles 25.5 minutes − directions 26.0 = minutes −0.05 Therefore, =00 minutesthe
+Work zone capacity vehicles/hour serve both of=traffic. volumes are combined. 1
+60 minutes
+Traffic demand = (263350 524) ∗unserved �1 − � = 787∗ � directional
+Delay =
+25.5 minutes ++�−390 vehicles �∗� �� = 100 hour
+900 vehicles per hour hour • Diversion rate = 0 percent or 0/100.
+No alternative routes are available. 0 vehicles
+25.5 minutes − 26.0 minutes = ∗−0.05
+Traffic demand = (263 + 524) �1 − =00 �minutes = 787 vehicles 30 100
+Trafficzone demand = (263 + 524) �1 −− 350) � = 787 hour
+Number of unserved =∗(787
+Work capacity =vehicles 350 vehicles/hour 100 ∗ �60� hour
+0 after 30 minutes vehicles = 219 unserved vehicles • Conventional roadway work capacity
+Traffic demand = (263 + 524) ∗ �1zone − � = 787 information is found in Exhibit 5-10 based on
+Work zone capacity = 350 vehicles/hour 100 hour 30
+1 mile between flaggers.
+Work zonedistance capacity =
+350 vehicles/hour
+Number of unserved vehicles = (787 − 350) ∗ � � 60
+25 feet mile 1 � ∗ � 30 minutes �∗� � = 0.52 = 0.5 mile
+Queue = 219 unserved vehicles ∗vehicles � = 219 unserved vehicle after 5280 feet
+2 directions 30
+Work zone capacity =vehicles
+350 vehicles/hour
+Number of unserved = (787 − 350) ∗ �30�
+Number of unserved vehicles = (787 − 350) ∗ �60� 60minutes = 219 unserved vehicles after 30 1
+60 minutes
+25 feet after mile 1 = 219 unserved vehicles 30 ��∗∗�� � �==37.5
+Delay = 219 30minutes � ∗ �per hour 0.52==38 0.5minutes mile
+Queue
+219 unserved unserved vehicles ∗ �350 vehicles hour vehicle 5280 feet
+2 directions (787 − 350) after
+Number of unserved vehicles ∗ � �30 minutes; • We are determining the =queue/delay thus, the 30/60 factor. 60
+25 feet mile 1 = 219 unserved � after ∗ � 30 minutes �∗� � = 0.52 = 0.5 mile
+Queue = 219 unserved vehicles ∗vehicles � vehicle 5280 feet
+2 directions
+25 feet mile 1 � ∗1 � � ∗ �60 minutes � = 0.52 = 0.5 mile
+Queue = 219 unserved vehicles ∗ � 0 feet� ∗ � 2 directions � = 37.5 = 38 minutes
+Delay =
+219 unserved � vehicle
+Traffic demand = (263 vehicles + 524) ∗∗�1 − vehicles � =5280 787 vehicles/hour 350 hour
+100 per hour
+25 feet mile 1
+60 minutes • Problem assumed queues evenly between both directions for � ∗1 �are split 0.52 0.5 mile
+Queue = 219 219statement unserved vehicles vehicles ��∗∗�� � �==37.5 ==38 minutes unserved ∗∗ �� vehicle
+5280 feet
+350 vehicles
+1 per hour
+
+2 directions hour
+60 minutes simplicity; thus, divided queue
+Delay = 219 unserved vehicles ∗ � by02 directions. �∗� � = 37.5 = 38 minutes per hour hour
+Traffic demand = (263 + 524) ∗ �1350 − vehicles �=
+787 vehicles/hour 100 1
+60 minutes �∗� � = 37.5 = 38 minutes
+Delay = 219 unserved vehicles ∗ � 0
+350 vehicles per hour hour
+Traffic demand = (263 + 524) ∗ �1 − 0 � = 787 vehicles/hour 100
+Traffic demand = (263 + 524) ∗ �1 − � = 787 vehicles/hour 100
+Answer: The work zone queue is estimated as 0.5 mile in each direction with 38 minute 0 delays 30 = minutes of lane
+Traffic after demand (263 + 524) ∗ �1closure. − � = 787 vehicles/hour 100
+
+As demonstrated In Example #2A, the traffic demand far exceeds the work zone capacity and delays become substantial even after only 30 minutes of closure. A logical solution would be performing the lane closure during times when traffic volumes are lower, such as at night, but that may not be an option in some situations. Let’s say the work must be performed at the time and volumes listed above. What now?
+There are two remedies to improve the situation. Minimize the distance between flaggers as much as possible and use a pilot car as shown in Example #2B on the next page.
+Page 5-32
+WSDOT Traffic Manual
+M 51-02.10 = 219 unserved vehicles after 30 minutes
+Work Zone Traffic Control
+Queue = 219 unserved vehicles ∗ �
+25 feet vehicle �∗� mile
+5280 feet �∗� 1
+2 directions
+
+� = 0.52 = 0.5 mile
+Chapter 5
+Example #2B: The traffic control in Example #2A has been modified. Flaggers with a pilot car escorting motorists through the work zone is used. The distance between flaggers 1
+60 minutes ∗� � = 37.5 = 38
+Delay = 219 unserved vehicles ∗ � Determine the �queue has been reduced to 1500 feet. and delay after 30minutes minutes of lane
+350 vehicles per hour hour closure. Assume traffic queues are split evenly between the two directions.
+Traffic demand = (263 + 524) ∗ �1 − 0 � = 787 vehicles/hour 100 • Because traffic is alternated in a single open lane via flagger-control, the work zone must serve both directions of traffic. Therefore, the directional volumes are combined. • Diversion rate = 0 percent or 0/100.
+Work zone capacity = 650 vehicles/hour • Conventional work zone capacity information is found in Exhibit 5-10 based on
+Work zone capacityroadway = 650 vehicles/hour 30 ½ mile between with∗ pilot
+Work zone capacity =
+650 vehicles/hour (787 − 650)
+Number of distance unserved vehicles =flaggers � � car. = 69 unserved vehicles after 30 minutes 60 30
+Work zone capacity =
+650 vehicles/hour
+Number of unserved vehicles = (787 − 650) ∗ � � = 69 unserved vehicles after 30 minutes 30 60
+25 feet mile 1
+Number=of − �650)
+30 minutes ∗ � ∗ �60�� = ∗ �69 unserved � =vehicles 0.16 = after
+0.2 mile
+Queue 69unserved unservedvehicles vehicles=∗(787 � vehicle
+5280 feet
+2 directions • We are determining the queue/delay after 30 minutes; thus, the 30/60 factor.
+
+30
+25 feet mile 1
+Number=of − �650)
+30 minutes
+Queue 69unserved unservedvehicles vehicles=∗(787 � ∗ � ∗ �60�� = ∗ �69 unserved � =vehicles 0.16 = after
+0.2 mile vehicle feet
+2 directions
+25 feet 1 5280 mile 1
+60 minutes �∗� 0.16 =minutes
+0.2 mile
+Queue = 69
+69 unserved unserved vehicles vehicles ∗∗ �� ��∗∗�� � �==6.4 =6
+Delay = vehicle 5280 feet 650 vehicles per hour
+
+2 directions hour • Problem statement assumed queues between both directions for � ∗1 � are split � ∗ evenly �60 minutes 0.16 =minutes 0.2 mile
+Queue = 69
+69 unserved unserved vehicles � �==6.4 = 6
+Delay = vehicles ∗∗ ��vehicle 5280 feet� ∗ � 2 directions
+650 vehicles per hour hour 1 60 minutes simplicity; thus, divided by 2 directions. = 69 unserved vehiclesqueue ∗� �∗� � = 6.4 = 6 minutes
+21 Rolling Slowdowns Delay
+25 feet mile
+650 vehicles per hour 1
+Equations: �∗�
+Delay = 69 unserved vehicles ∗ �
+21 Rolling Slowdowns
+650 vehicles per hour
+21 Rolling Slowdowns 1
+
+Equations: hour
+60 minutes hour � = 6.4 = 6 minutes
+Answer:TCLEAR
+The work queue is estimated as 0.2 mile in each direction with 6 minute × VRSzone × VTRAFFIC
+DRS = after 30 minutes of lane closure.
+21 Rolling Slowdownsdelays 60 × (VTRAFFIC − VRS )
+Equations:
+TCLEAR × VRS × VTRAFFIC
+DRS =
+As demonstrated
+In Example #2B, even though work zone congestion occurs, it has been × TRAFFIC
+VRS × −
+VTRAFFIC
+TCLEAR 60 × (V
+VRS )
+DRS = improved greatly by simply − Vreducing 60 × (VTRAFFIC
+RS ) × DRS the distance between flaggers and using a pilot
+TCLEAR =60 × (VTRAFFIC − VRS )
+VVRSthe × work’s
+VTRAFFICduration (a few hours versus all day), additional mitigation car. Depending
+TCLEAR ×on
+RS × VTRAFFIC
+D = (V − Perhaps,
+VRS ) × DRS
+RS 60 × strategies will be TRAFFIC needed. flagger spacing can be reduced to 1500 feet so work (V
+DRS − VRS ) × expected 60 ×(775vph)
+VTRAFFIC
+RS × Vmatches
+TRAFFIC zone capacity traffic demand (787 vph). = × D
+T 60
+CLEAR
+
+RS
+VRS × VTRAFFIC
+V
+RS ×zone (VTRAFFIC
+A goal in work design to×allow
+DRS crews to complete needed work while managing work − Vis 60
+RS ) = × DRS
+TCLEAR 60 zone and cooperation is necessary. This is exactly what work zone
+TRS =mobility; collaboration
+60 V×RSDRS congestion is all about.
+TRS = 60 ×management
+D
+VRS RS
+VRS =
+60 T×RSDRS
+TRS = 60 × DRS
+VRS
+60 T×RSDRS
+T
+V = CLEAR × VRS × VTRAFFIC → D = 10 × 20 × 60 = 12000 = 5.00 = 5.0 miles
+DRS
+TRS(V
+RS =
+RS (60−20) )
+
+TRS = 60 ×
+TRAFFIC − VRS 60 × 2400 60 × DRS 10 × 20 × 60 12000
+VRS = TCLEAR × VRS × VTRAFFIC
+DRS =
+T×RS(VTRAFFIC− VRS ) → DRS = 60 × (60−20) = 2400 = 5.00 = 5.0 miles 60
+T ×V ×V 10 × 20 × 60 12000 × DRS RS TRAFFIC 60 ×→5.00
+DRS =300 (60−20) = = 5.00 = 5.0 miles
+DRS = 60CLEAR 2400
+TRS = 60 × (VTRAFFIC → TRS− V=RS ) = 60 × = 15 minutes
+VRS 20 20
+T ×V ×V 10 × 20 × 60 12000 × DRS RS TRAFFIC 60 ×→5.00 300
+D = = = 5.00 = 5.0 miles
+DRS = 60CLEAR
+RS (60−20) 2400
+TRS = 60 × (VTRAFFIC → TRS− V=RS ) = 60 × =
+15 minutes
+60 V×RSDRS 60 × 5.00 300 20 20
+TRS = slowdown → location
+TRS = = Work=Area =
+15 minutes
+Rolling
+VRS 20 20 + DRS = 145.78 + 5.0 = 150.78
+WSDOT Traffic Manual M 51-02.10 60 × DRS 60 × 5.00 300
+TRS = slowdown → location
+15 minutes
+VRS 20 20 + DRS = 145.78 + 5.0 = 150.78
+
+Page 5-33 Chapter 5
+Work Zone Traffic Control
+F.
+Complex Work Zone Queues & Delays
+Region Traffic Operations should perform complex work zone traffic analysis. The WSDOT
+Transportation Data, GIS & Modeling Office (TDGMO) can assist by providing work zone traffic analysis to help determine expected queuing and delays.
+For more complex situations, consider using one of the numerous work zone queue analysis tools available: • WSDOT’s Capacity-Queue-Delay Microsoft Excel Sheet
+This WSDOT-developed tool estimates queues, delays, and user delay costs based on 15-minute intervals and includes traffic diversion rates. There is an hourly volume to 15-minute volume converter included if needed.
+The Excel files are available here. Copy the Excel files onto your desktop first before modifying. For detailed explanations, contact WSDOT HQ Work Zone Engineers. • CA4PRS (Construction Analysis for Pavement Rehabilitation Strategies)
+This software is an agency decision-support tool to help select the most effective and economical construction and work zone strategies in terms of schedule, traffic impacts, and agency costs. CA4PRS is especially beneficial for large roadway rehabilitation and widening projects in congested urban areas having high-traffic impacts.
+CA4PRS software is free to WSDOT staff; for details, see the CalTrans CA4RPS website. • QuickZone
+This software is a spreadsheet-based traffic analysis tool to estimate costs, traffic delays, and queues for urban and rural work zones, including alternating two-way traffic in a single lane.
+For details, see the FHWA QuickZone website. • SYNCHRO
+This software is typically used for permanent traffic signal design; however, it is useful for temporary signal design for work zones as well for developing signal timing plans. • Highway Capacity Manual, 6th Edition
+This manual is used for work zone traffic analysis of long-term staged configurations (remaining in place 24/7 for weeks), not intermediate-term (≤ 3 days) closures. • FHWA Traffic Analysis Tools Program – Deployment Track
+Volumes VIII, IX, and XII specifically relate to work zones and provide comprehensive information. All three volumes are available at this FHWA webpage. • FHWA Sponsored Work Zone Traffic Management Analysis Training
+Illinois College of Engineering provides a free 2-day class for work zone analysis via analytical method training throughout the nation. Check the registration/class schedule webpage and contact information for future courses.
+
+Page 5-34
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control 5-10
+Chapter 5
+Permitted Closure Restrictions
+On Design-Bid-Build construction projects, permitted closures are listed in the Contract’s
+Special Provisions (Specials) and in the Request for Proposal (RFP) on Design-Build projects.
+Maintenance closures are typically determined on a case-by-case basis.
+When determining permitted closure hours for Contracts, consider the closures occur over months or years. At the Agency’s option, permitted closure hours can be expanded during construction on a case-by-case, trial basis; however, if work zone congestion becomes intolerable and the Agency reduces the permitted hours after bidding, it may result in claims from the Contractor. On the other hand, if permitted closure hours are too conservative, it decreases the available working hours and may result in increased construction costs for negligible work zone congestion reductions.
+Because Maintenance closures occur for a day or a few days, the Agency may assign less conservative closure hours with the understanding Maintenance crews remove the closure if work zone congestion become excessive.
+Closure hours are provided for all permitted closures, including but not limited to: • Shoulder closures • Lane closures • Ramp closures • Roadway or directional roadway closures • Staged construction allowable durations • Pedestrian curb, traffic island, and/or sidewalk closures • Extended lane closures for specific work operations • Continuous roadway, directional roadway, lane, and/or ramp closures
+
+A.
+Contractor Cooperation and Permitted Closure Restrictions Due to
+Other Projects
+Contract PS&Es should provide an Other Contracts or Other Work section of anticipated projects, both State and local agency, occurring adjacent to or within the limits of the project requiring coordination and cooperation between Contractors.
+Additional restrictions on permitted closures may be specified during scheduled roadway closures, directional roadway closures, and weekend lane closures occurring on other projects. This is often used on significant alternative routes around a major closures; for example, restricting any lane closures on southbound I-205 when southbound I-5 is closed for an adjacent project in Vancouver, Washington.
+Consider language requiring a minimum of 1 mile between adjacent lane closures. For example, if a double right lane closure precedes a double left lane closure then the closures need to be separated by at least 1 mile to allow advanced warning signs for the second closure to be installed but also allow motorists sufficient time to transition across lanes.
+If PCMSs are used in addition to advanced warning signs, then increase the distance to
+1.5 mile minimum.
+WSDOT Traffic Manual
+M 51-02.10
+
+Page 5-35 Chapter 5
+Work Zone Traffic Control
+B.
+Holiday Restrictions for Permitted Closures
+Contract PS&Es may restrict permitted closures from occurring during holidays and holiday weekends (when the holiday occurs on Friday, Saturday, Sunday, or Monday). Typically, the restriction begins noon the day prior and may continue until noon the day after the holiday or holiday weekend. These holidays are listed in the WSDOT Standard Specifications
+Section 1-08.5.
+Canadian holiday restrictions may be needed for projects near British Columbia; each
+Canadian holiday should be listed and typically include: • Good Friday (Friday before Easter) • Easter Monday (Monday following Easter) • Queen’s Birthday/Victoria Day (closest Monday to May 20) • Canada Day/Dominion Day (always July 1) • B.C. Day (first Monday in August) • Thanksgiving Day (second Monday in October) • Boxing Day (always December 26)
+C.
+Special Event Restrictions for Permitted Closures
+Contract PS&Es may restrict permitted closures from occurring two hours prior to, during, and/or two hours following major special events. Communication with stakeholders (including local interest groups) and obtaining their concurrence or understanding is important for public relations throughout Planning, Design, and Construction.
+Each special event and its restriction interval should be clearly specified, including projected attendance thresholds when applicable. Clarification whether the restriction occurs for a time interval prior to, during, and/or after the event depends on anticipated traffic impacts caused by event traffic. Directional routes going towards the event experience increased volumes prior to the event while routes going away from the event experience increased volumes after the event. During the event, traffic volume may not be impacted by games and concerts but impacted by all-day events such as State Fairs.
+Region Traffic Operations use experience to determine special event restrictions, including the event’s project attendance threshold based on the project’s location, but some special events that typically restrict permitted closures include: • All Seattle Seahawk and Washington Huskie home football games • T-Mobile Park, Century Link Field, or Tacoma Dome significant events • Annual Seafair Hydroplane Race Weekend • Washington State Fairs • Watershed Music Festival at the Gorge Amphitheater • Hoopfest Weekend 3-on-3 Basketball Tournament in Spokane • Issaquah Salmon Days
+
+Page 5-36
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5
+In addition, the special event may impact traffic locally, regionally, or statewide. For example,
+Issaquah Salmon Days traffic impact tends to be more local than Seattle Seahawk games which are more regional. Events such as Hoopfest Weekend 3-on-3 Basketball Tournament have statewide impacts, especially on Interstate 90 between Seattle and Spokane.
+With the restrictions in place, the Region Traffic Operations can still provide case- bycase exceptions to the restrictions but are not obligated to do so; thus, giving the
+Agency flexibility.
+In the event the Agency allows permitted closures to occur during listed special event restrictions, it is especially important to consider the combined traffic impacts of multiple special events occurring concurrently. For example, when the Seattle Sounders and Mariners have concurrent games occurring in the afternoon, the traffic impacts are far greater than if one game occurred in the afternoon and the other in the evening.
+Special Event Exception Example: There is a Construction work zone on Southbound I-5 (south of the stadium, influenced by the exiting event traffic). Mariners home game ends late Wednesday evening around 10:15pm (7:10 p.m. game) and exceeds the attendance threshold in the Specials, which restricts any lane closures until two hours after the event.
+Simply prohibiting all lane closures until 12:15am often results in the Contractor not performing any lane closures that night (since they have less than 5 hours to install traffic control, perform minimal work, and typically reopen by 6am at the latest). Instead of completing the project in one season, it may become two because of the 40+ Mariner home games each season.
+On a case-by-case basis, after performing work zone traffic analysis, the Region Traffic
+Operations may allow the Contractor to close 3 of 5 lanes on Southbound I-5 (in the path of exiting event traffic) during normal Contract hours but then delay the fourth lane closure until 11:30 p.m. to accommodate exiting game traffic (late night events tend to clear within about an hour after the event ends) even though the fourth lane is normally closed 11:00 p.m. per Contract PS&E. This allows Construction crews to install traffic control for the triple lane closures and work while still accommodating game traffic. This essentially maintains an open lane for game traffic and the other lane for typical non-event traffic to help minimize work zone congestion. At 11:30 p.m., once the game traffic is expected to clear, the roadway is reduced to one open lane and the work area maximized.
+By doing so, the Contractor still completes work (albeit a reduced quantity) while mobility through the work zone is maintained versus simply performing no work at all.
+In areas with special lane restrictions (High-Occupancy Vehicle or Express Toll Lanes), consideration rather left lane closures or right lane closures are implemented can be important. Closing right (general purpose) have higher impacts as motorists need to utilize the HOV or ETL and are reluctant to do so even when those lanes are signed as open to all traffic.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-37 Chapter 5 5-11
+Work Zone Traffic Control
+Closure Notification Requirements
+On Design-Bid-Build construction projects, closure notification requirements are listed in the Contract’s Special Provisions and in the Request for Proposal (RFP) on
+Design-Build projects.
+Typically, the advance notification requirements are as follows: • Notify the Engineer in writing 5 calendar days in advance of any shoulder, lane, ramp, and sidewalk closure • Notify the Engineer in writing 14 calendar days in advance of any roadway closure • Notify the Engineer in writing 30 calendar days in advance of any continuous lane, continuous partial roadway, or continuous roadway closure • Notify the Engineer in writing 60 calendar days in advance of any continuous lane, continuous partial roadway, or continuous Interstate Highway System roadway closure lasting 7 consecutive days or more • Provide a detailed traffic control closure schedule to Engineer for review and acceptance by noon Monday three weeks prior to implementing traffic control. • Specifications should include language that notifications do not imply approval of closures
+Typically, public notification requirements are as follows: • Furnish and install information signs providing advance notification of road closures and/ or ramp closures at least five working days prior to the closure • Notify Washington Patrol; local fire, police, emergency services, and city engineering departments; Medic 1 and local transit agency (when applicable); other transit companies; and affected school districts in writing at least five working days in advance of each closure 5-12
+FHWA Notification Requirements for Closures & Use Restrictions
+To assure compliance with federal law (23 CFR 658.11), the Federal Highway Administration
+Washington Division (WADIV) needs to receive proper notification when closing certain routes.
+WSDOT is required to provide WADIV advanced notification of full closures or use restrictions on the Interstate Highway System and Federal-aid primary routes. For National
+Highway System routes in Washington, click here.
+Full closures: When all mainline travel lanes in one direction of travel or both directions of travel are closed to traffic due to construction activities, emergency closures, or for special events. Interstate to Interstate interchange ramp closures are included in this designation.
+Detours onsite or otherwise are also included in this designation.
+Use Restriction: Restriction in place that limits the vehicle type, load, or function of the facility. The most common use restriction would be closing a route to all commercial vehicles. WADIV approves use restrictions on the Interstate Highway System and Federalaid primary routes.
+
+Page 5-38
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5
+The Region Traffic Operations typically performs this FHWA notification via email to
+Washington.FHWA@dot.gov. Contact information for the FHWA Field Operation Engineers and the WSDOT Regions they cover is available at this FHWA website.
+The required FHWA notification is summarized in Exhibit 5-11 on the next page:
+Exhibit 5-11
+FHWA Notification Requirements for Closures
+Closure Description and Duration
+Interstate full closure or use restriction (7+ consecutive days)
+
+Required WSDOT Action/FHWA Role
+Send WADIV notification 60 calendar days in advance of potential closure.
+Send additional notifications as specific details are updated.
+WADIV sends recommendation of approval to
+FHWA HQ.
+FHWA HQ approval needed.
+Interstate full closure or use restriction (48+ continuous hours to 7 consecutive days)
+Send WADIV notification 14 calendar days in advance of potential closure.
+Send additional notifications as specific details are updated.
+WADIV concurrence needed.
+
+Interstate full closure or use restriction (between 12 to 48 continuous hours)
+Send WADIV notification 7 calendar days in advance of potential closure.
+Send additional notifications as specific details are updated.
+Federal-aid primary system full closure or use restriction (7+ consecutive days) 5-13
+Send WADIV notification 7 calendar days in advance of potential closure.
+Send additional notifications as specific details are updated.
+Work Zone Closure Coordination
+Because performing several work zone closures concurrently can result in significant conflicts and adverse region-wide impacts to mobility, it is critical to coordinate closures.
+Through proper coordination, conflicting closures are avoided and adverse impacts to the traveling public reduced. It is important to coordinate between different Regions for highimpact closures.
+Contact Region Traffic Operations to determine how work zone closures are coordinated in each region. In the Northwest Region, the Construction Traffic & Coordination Office (CTCO) will utilize advanced coordination methods due to the large number of competing projects within a specific area.
+As part of WSDOT’s Transportation System Management and Operations (TSMO), the
+WSDOT Next Generation Work Zone Database is a useful tool used by Regions to manage, avoid overlapping work zone conflicts, and combine work zone closures for several work operations when feasible to minimize traffic control costs. For additional information, view the User’s Manual.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-39 Chapter 5 5-14
+Work Zone Traffic Control
+Interim Liquidated Damages
+Interim liquidated damages (ILDs) are monies assessed or withheld from the Contractor for failure to reopen roadway closures, lane closures, and ramp closures by the time specified in the Contract PS&E.
+On Design-Bid-Build construction projects, ILDs are listed in the Contract’s Special
+Provisions and in the Request for Proposal (RFP) on Design-Build projects.
+WSDOT TDGMO determines maximum ILD values based on the calculation of societal costs resulting from travel delays. To request interim liquidated damages, the Region Traffic or Project Engineering Office should complete the Interim Liquidated Damages Request
+Form (Form 312-001) and submit it to the TDGMO two weeks in advance of the date the values are needed. Per the Plans Preparation Manual Section 700.01(18), the TDGMO has standardized methodology for calculating interim liquidated damage values and is the only office with the authority to compute them.
+To request interim liquidated values from TDGMO will need the following form and information sent via email: • Form 312-001 Interim Liquidated Damages Request Form • Permitted closure hours, including days of week • Hourly traffic volumes used to establish permitted hours for each closure • Work zone traffic control plans for each closure • Detour plan(s) for each roadway closure or ramp closure, including hourly traffic volumes for the detour route if available • Vicinity map • Draft version of the interim liquidated damages section that will be included in the
+Contract PS&E, leaving the actual value amounts empty
+Region Traffic Operations will then assign the actual liquidated damage value for each closure based on the maximum allowable amounts determined by TDGMO.
+
+Page 5-40
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control 5-15
+Chapter 5
+Commercial Vehicle Considerations
+Freight transportation systems, including bridges and highways, are critical to supporting and growing more jobs, increasing regional domestic product, and developing a larger tax base. The multimodal freight transportation system allows business in Washington to effectively compete in regional and global markets.
+Washington is the second-most trade-dependent state in the nation according to U.S.
+Department of Commerce International Trade Administration. Nationally, truck freight moves nearly 70 percent of all shipments according to USDOT Bureau of Transportation
+Statistics and FHWA. Each semi tractor-trailer carries about $25,000 in freight (2017).
+A.
+
+Truck Freight Critical Corridors
+The FGTS Truck Freight Corridor map shows freight corridors in Washington (Ranging from
+T-1 to T-5, with T-1 being the most critical).
+Long-term duration stationary work zones should accommodate WB-67 design vehicles (a typical semi tractor-trailer) on T-1 and T-2 corridors, which include freeways and major arterial corridors. On corridors with heavy movements of Oversized & Superload commercial freight, consider either accommodating those larger vehicles or reducing the duration their movements are restricted. Coordination and collaboration with heavy freight haulers is advised.
+Of particular concern are single lane ramps or single lane roadways delineated with temporary traffic barrier and/or guardrail on both sides. A minimum travel width of 16 feet plus any adjustments for traveled way widening values on open highway curves to accommodate the difference in tracking width of the WB-67 design vehicle’s rear trailer axles that “cut” into the curve should be maintained.
+See WSDOT Design Manual Chapter 720 for any temporary vertical clearance reductions, especially on the mainline of T-1 and T-2 freight routes. There have been numerous impacts from oversized loads to both permanent and temporary structures, even when advanced warning signs and over-height warning systems are in place.
+If a construction or maintenance project is narrowing the roadway or restricting the vertical clearance, WSDOT Commercial Vehicle Services needs to be contacted at least 7 calendar days in advance.
+B.
+Oversized and Superload Truck Freight
+There are two categories of large truck freight, Oversized and Superloads:
+Large Truck
+Freight Category
+
+Width (feet)
+Length (feet)
+Height (feet)
+Weight (pounds)
+Oversize
+8.5 to 16
+Varies to 125
+14 to 16 105,500 to 200,000
+Superload > 16 > 125 > 16 > 200,000
+WSDOT Traffic Manual
+
+M 51-02.10
+Page 5-41 Chapter 5
+Work Zone Traffic Control
+C.
+Oversized Freight Considerations
+Oversized loads are usually self-permitting and do not require permission from the
+WSDOT Construction offices to travel through work zones; however, they are responsible for checking oversize/overweight restrictions and vertical clearance restrictions prior to transport.
+Oversized freight still show up unexpectedly in work zones; therefore, it is desirable to provide a 16-foot wide travel way when possible; however, work operations often necessitate narrower widths. If a construction or maintenance project is narrowing the roadway or restricting the vertical clearance, WSDOT Commercial Vehicle Services needs to be contacted at least 7 calendar days in advance.
+See Washington Commercial Vehicle Guide for details.
+Oversized truck freight example; modular home straddling both lanes on Interstate 90 at a bridge rehabilitation work zone with a reduced traveled way.
+Source: WSDOT
+
+D.
+Superload Freight Considerations
+Superload permitting is stringent and controlled through Commercial Vehicle Services.
+See Superload Requirements website and Washington Commercial Vehicle Guide for additional information.
+Typically, Commercial Vehicle Services will forward Superload permits to Regions for review.
+Superloads may be required to obtain permission to transport through known work zones at least 72 hours in advance. Superloads can be sensitive to transport restrictions.
+Typically, Superload transport is restricted to 11:00 p.m. to 3:00 a.m. on weeknights and 1:00 a.m. to 6:30 a.m. early Saturday and Sunday mornings, with Superloads exceeding
+20 feet in width restricted to early Saturday and Sunday mornings only. Actual restrictions may vary by Region.
+Superload truck freight example;
+Boeing B1 bomber 131 feet long, 29+ feet wide, and 15 feet high.
+Source: WSDOT
+
+Page 5-42
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control 5-16
+Chapter 5
+Work Zone Traffic Incident Management Strategies
+For major closures, determining permitted closure hours and the accepting the actual dates are critical as the closures must be coordinated with holidays, special events, and other work zone closures. Next, the traveling public and stakeholders need to be informed.
+During the actual closure, it is critical to properly manage any work zone traffic incident since the roadway’s capacity is already reduced. Sooner or later, an undesirable surprise happens including but not limited to: • Traffic control devices get knocked over by an errant vehicle • Disabled vehicle with mechanical failures blocks the only open lane through work zone • A collision involving multiple vehicles with serious injuries or a fatality is blocking lanes • An errant vehicle enters into the work area, attempting to take an “open” exit-ramp, is now stuck in newly placed concrete pavement
+The plan to address such incidents typically consists of at least seven parts: • Traffic Management Center (Section 5-16.A) • Traffic Control Inspections (Section 5-16.B) • Incident Discovery (Section 5-16.C) • Public Outreach (Section 5-16.D) • Advanced Preparation for Major Closures (Section 5-16.E) • Drop Sites for Disabled Vehicles (Section 5-16.F) • Emergency Vehicle Access (Section 5-16.G)
+A.
+Traffic Management Center
+Traffic Management Centers (TMC) serve an essential communication role in incident management. TMCs can contact WSDOT Incident Response Teams, Washington Patrol and other emergency services, and WSDOT staff. TMC can modify motorist information signage to inform the public of incidents, such as an accident.
+For Regional TMC contact information, contact Region Traffic Operations.
+For every work zone closure, provide the Region TMC details of the closure and its location in addition to point of contact information. Keep the TMC updated of the current closure status, including when closures are reopened. The Construction project office or the DesignBuilder will want to verify what pertinent information is needed by the Region TMC when work zone closures are in place and determine whom handles this communication.
+This allows TMC to call the point of contact if there are any traffic control issues, accidents in the work zone, or some other urgent matter.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-43 Chapter 5
+Work Zone Traffic Control
+B.
+Traffic Control Inspections
+Required per WSDOT Standard Specifications Section 1-10, the traffic control supervisor (TCS) shall inspect traffic control hourly during working hours in addition to other periodic inspections during nonworking hours. The TCS shall correct, or arrange to have corrected, any deficiencies noted during these inspections.
+C.
+Incident Discovery
+Per WSDOT Standard Specifications Section 1-10, Contractors are required to have a traffic control manager who oversees temporary traffic control operations and approving actions of the Traffic Control Supervisor.
+Upon discovery of any incidents, the Contractor’s Traffic Control Manager, Traffic Control
+Supervisor, WSDOT Engineer, and Region TMC should be notified.
+Contacting other parties, including local agencies, is determined on a case by case basis.
+
+D.
+Public Outreach
+For work zone incidents with high traffic impacts, the WSDOT Public Information Officer should be contacted so appropriate outreach with news media, social media, and blogs can distribute the information to the traveling public when needed.
+In addition, the Region Traffic Management Center can modify motorist information signage to inform the public of incidents, such as an accident.
+E.
+Advanced Preparation for Major Closures
+Well in advance of major closures, the Construction project engineering office should collaborate with WSDOT Region Traffic Operations, WSDOT Communications, WSDOT
+Communications, WSDOT Regional TMCs, and WSDOT Incident Response Teams (IRTs).
+WSDOT Communications serves an invaluable role in reaching out to the general public and stakeholders providing traffic-related and project information for construction or maintenance projects.
+TMCs can use permanent variable message signs to provide motorists real-time information and advance notification regarding high-impact closures and major incidents. On Active
+Traffic and Demand Management corridors, lane usage symbols and speed limits can be displayed in real-time to supplement temporary traffic control.
+During major weekend-duration lane closures, maintaining the already reduced capacity is critical. By strategically staging IRT and at least one tow truck on site, they can expeditiously respond to any traffic incidents, particularly blocking vehicles. If necessary, IRT and
+WSDOT TMC can collaborate to contact necessary police, emergency agencies, and
+WSDOT management.
+
+Page 5-44
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+F.
+Chapter 5
+Drop Sites for Disabled Vehicles
+For work zones with narrow shoulders, disabled vehicles need to be moved off the roadway.
+Often, Contractor’s nearby staging yard is used to temporarily store the disabled vehicle until it can be retrieved.
+G.
+Emergency Vehicle Access
+It is critical to maintain emergency vehicle access through work zones when possible; sometimes, minutes matter. Examples include: • For long-term projects, when feasible provide adequate paved shoulders (8-foot widths desired) for emergency vehicles to pass queued vehicles, especially on single lane onramps that are metered, or use ramp metering preemption to clear the queue when an emergency vehicle is detected. • During rolling slowdowns, develop a contingency plan to allow critical emergency vehicles access safely through the rolling blockade and work area when transporting critical patients. For additional rolling slowdown information, see Section 5-21.
+If it is not feasible to maintain access during a roadway closure or rolling slowdown, advanced written notification should be provided to affected agencies.
+
+5-17
+Work Zone Safety Management
+Per Secretary’s Executive Order E 1001.02, all WSDOT employees are directed to make the safety of workers and the traveling public our highest priority during roadway design, construction, maintenance, and related activities. First, we need an understanding of work zone statistics because discussing mitigation strategies:
+National work zone statistics • 84 percent of fatalities occur to the traveling public, not workers (ARTBA, 2019) • Nearly all fatal crashes occurred on freeway and arterial roadways with posted speed limits of 45 mph or higher (FHWA, 2018) • 35 percent of fatalities involved large trucks and buses (ARTBA, 2019) • 16 percent of fatalities involve pedestrians and bicyclists (ARTBA, 2019)
+Washington work zone statistics • 7 fatalities occurred to the traveling public (ARTBA, 2019) • 3 fatalities involving a large truck (ARTBA, 2019) • 0 fatalities involving workers (ARTBA, 2019) • 0 fatalities involving pedestrians (ARTBA, 2010)
+The primary focus for work zone safety mitigation should be to the traveling public on freeway and arterial roadways with posted speed limits of 45 mph or higher. Per FHWA, rear-end crashes are the most common type of work zone crash and are overrepresented by large trucks.
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-45 Chapter 5
+Work Zone Traffic Control
+
+Consider the following strategies to help mitigate work zone impacts and enhance safety: • Work zone queuing mitigation (Section 5-17.A) • Positive protection devices (Section 5-17.B) • Work zone speed limit reductions & advisory speeds (Section 5-17.C) • Washington State Patrol enforcement (Section 5-17.E) • Uniformed Police Officer work zone assistance (Section 5-17.F)
+A.
+Work Zone Queuing Mitigation
+At 65 mph, it may take fully loaded semi-tractor and trailers at least 7 seconds and
+500 feet to stop per Work Zone Safety Consortium. It is critical for large truck drivers to anticipate queued traffic and get slowed down in advance. Queue warning systems have reduced associated collisions up to 45 percent per FHWA-supported Work Zone Safety
+Consortium report.
+Queuing mitigation should be considered when queues extend beyond advance work zone signage on roadways with posted speed limits of 45 mph or higher and include: • Truck-Mounted PCMS
+The simplest method is using a truck-mounted PCMS positioned ½ ± mile in advance of queues by moving up and down the paved shoulder in a safe manner as the queue changes. When the queue is no longer present, it is removed.
+This method is appropriate for non-recurring work zone queuing extending beyond the first warning sign, or PCMS if used. For example, queuing occurs for a few hours at the beginning of the lane closure before dissipating overnight and resumes a few hours in the morning before lanes are reopened.
+When used in Contracts, this truck-mounted PCMS can be included in the relevant traffic control plans as an additional PCMS in advance of lane closures that may be truck-mounted. Payment is via standard traffic control bid items already listed in the
+WSDOT Standard Specifications.
+Truck-mounted PCMS displays two messages for 2 second each of a work zone queue ahead. “NEXT # MILES” will be rounded up to the nearest whole mile.
+Source: Modified from Trafcon
+
+Page 5-46
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5 • Queue Warning System
+The Queue Warning System (QWS) provides mitigation that should be considered on 45+ mph roadways for daily, nightly, or weekend-duration closures with non-recurring work zone queuing up to 3 miles that dissipate based on detailed work zone traffic analysis (Section 5-9). Because of its simplicity, QWS works well when lane closure locations change on a daily or nightly basis (like for a paving project) with work zone queuing occurring for a few hours with free-flow traffic conditions otherwise.
+Queue warning systems (QWS) provide automated queue warning, closure information, and lane usage instructions to motorists via two PCMSs. Displayed messages automatically change as the queue lengthens or shortens as detected by 2 traffic sensors, typically located at the last lane closure taper and after the first advanced warning sign. For a 2mile QWS, place two PCMSs at 1± mile spacing prior to the first lane closure taper; for 3-mile QWS, use 1.5± mile spacing.
+QWS components may be provided by the Contractor or through an independent vendor. A QWS Technician programs and operates the system based on accepted traffic control plans and Special Provision/Request for Proposal. QWS Technician is not required to be on site when the system is in use but must be able to response to any system issues remotely. The QWS Technician may be an employee of the Vendor or someone trained and authorized by the Vendor, including Contractor or subcontractor
+Traffic Control Supervisor or other personnel. The Contractor or subcontractor will install, store, and remove the QWS components.
+QWS messaging needs to be included on the lane closure traffic control plan along with speed thresholds, typically 35 mph. Typical freeway lane closure plans are expected to
+QWS messaging as part of the lane closure traffic control plan on Sheet 1A.
+General Specification Provisions and State-wide Request for Proposal for Queue
+Warning Systems is expected to be available starting in 2022. The Contract will specify when the QWS usage is required and specific system requirements.
+QWS is paid using a bid item paying hourly for when the QWS operation is in use, with mobilization and demobilization incidental. Standard traffic control bid items already listed in the WSDOT Standard Specifications will pay for installation and removal of the
+QWS components. • Smart Work Zone System
+Smart Work Zone System (SWZS) provides mitigation that should be considered on 45+ mph roadways for longterm (4+ day), stationary closures with recurring work zone queuing exceeding 3 miles based on detailed work zone traffic analysis (Section 5-9) that should be considered. SWZS can be modified for any expected queue length. SWZS work best when the lane closure location does not move as it uses multiple components with complex programming.
+Smart work zone systems (SWZS) can provide automated travel time information, queue warning, and dynamic lane merge (“zipper merge”) instructions to motorists on a series of PCMSs leading into a work zone. Displayed messages change as the queue lengthens or shortens as detected by several traffic sensors. The number of PCMSs and sensors is determined by the anticipated queue based on detailed work zone traffic analysis
+WSDOT Traffic Manual
+
+M 51-02.10
+Page 5-47 Chapter 5
+Work Zone Traffic Control (Section 5-9). The system’s complexity is adaptable based on the expected queue length and can be modified to meet site- specific situations and conditions.
+SWZS components may be provided by the Contractor or through an independent vendor. A Technician programs and operates the system based on accepted traffic control plans and Special Provision/Request for Proposal. SWZS Technician is required to be on site when the system is in use. The QWS Technician may be an employee of the Vendor or someone trained and authorized by the Vendor, but shall be independent of the Contractor and Traffic Control Supervisor but shall collaborate and coordinate as appropriate. The Contractor or subcontractor will install, store, and remove the
+SWZS components.
+When used in Contracts, a Smart Work Zone System traffic control plan should be included along with speed thresholds, typically 35 mph. Typical plans are available in the
+WSDOT Work Zone Traffic Control Plans for 3-mile and 6-mile SWZS.
+General Specification Provisions are currently available and State-wide Request for
+Proposal for Smart Work Zone Systems is expected to be available starting in 2022. The
+Contract will specify when SWZS usage is required and specific system requirements.
+SWZS is paid using two bid items. One bid item pays for mobilization and demobilization as lump sum; a second bid item pays hourly for when the SWZS operation is in use.
+Standard traffic control bid items already listed in the WSDOT Standard Specifications will pay for installation and removal of the SWZS components.
+
+B.
+Positive Protection Devices
+Positive protection devices are physical barriers not easily penetrated by errant vehicles that enhance work zone safety for both road users and workers. Such devices include temporary barrier, transportable attenuators, and protective vehicles.
+Federal code 23 CFR Part 630 K, requires positive protection devices to be considered, to the extent practical, to manage work zone exposure to reduce the risk of fatalities or injuries to workers and road users. Alternative methods, such as reducing channelization device spacing at work crews, instead of using temporary barrier may be more practical.
+C.
+Work Zone Speed Limit Reductions & Advisory Speeds
+When used to supplement sound work zone design, reduced work zone speed limits and advisory speeds are tools to improve safety; however, they are not a “silver bullet”.
+According to Transportation Research Board’s NCHRP Synthesis 482 “Work Zone Speed
+Management” report (download as a Guest using work email address), work zone speeds will be in greatest compliance with posted speed limits when: • Workers are present and actively working • Double fine signs are posted • Radar speed display signs are used • Police are actively enforcing the work zone speed limit
+Page 5-48
+
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5
+In addition, NCHRP Synthesis 482 reports that speed differential is minimized when work zone speed limit reductions are 10 mph less than the existing speed limit. Speed differential, known as speed variance, is a potentially useful surrogate measure for safety.
+Numerous research studies confirm motorists do not just “add 5 or 7 mph to the posted speed limit”, including this 1997 FHWA Report “Effects of Rising and Lowering Speed Limits on
+Selected Roadway Sections”.
+See Section 5-18 for detailed information, approval procedures, and required notifications for reduced work zone speed limits and advisory speeds. For Washington State Patrol Work
+Zone Enforcement and Assistance information, see Section 5-19.
+D.
+Fines Double in Work Zone
+Per Washington law, RCW 46.61.527, traffic fines double in all work zones without the need to post additional signage. To highlight the law, Washington State Patrol encourages the use of “NOTICE TRAFFIC FINES DOUBLE IN WORK ZONES” signs but they are not required for the double citation to be in effect.
+
+E.
+Washington State Patrol Enforcement
+Using roving and coordinated speed enforcement by Washington State Patrol (WSP) is a highly effective strategy to control speeds in work zones, much more so than police vehicles sitting with their red and blue warning lights flashing in a work zone.
+During roving speed enforcement, WSP typically drive through the work zone while actively enforcing traffic laws but may also perform enforcement while stationary at strategically locations. WSP troopers pull over violators and issue citations at their discretion.
+During coordinated speed enforcement, a WSP trooper performs active enforcement within the work zone while informing several troopers downstream of motorists violating traffic laws. Those troopers downstream then pull over violators and issue citations at their discretion.
+For comprehensive information regarding this subject, see Section 5-19.
+F.
+Uniform Police Officer Work Zone Assistance
+Uniform Police Officer (UPO) is an all-inclusive term for any sworn police officer from local law enforcement agencies or Washington Patrol. Using UPOs is limited to traffic control assistance duties (flagging traffic at intersections or enforcing roadway closures) as shown on accepted traffic control plans.
+For comprehensive information regarding this subject, see Section 5-20.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-49 Chapter 5
+Work Zone Traffic Control 5-18
+Speed Limit Reductions in Work Zones (Previously Appendix 5B)
+It is WSDOT’s objective to design work zones to operate in a manner consistent with the desired target speed dependent upon mobility, operation, and safety objectives while acknowledging drivers reduce their speeds only if they clearly perceive the need to do so.
+Avoid speed limit reductions of more than 10 mph below the existing speed limit unless a restrictive feature is present. Use speed limit reductions only in portion of work zones where conditions or restrictive features are present, but avoid frequent changes in the speed limit.
+Secretary’s Executive Order E 1060.02 addresses the use, approval, required documentation, and required notices for work zone speed limits and advisory speeds: • Continuous regulatory work zone speed limits are in effect for 24 hours a day for the duration of a project or stage of work lasting 3 continuous days or more. • Variable regulatory work zone speed limit reduction is only in place during active work operations occurring during daily, nightly, and weekend-duration lane closures; otherwise, the existing speed limit is maintained. • Advisory speed is a recommended speed associated with a warning sign for a work zone condition in place continuously or variably.
+Regulatory work zone speed limit is enforceable; signage shall be black legend on white background.
+Advisory speed is not enforceable; signage is black legend on orange background.
+
+A.
+Continuous Work Zone Speed Limit and Advisory Speed
+Continuous regulatory work zone speed limits (WZSL) are only considered when work zone design at the existing speed limit is not feasible or when operational or roadway conditions require a reduced speed for safe travel. Long-term temporary lane and shoulder width reductions should only occur to complete needed work operations, not for the sake of reducing vehicle speeds through the work zone. The distance and duration of reduced speed limits should be minimized the extent practical—slow down motorists only where necessary.
+Exhibit 5-12 provides guidance to Region Traffic Operations for determining appropriate continuous WZSL on long-term temporary freeway reconfigurations.
+Exhibit 5-12
+Guidance for Continuous Work Zone Speed Limits on Freeways
+Minimum Temporary
+Lane Width
+Shoulder Widths
+Continuous Regulatory
+Work Zone Speed Limit
+
+10.5’ 0.5’
+50 mph 11.0’ 1.0’
+55 mph 11.0’ 2.0’
+60 mph
+Maintain existing lane and shoulder widths or per WSDOT Design
+Page 5-50
+Maintain existing speed limit
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5
+
+The State Traffic Engineer shall approve freeway temporary lane widths less than 10.5’ and/ or freeway temporary shoulder widths less than 0.5’.
+Continuous WZSLs and advisory speeds approval is per Executive Order E 1060.02. State
+Traffic Engineer shall approve freeway continuous regulatory WZSLs of 45 mph or lower; the Region Administrator (Region Traffic Engineer when delegated) approves 50 mph or higher continuous freeway WZSLs.
+Temporary lane and shoulder width reductions and lane closures do not trigger a use restriction in regards to FHWA notification (see Section 5-12 for details).
+Traffic control plans will show the type, location, and limits of the approved speed limit reduction signing, including signing returning motorists to the existing speed limit.
+Covering conflicting existing speed limit signage is required per Standard Specifications
+Section 1-10.3(3)A.
+Remove existing longitudinal rumble strips when within reconfigured temporary lane limits on long-term duration projects. Ensure all drainage, ITS, and other roadway structures within the existing shoulder are traffic bearing. Ensure pavement thickness is sufficient when traffic is shifted onto existing shoulders in the long-term duration reconfiguration.
+Advisory speeds should only be used for unique situations and shall supplement warning signs or state the actual condition warranting the advisory.
+When restrictive features in a work zone prevent the design speed from matching the work zone speed limit at a freeway median crossover, then MUTCD 6G.16 provides guidance for the restrictive feature to be designed at 10 mph less than the posted work zone speed limit.
+In this case, an advisory speed equivalent to the reduced design speed at the restrictive feature’s location while the work zone speed limit is maintained.
+Example: A 60 mph continuous work zone speed limit is posted along a 10-mile freeway work zone, but its median crossovers at the beginning and end can only meet a 50 mph design speed due to restrictive features. Rather than post the entire 10-mile work zone 50 mph, maintain the 60 mph work zone speed limit and use a
+50 mph advisory speed plaque (W13-1P) to supplement an appropriate warning sign (W1-4 or W24-1 series), at the crossovers.
+
+B.
+Variable Work Zone Speed Limit and Advisory Speed
+Variable work zone speed limit reductions are applicable to intermediate-term duration stationary work zones (lasting 3 continuous days or less, inclusive of weekend-duration closures) and may be considered as part of an overall safety strategy.
+Freeway Shoulder Closures:
+Reduced variable regulatory speed limits shall not be used for freeway shoulder closures.
+Advisory speeds are allowable when unique conditions are present.
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-51 Chapter 5
+Work Zone Traffic Control
+
+Typical Freeway Lane Closures; No Lateral Shift onto Shoulder:
+Maintaining the existing posted speed limit is allowable for intermediate-duration (≤ 3 days) lane closures, when lanes are not shifted to conflict with the existing or temporary pavement markings.
+Reduced variable regulatory work zone speed limits per Exhibit 5-13 are recommended when: • Workers have no means of escape from motorized traffic (e.g., tunnels, bridge, etc.) • Workers are actively present within one-half lane width of adjacent open lane(s) not protected by barrier • High operation speeds combined with high traffic volumes are anticipated
+If used, the variable regulatory work zone speed limit and advisory speeds are per
+Exhibit 5-13.
+Exhibit 5-13
+Freeway Variable Regulatory Work Zone Speed Limit/
+Advisory Speed Policy
+Typical Freeway Lane Closures; No Shifts onto Shoulder (One or more lanes open to traffic)
+Existing Speed Limit
+
+Variable Regulatory Work
+Zone Speed Limit
+70 mph
+60 mph
+60 mph
+50 mph
+Advisory Speed
+Allowable when unique conditions are present
+Notes: • Maintaining the existing posted speed limit is allowable • Advisory speeds are used at specific locations only • Radar Speed Display Sign with associated R2-1 speed limit sign is optional for Construction and optional for Maintenance
+Variable work zone speed limit and advisory speeds approval is per Executive Order
+E 1060.02 in compliance with WSDOT Project Delivery Memo #19-01.
+See Section 5-18.C for documentation requirements and Section 5-18.D for notification requirements.
+It is understood there will be unique situations that may warrant adjustments to values listed in Exhibit 5-13 based on engineering judgement, but these adjustments are limited to 5 +/- mph to maximize consistency statewide.
+When used, a Radar Speed Display Sign (RSDS) with an associated R2-1 speed limit sign should be located and relocated as needed to remain 500’ +/- of work crews when feasible. Additional RSDSs may be added prior to each work crew based on engineering judgement.
+
+Page 5-52
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5
+RSDS General Specification Provisions are currently available and includes a requirement for RSDSs to have traffic data collection capabilities and for traffic data to be collected and transmitted to the Engineer upon request. This data may be requested by State Work Zone Engineers thru Region Traffic Operations.
+Typical plans are included in the WSDOT Work Zone Traffic Control Plan Library for variable regulatory work zone speed limits on two-lane and three-lane freeway configurations.
+Typical Freeway Lane Closures; Single Lane Shifted onto Shoulder:
+Both work zone variable regulatory speed limit and advisory speeds listed in Exhibit 5-14 are required when a single open freeway lane is temporarily shifted onto the shoulder for intermediate-duration (≤ 3 days) closures.
+It is understood there will be unique situations that may warrant adjustments to values listed in Exhibit 5-14 based on engineering judgement, but these adjustments are limited to 5 +/- mph to maximize consistency statewide.
+This shifted configuration is necessitated by work operations including but not limited to: • Two-lane freeway with the work area extending up to the lane line adjacent to traffic for work including HMA pavement, concrete pavement, and/or expansion joint rehabilitation. • Three-lane freeway with the work area including both lanes and extending up to the lane line adjacent to traffic for work including HMA pavement, concrete pavement, and/or expansion joint rehabilitation.
+Exhibit 5-14
+
+Freeway Variable Regulatory Work Zone Speed Limit/Advisory
+Speed Policy
+Single Open Freeway Lane Shifted onto Shoulder
+Existing Speed Limit
+Variable Regulatory Work
+Zone Speed Limit
+Advisory Speed
+At Work Crew
+70 mph
+55 mph
+
+40 mph
+60 mph
+45 mph
+40 mph
+Notes: • Maintaining the existing posted speed limit is prohibited • Advisory speeds are required in advance of work crews • Radar Speed Display Sign with W23-6 work crew advisory speed sign with W23-5 sign in advance, is required for Construction and recommended for Maintenance.
+Variable work zone speed limit and advisory speeds approval is per Executive
+Order E 1060.02 in compliance with WSDOT Project Delivery Memo #19-01.
+See Section 5-18.C for documentation requirements and Section 5-18.D for notification requirements.
+WSDOT Traffic Manual
+M 51-02.10
+
+Page 5-53 Chapter 5
+Work Zone Traffic Control
+When used, a Radar Speed Display Sign (RSDS) with an associated work W23-6 crew advisory speed sign should be located and relocated as needed to remain 500’ +/- of work crews when feasible. In addition, a W23-5 work crew ahead advisory speed sign should be located and relocated as needed to remain 1000’ +/- of work crews. Additional RSDSs may be added prior to each work crew based on engineering judgement.
+RSDS General Specification Provisions are currently available and includes a requirement for RSDSs to have traffic data collection capabilities and for traffic data to be collected and transmitted to the Engineer upon request. This data may be requested by State Work Zone Engineers thru Region Traffic Operations.
+Typical plans are included in the WSDOT Work Zone Traffic Control Plan Library for these left shoulder shift and right shoulder shift configurations for two-lane and threelane freeways.
+C.
+Required Documentation Information
+This section provides additional information and document templates regarding the Required
+Document and Notices section in Executive Order E 1060.02.
+Memorandum: • For work zone speed limit reductions requiring State Traffic Engineer approval, a formal memorandum shall be initialed by the Regional Administrator and/or Region Traffic
+Engineer to signify an official request by the Region. For a memorandum template, click here. Copy the template Word file onto your desktop first before modifying.
+Traffic Control Plan: • Traffic control plan accepted by the Region Traffic Engineer including the location of existing and proposed reduced speed limit signage along with requirements to cover or remove any conflicting speed limit signs. • Typical traffic control plans available at WSDOT Work Zone Typical Traffic Control Plans; these typical plans may be modified as accepted by Region Traffic Engineer.
+Project Vicinity Map • Including a vicinity map in addition to the traffic control plan(s) is recommended
+Work Zone Speed Reduction Worksheet:
+A Microsoft Word template file of this work sheet is available. Copy the template Word file onto your desktop first before modifying.
+Useful information needed to complete this work sheet includes: • Posted Speed Limit, Number of lanes, Lane Width, and Shoulder Width can be found using the WSDOT State Highway Log. • For all other locations and weekends, the AADT (Average Annual Daily Traffic) can be found using Traffic Data GeoPortal or completing a Traffic Data Request Form and submitting it to the Transportation Data GIS & Modeling office
+
+Page 5-54
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+D.
+Chapter 5
+Required Notification Information
+This section provides additional information and template documents regarding the Required
+Document and Notices section in Executive Order E 1060.02.
+Public Notice of Reduced Speed Limit:
+Public notice, per RCW 47.48.020, is provided by publishing information in at least one issue of newspaper of general circulation regarding the reduced speed limit, including the location and effective dates. Advisory speeds do not require notifications. • For a continuous speed limit reduction notice template and example, click here.
+Copy the template Word file onto your desktop first before modifying. • For a variable speed limit reduction notice template and example, click here. Copy the template Word file onto your desktop first before modifying.
+Consider placing a PCMS for advanced notification of continuous reduced work zone speed limits at least 72 hours in advance with a message similar to the following:
+PCMS 1
+
+2
+WORKZONE
+REDUCES TO 55MPH
+STARTING 09/16
+MONDAY
+2.0 SEC
+2.0 SEC
+Notice to Headquarters Traffic Office of Reduced Speed Limit:
+Email notice of the reduced regulatory work zone speed limit reduction (include a copy of the approved speed limit reduction work sheet) to the WSDOT HQ Work
+Zone Engineers:
+No notice is required for advisory speeds.
+Notice to Washington Patrol of Reduced Speed Limit:
+Provide notice to WSP regarding the reduced work zone speed limit, including the location and effective dates. No notice is required for advisory speeds. • For a continuous speed limit reduction notice template and example, click here.
+Copy the template Word file onto your desktop first before modifying. • For a variable speed limit reduction notice template and example, click here. Copy the template Word file onto your desktop first before modifying.
+Submit the notice to the appropriate Washington Patrol district. WSP currently has
+8 districts (see Field Operations Bureau section).
+See the WSP Contact Us: District Office webpage for district contact information.
+See the WSP Contact Us: PIO Contacts webpage for district public information office contact information.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-55 Chapter 5 5-19
+Work Zone Traffic Control
+Washington Patrol Work Zone Enforcement and Assistance
+It can be cost effective using Washington State Patrol (WSP) to supplement effective work zone strategies and traffic control devices by providing additional enforcement emphasis or performing specific traffic control assistance duties.
+This General Special Provision (GSP) now allows Regions to define specific WSP activities and the number of hours provided by WSDOT at no cost to the Contractor on projects, but allows Contractors to request additional hours for those specific WSP activities at a 50/50 shared cost with WSDOT. This GSP should be included, even if zero hours are provided by WSDOT.
+Roving Enforcement:
+Using WSDOT-provided WSP roving speed enforcement a few times a week in active work zones when workers are present is an effective method to emphasize work zone speed limit reductions. During roving enforcement, WSP typically drive through the work zone while actively enforcing traffic laws but may also perform enforcement while stationary at strategically locations. The troopers pull over violators and issue citations at their discretion.
+Coordinated Enforcement:
+An alternative approach uses coordinated enforcement between multiple WSP troopers.
+A WSP trooper performs active enforcement within the work zone while informing several troopers downstream of motorists violating traffic laws. Those troopers downstream then pull over violators and issue citations at their discretion.
+Photo Speed Enforcement:
+Per RCW 46.63.170, automated work zone speed photo enforcement is currently prohibited as the state law restricts nearly all automated speed enforcement use outside of school work zones.
+Double Fines in Work Zones:
+Per RCW 46.61.527, traffic fines are doubled in work zones or reckless endangerment gross misdemeanors issued for the most serious violations that likely endangers people or property. The double fine citation does not require “FINES DOUBLE” and “NOTICE
+FINES DOUBLE IN WORK ZONES” signs; however, their presence is encouraged by WSP.
+Routine enforcement by WSP in WSDOT work zones is always welcome and needs no special agreement.
+When practical, a Public Information campaign to increase driver awareness of work zone safety issues will farther increase the effectiveness of WSP enforcement. Include notice via a PCMS in advance of an active enforcement area with a message similar to either of the following:
+
+Page 5-56
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5
+PCMS
+A. 1 2 1 2 3
+POLICE
+CHECKING
+SPEEDS
+WORKZONE
+FINES
+DOUBLE
+
+## MPH
+SPEED
+LIMIT
+2.0 SEC
+2.0 SEC
+1.5 SEC
+1.5 SEC
+1.5 SEC or
+Procedure for Incorporating Use of WSP Enforcement and Assistance
+Using WSP should be determined at the Design phase of the project and included in the
+Transportation Management Plan.
+Regional Maintenance divisions may establish a standing Task Assignment agreement to allow quick response by WSP if needed.
+WSDOT-WSP GC 5080 Agreement is a legal document allowing WSDOT to reimburse WSP for costs associated with assigning troopers for work zone enforcement or assistance. The
+Task Assignment, WSDOT Form 130-020, is completed for each project to assign specific work zone activities to WSP and connects WSDOT reimbursement to a specific work order.
+Task Assignment Steps:
+The Task Assignment should be completed, approved, and processed prior to the advertisement of a project to establish a WSP reimbursement work order. • Region assigns a Task Management Manager for each project • Task Assignment Manager develops a preliminary cost estimate using $125 per hour per
+WSP trooper including vehicle (increased from $75 in Agreement GC 5080 signed in
+2007 to more accurately reflect current WSP costs). The minimum WSP shift is 2 hours. • Task Assignment Manager requests the Agreement Number for each Task Assignment from Headquarters Traffic Office fiscal manager via email. Include the project name, route number, Contract or Work Order number (if known), and the preliminary cost estimate amount. • Once the task number is assigned, the Task Assignment Manager completes WSDOT
+Form 130-020 and obtains approval typically from the Region Construction Project
+Engineer, WSP Agency Budget, and Fiscal manager. Two original copies are required, one for WSP and one for WSDOT. • Task Assignment Manager submits WSDOT’s original signed WSDOT Form 130- 020 to
+WSDOT Headquarters Budget Office. Copies are sent to Region Program Management,
+Construction Project Engineering Office administrating the project, Region Accounting office, and the Region Traffic Operations. • The Region Accounting Office reimburses WSP per the Task Assignment Agreement.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-57 Chapter 5
+Work Zone Traffic Control
+B.
+Procedure for Requesting Use of WSP Enforcement and Assistance
+Requests for WSP officers may occur after the Task Assignment Agreement is approved.
+WSP currently has 8 districts (see Field Operations Bureau section) each with an Overtime
+Coordinator in which requests for WSP officers are made (troopers are not guaranteed and are subject to availability). See the WSP Contact Us: District Office webpage for district contact information.
+WSP requests should be made at least two weeks in advance for major weekend- duration closures needing multiple troopers; make other requests at least one week in advance.
+WSP responds to emergencies and incidents in work zones without the need of an
+Agreement, just like on roadways outside of work zones.
+
+C.
+Procedure for Using WSP Enforcement and Assistance During
+Construction
+An updated General Special Provision now allows Regions to define specific WSP activities and the number of hours provided by WSDOT at no cost to the Contractor on projects, but allows Contractors to request additional hours of those specific WSP activities at a 50/50 shared cost with WSDOT. A Task Assignment is still needed.
+The WSP District Captain or their designee should be invited to pre-construction meetings, where specified WSP activities and hours of use should be discussed. Contact information for the WSDOT field engineer, Contractor Traffic Control Management, and the Traffic
+Control Supervisor should be provided to WSP.
+During construction, it is optional for the on-site WSP trooper to attend the Contractor’s
+Pre-Activity Safety meeting, or similar. The WSDOT field engineer or project inspector is to provide direction to WSP, but in collaboration with the
+Contractor’s traffic control management personnel. For each work shift when WSP is used, the WSDOT field engineer (or inspector) and WSP trooper shall complete WSDOT Form 421-045. Keep a copy of this form on file at the Construction Project Engineering Office.
+Contact Region Traffic Operations and see if they desire copies.
+Usage of WSP is typically limited to enforcement duties and other supplemental uses not required as part of accepted Contract PS&E traffic control plans.
+Typical WSP Usage Examples: • Speed Enforcement Emphasis—Roving or coordinated enforcement • Within or adjacent to rolling blockade when implementing freeway rolling slowdowns • Full or directional closures of freeways; particularly in locations at high risk for errant motorist intrusion • Controlling traffic at signalized intersections (only when shown on accepted traffic control plans)
+
+Page 5-58
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5
+WSP Usage Not Recommended:
+The following tasks are not recommended as efficient use of WSP assistance and shall only be considered for short term use but not as an ongoing strategy • General or routine use, especially with no significant traffic impacts expected • Passive use (WSP vehicle parked near or inside work zone with blue or yellow lights flashing). WSP presence is not a substitute for proper traffic control • During installation and removal of traffic control devices. WSP vehicles are not buffer vehicles • Shoulder closures • Lane closure(s) on roadways with posted speed limits of 40 mph or less • Lane closure(s) with alternating traffic on a two-lane highway • A ramp closure without other traffic control devices 5-20
+Uniform Police Officer Usage in Work Zones
+Uniform Police Officer (UPO) is an all-inclusive term for any sworn police officer from local law enforcement agencies or Washington Patrol.
+A new General Special Provision requiring Contractors to provide UPOs as shown on accepted Contract PS&E traffic control plans and be reimbursed by the Agency via a hourly bid item.
+During construction, it is desired for the UPO to attend the Contractor’s Pre-Activity Safety meeting, or similar. The Contractor will provide direction to UPO, not the Agency. The UPO is not required to complete WSDOT Form 421-045.
+For use of local agency law enforcement personal, the Contractor develops a project specific agreement with each police agency for use and payment.
+Typical Uniform Police Officer Usage (Shown on Accepted Traffic Control Plans): • Controlling either signalized intersections or unsignalized intersections • Full or directional closures of roadways; particularly in locations at high risk for errant motorist intrusion • Enforcing short-term road closures via traffic holds (Section 5-22)
+Uniform Police Officer Usage Not Recommended:
+The following tasks are not recommended as efficient use of local police officer assistance and shall only be considered for short term use but not as an ongoing strategy • Speed Enforcement Emphasis (use WSP instead in WSDOT jurisdiction; see
+Section 5-19) • General or routine use, especially with no significant traffic impacts expected • Passive use (police vehicle parked near or inside work zone with blue or yellow lights flashing). Police presence is not a substitute for proper traffic control
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-59 Chapter 5
+Work Zone Traffic Control • During installation and removal of traffic control devices. Police vehicles are not buffer vehicles • Shoulder closures • Lane closure(s) on roadways with posted speed limits of 40 mph or less • Lane closure(s) with alternating traffic on a two-lane highway • A ramp closure without other traffic control devices 5-21
+Rolling Slowdowns
+A rolling slowdown is a traffic control strategy that uses a rolling blockade of vehicles, each equipped with amber warning lights, traveling at slow speeds to create a gap in traffic to enable completion of work activities requiring exclusive access across or over the directional roadway that would otherwise present significant risks to motorists.
+It is critical no traffic gets between the rolling blockade and work area. Within the limits of the rolling slowdown, traffic is held at most on-ramps, while freeway-to-freeway on-ramps should be closed with standard traffic control devices. Exit-ramps may remain open.
+Rolling slowdowns may commence with additional temporary traffic control already set up (such as lane closures). Rolling slowdowns are most commonly used directionally on freeways due to their limited access. For other roadways, traffic holds may be more appropriate and are discussed in Section 5-22.
+Accepted traffic control plans are required that detail the expected rolling slowdown duration, clear time at the work area, limits and target speed of the rolling slowdown, mainline rolling blockade details, chase vehicle details, temporary on-ramp closure details, portable changeable message signs used to warn traffic of the slowdown, and any additional requirements based on Guidance (Section 5-21.A) and Considerations (Section 5-21.B).
+Work activities that typically necessitate a freeway rolling slowdown include but are not limited to the following: • Utility line installation or removal over a freeway • Removing an existing sign structure spanning over the freeway • Reconfiguration of all freeway lanes that narrow and laterally shift all lanes in one work shift (Rolling slowdown is used to install a chicane to laterally shift a single open lane of traffic from the far left lane over to the far right lane, or vice versa) when reopening lanes to switch traffic control is not feasible • During installation of traffic induction loops for permanent traffic recorders (see
+Standard Plan J-50.12-02 and J-50.15-01) using a lead-in across all freeway lanes to a stub-out in the shoulder which requires a chicane when reopening lanes is not feasible • Emergency roadway or bridge repairs having short work durations (≤ 10 minutes)
+
+Page 5-60
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5 • Based on WSDOT’s determination, there is justification for using a rolling slowdown to mobilize large equipment, (cranes, drilling rigs, etc.) across the freeway versus demobilizing and mobilizing the equipment would lead to considerable delays and increased costs • Based on WSDOT’s determination, there is justification for using a rolling slowdown to provide construction vehicle ingress/egress movements between the work area onto mainline traffic in locations that would have minimal adverse traffic impacts and delays
+Concurrent freeway rolling slowdowns in multiple directions is allowable when work operations occurring over all lanes in multiple directions.
+A directional freeway closure is recommended in lieu of freeway rolling slowdowns during the following work operations occurring over all lanes in one direction: • Setting new bridge girders • Demolishing overhead bridge spans • Removing overhead structural falsework • Installing a new sign structure
+WSDOT Region Traffic Operations may require directional freeway closures in lieu of freeway rolling slowdowns at its discretion.
+A.
+Guidance
+The following guidance applies when implementing rolling slowdowns: • Avoid rolling slowdown durations exceeding 15 minutes • Target rolling slowdown speeds 40 mph less than the posted speed limit when feasible • Detours around the limits of the rolling slowdown are not necessary • Traffic should not be stopped during rolling slowdowns, except as a last resort due to a unique circumstance or in an emergency situation. • Use one blockade vehicle (transportable attenuator preferred) in each blocked lane • Consider using at least one Washington Patrol (WSP) vehicle with each directional rolling blockade on freeways; WSP may serve as a rolling blockade vehicle • Hold on-ramp traffic until the rolling blockade passes using construction or police vehicles placed prior to the paved gore in each on-ramp lane. Avoid holding traffic on freeway-to-freeway on-ramps, which should be closed with standard traffic control devices and may include signed detour routes. • A chase vehicle should follow the slowest vehicle ahead of each directional rolling blockade up to the work area to ensure the roadway is clear. • For concurrent rolling slowdowns in two or more directions, position a Traffic Control
+Coordinator with a WSP Coordinator near the work area to coordinate the rolling slowdown, respond to any incidents, and to coordinate needed emergency response.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-61 Chapter 5
+Work Zone Traffic Control • Inform Washington Patrol, local fire, police, emergency service agencies, and transit agencies (if applicable) at least 72-hours in advance of non-emergency rolling slowdowns. • For significant freeway rolling slowdowns occurring within Transportation Management
+Areas (Seattle, Tacoma, Spokane, and Kennewick-Pasco urban areas): – Limit permitted rolling slowdowns to hours of lowest volumes; 11:00 p.m. to 4:00 a.m. during weeknights and 11:59pm to 6:00 a.m. on weekends – Require as part of the traffic control plan acceptance, a meeting with all necessary stakeholders to define responsibilities and ensure activities required for successfully executing a rolling slowdown will be followed • Consider using a PCMS message similar to the example below for displaying advanced notification to the public:
+PCMS 1 2 3 15MINUTE
+DELAYS
+POSSIBLE
+JUNE 13
+SAT NITE 11PM-6AM
+
+NB I-5
+MP145 TO
+MP150
+1.5 SEC
+1.5 SEC
+1.5 SEC • Just prior to and during the rolling slowdown operation, consider using a truck-mounted
+PCMS to notify motorists of each rolling slowdown and its slow traffic remaining ½ ± mile in advance of the traffic queue moving along the paved shoulder:
+PCMS
+B. 1 2
+ROLLING
+SLOWDOWN
+AHEAD
+
+WATCH
+FOR SLOW
+TRAFFIC
+2.0 SEC
+2.0 SEC
+Considerations
+Consider the following when implementing rolling slowdowns: • As part of the rolling slowdown traffic control plan, consider specifying the development of an emergency contingency plan to handle traffic should unforeseen circumstances occur, including but not limited to: – An Emergency Medical Services vehicle transporting a critical care or specialty care patient needs urgent accommodation past the rolling slowdown – Work activity exceeds the planned available clear time – An errant vehicle gets around the rolling blockade or on-ramp traffic hold and is heading towards the work area • Have traffic queue formations and their dispersals monitored by traffic control personnel during and after each rolling slowdown with plan of action to respond to problems that develop because of the traffic queue • Requiring all traffic queues clear prior to commencing any subsequent rolling slowdowns
+Page 5-62
+WSDOT Traffic Manual
+M 51-02.10
+
+30 �∗� �∗� =unserved
+69 unserved vehicles � minutes
+Number of unserved vehicles = (787 − 650) ∗ � Queue � = 69 vehicles after∗ 30 vehicle
+5280 feet
+2 dir 30 60
+Number of unserved vehicles = (787 − 650) ∗ � � = 69 u
+Work Zone Traffic Control
+Chapter 5 60
+Work zone capacity = 650 vehicles/hour
+C.
+
+1
+60 mi
+25 feet mileDelay = 69
+1 unserved vehicles ∗ � �∗�
+650 vehicles per hour ho �∗� �∗� � = 0.16 = 0.2 mile
+Queue = 69 unserved vehicles ∗ � & Calculations
+Rolling
+Slowdown
+Equations vehicle
+5280 feet
+2 directions
+25 feet mile �∗� �∗�
+Queue = 69 unserved vehicles ∗ � 30 vehicle
+2 dir
+Number of unserved vehicles = (787 − 650) ∗ � � = 69 unserved vehicles after 30 minutes 5280 feet
+Known Variables: 60
+
+5.21vehicles
+Rolling
+Delay = 69 unserved ∗ �Slowdowns � ∗ � 1
+60 minutes � = 6.4 = 6 minutes
+650 vehicles hour hour
+TCLEAR = Clear time needed at work areaper [minutes] 1
+60 mi �∗�
+Delay = 691 unserved vehicles ∗ �
+Equations:
+25 feet mile
+650 vehicles per hour ho �∗� �∗� � = 0.16 = 0.2 mile
+Queue = 69 unserved vehicles ∗ � vehicle
+5280 feet
+2 directions
+VRS = Rolling slowdown target speed [mph]
+
+5.21 Rolling Slowdowns
+V TRAFFIC = Slowest
+Vehicle
+Speed
+Expected [mph] 60Tminutes
+CLEAR × VRS × VTRAFFIC 5.21
+Rolling
+Slowdowns 1
+DRS =
+Equations: � ∗ � 60 × �(V= 6.4 =−6 V minutes
+Delay = 69 unserved vehicles ∗ �
+TRAFFIC
+RS )
+650 vehicles per hour hour
+Variables to be Determined:
+Equations:
+D
+
+VRS × slowdown
+VTRAFFIC
+TCLEAR × rolling = Minimum distance needed [miles] 60 × (VTRAFFIC − VRS ) × DRS
+5.21 Rolling Slowdowns DRSRS = 60 × (VTRAFFIC − VRS )
+TRS = Rolling slowdown duration [minutes] 60 × (VTRAFFIC − VRS ) × DRS
+TCLEAR = × V TRAFFIC
+TCLEAR × VVRS
+RS × VTRAFFIC
+DRS = 60 × (VTRAFFIC − VRS ) 60 × DRS
+VRS × (VTRAFFIC − VRS ) × DRS 60
+TCLEAR =
+VRS × VTRAFFIC
+
+TRS =
+Explanation of Variables and Calculations: 60 × D × VVTRAFFIC
+RS ×
+TRAFFIC
+DRS = 60 × (VTRAFFIC − VRS ) 60 × DRS 60
+V × (VTRAFFIC − VRS ) × DRS
+TCLEAR = RS 60 × DRS
+VRS =
+60 T×RSDRS
+VRS
+
+TCLEAR × VRS × VTRAFFIC 10 × 20 × 60 12000
+DRS =after the → Dfollowed • Clear
+The RS duration at the work area available slowest by = 2400 =
+RS = 60 × (60−20)
+VRS time: = ) − VRSvehicle 6060×× (VDTRAFFIC
+T×RSDRS
+RS 60 theTRS chase blockade approaches.
+RS = = vehicle passes and before the rollingVslowdown
+TRS
+VRS
+
+• Rolling slowdown target speed: The target speed is based on the highest posted300 speed 60 × DRS 60 × 5.00
+TCLEAR × VRS × VTRAFFIC 10 × 20 × 60 12000
+T = →
+T = = =
+DRS =from(60−20) = 5.00 = 5.0
+DRSOccurring
+RSmiles limit. after slowing→down typical=RSoperating freeway speeds, the= 15 minutes 60 × (VTRAFFIC − VRS ) 60 ×
+2400 T VRS × V × V
+20 this is20 10 × 20 × 60 12000
+CLEAR
+RS
+TRAFFIC × DRSslowdown blockade targets within →limits
+DRS =for the = =
+DRS = the rolling speed the60rolling slowdown 60 × (VTRAFFIC − VRS ) 60 × (60−20) 2400
+VRS =
+TRS slowdown. duration of the 60 × DRS
+
+60 × 5.00 300 20 20
+Rolling slowdown location = Work Area + DRS = 145.7
+TRS = vehicle speed → TRS = = = 15 minutes • Slowest expected: the posted but check
+60 speed × DRS limit is used, 60 × 5.00
+300 for
+VRS
+20 Typically, 20
+TCLEAR × VRS × VTRAFFIC 10 × 20 × 60 TRS12000 = →
+T = = = 15 minutes
+RSmiles speed limit reductions within→the slowdown
+If separate truck limits
+DRSrolling = = limits. = 5.00 = 5.0
+DRS =
+20 speed 20 60 × (VTRAFFIC − VRS ) 60 × (60−20)
+2400 VRS
+TCLEAR × VRS × VTRAFFIC 7 × 30 ×60 12600 are present, use the truck speed limit for this value. are unique situations as → DRS =such(60 = =
+DRS =There 60 × (VTRAFFIC − VRS ) 60 × − 30) 1800
+Rolling slowdown location =
+Work
+Area +
+DRS = 145.78 + 5.0 = 150.78 steep upgrades (≥ 5 percent over ½ mile in length) where slow freight traffic may justify
+Rolling slowdown location = Work Area + DRS = 145.7 60 × DRS 60 × 5.00 300 a lower speed.
+T = →T = = = 15 minutes
+RS
+
+V 60 × D 60 × 7.00 420
+RS × VRS × VTRAFFIC
+T rolling 7 × 30 ×60 Calculated 12600 • Minimum slowdown distance value that far14 minutes
+T= → =determines = how = → DRS = needed: = 7.00 =T 7.0
+DRS = CLEAR
+RS =
+RS miles 60 × (VTRAFFIC − VRS ) 60 × (60 − 30) 1800T VRS × V × V 30 307 × 30 ×60 12600
+CLEAR
+TRAFFIC in advance of the work area the rolling slowdown = → DRS = = =
+DRS begins. 60 × (VTRAFFIC − VRS )
+
+60 × (60 − 30) 1800
+RollingCalculated slowdown location
+Work Areawork + DRS = queue 145.78length + 5.0 and = 150.78 • Queue: value to =determine zone is dependent on the 60 × DRS 60 × 7.00 420 number of unserved vehicle and how many open lanes are available prior to the capacity
+TRS = → TRS = = = 14 minutes 60 × DRS 60 × 7.00 420
+VRS 30 30 restrictionTCLEAR (typically lane closure merge point). × VRS ×a
+VTRAFFIC 7 × 30 ×60 TRS 12600 = → TRS = = = 14 minutes → DRS = = = 7.00 = 7.0 miles 30
+DRS = 30 60 × (VTRAFFIC − VRS ) 60 × (60 − 30)
+1800 VRS • Rolling slowdown duration: Calculated value to determine the duration the rolling slowdown remains in place to create the needed clear time at the work area. 60 × DRS 60 × 7.00 420
+TRS = → Ton = next several = = 14 minutes
+RS the
+Examples are provided
+VRS 30
+30 pages as reference.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-63 vehicle mile
+25 feet
+Chapter 5
+D.
+5280 feet 1
+2 directions �∗� �∗� � = 0.16 = 0.2 mile
+Queue = 69 unserved vehicles ∗ � vehicle
+5280 feet 1 2 directions 60 minutes �∗� � = 6.4 = 6 minutes
+Delay = 69 unserved vehicles ∗ �
+650 vehicles per hour 1
+
+hour
+60 minutes
+Work Zone Traffic Control �∗� � = 6.4 = 6 minutes
+650 vehicles per hour 1
+60 minutes �∗� � = 6.4 = 6 minutes
+Delay = Slowdown
+69 unserved vehicles ∗�
+Rolling
+Example #1
+650 vehicles per hour
+
+hour
+5.21 Rolling Slowdowns
+Situation: Freeway rolling slowdown needed for utility wire crossing southbound lanes of
+5.21 Rolling Slowdowns
+Equations:
+21 Rolling SlowdownsInterstate 5 located at Milepost 145.78. Crews need 10 minutes of clear time at the work area. The posted speed limit is 60 mph.
+TCLEAR × VRS × VTRAFFIC
+DRS Duration = 1st Determine: of rolling−slowdown needed in minutes and where it begins. 60 × (V
+V )
+VRS × VTRAFFIC
+TCLEAR × TRAFFIC
+RS
+DRS = × VRS60××V(V
+TCLEARVariables:
+TRAFFIC − VRS )
+TRAFFIC
+DRS Known = 60 × (VTRAFFIC − VRS ) 60 × (VTRAFFIC − VRS ) × DRS
+TCLEAR
+TCLEAR==10 minutes − VRS ) × DRS 60 × (VVTRAFFIC
+RS × VTRAFFIC
+TCLEAR = )×
+V60 ×= (V 60TRAFFIC – 40 − = 20 × VDTRAFFIC
+VRSmph
+RS
+TCLEAR = RS
+VRS × VTRAFFIC 60 ×
+DRS slowdown target speed is 40 mph less than 60 mph speed limit.
+Note:
+Rolling
+TRS =
+V 60 ×RSDRS
+TRS = = 60 mph
+VRS
+60 V×TRAFFIC
+DRS 60 ×
+DRS speed based on 60 mph speed limit since there are no major
+Traffic
+VRS =
+60 T×RSDRS upgrades (≥ 5 percent) in this area.
+TRS 60 × DRS
+Equations:
+TRS
+T ×V ×V 10 × 20 × 60 12000 → DRS = = = 5.00 = 5.0 miles
+DRS = CLEAR(V RS TRAFFIC (60−20) )
+DRS =
+
+60 × TRAFFIC − VRS
+TCLEAR × VRS × VTRAFFIC → DRS = 60 × 10 × 20 × 60 2400 12000 = = 5.00 = 5.0 miles 60 × (VTRAFFIC − VRS ) 60 × (60−20) 2400
+TCLEAR × VRS × VTRAFFIC 10 × 20 × 60 12000 → DRS = = = 5.00 = 5.0 miles (60−20) 60 × (VTRAFFIC − VRS ) 60 × DRS 6060 ××5.00 3002400
+TRS = → TRS = = = 15 minutes 205.00 300 20
+60 V×RSDRS 60 ×
+TRS = → TRS = = = 15 minutes
+VRS 60 × 5.00 20 20 60 × DRS 300
+TRS work =
+TRS = at MP 145.78. = = 15 minutes
+The is→located
+Varea 20
+20 Mileposts decrease going southbound. Since the
+RS
+Rolling slowdown location = Work Area + DRS = 145.78 + 5.0 = 150.78
+
+rolling slowdown begins prior to the work area, its milepost will be higher.
+Rolling slowdown location
+Area + DRS =7 ×145.78 5.0 = 150.78
+T × V = ×Work
+V 30 ×60 + 12600 → DRS = = = 7.00 = 7.0 miles
+DRS = CLEAR(V RS TRAFFIC (60 )
+T 60 ×
+TRAFFIC − VRS ×V ×V 60 × − 30) 7 × 30 ×60 1800 12600
+CLEAR
+RS
+TRAFFIC → D minutes = = = 7.00 = 7.0 miles
+DRS =slowdown
+Answer: Rolling duration and 60 × (VTRAFFIC − VRS ) is 15RS 60 × (60 − 30)begins
+1800 at Milepost 150.78.
+TCLEAR × VRS × VTRAFFIC 7 × 30 ×60 12600 → DRS = = = 7.00 = 7.0 miles
+DRS = 60 × (VTRAFFIC − VRS ) × (60 − 30) 60 × D 6060 ×to 7.00 420 1800 2nd Determine:
+What on-ramps need be temporarily held within the limits of the rolling
+TRS = → TRS = = = 14 minutes 307.00 420 30
+60 V ×RSDRS 60blockade × slowdown until the mainline rolling passes
+TRS = → TRS = = = 14 minutes
+VRS 60 × 7.00 30 30 60 × DRS 420 = → TRS =the rolling = = 14 minutes
+AsTRSdetermined slowdown limits is between MP150.78 to MP145.78 on
+VRS above, 30 30
+
+Southbound I-5. Using SRview 3 WSDOT, WSDOT GeoPortal, and/ or Google Maps (or similar), determine what on-ramps are located within the rolling slowdown limits.
+Answer: On-ramps at the following locations need to be held: • SR516 → Southbound I-5 (MP 149.07) • S 272nd St → Southbound I-5 (MP146.71)
+Page 5-64
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+E.
+DRS =
+TCLEAR × VRS × VTRAFFIC 60 × (V
+VRS ) × TRAFFIC
+VRS × −
+VTRAFFIC
+TCLEAR
+
+Chapter 5 60 × (VTRAFFIC − VRS )
+Rolling Slowdown
+Example (VTRAFFIC −#2
+VRS ) × DRS 60 ×
+TCLEAR = 60 × (VV × V− V ) × D
+RS
+TRAFFIC
+Situation: Freeway
+TCLEAR =rolling slowdown needed for sign bridge removal over eastbound lanes
+VRS × VTRAFFIC of Interstate 90 located at Milepost 109.90. Crews need 7 minutes of clear time at the work 60 × Dlimit area. The posted speed is 70 mph for cars and 60 mph for trucks.
+
+TRS =
+60 V×RSDRS 1st Determine:
+Duration of rolling slowdown needed in minutes and where it begins.
+V
+Known Variables: 60 × DRS
+VRS =
+60 T×RSD
+TRS
+RS
+TCLEAR
+VRS = = 7 minutes
+
+VRS = 70TCLEAR – 40×=VRS 30× Vmph
+TRAFFIC
+DRS = 60 × (VTRAFFIC − VRS )
+TCLEAR × VRS × VTRAFFIC → DRS = 10 × 20 × 60 60 × (60−20) 10 × 20 × 60 = 12000 2400 12000 = 5.00 = 5.0 miles = → target
+DRS = speed = mph = 5.00 = 5.0
+DRS Note:
+Rolling slowdown is 40 less than themiles highest speed (V (60−20) ) 60 ×
+TRAFFIC − VRS 60 × 2400 limit, 70 mph, instead of the truck speed limit. 60 × DRS 60 × 5.00 300 → TRS = = = 15 minutes
+V 205.00 300 20
+VTRAFFIC60=×60 mph 60 ×
+RSDRS
+TRS = → TRS = = = 15 minutes
+VRS 20 20
+TRS =
+
+Note: Traffic speed based on lower 60 mph truck speed limit since there are
+Rolling location(≥=5 Work
+Areain+this
+DRS = 145.78 + 5.0 = 150.78 no slowdown major upgrades percent) area.
+Rolling slowdown location = Work Area + DRS = 145.78 + 5.0 = 150.78
+Equations:
+DRS =
+TCLEAR × VRS × VTRAFFIC 60 × (VTRAFFIC − VRS )
+TCLEAR × VRS × VTRAFFIC 60 × (VTRAFFIC − VRS ) → DRS = → DRS = 7 × 30 ×60 60 × (60 − 30) 7 × 30 ×60 60 × (60 − 30) = = 12600 1800 12600 1800 60 × DRS 60 × 7.00 420 → TRS = = = 14 minutes
+V 307.00 420 30 60 ×RSDRS 60 ×
+TRS = → TRS = = = 14 minutes
+VRS 30 30
+TRS =
+
+= 7.00 = 7.0 miles
+The work area is located at MP 109.90. Mileposts increase going eastbound. Since the rolling slowdown begins prior to the work area, its milepost will be lower.
+Rolling slowdown location = Work Area − DRS = 109.90 – 7.0 = 102.90
+Answer: Rolling slowdown duration is 14 minutes and begins at Milepost 102.90.
+D =
+TCLEAR × VRS × VTRAFFIC → D = 7 ∗ 30 ∗ 55 = 11,550 = 7.70 = 7.7 miles
+RS × (V on-ramps − V need ) 60 ∗ (55 − held 30) within 1500the limits of the rolling 2nd Determine:60What to be temporarily
+TRAFFIC
+RS slowdown until the mainline rolling blockade passes 60 × DRSin above, the
+60 rolling × 7.70 slowdown
+462.0 limits is between MP102.90 to
+As determined
+TRS = → TRS = = = 15.4 = 16 minutes 30 3 WSDOT, WSDOT GeoPortal, and/
+RS Eastbound I-90.30
+MP109.90 Von
+Using SRview or Google Maps (or similar), determine what on-ramps are located within the rolling slowdown limits. location = Work Area − DRS = 38.16 + 7.7 = 45.86 = 45.9
+Rolling slowdown
+
+Answer: On-ramps at the following locations that need to be held: × DRS I-90 (MP 60105.82) × 2.91 • USV97 → 60
+Eastbound → VRS = = 11.64 (round down to 11 mph)
+RS =
+TRS 15 • Canyon Rd → Eastbound I-90 (MP 109.74)
+TCLEAR =
+WSDOT Traffic Manual 60 × (VTRAFFIC − VRS ) × DRS 60 × (60 − 11) × 2.91 8555.4 → TCLEAR = = = 13 minutes
+VRS × VTRAFFIC 11 × 60 660
+M 51-02.10
+Page 5-65 Chapter 5
+Work Zone Traffic Control
+
+F.
+Rolling Slowdown Example #3
+Situation: Freeway rolling slowdown needed for to transport a crane across all lanes of westbound I-82 over into the median at Milepost 38.16. Crews need 7 minutes of clear time at the work area. The work zone speed limit is 55 mph starting at MP 38.73 with the existing speed limit 70 mph (trucks 60 mph) maintained east of MP 38.73.
+Determine: Duration of rolling slowdown needed in minutes and where it begins.
+Known Variables:
+TCLEAR = 7 minutes
+VRS = 70 – 40 = 30 mph
+Note: Rolling slowdown target speed is 40 mph less than the 70 mph posted speed limit.
+VTRAFFIC = 55 mph
+Note: Traffic speed is conservatively based on the lower 55 mph work zone speed limit for simplicity since there are no major upgrades (≥ 5 percent) in this area; typically the 60 mph truck speed limit would otherwise be used.
+Rolling slowdown location
+Work − DRS = 109.90 – 7.0 = 102.90
+This value could=also be Area prorated.
+Rolling slowdown location = Work Area − DRS = 109.90 – 7.0 = 102.90
+
+Equations:
+TCLEAR × VRS × VTRAFFIC 7 ∗ 30 ∗ 55 11,550 → DRS = = = 7.70 = 7.7 miles 60 × (V
+VRS ) 607∗∗(55 30) 1500 × TRAFFIC
+VRS × −
+VTRAFFIC
+TCLEAR 30 ∗−55 11,550 → DRS = = = 7.70 = 7.7 miles
+DRS = 60 × (V
+VRS ) 607∗∗(55 30) 1500 × TRAFFIC
+TCLEAR 30 ∗−55 11,550 → DRS = = = 7.70 = 7.7 miles
+DRS = 60 × (V − VRS ) 60 ∗ (55 − 30) 1500 60 × DRSTRAFFIC 60 × 7.70 462.0
+TRS = → TRS = = = 15.4 = 16 minutes 307.70 30
+60 V×RSDRS 60 × 462.0
+TRS = → TRS = = = 15.4 = 16 minutes 307.70 30
+60 V×RSDRS 60 × 462.0
+TRS = → at
+TRSMP = 38.16. Mileposts = = 15.4 = 16 minutes
+The work area isVRS located 30
+30 decrease going westbound. Since the
+Rolling slowdown location = Work Area − DRS = 38.16 + 7.7 = 45.86 = 45.9
+DRS =
+
+rolling slowdown begins prior to the work area, its milepost will be higher. 60 × DRS 60 × 2.91 → VRS = = 11.64 (round down to 11 mph)
+VRS = 152.91
+60 T×RSDRS 60 ×
+Answer: slowdown duration is 16=minutes and begins
+Milepost = → VRS = 11.64 (round down toat11 mph) 45.9. Note 16
+VRSRolling 152.91
+60 T×RSDRS 60 × minutes exceeds of = 1511.64 minute durations should be justified. = → the
+VRS guidance = (round down toand
+11 mph)
+VRSslightly
+TRS (V 15 ) (60 60 ×
+
+TRAFFIC − VRS × DRS 60 × − 11) × 2.91 8555.4
+TCLEAR = = = = 13 minutes 2nd Determine:
+What on-ramps to→beTCLEAR temporarily held within the limits 11 −×11) 60 × 2.91
+660 of the rolling
+RS × VTRAFFIC ) × DRS 60 × (VVTRAFFIC − VRSneed 60 × (60 8555.4
+TCLEARuntil = the mainline rolling blockade → TCLEAR = = = 13 minutes slowdown passes 11 −×11) 60 × 2.91 660 60 × (VVRS × VTRAFFIC 60 × (60 8555.4 − V )× D
+TCLEAR =
+TRAFFIC
+RS
+VRS × VTRAFFIC
+
+→ TCLEAR = 11 × 60 = 660 = 13 minutes
+As determined in above, the rolling slowdown limits is between MP45.9 to MP38.16 on
+Westbound I-82. Using SRview 3 WSDOT, WSDOT GeoPortal, and/ or Google Maps (or similar), determine what on-ramps are located within the rolling slowdown limits.
+Answer: On-ramps at the following locations that need to be held: • Donald Wapato Rd → Westbound I-82 (MP 44.09) • Yakima Valley Highway → Westbound I-82 (MP 40.14)
+Page 5-66
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+G.
+Chapter 5
+Rolling Slowdown Example #4
+Situation: Freeway rolling slowdown needed to install a temporary traffic control chicane to allow crews to restriping across all lanes in a single nightly shift on Eastbound Interstate 90 starting at Milepost 5.58. The I-5/I-90 interchange on- ramps are located at MP 2.67. 1st Determine: Determine the rolling slowdown speed, rolling slowdown duration, and clear time available in this unique scenario.
+Known Variables:
+
+Rolling slowdown location = Work Area − DRS = 109.90 – 7.0 = 102.90
+VTRAFFIC = 60 mph
+Rolling Tslowdown location = Work Area − DRS = ∗109.90 – 11,550 7.0 = 102.90 7 ∗ 30 55
+CLEAR × VRS × VTRAFFIC
+Note: Traffic speed based 60 mph speed limit; no upgrades percent) → Don = = = 7.70 = (≥ 7.75miles
+DRS =
+RS 60 × (VTRAFFIC − VRS ) 60 ∗ (55 − 30) 1500 present.
+TCLEAR × VRS × VTRAFFIC 7 ∗ 30 ∗ 55 11,550 → D = Determine the maximum = that fits = 7.70 = 7.7 miles
+DRS #1:
+RS = slowdown speed
+Step rolling within the
+3.0 miles − V60 60 ∗ (55 − 30) 1500
+RS ) × 7.70 6060× ×D(V 462.0
+RSTRAFFIC
+TRS = (between → the
+TRS I-5/I-90 = = = 15.4 = 16 minutes available interchange to the work area) using the 15 minute
+VRS 30 30
+
+maximum rolling slowdown guidance. 60 × DRS 60 × 7.70 462.0 = 15.4 = 16 minutes
+RS
+Rolling slowdown location = Work Area −30D = 38.16 + 7.7 = 45.86 = 45.9 = → TRS –=2.67 = 2.91= •TRSAssume
+V DRS = 5.58 30 • Assume TRS = 15 minutes
+Rolling 60 slowdown
+Area − DRS = 38.16 + 7.7 = 45.86 = 45.9 × DRS location =60Work × 2.91 → VRS = = 11.64 (round down to 11 mph)
+VRS =
+TRS 15 60 × DRS 60 × 2.91 = → VRSrolling = = 11.64 (roundand down to 11speed mph) of 11 mph,
+VRSUsing
+Step #2: a 15 minute slowdown duration target 8555.4 60TRS × (VTRAFFIC − VRS ) × 15
+DRS 60 × (60 − 11) × 2.91 determine at the
+TCLEARthe = maximum clear time available → TCLEAR = work area. = = 13 minutes
+TCLEAR =
+
+VRS × VTRAFFIC 11 × 60 660 60 × (VTRAFFIC − VRS ) × DRS 60 × (60 − 11) × 2.91 8555.4 → TCLEAR = = = 13 minutes
+VRS × VTRAFFIC 11 × 60 660
+Answer: The rolling slowdown target speed is 11 mph, duration of 13 minutes, and begins at Milepost 2.67 (immediately following the I-5/I-90 interchange) on Eastbound I-90. 2nd Determine: What on-ramps need to be temporarily held or closed within the limits of the rolling slowdown until the mainline rolling blockade passes
+As determined in above, the rolling slowdown limits is between MP2.58 to MP5.58 on
+Eastbound I-90. Using SRview 3 WSDOT, WSDOT GeoPortal, and/or Google Maps (or similar), determine what on-ramps are located within the rolling slowdown limits.
+Answer: On-ramps at the following locations that need to be held/closed: • Hold Southbound Rainer Ave → Eastbound I-90 (MP 3.34) • Hold Northbound Rainer Ave → Eastbound I-90 (MP 3.79)
+Note: Since the I-5 ramps to EB I-90 are at the rolling slowdown limits, the rolling slowdown blockade can concurrently begin along the freeway-to-freeway on-ramps from NB I-5 and
+SB I-5 and to join the EB I-90 blockade; however, freeway-to-freeway on-ramps traffic should not be stopped or held. If freeway- to-freeway ramps need to be stopped or held, they should be closed using standard traffic control devices.
+WSDOT Traffic Manual
+M 51-02.10
+
+Page 5-67 Chapter 5
+Work Zone Traffic Control 5-22
+Traffic Holds
+A traffic hold is a traffic control strategy using flaggers and/or uniformed police officers (UPOs) to stop traffic in all directions to enable completion of work activities requiring exclusive access across or over the roadway that would otherwise present significant risks to motorists. UPOs include Washington Patrol and any local police agency.
+Traffic holds shall not be used on freeway mainlines.
+Traffic holds may be used on non-freeways roadways where rolling slowdowns (Section 5-21) are not feasible in lieu of a roadway closure. When used, it is preferred to reduce each approach down to a single open lane using standard traffic control devices and advanced warning signage. It is optional to place a UPO vehicle with emergency lights activated on either side of the work area after the flaggers to help block the roadway.
+Traffic holds also may be used on roadways where traffic alternates in a single lane via flagger-control, particularly in areas where there are no alternative routes and work is being completed in a narrow area requiring traffic to be held in all directions.
+When holding traffic at or near signalized intersections, the traffic signal must be turned off or set to all-way red flashing mode per WAC 468-95-3015. Per WAC 468-95-302, only UPOs should flag at the center of the intersection except in an emergency; however, flaggers may control each intersection leg.
+A.
+Traffic Hold Guidance
+Consider the following guidance when implementing traffic holds: • Limit traffic hold durations to 10 minutes when feasible • If traffic hold durations are 15+ minutes on major arterial roadways, provide advance notice to the public at least 72 hours prior to and during traffic holds:
+PCMS
+
+1 2 3 1 2 15MINUTE
+DELAYS
+POSSIBLE 09/15/-19
+NIGHTLY 11PM-5AM
+AT SR527 & 180TH ST 15MINUTE
+TRAFFIC
+HOLDS
+BE
+PREPARED
+TO STOP
+
+1.5 SEC
+1.5 SEC
+1.5 SEC
+2.0 SEC
+2.0 SEC
+DISPLAY AT LEAST 3 DAYS IN ADVANCE OF
+TRAFFIC HOLD and
+LOCATE TO REMAIN 1/2+/- MILE IN ADVANCE
+OF EXPECTED QUEUE.
+PCMS MAY BE TRUCK
+MOUNTED
+
+Page 5-68
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+Chapter 5 • For longer term traffic hold durations of 30+ minutes consider specifying traffic is to be released at regular time intervals such as 00 and 30 past the hour. This assists in setting expectations with the driver and thereby able to plan their travel through the area.
+Provide at least seven calendar day notice to the public except in emergencies. When considering this strategy, it may be a good time to involve Region Management in the decision process.
+PCMS 1 2 3 1 2 3
+EXPECT 30MINUTE
+DELAYS
+MAR13-17
+MON-FRI 7AM-6PM
+
+SR410
+25 MILES
+AHEAD 30MINUTE
+TRAFFIC
+HOLDS
+RELEASED
+AT THE
+TOP AND
+BOTTOM
+OF HOUR
+
+1.5 SEC
+1.5 SEC
+1.5 SEC
+1.5 SEC
+1.5 SEC
+1.5 SEC and
+DISPLAY AT LEAST 7 DAYS IN ADVANCE
+OF TRAFFIC HOLD
+LOCATE TO REMAIN 1/2 +/- MILE IN
+ADVANCE OF EXPECTED QUEUE.
+
+DESIRABLE TO PLACE JUST OUT OF
+TOWN OR NEAR AN ALTERNATIVE
+ROUTE SO MOTORISTS CAN AVOID
+WORK ZONE.
+PCMS MAY BE TRUCK MOUNTED. • At locations where bicyclists and motorists need to share a lane following the end of traffic holds, release motorists first allowing queues to clear and then allow bicyclists to proceed • If feasible, release traffic in all directions until queues dissipate before commencing another traffic hold or alternating traffic • To avoid severe traffic impacts, consider limiting permitted traffic hold hours – Consider limiting daytime traffic holds on weekdays to avoid impacting commuting and school traffic. Use nighttime hours if needed – As guidance, consider assigning permitted traffic hold hours based on the needed traffic hold duration and directional traffic volume thresholds list below which assumes that traffic in all directions is released at the end of the traffic hold:
+Traffic Hold Duration (minutes)
+Single Direction with Heaviest Traffic
+Volumes (vehicles/hour) 30 250 20 375 15 500 10 750 5 1200 • Recommend reducing each traffic approach to a single open lane with standard traffic control devices and advanced warning signage • Inform Washington Patrol, local fire, police, emergency service agencies, and transit agencies (if applicable) at least 72-hours in advance of non-emergency traffic holds
+WSDOT Traffic Manual
+M 51-02.10
+
+Page 5-69 Chapter 5 5-23
+Work Zone Traffic Control
+WSDOT Approval, Acceptance, & Review Protocol for Local Agencies
+When within WSDOT jurisdiction, the work zone traffic control plans shall be consistent with WSDOT standard work zone practices and policy in addition to applicable state and federal laws. These requirements may exceed those set forth in the Manual on Uniform Traffic
+Control Devices (MUTCD). Each WSDOT Region Traffic Operations will determine standard work zone practices within their Region.
+WSDOT has authorization to accept work zone traffic control plans only within the boundaries of WSDOT Right of Way, including all Interstate Highways and WSDOT Limited
+Access (RCW 47.52).
+There are conditions requiring WSDOT approval, acceptance, or review even when within local agency jurisdiction including: • Review traffic control plans involving a full highway closure (RCW 47.48.010) • Review traffic control plans that may impact state highway, freeway, or the Interstate
+Highway System • Accept traffic control plans affecting a WSDOT owned or operated traffic signal along a State Route (RCW 47.24.020, Section 13). • Approve temporary regulatory work zone speed limit reduction along a State Route (Secretary’s Executive Order E 1060.02) • Approve the installation of all traffic signals, both permanent and temporary, along a State Route (RCW 47.24.020, Section 13)
+Local agencies may request WSDOT to review traffic control plans outside of WSDOT jurisdiction, but acceptance is still the local agency’s responsibility.
+The Memorandum of Understanding of “City Streets As Part of State Highways” provides an agreement between Cities and WSDOT for responsibilities in regards to the construction, operation, and maintenance for city streets that also function as state highways. By understanding responsibilities, it is then known who develops the associated traffic control plans.
+Washington City and Town Profiles webpage provides current city population information.
+The following information is needed to determine the appropriate traffic control plan (TCP) acceptances or reviews by WSDOT and local agencies: • WSDOT TCP Acceptance & Review Stamp Protocol (Section 5-23.A) • Right-of-Way & WSDOT Limited Access Information (Section 5-23.B) • Local Agency Boundary Information (Section 5-23.C) • State Highway Traffic Signals within Local Agencies (Section 5-23.D)
+
+Page 5-70
+WSDOT Traffic Manual
+M 51-02.10 Work Zone Traffic Control
+A.
+Chapter 5
+Traffic Control Plan Acceptance and Review Stamp Protocol
+Document traffic control plan acceptance or review via stamps (including signature and date) on each sheet. Acceptance authority will be determined by each WSDOT Region
+Traffic Operations.
+This subsection provides protocol for four types of traffic control plan stamps: • Traffic control plan accepted and is entirely within WSDOT Right-of-Way and/or
+WSDOT Limited Access:
+
+• Traffic control plan accepted within WSDOT jurisdiction but also needs to be accepted for portion within the local agency’s jurisdiction (“dual acceptance”): • Traffic control plan reviewed by WSDOT, at local agency’s request, but must still be accepted by the local agency: • Traffic control plan not accepted; consider providing comments and explanation of what needs to be addressed on the traffic control plan:
+WSDOT Traffic Manual
+M 51-02.10
+Page 5-71 Chapter 5
+Work Zone Traffic Control
+B.
+Right-of-Way and WSDOT Limited Access Information
+WSDOT Right-of-Way plans, which also show WSDOT Limited Access boundaries, are the most useful way to determine which agency has jurisdiction for traffic control plan acceptance.
+For general information regarding WSDOT Limited Access boundaries, see Exhibits in
+WSDOT Design Manual Chapter 530.
+There are three typical ways to find specific boundaries of Right-of-Way and Limited Access: • WSDOT Plans and Document Archive webpage provides a library for Right of Way Plans to determine these limits at each interchange or intersection • WSDOT Active Right of Way Plans webpage provides a list of many right of way plans by corridor for the entire state • Contact WSDOT Region Right-of-Way staff for further assistance
+
+C.
+Local Agency Boundary Information
+WSDOT GeoPortal has a “Political Boundaries” feature that displays the city, county, tribal land boundaries overlaid on a map of Washington.
+D.
+State Highway Traffic Signals within Local Agencies
+WSDOT has approval or acceptance authority of traffic control plans within the limits of signalized intersections on State Highways when the traffic signal is WSDOT owned or operated, even when within local agency limits exceeding the population thresholds specified in RCW 47.24.020, Section 17. The local agency has approval authority outside the limits of the signalized intersection within their jurisdiction.
+Contact WSDOT Region Traffic Operations to determine which agency owns or operates
+State Highway traffic signals within the limits of local agencies.
+Page 5-72
+WSDOT Traffic Manual
+
+M 51-02.10 Chapter 6 6-1
+Traffic Regulations
+General
+Traffic regulations are intended to provide for driving behavior and actions that will lead to roadways that are the least likely to result in fatal and serious crashes. They create operating efficiencies on state highways, county roads, or city streets by placing enforceable operating restrictions on the use of the public roadway. A traffic regulation is either established in state law RCW 46.61, Rules of the Road, or is changed in law, based on data from an engineering and traffic investigation of road, land use and traffic (vehicle, freight, transit, pedestrian and bicyclist) conditions at the proposed location. Modifications to certain regulations require approvals at the State Traffic Engineer, Regional Traffic Engineer or
+Regional Administrator level. The guidelines in this chapter explain specific regulations and identify the information needed to establish or modify a traffic regulation.
+The Rules of the Road (RCW 46.61) regulate basic traffic movements on public roads including: • maximum speeds • turning movement restrictions • lane use • assignment of right of way • vehicle restrictions stop control • parking
+A traffic regulation other than the Rules of the Road may be implemented only after an official action by the appropriate jurisdictional authority. For state highways, a proposed traffic regulation (or modification) is approved by either the Regional Traffic Engineer,
+Regional Administrator, or the State Traffic Engineer, depending on the delegation of authority, and is administered as a “Calendar Agenda”.
+Where city streets are part of managed access state highways, a city or town may regulate parking, stop control, and turn prohibitions by establishing an ordinance or resolution. Under
+RCW 47.24.020(11), if a city or town wants tow regulate the above regulations on a state highway, the department must approve any regulation that is not identical to state law before it becomes effective (RCW 46.61.415).
+A.
+
+Regional Traffic Regulations Approved by Regional Administrator • Traffic signal installation permits on state highway system. • Reduced speed limits in construction or maintenance zones. • Regulatory speeds in rest areas, weigh stations, and ferry terminals. • Stop control on state highways. • Turn prohibitions and restrictions. • Pedestrian prohibitions on partial or modified access control highways. • Roadside parking restrictions (except for angle parking). • Tow-away zones along freeways. • Prohibitions on fishing or jumping from bridges. • Emergency or construction closures and weight restrictions. • Midblock pedestrian crossings
+WSDOT Traffic Manual
+M 51-02.10
+Page 6-1 Chapter 6
+Traffic Regulations
+B.
+Headquarters Traffic Regulations Approved by State Traffic Engineer • Regulatory speeds (outside construction and maintenance work zones). • 20 mph school speed zones established under WAC 468-95-330. • Bicycle prohibitions on limited access highways. • Truck restrictions (including trucks hauling hazardous material). • HOV lane designations. • Hard shoulder running. • Angle parking on state and federal-aid highways. • Parking restrictions for park and ride lots and other parking facilities. • Regulation of sales within state parking facilities. • Permanent weight restrictions.
+Permanent traffic regulation records are maintained in the office of the designated approving authority.
+Traffic regulations or modifications are coordinated and administered by the Regional
+Traffic Engineer and submitted to either the Regional Administrator or the State Traffic
+Engineer as a Calendar Agenda (Figure 6-1 or Figure 6-2), for approval. The regulation’s approval or denial is recorded, which provides the necessary official documentation of the regulatory action. Regulations related to speed limit changes that are approved by the State Traffic Engineer are placed in a statewide Speed Zone Inventory database.
+
+6-2
+Documentation
+Additionally, as outlined in this chapter, retain a summary of the engineering and traffic investigation and other data to support and document the regulation. Follow Chapter 11 records management for retention in the Traffic Manual. Inventories of traffic regulations are maintained in the office of the designated approving authority. Informational copies of completed Calendar Agenda action items are exchanged between the State Traffic Engineer and region Traffic offices. Copies are also provided to the Washington State Patrol (WSP), appropriate local agency and the Transportation Data, GIS and Modeling office (TDGMO). 6-3
+Regional Traffic Regulations
+Some types of traffic regulations address specific local traffic and geometric characteristics, without statewide implications. The Regional Administrators or Regional Traffic Engineers are delegated the authority to approve those regulations, which include the following: 1.
+Page 6-2
+Traffic Signal Installation Permits – Traffic control signals are addressed in the Manual of Uniform Traffic Control Devices (MUTCD), Chapter 4. Discussion includes advantages and disadvantages of signals, possible alternatives to signals, and the warrants under which signals are justified. In addition, signal installation types, which require a Traffic
+WSDOT Traffic Manual
+M 51-02.10 Traffic Regulations
+Chapter 6
+
+Permits are not required for: • Object identification beacons that are not installed overhead at an intersection • Speed limit sign beacons • Stop sign beacons • Rectangular Rapid Flashing Beacons – pedestrian signs • Lane assignment signals at toll facilities • Portable Temporary Traffic Control Signals, as identified in Standard Specification 1-10.3(3)K.
+When considering a signal, complete a warrant analysis for the proposed location in submit a Calendar Agenda request (Figure 6-1) with the documentation below to the
+Regional Administrator for approval.
+Your submittal should include: • A vicinity map showing SR/MP location of the proposed signal • Detailed sketch showing traffic volumes, lane distribution, and other data relative to the request. Photos of the location and surrounding area, if possible. of the Design Manual. • If the proposed signal location is at a Collision Analysis Location (CAL), Collision
+Analysis Corridor (CAC), or is listed in the latest priority array, collision data for the last three years should be included with the signal warrant analysis (part of
+Warrant 7) • A statement detailing local agency funding and maintenance responsibilities, if applicable. • All city, county, fire district, and citizen requests, along with copies of other pertinent documents and correspondence. • The history of previously tried corrective countermeasures. • Other supporting data such as proximity to schools, shopping centers, pedestrian traffic, etc. • Signal Application Checklist (Figure 6-3).
+Once approved, a Statewide Signal Permit Inventory number is obtained from
+Headquarters and noted in part “F” on the permit form (Forms Management Form 242-014). Send a copy of the completed permit to Headquarters for final documentation. At a minimum, the complete signal warrant analysis should be included with the submittal to Headquarters for documentation purposes.
+Where signal removal is being considered, refer to Section 6-6, Rescinding Existing
+WSDOT Traffic Manual
+
+M 51-02.10
+Page 6-3 Chapter 6
+Traffic Regulations
+B.
+Reduced Regulatory Speed – Construction/Maintenance Zones – The Regional
+Administrator may reduce speed limits in construction or maintenance work zones, following the guidelines given in Secretary’s Executive Order E 1060 and Traffic
+Manual Appendix 5B. In some instances, speed limit reductions must be approved by the State Traffic Engineer.
+C.
+Regulatory Speeds in Rest Areas, Weigh Stations, and Ferry Terminals – The department is authorized (RCW 46.61.405) to set speed limits on any part of the highway system and at ferry terminals. Rest areas and weigh stations are included in items were delegated to the Regional Administrator. RCW 47.38.020 provides more details on the limitations on use of rest areas. Rest Areas are limited to a maximum stay of eight hours in a 24-hour period for vehicles and commercial vehicles may park up to an hour beyond their federally mandated rest periods. RCW 47.38.010 specifies the rules governing use and control of rest areas, historic sites, viewpoints, etc.—Penalties
+Identify appropriate speed limits at these locations through an engineering and traffic investigation that considers: • Existing speed characteristics • Pedestrian traffic patterns • Geometric elements • Congestion • Operational conflicts
+Field observation during periods of heavy use may be necessary to determine these characteristics.
+The Rules of the Road (RCW 46.61.415) state that speed limits on local roadways cannot be posted at lower than 20 mph. Lower or higher speeds may be determined based on the engineering and traffic investigation.
+Submit regulatory speed limit requests for these locations as a Calendar Agenda item to the Regional Administrator. Include data collected from the engineering and traffic investigation to support the request.
+Regional Administrator Calendar Agenda items shall include: • A vicinity map and detailed strip map showing SR/MP location of the rest area, ferry terminal or weigh station. • A description of the operational conditions, such as heavy pedestrian usage, which identify the need for a speed reduction. Include speed studies if they are available. • A study of the last three years’ crash history. • Include proposed mitigation to reduce speeds. • Copies of WSP concurrences.
+
+Page 6-4
+WSDOT Traffic Manual
+M 51-02.10 Traffic Regulations
+Chapter 6
+D.
+Stop Control on State Highways – All state highways are considered arterials and entering traffic must stop when signs are posted (RCW 46.61.195). Most intersections of a state highway and a county road or city street are controlled by a stop sign posted on the local roadway. However, stop control can be installed on the state highway approaches if it will improve the intersection operation and if the traffic volume on the local roadway is equal to or higher than the state highway volume. The specific provisions regarding stop control are: • The department is responsible for STOP or YIELD signs on county road approaches to state highways and on city street approaches in cities and towns under 27,500 population (RCW 47.24.020 (13)(17). Population threshold increases in 2023. • The department can designate a county road or city street as an arterial having preference over the state highway if it will improve traffic conditions. (RCW 46.61.195) • An incorporated city or town may pass an ordinance designating a city street as an arterial having preference over a state highway, if approved, in writing by the department. The city or town is then responsible for the STOP or YIELD signs.
+RCW 46.61.195 does not specify a population threshold; therefore, any city or town may exercise this authority.) • Vehicles entering arterials from all other public or private roadways must stop before entering, when STOP signs are posted on the approach.
+Respond to requests for state highway stop control by conducting an engineering and traffic investigation to determine if it is warranted at the subject location. Consider an all-way STOP if approach volumes are approximately equal or if a collision analysis shows collisions which are correctable by all-way stops (i.e., angle collisions). See
+MUTCD, Section 2B.05 Stop Sign and All Way Stop plaque.
+Document the investigation and submit the proposed regulation to the Regional
+Administrator as a Calendar Agenda item. Include: • A vicinity map and detailed strip map showing SR/MP location of the intersection, together with the total traffic volumes and approach distributions. • A description of the operational conditions (such as sight distances) which identify the need for stop control, including any history of previously tried corrective measures. • A study of the last three years’ crash history, including whether the location is a
+Collision Analysis Location (CAL), Collision Analysis Corridor (CAC), or is listed in the latest priority array. • A city or town ordinance is required for city streets which are part of state highways. • Copies of city, county, and/or citizen requests along with other pertinent documents and correspondence. • Copies of WSP and/or local police agency concurrences.
+
+WSDOT Traffic Manual
+M 51-02.10
+Page 6-5 Chapter 6
+Traffic Regulations
+E.
+Turn Prohibitions and Restrictions – Specific turning movements may be prohibited or restricted by traffic regulations to reduce potential conflicts or improve the operational characteristics of an intersection or business access.
+Turn prohibitions that are established in the Rules of the Road or are clearly defined by design elements in the MUTCD, Section 2B.19 do not need a traffic regulation.
+All other turn prohibitions require a traffic regulation.
+Conduct an engineering and traffic investigation of the subject location; document the investigation and submit the proposed regulation to the Regional Administrator as a Calendar Agenda item. Include: • A vicinity map and intersection sketch showing the SR/MP location together with the total traffic volumes, approach lane distributions and turning volumes. • Descriptions of operational conditions which identify the need for the regulation, such as pedestrian movements, large truck turning radii, or lack of adequate gaps. • The alternate routing intended to accommodate the turn-restricted traffic.
+Convenient and strategic alternate routing is necessary to minimize the likelihood that a driver will ignore the prohibition. • A study of the last three years’ collision history, including whether the location is a Collision Analysis Location (CAL), Collision Analysis Corridor (CAC), or is listed in the latest priority array. • Copies of city, county, and/or citizen requests along with other pertinent documents and correspondence. • A city or town ordinance is required for city streets which are part of state highways. • Copies of WSP and/or local police agency concurrences, if applicable. • Photos or video, if available.
+
+F.
+Pedestrian Prohibitions on Full, Partial or Modified Access Control Highways –
+Pedestrians are prohibited on highways that have been established and constructed as fully controlled limited access facilities WAC 468-58-050; WAC 468-58-010. This prohibition does not apply to pedestrian overcrossings, under-crossings and other facilities provided specifically for the use of such traffic.
+On partial and modified access control highways the department is authorized to prohibit non-motorized traffic (e.g., pedestrians, bicycles) (RCW 46.61.160). Therefore, on highways with partial or modified access control, a specific traffic regulation is required to prohibit pedestrian traffic. A prohibition is only considered when an engineering and traffic investigation determines that pedestrians have an alternate route. It is not WSDOT policy to close pedestrian access when no feasible alternate route exists.
+Prohibitions are appropriate along partial and modified access controlled highways in areas having the appearance of full access control, in areas where parallel pedestrian routes are available, and other areas where pedestrians on the shoulder proximity to the travel lanes does not provide sufficient width for walking or where speeds, volume and roadway complexity in combination preclude pedestrian use.
+Page 6-6
+WSDOT Traffic Manual
+M 51-02.10 Traffic Regulations
+Chapter 6
+Document the investigation and submit the proposed regulation to the Regional
+Administrator as a Calendar Agenda item. Include: • A vicinity map of the area showing proposed prohibition limits and alternate pedestrian routes. Includes SR and MP. • Traffic volumes, shoulder width and posted speed limit. • Crash history for the past three years including any pedestrian involvements. • Summary statement detailing need for prohibition. Local agency coordination may be necessary, if so, include a summary of the coordination documentation. • Copies of WSP concurrences. • Photos or video, if available.
+G.
+
+Roadside Parking Restrictions – Parking or standin

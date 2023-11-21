@@ -1,0 +1,500 @@
+Temporary Erosion and Sediment Control Manual
+M 3109.02
+
+Engineering and Regional Operations
+Development Division, Design Office Foreword
+The Temporary Erosion and Sediment Control Manual (TESCM) replaces Chapter 6 and
+Appendix 6A of the Washington State Department of Transportation (WSDOT) Highway
+Runoff Manual. It outlines WSDOT’s policies for preventing erosion related impacts to waters of the state during construction.
+The TESCM is intended for use during the design, permitting, and construction phases of transportation construction projects. It covers:
+Applying for, transferring and terminating Permit coverage
+Temporary erosion and sediment control (TESC) plan design and implementation
+TESC best management practice (BMP) application and installation
+Spill prevention, control and countermeasure (SPCC) plans
+
+Discharge sampling, site inspections and reporting
+Site management and documentation
+Compliance related issues
+For further information, visit WSDOT’s Erosion Control Policies & Procedures webpage. /s/ Steve Roark
+Steve Roark, P.E.
+Director, Development Division
+State Design Engineer
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page iii Forward
+Page iv
+
+Page vii Contents
+Page viii Chapter 1 1-1
+General Information
+Introduction
+The Temporary Erosion and Sediment Control Manual (TESCM) provides the Washington
+State Department of Transportation (WSDOT) policy for preventing erosion related impacts to waters of the state during construction and complying with the National
+Pollutant Discharge Elimination System (NPDES) Construction Stormwater General
+Permit (Permit), issued by the Washington State Department of Ecology (Ecology).
+In combination, the TESCM and WSDOT’s Highway Runoff Manual (HRM) are deemed equivalent to Ecology’s Stormwater Management Manuals (SWMMs) for western and eastern Washington.
+WSDOT uses the temporary erosion and sediment control (TESC) plan and spill prevention, control and countermeasures (SPCC) plan to manage erosion and spill related risks during construction. Together, the TESC and SPCC plans are designed to meet the Stormwater Pollution Prevention Plan (SWPPP) requirements in Special
+Condition 9 (S9) of the Permit.
+The TESCM is intended for project planning, environmental permitting, design and construction personnel. Construction site erosion and sediment control is specialized work, and depending on the scope of the project, it often intersects with other specialized work and disciplines. Therefore, a comprehensive planning effort and the effective implementation of a TESC plan often necessitates interdisciplinary crosscoordination throughout design and construction. Internal coordination is a critical component of effective policy implementation, compliance assurance and overall project success. Once construction begins, active coordination with the contractor(s) also becomes critically important to these goals. Tips for effective cross-coordination are included throughout this Manual.
+The TESCM is written from the transfer of coverage (TOC) perspective because it is
+WSDOT’s standard practice for design-bid-build projects to transfer Permit coverage to the contractor the day after contract execution. The TOC process helps ensure contractors are invested in the TESC planning, implementation and Permit compliance.
+It may not be appropriate to transfer Permit coverage on all design-bid-build projects (e.g., projects with long winter shutdown or with multiple overlapping phases and contracts); if deemed appropriate, projects may request approval from their Assistant
+State Construction Engineer (ASCE) to retain Permit coverage through construction (non-transfer). Procedures vary for non-transfer design-bid-build projects and designbuild projects in which the contractor obtains Permit coverage, see Section 4-1.6.11 for more information. TOC is addressed in Division 8-01 of WSDOT’s Standard Specifications for Road, Bridge, and Municipal Construction (Standard Specifications), and additional
+TOC guidance is referenced in this Manual and available on the Erosion Control Policies & Procedures webpage.
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 1-1 General Information
+Chapter 1
+Division 8-01 of WSDOT’s Standard Specifications includes three options for measurement and payment (similar to temporary traffic control) of the erosion control work. While lump sum is the preferred option, the project design team may deem one of the other options appropriate based on project specific factors (e.g., may want to use bid items with potential use of force account for non-transfers). Using lump sum encourages the contractor to think proactively about managing erosion related risks, while also providing project cost predictability for the Project Engineer (PE). The PE is to enforce erosion control contract requirements as they would for any other contract requirement and may need to impose a suspension of work in accordance with Standard
+Specifications Section 1-08.6 to prevent threats to human health and the environment.
+Once WSDOT transfers Permit coverage, the contractor becomes responsible for all
+Permit requirements and WSDOT’s role becomes that of compliance assurance through contract enforcement (WSDOT staff inspect the work to help ensure Permit compliance but do not direct the specific methods of erosion control work). Inspection of erosion control work is a specialized task and it is important that the PE allocates adequate project inspector resources and provides proper training for enforcement of this contract work. Internal training expectations can be found in Section 1-1.2. A detailed list of inspection expectations can be found in Section 4-1.
+The contract will be prepared in accordance with the Plans Preparation Manual M 22-01 and administered in accordance with the Construction Manual M 41-01. 1-1.1 Erosion, Sedimentation and AKART
+Erosion is the movement of sediment particles from their original location by forces such as water, wind, freeze and thaw cycles, or gravity. Erosion is a natural process but construction activities such as removing vegetation, disturbing soil, and redirecting drainage can increase the natural rates of erosion. The Permit requires erosion related risks be proactively managed through planning, site monitoring, and the implementation and adaptive management of onsite best management practices (BMPs).
+The erosion process by water is particularly challenging to manage during construction because the natural protective layers of vegetation and topsoil have been disturbed or removed. Construction activities such as clearing, grubbing and grading expose bare soil and create conditions that encourage stormwater flow volume and velocity to increase.
+TESC BMPs are used to mimic the erosion and sediment control benefits that natural conditions would otherwise provide.
+Water erosion starts at the raindrop or “splash” phase and the erosive energy of the water increases through the subsequent phases:
+
+Page 1-2 
+Raindrop or Splash Erosion: Soil particles are displaced by raindrop impact. 
+Sheet Erosion: Uniform layer of shallow flow that moves loose soil.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 1
+General Information 
+Rill Erosion: Concentrated flows develop and create small eroded channels. 
+Gully Erosion: High-volume high-velocity concentrated flows displace large amounts of soil quickly, creating large eroded channels. 
+Channel or Streambank Erosion: Shear stress erodes conveyance sidewalls.
+TESC BMPs are most effective at managing erosion in the first two phases. Therefore, protecting bare soil from raindrop impact and maintaining sheet flow by dispersing concentrated flows should be a high priority in every TESC plan and BMP implementation strategy. The effectiveness of BMPs decrease and associated costs increase as concentrated flows develop. Concentrated flows can cause large erosion events and quickly lead to the failure of BMPs designed to manage sheet flow (e.g., silt fence, blankets).
+Water erosion is generally the most common and damaging type of erosion on construction sites, and is therefore the primary focus of this Manual. However, erosion related risks associated with other forces must also be considered when designing and implementing a TESC plan.
+Wind erosion is hardest to manage in regions of eastern Washington due to soil type and climate factors. However, wind erosion can occur statewide and the associated risks should be considered: 
+
+Settling dust can cause water quality problems. 
+Dust can create a health and safety concern. 
+Comply with the local clean air agency requirements.
+Freeze and thaw cycles will be a seasonal challenge, particularly for projects in higher elevations and regions of eastern Washington. Risks associated with freeze and thaw cycles should be considered: 
+The upwards swelling of soil during freezing conditions affects soil aggregate stability making soil more vulnerable to erosion. 
+Infiltration rates are commonly reduced when soil is frozen. The risks increase if the rain melts existing snow pack.
+Gravity is a constant force pulling sediment and water downhill. Risks associated with the force of gravity should be considered: 
+Can lead to mass wasting or slumping (large soil structure failure) events. 
+Is of particular concern when soil is saturated, cut/fill slopes, or areas where groundwater seeps or geotechnical concerns are identified.
+Turbidity is a measurement of the relative clarity of a liquid and is a simple indicator for suspended sediment and other undissolved matter in a discharge sample. While
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+
+Page 1-3 General Information
+Chapter 1 sediment itself is a pollutant, numerous other pollutants bind to sediment; therefore, less turbid discharges will contribute fewer pollutants to surface waters. This understanding is why the Permit uses a turbidity benchmark to help ensure compliance with the surface water quality standards. For example, construction projects in areas impacted by the Tacoma Smelter Plume or Everett Cleanup Site will likely have elevated amounts of arsenic bound to the sediment. Managing the site as required by the Permit will help ensure surface water quality standards will be met for arsenic in these areas.
+Sedimentation is a process that occurs after erosion; it is the gravity-induced settling or the deposition of the eroded soil particles. Sedimentation occurs when the velocity of the water or wind in which soil particles are suspended slows for sufficient time allowing the particles to settle or “drop out”. Offsite sedimentation can cause environmental impacts which must be minimized using BMPs. Costs associated with erosion and sedimentation may be finite or extensive and difficult to quantify.
+Erosion can lead to turbid discharges, which lead to offsite sedimentation which can have numerous impacts, such as: 
+Degradation of habitat, aesthetic, and recreational uses of surface waters. 
+Water quality impacts such as nutrient loading and eutrophication. 
+Increased stormwater system maintenance and operational costs. 
+Loss of nutrient-rich topsoil.
+To minimize potential impacts, the Permit requires the implementation of all known, available, and reasonable methods of prevention, control, and treatment (AKART) as defined in the Washington Administrative Code (WAC) Chapter 173-218-030 prior to a construction impacted discharge. To meet the AKART requirement, the proper selection, installation, maintenance, and adaptive management of BMPs is required to ensure continued functional performance throughout construction. Adaptive management is described in Section 4-1.4. Approved TESC BMPs can be found in: 
+Chapter 5 of this Manual
+
+
+Volume II of Ecology’s SWMM for Western Washington
+Chapter 2 of Ecology’s SWMM for Eastern Washington
+TESC BMPs may include schedules of activities, prohibitions of practices, physical, structural or managerial practices and maintenance procedures, used singularly or in combination to prevent or reduce the source and release of pollutants during construction. Most TESC BMPs provide a temporary function during the construction period; they may be designed to degrade in-place or may need to be removed prior to terminating Permit coverage. Some BMPs such as ponds and vegetation, may provide both a temporary function during construction and a permanent function after construction is complete. Using existing permanent stormwater facilities for TESC purposes is covered in Section 4-1.6.14. Permanent stormwater facilities are designed in
+Page 1-4
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 1
+General Information accordance with WSDOT’s HRM. Permanent roadside vegetation policies are implemented in accordance with WSDOT’s Roadside Policy Manual.
+The following information is intended to clarify how different TESC BMP terminology is commonly used, applicable Permit requirements and functional applications of each category:
+Sediment Control (Treatment) BMPs:
+May be referred to as “treatment” BMPs because they work to remove pollutants suspended in water. “Treatment” is a more inclusive term because it applies to other pollutants besides sediment; for example, BMPs used to treat high pH and clean up fuel spills.
+
+
+Required to be installed before land disturbing work begins in an area to ensure all construction impacted runoff will receive treatment prior to a discharge.
+Required to be maintained regularly because they fill with sediment or become clogged, which lowers the functional performance.
+Are often used within a site to provide treatment prior (pretreatment) to receiving additional treatment from BMPs nearer the discharge point.
+Are not generally designed to prevent erosion; therefore, erosion control BMPs must be installed in accordance with the soil covering timelines in S9.D.5.d of the
+Permit.
+Erosion Control (Source Control) BMPs:
+May be referred to as “source control” BMPs because they manage the source of pollution. “Source control” is a more inclusive term because it applies to sources of pollution besides bare soil; for example, secondary containment BMPs used to manage the source of fuel spills.
+Required to be installed based on site conditions or work activity. For example, erosion control BMPs must be installed on exposed soil not actively worked in accordance with the soil covering timelines outlined in S9.D.5.d of the Permit and the Standard Specifications 8-01.3.
+Not generally designed to hold up against concentrated flows; runoff conveyance BMPs must be used to prevent concentrated flows from developing and leading to the failure of erosion control BMPs like blankets and hydraulically applied mulch products.
+
+Conveyance (Dispersion or Water Management) BMPs: 
+Dissipate erosive energy and prevent concentrated flows from developing. 
+Collect, route, or otherwise manage different sources of flows.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 1-5 General Information 
+Chapter 1
+Required to be installed to protect adjacent properties and downstream waterways from impacts associated with increased velocity and flow rate of runoff that may develop as a result of the project.
+Construction site stormwater runoff is subject to federal, state, and local regulatory requirements. Impacts from polluted discharges can increase project costs through legal fines and repair of site damage that can cause delays to project delivery. Pollution is defined by the federal Clean Water Act (CWA) as any man-made or man-induced alteration of the chemical, physical, biological, and radiological integrity of surface water.
+Common sources of pollution during construction may include: 
+Sediment
+
+ pH modifying substances such as cement and grout 
+Fuel, oil, grease, petroleum hydrocarbons 
+Chemicals, paints, detergents, solvents, fertilizers, pesticides 
+Wastewater, construction waste, contaminated or hazardous material
+Chapter 90.48 Revised Code of Washington (RCW) defines “waters of the state” to include underground waters, so the Permit protects groundwater from construction impacts as well as surface waters. To protect waters of the state, S1.D of the Permit prohibits specific types of discharges during construction, some of which are conditionally authorized when managed as required.
+Projects must coordinate with local jurisdictions prior to construction. Many local jurisdictions have established their own permits (e.g., clearing and grading, special approved discharges to sewer system), codes, or ordinances, which may be applicable to a project’s TESC related work. 1-1.2 Construction Site Erosion and Sediment Control Training
+All WSDOT staff who design, implement, or inspect the implementation of TESC plans during construction must attend WSDOT’s Construction Site Erosion and Sediment
+Control classroom course every three years to ensure they understand the most current
+Permit requirements. WSDOT staffs involved in permitting and environmental coordination are encouraged to take this course as well.
+The classroom course covers:
+
+Page 1-6 
+Planning and the Notice of Intent (NOI) permitting process 
+TESC plan design and implementation 
+The Permit transfer of coverage (TOC) process
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 1
+General Information 
+Site inspections, discharge sampling, and reporting procedures 
+BMP adaptive management and site documentation requirements 
+The Notice of Termination (NOT) process
+Check the Learning Management System (LMS) for class availability or contact the
+Headquarters (HQ) Environmental Services Office (ESO) Erosion Control program.
+WSDOT consultants may attend the training but may not be able to register in LMS.
+This classroom course may be used in WSDOT’s internal Certified Erosion and Sediment
+Control Lead (CESCL) certification program. No WSDOT personnel (including TESC plan designers) are required to be CESCL certified because the Permit required site inspections are performed by the contractor’s CESCL. However, construction inspectors responsible for tracking the contractor’s TESC related work are encouraged to be CESCL certified as it will improve their confidence in identifying compliance assurance actions.
+The following conditions apply for internal CESCL certifications: 
+
+Obtaining a new CESCL requires 16 hours of training (8 hours classroom and 8 hours BMP field course). The BMP field course is organized by WSDOT’s
+Maintenance and Operations program or the Regional Road Maintenance
+Program and has limited availability for non-maintenance staff. For this reason, staff needing new CESCLs are often encouraged to attend an external CESCL certification program. Individuals are not certified until both classes are completed within 6 months of each other. It does not matter which course is taken first. 
+Certifications are valid for 3 years. There is a 6-month renewal window after the expiration date in which the CESCL can be renewed with just the classroom course (the certification is not considered current during the 6-month renewal period). 
+The 1-day WSDOT Construction Site Erosion and Sediment Control classroom course will renew certifications not expired for over 6 months. Individuals who do not renew certifications during the 6-month renewal period must obtain a new CESCL. CESCL certification may also be renewed through an Ecologyapproved external provider.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 1-7 General Information
+Chapter 1 1-1.3 Construction Stormwater Permitting
+All projects that will disturb 1 acre or more of soil and have the potential to discharge to surface waters of the state (including a storm sewer system that drains to surface waters of the state) are required to apply for coverage under the Permit.
+In addition: 
+
+Projects smaller than 1 acre that are part of a larger common plan of development or sale that will ultimately disturb 1 acre or more and discharge stormwater to surface waters of the state, must apply for coverage. The disturbed area of the entire common plan must be used in determining Permit coverage requirements. 
+Any sized project deemed by Ecology to be a significant contributor of pollutants or expected to cause a violation of any water quality standard, may be required to apply for Permit coverage.
+Exception: 
+Based on geographical location and other factors such as construction schedule, projects that will disturb less than 5 acres of soil (including common plan of development) may be eligible for the Erosivity Waiver (waiver for Permit coverage) outlined in S2.C of the Permit.
+Chapter 90.48 RCW delegates authority to Ecology to administer the NPDES permit program in Washington State with few exceptions. Projects within Indian Country1 as defined in 18 U.S.C §1151, are not covered by the Ecology Permit and must seek coverage under the federal NPDES Construction General Permit (CGP) issued by the U.S.
+Environmental Protection Agency (EPA). If permitting authority is unclear, coordinate with Ecology’s regional Permit Administrator. If federal CGP coverage is appropriate, use the EPA electronic Reporting Tool (NeT-CGP) system to apply for coverage.
+Coverage under the federal CGP is not transferrable like Ecology’s Permit, therefore the transfer of coverage (TOC) process does not apply to federal CGP coverage.
+Projects that will require federal CGP coverage have two contractual options for managing compliance: 1.) Requiring the contractor to obtain their own CGP. This option does not prevent WSDOT from obtaining coverage because the federal CGP requires all “operators” to obtain coverage. WSDOT is considered an operator because it has the ability to make modifications to contract plans and specifications. 2.) Taking on the liability of allowing the contractor to work under WSDOT’s CGP coverage (must be articulated in the contract). 1
+There is an exception for the Puyallup reservation defined in Special Condition S1.E.4 of the Ecology Permit.
+Page 1-8
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 1
+General Information
+Projects should consult with their ASCE to determine the best contractual method for managing federal CGP compliance. Information about how to comply with the federal
+CGP is not discussed in this Manual because very few WSDOT projects trigger federal coverage, but technical assistance can be provided by the HQ Erosion Control program.
+Projects seeking coverage under the Ecology Permit must apply by submitting a Notice of Intent (NOI) through Ecology’s Water Quality Web Portal (WQWebPortal) system in accordance with S2 of the Permit. Follow the general instructions in the WQWebPortal page (video tutorials are available) and use the internal guidance bulleted below for specific WSDOT procedures.
+The Permit requires the NOI be submitted at least 60 days before discharging stormwater and on or before the date of the first public notice. Additional correspondence between WSDOT and Ecology may become required during the NOI process (e.g., outfalls to impaired waterbodies, existing site contamination) which can delay Permit issuance. Therefore, it is recommended that projects submit the NOI to
+Ecology at least 90 days before the project is expected to go to advertisement. This allows adequate time to address issues that may arise during the permitting process. If existing site contamination (soil and/or groundwater) will be disturbed during construction, it is recommended that early coordination with Ecology begin before the
+NOI submittal to avoid permitting delays and an Administrative Order (AO) whenever feasible.
+Guidance is available on the Erosion Control Policies & Procedures webpage for the following aspects of the NOI process: 
+Completing the electronic NOI
+
+
+Permitting projects with known existing soil or groundwater contamination
+Completing the Proposed New Discharge to Impaired Waterbody form2
+All surface waters with the potential to receive a construction related discharge must have at least one outfall location identified on the NOI. For purposes of the NOI submittal, the outfall location is the point at which construction discharges are expected to enter the first receiving surface water (directly or indirectly such as through a storm sewer system). Some outfall locations may be temporary (only active during construction), and some may be permanent outfall locations. Only surface waters with an identified outfall location in the NOI submittal will be permitted to receive discharges during construction. If a receiving surface water is missed (i.e., outfall not identified on the NOI submittal), a new NOI and public notice may be required in accordance with
+G20 of the Permit prior to a discharge being permitted.
+Project staff can prevent permitting delays by identifying construction applicable receiving waterbody impairments and, if needed, including the appropriate form with 2
+Will be sent to permittee by Ecology if the NOI includes temporary outfalls into impaired receiving surface waters. This form can also be found on Ecology’s website (see above).
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 1-9 General Information
+Chapter 1
+
+the NOI submittal. It is Ecology’s process to review outfall locations identified in the NOI and determine whether a waterbody impairment (i.e., 303d listing or approved Total
+Maximum Daily Load (TMDL)) is applicable to construction (i.e., impairment for turbidity, fine sediment, high pH, and phosphorous). Outfalls in impaired waters applicable to construction will trigger the Proposed New Discharge to an Impaired
+Waterbody form submittal; Ecology will request the form be submitted if it was not included in the NOI submittal (considered an incomplete NOI). Guidance for using the
+GIS Workbench to identify applicable waterbody impairments and to complete the form is available on the Erosion Control Policies & Procedures webpage. Construction applicable waterbody impairments may also trigger additional TESC planning considerations (see Section 2-1.1.6) and discharge sampling requirements (see Section 4-1.6.7).
+Projects must coordinate with local jurisdictions prior to construction to ensure compliance with ordinances, codes or other applicable permits (e.g., clearing and grading, special approved discharges to sewer system) that may be applicable to a project’s TESC related work. Local jurisdiction procedures and timelines vary. The Permit covers discharges to storm sewer systems that drain to surface waters of the state.
+However, jurisdictions covered under the Phase I or Phase II NPDES Municipal
+Stormwater Permit may want to verify Permit coverage or review a TESC plan prior to authorizing a construction related discharge to their municipal separate storm sewer system (MS4).
+The local jurisdiction may also operate a publicly owned treatment works (POTW) often referred to as a sanitary sewer. Sanitary sewer systems provide additional treatment prior to discharging to surface waters of the state and are therefore a good option for discharging water not authorized to be discharged under the Permit (e.g., process wastewater). The local jurisdiction may issue a special approved discharge (SAD) permit for discharges to their sanitary system which may include flow limitations, monitoring and water quality requirements, as well as reporting requirements.
+Public notice requirements are outlined in S2.B of the Permit. The eNOI system provides a public notice template but does not submit the public notice to the newspaper selected; the public notice action must be done outside of Ecology’s eNOI system. The 30-day public comment period begins on the publication date of the second public notice.
+If there are no issues with the NOI submittal, Permit coverage will automatically begin on the 31st day following the receipt by Ecology of a completed NOI. Monthly reporting requirements begin as soon as the Permit is issued, even if construction has not started and no discharge has occurred. Refer to Section 4-1.2 for more information about preconstruction reporting requirements. Permit status can be checked in Ecology’s
+Permit and Reporting Information System (PARIS). WSDOT must pay the Permit fees until coverage is transferred to the contractor.
+
+Page 1-10
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2 2-1
+TESC Plan Design
+Temporary Erosion and Sediment Control (TESC) Plan Design
+WSDOT uses the temporary erosion and sediment control (TESC) plan and spill prevention, control and countermeasures (SPCC) plan to manage erosion and spill related risks during construction. Together, the TESC and SPCC plans are designed to meet the Stormwater Pollution Prevention Plan (SWPPP) requirements in Special
+Condition 9 (S9) of the Permit.
+Under the TOC process standard for design-bid-build projects, WSDOT prepares the preliminary TESC plan (narrative and plan sheets) or abbreviated TESC plan for inclusion in the contract. Some required TESC plan content may not be known at the time of preliminary TESC plan development (e.g., discharge sample locations, contractor’s
+CESCL, offsite support activity areas) and must be added by the contractor prior to and throughout construction as needed.
+While this Chapter is intended to help designers create a TESC plan, it includes information that may be helpful during construction when adaptively managing the
+TESC plan and site BMPs. The TESC plan is a living document; it must be continually adapted during construction to ensure compliance. Adaptive management is discussed in Section 4-1.4.
+A TESC plan must be prepared if: 
+
+The construction project requires coverage under the Permit (See Section 1-1.1). 
+The project will add or replace 2,000 square feet (of existing road surface down to base course)or more of impervious surface or will disturb 7,000 sq. ft. or more of soil (Minimum Requirement 2 in the HRM). 
+A TESC plan is required by Ecology or local permitting authority.
+Smaller earth disturbing projects that do not meet the above criteria, but have the potential to discharge to surface waters of the state (including a storm sewer system that drains to surface waters of the state) must develop an abbreviated TESC plan, sometimes called a “TESC Memo” to ensure compliance with: 
+Applicable codes, ordinances and regulations, including the water quality standards for surface waters; Chapter 173-201A of the Washington
+Administrative Code (WAC) and water quality standards for groundwater;
+Chapter 173-200 WAC.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 2-1 TESC Plan Design
+Chapter 2
+
+A comprehensive TESC plan will minimize the need for TESC related change orders during construction. TESC plans are required to include specific information (bulleted below), but how that information is organized and formatted is not directed by the
+Permit. The format for abbreviated TESC plans is even more flexible; they may include a narrative and/or plan sheets but must identify the potential erosion related risks and strategies to manage those risks. TESC plan and abbreviated TESC plan templates are available on the Erosion Control Policies & Procedures webpage. Additionally, Ecology’s
+SWPPP template can be used to develop WSDOT’s TESC plan.
+TESC plans or abbreviated TESC plans, including a method of payment to cover the work, must be included in the contract. TESC plans are not required to be stamped by a licensed engineer, though regional and project specific requirements may vary. The contract must be prepared in accordance with the Plans Preparation Manual M22-01.
+TESC plan narratives must include: 
+Information about existing site conditions and factors that affect erosion related risks, such as topography, climate, drainage, soil type (see Section 2-1.1). 
+Identification of potential erosion problem areas including strategies and contingency plans for managing these areas. 
+Risk analysis for the 13 TESC planning elements (see Section 2-1.2.1), and a list of potential BMPs that may be used to manage those risks. 
+Engineering calculations for designed stormwater facilities such as ponds or chemical treatment systems. 
+A general construction phasing and BMP implementation schedule.
+
+
+Onsite CESCL contact information (to be added before construction starts).
+TESC plan sheets must include:
+Page 2-2
+Relevant directional and locational information including the direction of north, property lines, existing structures, roads, and impervious surfaces.
+Cut and fill slopes indicating the top and bottom of slope catch lines.
+Approximate slopes, contours, and direction of stormwater flow before and after major grading activities.
+Areas of soil disturbance and areas that will not be disturbed.
+Locations of BMPs.
+Locations of support activities directly related to the permitted project such as offsite material or borrow areas, stockpiles, waste storage, and equipment storage areas (unless the support activity is a commercial operation serving multiple unrelated construction projects or covered by an existing NPDES Permit).
+
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2
+TESC Plan Design 
+Locations of all surface water bodies, including wetlands and protected areas. 
+Temporary outfall locations to surface waters of the state (as identified in the NOI). 
+Discharge sample location(s) (to be added once construction starts and updated throughout construction). 
+Areas where final stabilization (construction complete and soils stabilized with permanent BMPs) has been achieved (to be added as applicable during construction). 2-1.1 TESC Data Collection and Risk Analysis
+The first steps in developing a TESC plan include data collection and risk analysis. The time and effort put into a TESC plan should be proportionate to the erosion related risks of the given project. High-to-moderate erosion related risk construction projects necessitate a more detailed risk analysis, thoughtful BMP selection and contingency planning.
+Most high-to moderate erosion related risk projects involve more than 1 acre of soil disturbance, discharge to surface waters (including a storm sewer system that drains to surface waters) within 300 feet of the project, and meet at least three of the following four characteristics: 
+More than 50% of the site consists of soils in Hydrologic Groups C and D as defined by the Natural Resource Conservation Service (NRCS) soil surveys. 
+They involve wet-season (October through April west of the Cascades or
+October through June east of the Cascades) work or last more than one year.
+
+
+Their cut/fill slopes exceed more than 50 feet in length.
+They have active seeps or shallow groundwater.
+The TESC plan designer’s goal is to provide site-specific information that will help the contractor understand how existing site conditions may affect erosion related risks and identify strategies to minimize environmental impact during construction. Depending on the scope of the project, coordination with additional internal personnel such as the local landscape architect or maintenance staff may become necessary to help ensure a comprehensive TESC planning effort.
+Utilize appropriate resources when gathering data to develop a TESC plan, such as:
+Existing project specific documentation such as the Hydraulic and
+Geotechnical Analysis reports, or NEPA/SEPA documentation.
+Guidance located on the Erosion Control Policies & Procedures webpage.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 2-3
+
+TESC Plan Design
+Chapter 2 
+Environmental layers in the GIS Workbench. 
+Site visits (during a storm event when feasible). 
+Consult internal regional stakeholders such as landscape architect or maintenance personnel (topics may include: existing drainage or access issues, implementation of roadside management policies related to erosion control such as Integrated Vegetation Management Plans).
+Focus data collection and analysis efforts around the factors that affect erosion related risks on a project (outlined below). Think critically about potential site management challenges and environmental risks during construction. Incorporate relevant information into the TESC plan narrative or show it on the contract plan sheets if appropriate.
+In accordance with S9.B.1. a and b of the Permit, the TESC narrative must include information about existing site conditions that can affect erosion related risks and potential erosion problem areas: 2-1.1.1
+Soil Type
+The proportion and arrangement of sand, silt, clay, and organic matter determines soil texture. Soil texture greatly affects the vulnerability to erosion, cohesiveness of the soil, how quickly the suspended particles will settle due to gravity, and the rate at which infiltration or runoff will occur.
+Knowing soil characteristics can help TESC plan designers and implementers select appropriate BMPs. For example, quarry spall check dams may provide adequate sediment control in areas with high proportions of sand because sand particles settle out easily. Quarry spall check dams are not as effective at providing sediment control in areas with high proportions of silt and clay because these smaller particles stay suspended longer and require a longer holding time to settle out. A geotextile or sandbag check dam will work much better at creating the “dam” function so as to provide the holding time required to allow smaller sediments to settle out. Another example is selecting between silt fence or compost sock as a sediment control BMP.
+Silt fence must be trenched in properly to perform as effective sediment control; if soils are too rocky, trenching in silt fence may not be feasible. In which case, compost socks may be more appropriate because they provide sediment control but do not need to be trenched in. To learn more about each TESC BMP refer to Chapter 5.
+Information about soil characteristics can be found from various sources, including geotechnical or hydraulics reports, soil boring logs, Natural Resources Conservation
+Service soil surveys, and onsite evaluations using soil ribbon or jar testing methods.
+Additional information about soil characteristics can be found in the HRM and the
+Hydraulics Manual M 23-03. Additional WSDOT resources include Region
+
+Page 2-4
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2
+TESC Plan Design
+Environmental, Maintenance, and Landscape offices, Region Materials Engineers, and the HQ Erosion Control program. 2-1.1.2
+Climate and Precipitation Patterns
+Climate and precipitation patterns greatly influence the potential for erosion.
+Consider the following when evaluating risks for this factor: 
+Frequency, intensity, and duration of historic storm events 
+Climate
+Consider how climate and precipitation patterns influence soil saturation which directly influences how much stormwater will runoff rather than infiltrate. Even soils with high infiltration rates can generate large amounts of runoff during highintensity rain events. Concentrated flows can develop quickly and must be managed to minimize erosion and damage to slopes, conveyances, drainage features, and downstream properties.
+Western and eastern Washington have different climates and precipitation patterns.
+Those differences coupled with different soil types should lead the designer to different risks and risk management strategies. For example, fugitive dust may be a year-round risk for many eastern Washington projects and may not be a risk for other projects.
+Freeze and thaw patterns should also be considered as a potential erosion related risk. When moisture in the ground freezes, it heaves the soil upwards creating voids in the ground that create a vulnerability to erosion. Frozen ground also decreases infiltration rates. Rain falling on snow and frozen ground creates a particularly hard to manage situation.
+Additional information about climate and precipitation patterns can be found in the
+HRM and the Hydraulics Manual. The GIS Workbench also contains information on climate and precipitation patterns. The Western Regional Climate Center (WRCC) website has statistical information on precipitation, temperature, and several other climatic measurements for over 200 sampling stations throughout the state. The
+WRCC website includes interactive probability-graphing capabilities ( https://wrcc.dri.edu/summary/climsmwa.html). 2-1.1.3
+
+Land Cover and Vegetation
+Land cover greatly influences the volume of runoff, peak discharge rates, and the vulnerability to erosion. The volume and velocity of overland flows in cleared and graded areas can increase quickly and generate large amounts of turbid runoff because: 
+Absorbent soil horizons (organic layer and topsoil) have been removed and remaining compacted subsoils provide minimal infiltration.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 2-5 TESC Plan Design
+Chapter 2 
+There is no tree canopy to intercept and dissipate raindrop impact energy. 
+There is no surface vegetation to slow and filter overland flows.
+Vegetation is the most effective erosion and sediment control BMP because it protects soil from raindrop impact, increases infiltration rates, and root systems hold the soil together. Vegetation also slows and filters sheet flow. Use vegetation wherever feasible to minimize erosion related risks during construction: 2-1.1.4 
+Preserve existing vegetation as much as possible and phase work to limit the amount of vegetation that is removed at one time.
+
+
+Set clearing limits to minimize vegetation removal and label any areas of existing vegetation that can be protected on the TESC plan sheets.
+Identify opportunities to incorporate permanent vegetation early.
+Topography
+The three-dimensional surface of the grade (existing, temporary, and permanent) will influence the potential for erosion. The potential for erosion increases with increasing slope length and gradient. However, even low-gradient slopes can generate damaging rill or gully erosion because soil type and climate factors greatly influence topographical risks. All slopes, regardless of soil type, are vulnerable to rapid rill and gully erosion when exposed to concentrated flows.
+Topographical features such as slope, large rocks or structures such as bridge abutments that influence flow path make certain areas vulnerable erosion. Cut and fill slopes are particularly vulnerable to erosion. BMPs like wattles and compost socks can be used to break up the continuous length of a slope and dissipate flow energy.
+Groundwater seepage or ephemeral streams increase the potential for slope failures with all soil types. If geotechnical analysis was done for a project, the report may help you identify areas where these sources of water may occur. Performing site visits in the rainy season during the planning phases of a project can also help you identify such risks.
+Topographical features may be used to reduce the risk of erosion and turbid water discharges. Use natural depressions, upland, flat or vegetated areas to disperse or infiltrate runoff. Label dispersion and infiltration areas on the TESC plan sheets like other BMPs. 2-1.1.5
+Drainage and Adjacent Areas
+Offsite water that runs onto a project (run-on) can cause tremendous damage because it may generate stormwater volumes that far exceed the design capacity
+
+Page 2-6
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2
+TESC Plan Design of the conveyance system or treatment facility such as a pond. Unidentified offsite sources of water run-on can lead to large erosion related cost overruns and fines.
+Identify potential sources of offsite water run-on during the TESC planning phase.
+Offsite water run-on sources may include: natural sheet flow from neighboring facilities, overland flow from upland areas outside the project boundary, permitted or illicit discharges or connections (e.g., no utility permit) from neighboring buildings and parking lots, groundwater seeps, water from neighboring construction projects, or seasonal drainages.
+Division 8-01.3 of the Standard Specifications requires sources of offsite water to be intercepted and piped through or around the construction project to prevent it from coming into contact with construction. If offsite water run-on comes into contact with construction areas, it must be managed in accordance with the Permit.
+Take the following actions to identify potential sources of offsite stormwater run-on during the design process: 2-1.1.6 
+Review the Hydraulic Report and Geotechnical Investigation report. 
+Consult maintenance personnel about existing drainage patterns. 
+Visit the site during a storm event to confirm drainage patterns.
+
+Potential Erosion Problem Areas and Contingency Planning
+The potential erosion problem areas and contingency plans will be different for every project. The following information includes common examples of problem areas and contingency plans:
+Groundwater, Seeps, and Seasonal Springs
+Evaluate the risk of intercepting groundwater, seeps, and seasonal springs by reviewing Geotechnical Investigation reports, county soil maps, and wet season site evaluations. There may be helpful information or lessons learned from past projects in the same area.
+Groundwater levels fluctuate throughout the year. The presence of high groundwater, seeps, and seasonal springs may impact the BMP selections you make for the project. High groundwater levels affect stormwater infiltration rates, so the timing of certain construction activities may affect the overall risk of that activity.
+Sensitive Areas, Existing Contamination, or Impaired Receiving Waters
+The location of sensitive areas, site contamination, or impaired receiving waters can have implications for work methods, discharge requirements, and the risk of potential impacts. Review existing environmental documentation to help identify risks applicable to the project.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 2-7 TESC Plan Design
+Chapter 2
+
+Identify surface waters, wetlands, buffer zones, and other protected areas within the project site. Always place sediment control BMPs (e.g., silt fence, wattle, compost sock, or vegetated strips) to protect sensitive areas from untreated discharges. Never use sensitive areas as treatment areas.
+Existing site contamination is a risk that must be identified as a risk in the TESC plan narrative, but the management details do not need to be included as long as that information is elsewhere in the contract. It can be helpful if the TESC narrative references relevant contract documents used to manage contamination. For more information contact the WSDOT Hazardous Materials Program.
+Use the WSDOT GIS Workbench to identify impaired receiving waters that may receive a discharge during construction (this should have been done during the
+Environmental Review Summary process). Waters impaired for turbidity, fine sediment, high pH and phosphorus will have TESC implications. Depending on the pollutant of concern and the construction activity, additional management strategies may be warranted to prevent impacts to impaired waters. For more information about how to manage impaired receiving waters during construction, refer to Section 4-1.6.7 or the Impaired Water Body section of Erosion Control
+Policies & Procedures webpage.
+Utilities and Existing Encumbrances
+Check for existing encumbrances, such as utilities, wells, or drain fields, that may impact risk. Discuss the responsibility for acquisition of any necessary environmental documentation and permitting with the Project Development Engineer, Region
+Utilities Office, and the utilities as early in the design process as possible.
+Environmental requirements will vary between projects. Refer to the
+Utilities Manual for more information.
+Timing, Duration, Work Sequencing
+
+Consider how timing and duration of the project will impact overall risk. Projects that will have soil disturbing work in the wet season may warrant additional controls and contingency planning to ensure Permit compliance. Timing and duration of construction depends on funding, permitting, weather conditions, fish windows, contractor work schedules, and other issues. The TESC plans should be designed assuming likely worst-case conditions for timing and duration. For example, consider assuming that the risky work planned for September will actually be done in
+November, which likely means larger volumes of stormwater runoff.
+Contingency Planning
+Analyzing site conditions and identifying potential erosion problem areas will help the designer prioritize contingency planning efforts in accordance with S9.B.e of the
+Permit. If erosion and sediment control issues are anticipated, a contingency plan
+Page 2-8
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2
+TESC Plan Design should be developed so it can be implemented quickly if the original management strategy fails to achieve compliance during construction.
+Contingency plans may be broad in the sense that they could apply project wide to various construction activity. On the other hand, contingency plans may be location, timing or activity specific. Therefore, contingency plans can be incorporated into the
+TESC plan wherever they make sense contextually.
+Contingency plans may include:
+
+2-1.1.7 
+Materials on hand, such as pumps and inlet plugs to prevent a discharge 
+Mobile tanks for temporary containment of water 
+Active treatment systems and pH neutralization methods 
+Work sequencing or phasing 
+Alternative disposal options (e.g., sanitary sewer)
+Construction Staging Plans and Gutter Flow Analysis
+Depending on the contracting method, the WSDOT project office or Design-Builder shall perform a gutter flow analysis for every construction staging plan to identify potential drainage problem areas. The gutter flow analysis shall be included in the
+TESC Plan, Abbreviated TESC Plan, or Region Equivalent document and requires concurrence by the Region Hydraulics Engineer. Though this issue is not specifically
+TESC related, it can be tied to the type of change management identified in the TESC
+Plan. The details of the gutter flow analysis are in the WSDOT Hydraulics Manual 5-4.
+
+2-1.2 BMP Selection and TESC Planning Elements
+Once the existing site conditions have been analyzed, the TESC plan designer will be better prepared to evaluate the risks associated with each of the TESC planning elements and select BMPs to manage risks. Selecting BMPs for each TESC planning element is a Permit requirement; it does not necessarily dictate the BMPs that must be used by the contractor during construction. The BMP selections made during the TESC planning process represent the designer’s best professional judgment as to what BMPs may be appropriate to manage specific risks during construction and help develop a cost estimate for the work. Chapter 5 provides detailed information on approved TESC BMPs. 2-1.2.1
+TESC Planning Elements
+This section will help designers perform the risk analysis for the 13 planning elements and select BMPs to manage risks in accordance with S9.B.c of the Permit.
+The 13 TESC planning elements are the same as the 13 Stormwater Pollution
+Prevention Plan (SWPPP) elements outlined in Special Condition S9 of the Permit.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 2-9 TESC Plan Design
+Chapter 2
+Commonly used BMPs are listed for each element; however, designers can select other approved BMPs. All TESC planning element must be included in every TESC plan narrative, include a justification if an element is not applicable to a project.
+Element 1: Preserve Vegetation and Mark Clearing Limits
+
+Risks associated with this element may include the contractor performing work in areas unauthorized for impacts or harming protected vegetation.
+The requirements for this element include: 
+Retain duff layer, native topsoil, and natural vegetation in an undisturbed state to the maximum degree practicable. 
+Prior to land-disturbing activities, mark all clearing limits, sensitive areas and buffers, vegetation and other areas to be protected from impacts.
+Additional Information:
+Additional guidance about marking clearing limits and protecting sensitive areas can be found on the Environmental Commitments & Compliance webpage.
+COMMON BMPS SELECTED FOR ELEMENT 1  Preserving natural vegetation 5-1.1.29  Buffer zones 5-1.1.2  Silt fence 5-1.1.33  High-visibility fencing 5-1.1.18
+Element 2: Establish Construction Access
+Risks associated with this element may include sediment being tracked offsite and generating turbid runoff during a storm event. The risks vary based on project specific factors like wet season work activity, traffic, soil type, project footprint and access point locations. Sediment track-out is one of the most common, readily visible and hard to manage compliance challenges. Source control (preventing the track-out) is always the goal because street sweeping is not always effective at removing fine sediment particles from the roadway.
+The requirements for this element include:
+
+Page 2-10 
+Limit construction vehicle exit points to the fewest possible to prevent multiple track-out locations. 
+Stabilize construction access points to minimize sediment track-out. 
+If sediment track-out occurs, clean the affected roadway thoroughly at the end of each day, or more frequently as necessary (e.g. during wet weather).
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2
+TESC Plan Design 
+Incorporate a tire wash if sediment track-out is an ongoing compliance issue.
+Additional Information:
+Wherever feasible, slope entrances or haul roads toward the site to prevent discharges offsite or onto the roadway.
+COMMON BMPS SELECTED FOR ELEMENT 2  Stabilized construction entrances 5-1.1.35
+
+ Street cleaning 5-1.1.35  Steel rumble plates 5-1.1.35  Tire wash 5-1.1.45  Construction road and parking area stabilization 5-1.1.9
+Element 3: Control Flow Rates
+Risks associated with this element may include runoff volumes and velocities that cause erosion damage within the site or to downstream properties or waterways.
+The requirements for this element include: 
+Protect downstream properties and waterways from erosion by preventing increases in the volume, velocity, and peak flow rate of stormwater leaving the site during construction. 
+Implement stormwater retention or detention facilities as one of the first steps in grading. 
+Implement temporary flow control measures such as level spreaders or wattles to dissipate erosive energy. 
+Outlet structures for permanent ponds may need to be modified during construction to allow adequate settling time for suspended sediments. 
+If permanent infiltration ponds are used for flow control during construction, protect the facilities from siltation or rehabilitate prior to the end of construction to original design requirements. 
+See section 2-1.1.7 for gutter flow analysis requirements.
+
+Additional Information:
+Account for both on- and offsite run-on water sources when designing drainage facilities (the contract requires the contractor to intercept and pipe offsite sources of water run-on around or through the project where feasible).
+Minimize soil erosion by controlling stormwater velocity within the site. Maintain sheet flow wherever feasible; use dispersion BMPs to help prevent concentrated flows from developing. Use BMPs such as compost socks and wattles to dissipate
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 2-11 TESC Plan Design
+Chapter 2 flow energy in areas at risk of having concentrated flows develop, such as on slopes, and areas where sheet flows converge.
+Temporary BMPs used to cover slope soils, like blankets and hydromulches, protect against raindrop erosion but will not hold up against concentrated flows. Use top-ofslope BMPs to prevent concentrated flows developing or from reaching BMPs not designed to hold up against concentrated flow.
+BMPs must be used to minimize erosion in areas designed to manage concentrated flow such as conveyances and pond outlet areas. Use BMPs such as check dams, conveyance channel blankets and rock spillways to dissipate erosive energy and minimize erosion in these areas.
+Use upland vegetated areas to disperse and infiltrate stormwater wherever feasible, and mark infiltration areas on the TESC plan sheets.
+COMMON BMPS SELECTED FOR ELEMENT 3  Temporary curbs or water bars 5-1.1.42
+
+ Straw wattles 5-1.1.37  Vegetated strips 5-1.1.47  Check dams 5-1.1.4  Outlet protection 5-1.1.25  Compost socks 5-1.1.5  Brush barriers 5-1.1.1  Sediment traps 5-1.1.31  Surface roughening 5-1.1.39  Level spreaders 5-1.1.21  Temporary sediment ponds 5-1.1.44  Filter berms 5-1.1.15  Interceptor dikes and swales 5-1.1.20  Water pumps 5-1.1.49  Vegetative dispersion and infiltration 5-1.1.48  Temporary or mobile containment 5-1.1.43  Subsurface drains, French drains, and sump systems 5-1.1.38
+Element 4: Install Sediment Controls
+Risks associated with this element may include sediment pollution being discharged from the site.
+The requirements for this element include:
+Page 2-12 
+Sediment control BMPs (e.g. silt fence, inlet protection, ponds) are required to be installed before land disturbing work begins in a drainage area to provide treatment prior to a discharge until the drainage area is fully stabilized. 
+The design, implementation and maintenance of effective controls to manage site-specific factors and minimize the discharge of pollutants.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2
+TESC Plan Design 
+Locate BMPs intended to trap sediment onsite in a manner to avoid interference with the movement of juvenile salmonids attempting to enter off-channel areas or drainages.
+
+
+Where feasible, direct stormwater to vegetated areas to maximize stormwater infiltration.
+Wherever feasible, design pond outlet structures that will withdraw or discharge stormwater from the surface of detained water, to avoid discharging sediment that is suspended lower in the detained water column.
+Additional Information:
+Sediment control BMPs fill with sediment and may require regular maintenance to ensure continued functional performance.
+Some sediment control BMP can cause issues if they are not installed properly (e.g. silt fence, check dams). Always enforce applicable BMP installation and maintenance contract requirements.
+Wherever feasible, apply for sanitary sewer permits from local jurisdictions. The option of sending discharges to a sanitary system is a huge benefit. It is advisable to apply for coverage before construction starts. Refer to Section 4-1.6.9 for information about reporting discharges to a sanitary sewer system.
+COMMON BMPS SELECTED FOR ELEMENT 4  Silt fences 5-1.1.33  Construction stormwater filtration 5-1.1.11  Check dams 5-1.1.4  Temporary sediment ponds 5-1.1.44  Outlet protection 5-1.1.25  Stabilized construction entrances 5-1.1.35  Sediment traps 5-1.1.31  Storm drain inlet protection 5-1.1.36  Filter berms 5-1.1.15  Temporary or mobile containment 5-1.1.43  Compost socks 5-1.1.5  Sedimentation bags 5-1.1.32  Brush barriers 5-1.1.1  Pond skimmers 5-1.1.28  Straw wattles 5-1.1.37  Stormwater chemical treatment3 5-1.1.10  Vegetated strips 5-1.1.47  Surface roughening 5-1.1.39
+Element 5: Stabilize Soils
+Risks associated with this element may include erosion damage within the site and sediment pollution being discharged from the site.
+The requirements for this element include:
+
+3
+Contact Region Environmental when planning to use chemical treatment.
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02
+Page 2-13 TESC Plan Design
+Chapter 2 
+At a minimum, stabilize all exposed and unworked soils, including stockpiles, by applying erosion control BMPs in accordance with the soil covering timelines listed below. Exposed soils may need to be stabilized more frequently based on the weather forecast to prevent erosion and turbid discharges. 
+Control stormwater volumes and velocity within the site to minimize erosion. 
+Minimize the amount of exposed soil at one time and the disturbance of slopes. 
+Where feasible, locate stockpiles away from storm drains, drainages and surface waters.
+Additional Information:
+Stockpiles and cut and fill slopes are especially vulnerable to erosion.
+Seed laying on soil is not considered a soil stabilizing BMP; about a 70% vegetative cover must be evident before the soil is considered stabilized. Consider using mulch (e.g. compost, HECP) mixed with the seed and fertilizer to temporarily stabilize the soil until the vegetation establishes permanent stabilization.
+When selecting erosion control BMPs, consider factors such as the project location and time of year, and site conditions such as climate, slope length and gradient, and soil type. Some erosion control products like biodegradable erosion control blankets and hydraulically-applied mulches come with a wide variety of performance expectations, recommended uses, and installation requirements.
+Expose no more soil than can be covered within the soil covering time limits below.
+Per Division 8-01.3 of the Standard Specifications, exposed soil that is not being worked by hand or machinery must be covered—whether at final grade or not— within the following time limits, using approved soil cover practices:
+Western Washington:
+October 1 through April 30
+May 1 through September 30
+
+2-day maximum 7-day maximum
+Eastern Washington:
+July 1 through September 30
+October 1 through June 30 10-day maximum 5-day maximum
+Central Basin of eastern Washington (areas with 12 inches or less of annual rainfall):
+October 1 through June 30 30-day maximum 15-day maximum
+For precipitation maps:  www.wsdot.wa.gov/design/hydraulics/
+Page 2-14
+WSDOT Temporary Erosion and Sediment Control Manual M 3109.02 Chapter 2
+TESC Plan Design
+
+If any portion of the project lies in areas that receive more than 12 inches of annual precipitation, follow the soil coverage time limits for eastern Washington, not for the Central Basin (contact Region Hydraulics to confirm average annual rainfall).
+Walking or driving over exposed soil is not considered working an area. Maximum time limits for all soil cover practices are defined in calendar days. A calendar day is a period of 24 consecutive hours starting at midnight and ending the following midnight.
+Construction activities should never expose more erodible earth than the amounts shown below for the specified locations. If the contractor feels that the acreage limitation is too restrictive, they can submit a request for approval to open a larger area and include a plan and schedule for any additional BMPs that may be necessary to manage increased erosion related risks. Evaluate th

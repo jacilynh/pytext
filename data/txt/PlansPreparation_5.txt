@@ -1,0 +1,1966 @@
+e considered a penalty, but reimbursement for the costs to the contracting agency associated with administering the contract beyond the specified contract time.
+The design team is responsible for completing the Design Liquidated Damages
+Calculation Sheet to determine the liquidated damages (LD) amount, which will be used in a fill-in for Special Provision 1-08.9.OPT3.FR1. Within the calculation sheet workbook are instructions and a completed example calculation sheet, for reference.
+This calculation should be accomplished near to the 90% design milestone. The Design
+Project Engineer should coordinate with the Construction Project Engineer to evaluate workforce projections, as well as any other available information, such as per diem, overtime, and travel time, to fill out the calculation sheet.
+It is recognized that work force fluctuates during the life of the project. Review the work force for the duration of the project and select a day that best represents the staffing levels anticipated for the majority of the project. Document the workforce assumptions in the Comments/Assumptions/Staffing Notes section at the bottom of the form.
+The Liquidated Damages Calculation Sheet will be kept in the Project File documentation in the region. 2. Interim Completion of Phases (Staging)
+Interim liquidated damages are monies assessed or withheld from the contractor’s payment for failure to complete a part (phase or stage) of the project within a specific period of time identified in the Special Provisions.
+Large or complex projects often have interim completion times, with liquidated damages for such things as failure to open a closed lane(s), ramp(s), or detour(s) to all traffic by a specified time, or for completion of all work identified for a specific stage or phase of a project as defined in the Special Provisions. These types of liquidated damages can be assessed in time increments that range from 15-minute to full-day segments.
+Liquidated damages assessed for failure to have a lane, ramp, or roadway open to traffic, or to have an Intelligent Transportation System (ITS) operational at the specified time, are an estimate of the actual cost to the contracting agency and the traveling public for not having that portion of the road or ITS available. Transportation Data, GIS, and Modelling Group (TDGMG) has standardized methodology for calculating the cost, based on traffic counts. This is the only acceptable way of calculating these costs.
+
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-11 Miscellaneous Contract Considerations
+Division 7
+Download and complete WSDOT Form 312-001 to request interim liquidated damages from TDGMG.
+Once these calculated costs are received from TDGMG, the region determines whether or not the damages represent a sufficient benefit to the state to put them in the contract.
+Interim liquidated damages for two or more separate reasons can be additive for the same time period.
+Place copies of the data used to justify liquidated damages and the TDGMG information in the Project File. 700.01(18) Fuel Cost Adjustment
+The GSP Instructions contain guidance for use of the Fuel Cost Adjustment item.
+Check with the HQ Construction Office to verify whether or not this item is required for the project. 700.01(19) Steel Cost Adjustment
+The Steel Cost Adjustment item can be used in projects which contain 50,000 pounds or more of steel. Instructions for its use are contained in the GSP Instructions. The Steel Cost Worksheet
+Template can be used to calculate this adjustment. Follow instructions for the General Special
+Provisions in Division 1.
+
+700.01(20) Force Account Work amount of money spent on force account work. This standard item, with the appropriate fill-in information, is to be used for all force account bid items, except for those that already have a standard item number.
+If work can be measured and clearly identified, the design should use existing standard bid items. If the work is not quantifiable or cannot be easily measurable, the use of this item may be appropriate.
+The use of this standard item number does not preclude the need for a project-specific provision to describe the work to be accomplished.
+Place the force account item in the appropriate section on the Summary of Quantities. (A force account removal item would be placed with the other removal items; a force account structure item would be placed with the other structure items.) 700.01(21) Lump Sum Bid Items
+A lump sum bid item may include several items of work or the same item of work at different locations. The Special Provisions must cover the complete item of work, including the description of work, materials, construction requirements (which includes the approximate quantities for bidding purposes), and payment statements. Double check quantities listed to avoid contractor claims.
+Only include lump sum items work that can be easily defined by quantity, amount of effort, and equipment and labor requirements. If any of these items are unknown/uncertain, payment at unit prices or by force account would be more appropriate.
+Page 7-12
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations
+Place backup data used to determine the estimated cost for lump sum bid items in the Project
+File.
+Decide whether each lump sum bid item is to be prorated or whether individual Summary of
+Quantities column costs are to be assigned for each lump sum bid item.
+
+700.02 Earthwork 700.02(1) Earthwork Measurement
+Measurement of earthwork other than as specified in the Standard Specifications for Road,
+Bridge, and Municipal Construction (Standard Specifications) requires the approval of the HQ
+Construction Office. (See Division 6 for more information on developing a Special Provision.) 700.02(2) Clearing and Grubbing
+When estimating quantities, calculate clearing as being performed 10 feet, and grubbing 7 feet, beyond the toe of slope for embankments and the upper limit of slope treatment in cuts.
+Coordinate with the Region Landscape and Environmental offices on the proposed limits, and show these limits on the proper plan sheets. If clearing and grubbing limits are near trees contact the Region Landscape Architect to adjust limits of clearing to reduce the risk of leaving danger trees.
+If clearing requires the cutting of merchantable timber amounting to at least one log truck load (approximately 5,000 board feet) from within the right of way, the General Special Provision (GSP) for Timber Export Restrictions is to be included in the contract provisions. This GSP notifies the contractor that they will be required to pay to the Department of Revenue the forest excise tax on the harvested lumber. 700.02(3) Removal of Pavement, Sidewalks, or Curbs
+The method of measuring and paying for work requiring removal of pavement, sidewalk, or curb, is determined by where work is occurring: within or outside the limits of an excavation area. 700.02(3)(a)
+Outside
+When pavement, sidewalk, or curb removal is required outside the limits of an excavation area, it can be included in the lump sum price for “Removal of Structures and Obstructions,” or separate bid items may be established for the work.
+If the work is included as part of the lump sum item, the Special Provisions will indicate the approximate locations and quantities. If separate bid items for removal are established, the individual items will appear on the Quantity Tabulation sheets, where the approximate locations and quantities will be indicated. In either case, indicate the locations of the removal items on the plans as well. 700.02(3)(b)
+
+Within
+When pavement, sidewalk, or curb removal is required within the horizontal and vertical limits of an excavation area, nothing is required on the plans or in the Special Provisions. All costs for the removal of the pavement, sidewalk, or curb are included in the excavation work, and no additional compensation is made to the contractor.
+If the contract specifies staging the work to remove the pavement, sidewalk, or curb that lies
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-13 Miscellaneous Contract Considerations
+Division 7 within an excavation area prior to performing the excavation, the work would be handled as described above for removal outside an excavation area. 700.02(4) Borrow Material
+Because WSDOT is committed to conserving valuable mineral resources, give careful consideration to the earthwork portion of every project, to ensure the most efficient and costeffective use of the material from the roadway excavations.
+If there is insufficient roadway excavation material due to a shortage of on-site material or a portion of, the on-site material is known to be unacceptable for constructing embankments, material will be imported, and a borrow item will be included in the project.
+If the borrow is required because the roadway excavation material is not acceptable for embankment construction, the Special Provisions shall identify the locations of the unacceptable roadway excavation material. Consult with the Region Plans Office on how this information is to be presented.
+If WSDOT’s intent to have borrow and roadway excavation materials used together, note if a single type of borrow material is required to supplement the quantity of roadway excavation material. It will be the contractor’s responsibility to determine the most efficient and costeffective means and operations of using the on-site material and the borrow to construct the embankments. In this situation, the borrow material quantities will appear only on the Summary of Quantities and will not be shown as a quantity on the roadway profile sheets. Note in the
+Contract Plans or the Special Provisions that the quantity of borrow shown in the Summary of
+Quantities is to be used to supplement the quantity of roadway excavation at the contractor’s discretion for constructing embankments.
+If the borrow material is being used only at specific, well-defined locations on the project (bridge end embankments, for example), identify the exact locations on the roadway profile by showing the quantity arrow, indicating the station-to-station limits and quantity of borrow material needed for the embankment construction. If profiles are not included in the project, the Special Provisions are to contain a statement such as, “Gravel borrow shall be used to construct the bridge end embankments, L X+XX to L X+XX.”
+If two or more types of borrow material are required, the specific locations for all but one of the types of borrow shall be identified on the profiles, or in the Special Provisions, as described above. For example: • If gravel borrow is required for the construction of bridge end embankments, and common
+
+borrow is required to supplement the roadway excavation material to construct other embankments, the station-to-station limits of the gravel borrow material are to be shown on the profiles or in the Special Provisions. It will remain the contractor’s responsibility to determine the most efficient and cost-effective way to use the common borrow and the roadway excavation material to construct the remaining embankments. Therefore, show the common borrow quantity only in the Summary of Quantities.
+In all cases, the quantities for roadway excavation and embankment shall appear on the
+Summary of Quantities and on the Profile sheets or, on smaller projects, tabulated on Quantity
+Tabulation sheets.
+Page 7-14
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations 700.02(5) Embankment In Place
+This bid item is to be used on projects where earthwork consists mainly of borrow excavation. It provides payment for acquiring, excavating, hauling, placing, and compacting borrow materials to construct the embankment.
+If there are minor quantities of roadway excavation included in the project, this work can be included in the item “Embankment In Place.” Measurement for payment will be by the cubic yard volume between the original ground line and the neat lines of the embankment template.
+No allowance is made for subsidence or settlement.
+The use of this item requires a Special Provision and approval by the HQ Construction Office.
+Include the following information when requesting to use this item: • Assurance that the foundation on which the embankment material is to be placed is
+
+unyielding. • Estimated quantities of excavation, embankment compaction, and roadway excavation. 700.02(6) Aeration
+If it is found necessary or desirable to include the bid item “Aeration” in a project, approval by the Headquarters (HQ) Construction Office is required. Include a copy of this written approval in the Project File. 700.02(7) Shoring or Extra Excavation
+All excavations of 4 feet or more in depth shall be shored, protected by cofferdams, or shall meet the open-pit requirements specified in the Standard Specifications.
+RCW 39.04.180 requires that a separate bid item for shoring or extra excavation be included in the estimate and proposal. NOTE: in no case shall the costs for shoring or extra excavation be included in other bid items.
+700.03 Production From Quarry and Pit Sites and Stockpiling 700.03(1) Materials Sources and Waste Sites
+Materials sources provided by the contracting agency can be either mandatory or nonmandatory sites. For mandatory sites, verify with the region ASDE on the appropriate documentation needed, and refer to Design Manual Chapter 300 for approval authority of mandatory sites.
+When mandatory materials sources or waste sites are specified, the region shall provide a memorandum of justification. For mandatory materials sources, justification shall be made in accordance with 23 CFR 635.407, showing a definite finding that it is in the public's best interest to require the use of the mandatory sites furnished or designated by the contracting agency.
+The use of mandatory sites can also be designated based on environmental considerations, provided the environment would be substantially enhanced without excessive cost. Place the memorandum of justification is in the Project File.
+When nonmandatory sites are specified, the contracting agency makes the site available to the contractor, but the contractor has the option to use or not use the site.
+For any mandatory source or waste site to be used, coordinate with the Region Plans, Materials, and Environmental offices.
+WSDOT Plans Preparation Manual M 22-31.09
+
+Page 7-15 Miscellaneous Contract Considerations
+Division 7
+Bid items for work to be performed within a nonmandatory site are to be site-specific; for example, “Wire Fence Type 1 – QS-X-XX.” (See the GSP for State Furnished Material Sources in
+Division 3 for more information.) This allows the contractor the opportunity to bid zero for these site-specific items if they do not intend to use the site. If the contractor decides later to use the site, the work specified by the site-specific items will be performed, and the contractor will be paid at the bid amount of $0.00.
+Site-specific items are not required for work to be performed on mandatory sites.
+Set up a separate column, under the appropriate group, for each material source or waste site provided by the contracting agency. This allows the contractor to easily identify the work to be performed within a site and also allows for easy accounting of the work by WSDOT.
+The region shall prepare a Haul Road Agreement if the haul route to or from the site is other than a state highway. 700.03(2) Stockpiling Aggregates
+Under the construction contract, the regions are authorized to spend M5 funds for acquisition of aggregates, provided the region’s biennial M5 allocation is not exceeded.
+The following Headquarters offices need to be advised by the region of all M5 aggregate stockpile acquisitions made under a construction contract: • Administrative Services Office, Purchasing and Inventory Branch • Comptroller’s Office, Budget Management Branch • Program Management Office, Program Manager • Pre-Contract Administration Office 700.03(3) Amortization of Materials and Stockpile Sites
+If a state source of materials is provided, the project report form is to include the dollar amount to be amortized, providing the region intends that amortization be included in the project.
+The estimate will include the dollar amount so that federal-aid participation can be obtained on federal-aid projects, or so that proper accounting procedures can be followed when only state funds are involved.
+
+700.03(4) Royalties on Materials Sites
+If the contracting agency furnishes a materials site owned by others, and the owner requires that a royalty be paid for materials removed from the site, specify the dollar amount of the royalty, and who will be responsible to pay the royalty, in the Special Provisions. FHWA has authorized federal-aid participation in royalty payments.
+700.04 Bases
+Vacant
+Page 7-16
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations
+700.05 Surface Treatments and Pavements 700.05(1) Asphalt for Fog Seal
+The item “Asphalt for Fog Seal" is normally associated with bituminous surface treatment (BST) projects and the shoulders of paving projects that place only HMA in the traffic lanes, and it is required on all open-graded HMA projects as well. 700.05(2) Soil Residual Herbicide
+The item “Soil Residual Herbicide” should be used prior to the application of BST and in conjunction with HMA, asphalt concrete sidewalks and paths, or parking lots only when very aggressive weeds that are capable of breaking through pavement are in the vicinity. Those weeds include equisetum and knotweeds. Check with the Maintenance Superintendent responsible for the area for a recommendation on whether soil residual herbicide is required.
+
+700.05(3) Commercial HMA
+If approved by the Region Materials Engineer, any quantity (tons) of Commercial HMA may be used for the following applications: • Prelevel • Sidewalks • Ditches • Paths • Gores • Digouts • Road Approaches • Slopes • Trails • Other nonstructural applications approved by the Project Engineer. 700.05(4) HMA for Preleveling
+Provide the bid item “HMA for Preleveling Cl. ____ PG ____” when a project requires preleveling of the existing roadway surface.
+Base the quantity of preleveling on a survey of field conditions. In some regions, this survey may be made by the Materials Laboratory and it may provide the prelevel rate or quantity.
+The roadway sections should show in the typical sections where and what type of prelevel is to be completed (wheel rutting or on a lane to correct a super rate issue) so that the contractor knows how to bid and what equipment is expected to be used. 700.05(5) HMA for Approach
+Use the item “HMA for Approach Cl.____ PG____” when there are road approaches to be paved on the project. This is not to be confused with county roads and city street intersections. Include county road and city street intersections in main line paving quantities.
+Identify road approaches by approach sections on the roadway section sheets, and on the
+Paving Plans, if they are present, so the contractor is aware of the number, locations, and paving
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-17
+
+Miscellaneous Contract Considerations
+Division 7 requirements. Place HMA quantities for each approach either in a table or in the Quantity
+Tabulation sheets. 700.05(6) Asphalt Cost Price Adjustment
+Asphalt Cost Price Adjustment is required for all projects containing Hot Mix Asphalt. Use the
+Instructions Tab on the Payment Calculator Spreadsheet for information on how to determine the estimate. The references costs and Payment Calculator Spreadsheet is located at:  https://wsdot.wa.gov/business-wsdot/how-do-business-us/public-works­ contracts/payments-reporting/escalation-clauses 700.05(7) Other Price Adjustments
+Check with the HQ Construction Office to verify whether or not any other price adjustments are required for the project.
+To determine the Engineer’s Estimate for other price adjustment bid item use the Payment
+Calculator Spreadsheet located at:  https://wsdot.wa.gov/business-wsdot/how-do-business-us/public-works­ contracts/payments-reporting/escalation-clauses 700.05(8) HMA Quality Assurance
+As an incentive for contractors to provide superior quality HMA, the Washington State
+Department of Transportation (WSDOT) will pay a bonus of up to 8% of the unit bid price of the
+HMA. The bonus is comprised of 3% for the mixture and 5% for compaction. When a project calls for paving with HMA, the item “Job Mix Compliance Price Adjustment” (JMCPA) will be required, with the exception of HMA accepted by Visual Evaluation. For HMA accepted by Visual
+Evaluation, this item is only used when there is nonconforming mix resulting in a credit. For
+HMA accepted by Visual Evaluation, the JMCPA will be -$1 for the estimate. For HMA accepted by statistical evaluation, the JMCPA will be calculated using the following formula:
+JMCPA = (0.03) (TEC)
+Where:
+TEC = Summation of the Total Estimated Cost of HMA accepted by statistical evaluation.
+Example:
+Description Quantity Unit Price Est. Cost
+HMA Cl. ½ IN. PG_ (2,600 tons) ($70.00) = $182,000
+Summation of Total Est. Costs (TEC) = $182,000
+JMCPA = (0.03)($182,000)
+JMCPA = $5,460
+Use $5,500 for “Job Mix Compliance Price Adjustment”
+When a project calls for paving with HMA, the item “Compaction Price Adjustment” (CPA) will be required, regardless of the tonnage, if the total compacted depth for a class of HMA placed in the traffic lanes is greater than 0.10 foot.
+
+Page 7-18
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations
+The price adjustment will be calculated using the following formula:
+CPA = (0.05) (TWTEC)
+Where:
+TWTEC = Travel Way Total Estimated Cost of HMA with a total depth greater than 0.10 foot.
+Note: If the same compaction effort is required on the shoulders, the shoulders will be included in the calculations for “Compaction Price Adjustment” (for example, where the shoulders are currently being constructed full depth because they will become a driving lane in the future or where shoulder driving is going to be allowed). If this is the case, see GSP 5-04.3(10)opt1.gr5.
+Example:
+HMA CL ½ IN. PG_:
+Length: 500'
+Width: 2 lanes @ 12' and 2 shoulders @ 10.0'
+Depth: 1 lift @ 0.20' depth
+Unit Price: $100/ton
+Conversion factor: 2.05 t/cy
+TWTEC = (500')(24')(0.20')(2.05 t/cy)($100/ton)(1 cy/27 ft3)
+TWTEC = $18,222.22
+Length: 300'
+Width: 2 lanes @ 12' and 2 shoulders @ 4'
+Depth: 1 lift @ 0.15' depth
+Unit Price: $145/ton
+TWTEC = (300')(24')(0.15')(2.05 t/cy)($145/ton)(1 cy/27 ft3)
+TWTEC = $11,890.00
+Travel Way Total Est. Cost (TWTEC) = $18,222.22 + $11,890.00 = $30,112.22
+CPA = (0.05)($30,112.22) = $1,505.61
+Use $1,510 for “Compaction Price Adjustment”
+
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-19 Miscellaneous Contract Considerations
+Division 7
+700.06 Structures 700.06(1) Structural Reference Information
+The region will be responsible to provide prospective bidders with reference information needed for evaluating all bridges, within the project limits, as to their potential ability to carry loads or materials that exceed the load limits specified in the Standard Specifications 1-07.7.
+Bidders will then be able to make adjustment to bid costs associated with any engineering requirements if they anticipate using loads exceeding the allowable limits during construction.
+The following items should be included as Structural Reference Information: • •
+The most recent Inspection Report for all existing bridges and buried structures located within the Project limits.
+As-built plans and shop drawings for all existing bridges and buried structures which are being modified as part of the project scope including but not limited to widening, repair, retrofit (rail, seismic, substructure, etc.), painting, overlay and paving.
+Reference information for most structures is available on Bridge Engineering Information
+System ( beist.wsdot.loc/InventoryAndRepair/Inventory/BRIDGE) and Enterprise Content
+Management ( wsdotecm/portal). For information not available at these sources, contract HQ
+Bridge and Structures Office.
+For HQ ad and award projects, the project office should send the collected reference information to the HQ Contract Ad and Award (CAA) Office. The HQ CAA Office will issue a notice to prospective bidders, once the project is advertised, indicating the availability of the structural reference information.
+
+700.06(2) Retaining Walls
+When a project contains standard retaining walls, as detailed in the Standard Plans for Road,
+Bridge, and Municipal Construction (Standard Plans), the Contract Plans shall include: • A plan and profile of the wall, with original and proposed ground profiles at the front and back faces of the wall. • All existing utilities in the vicinity of the wall. • Wall geometry. • Right of way limits. • Construction sequence and stage construction sequence requirements. • Highest permissible elevation for foundation construction. • Location, depth, and extent of unsuitable material. • Quantities for the wall and backfill materials. • Details of wall appurtenances such as traffic barriers; coping; wall face treatment and limits of treatment; drain outlets; and location of signs and lighting, including conduit locations.
+In general, a site that will support a standard cantilever retaining wall will also support a proprietary retaining wall. If the region decides to provide preapproved proprietary retaining wall systems as an alternate, consult the HQ Materials Laboratory Foundation Engineer and the
+HQ Bridge and Structures Office Bridge Project Engineer on the selection of suitable wall systems for the conditions. In order to evaluate aesthetic considerations, submit a rough site
+Page 7-20
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations plan to the HQ Bridge Project Engineer for review.
+The region will be required to contact the suppliers of the selected retaining wall systems to confirm the adequacy of the systems for the given situation. Contact the HQ Materials
+Laboratory Foundation Engineer to provide assistance in evaluating the systems for overall stability and to provide soil criteria for design.
+The HQ Bridge and Structures Office will prepare the Special Provisions for preapproved proprietary retaining walls, including design criteria. The HQ Foundation Engineer will be consulted for establishing the criteria for design. The Special Provisions will require the proprietary wall manufacturer selected by the contractor to submit shop plans, design criteria, and calculations to the HQ Foundation Engineer for approval. The HQ Bridge and Structures
+Office will then review the design submitted by the preapproved proprietary wall manufacturer.
+In addition, keep in mind that these retaining wall alternates may be selected by the contractor and that all of these alternates are proprietary. On all federal-aid projects, two alternates must be selected, or reasons for using fewer alternates must be submitted for approval to the
+Assistant State Design Engineer assigned to the region. Proprietary retaining wall systems are preapproved for certain heights. Walls that exceed the preapproved height will be considered special designs and each must be submitted to the HQ Bridge and Structures Office for review and approval.
+
+700.06(3) Contractor Supplied Designs for Buried Structures
+When a project includes a contractor supplied design for a buried structure, the Contract
+Documents shall include: • Location of the buried structure, headwall and wingwalls and their geometry, including alignment, length, profile and elevations • The location of the Structure Free Zone and the 500 year scour surface • The streambed section including buried structure bedding material • Barrier and fall protection locations and configuration • Approach slab locations when they are anticipated (when the top surface of the structure will be the driving surface) • Any restrictions on the type of buried structure • Any restrictions on headwall, wingwall, barriers and fall protection types • Buried structure staging requirements • The project geotechnical report referenced in the design • Whether the site is Marine, Non-Marine: Corrosive or Non-Marine: Non-Corrosive as defined in the WSDOT Bridge Design Manual Section 6.7, and the specific pH, resistivity, chloride and sulfate measurements of existing soil and water. • Environmental requirements of the structure • Aesthetic requirements of the structure • A schedule for construction that can accommodate placement, backfill, structural connections/deck placement, approach slab construction, etc.
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-21 Miscellaneous Contract Considerations
+Division 7 • A lump sum bid item called “Contractor Designed Buried Structure No. _____” together with a list of components to be included in the lump sum bid item • A bid item called “Shoring or Extra Excavation Cl. A ____ “ • A method of measurement and payment for earthwork and all other items related to the buried structure construction
+700.07 Drainage Structures, Storm Sewers, Sanitary Sewers, Water
+Mains, and Conduits
+Vacant
+700.08 Miscellaneous Construction 700.08(1) Temporary Erosion and Sediment Control Plans
+The Temporary Erosion and Sediment Control Manual (TESCM) provides detailed information on
+Temporary Erosion and Sediment Control (TESC) planning associated with Construction
+Stormwater General Permit. The goal of TESC planning is to prevent erosion damage and sediment-laden runoff during construction that can harm the environment and waters of the state. A TESC Plan (includes a narrative section and plan sheets) describes the site-specific erosion risks associated with the project and list the best management practices (BMPs) selected to reduce or eliminate the identified risks. Refer to the Temporary Erosion and
+Sediment Control Manual (TESCM).
+Multiple resources for TESC Plan design exist, including the TESCM, Design Manual, Highway
+Runoff Manual, Roadside Manual, Hydraulics Manual, Standard Specifications (Division 8-01), and Standard Plans. Other resources include the Environmental Guidance website and Region
+Environmental or Hydraulics staff and Environmental Services Office Stormwater and
+Watersheds Program staff.
+Proper planning can reduce stormwater-related erosion risks on construction sites. Use the
+Temporary Erosion and Sediment Control Manual, templates, checklists, and policy guidance to get and transfer permit coverage, develop contracts, write erosion control plans, and submit discharge monitoring reports for your project.
+
+700.08(2) Roadside Restoration and Considerations
+The roadside blends the highway facility into the natural and built environment and provides operational, visual, and environmental functions. For all projects requiring work outside the shoulders, restoration of the roadside asset is required. Contact the Region Landscape Architect (LA) or HQ Landscape Architect (for regions without one) early in the project to assist in meeting the functional needs and to determine ways to avoid, minimize and mitigate impacts to the roadside.
+The roadside work will require coordination with Maintenance to identify problem areas that can be addressed with project work, such as areas where long-term weed control issues exist, areas where future restoration is desirable, and areas with deficiencies. The project can ensure these concerns are addressed when performing restoration. This avoidance and minimization work may require consultation on and edits to plan sheets outside of the planting plans.
+If areas of noxious weeds exist within the project limits, the designer may arrange to have
+Page 7-22
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations
+WSDOT maintenance forces treat them prior to earth-moving activities using construction funding, or the project can include weed control prior to this work, when project timing is not adversely affected. Including treatment prior to earthwork can avoid spreading noxious and invasive species of weeds, if they exist in the project vicinity. For projects that last through multiple seasons, weed control throughout the duration of the project should be specified for all areas within the right of way and all maintenance activities need to be planned for within the project limits. If the project needs weed control (outside of planting areas), the separate weed control standard bid item must be included.
+Sometimes, minor modifications to grading or adjustments to equipment location can help to reduce vegetation or environmental impacts, areas that are not usually considered in the firstpass of putting together project plans. It is important to preserve existing desirable vegetation and to minimize disturbance and compaction of existing soils as much as possible. This will minimize water runoff, reduce erosion during the project, and reduce impacts that require restoration and mitigation.
+Site preparation is more effective if it is noted on the major project site preparation plans, as the prime contractor is most likely to see that information prior to any required activity.
+Additionally, the LA may add site preparation plans to cover the roadside work when the site is more complicated than a single preparation strategy such as simply clearing and grubbing.
+The Roadside Policy Manual outlines requirements for vegetation preservation and revegetation. The Landscape Architect can assist the designer in fulfilling these requirements.
+The Roadside Restoration Worksheet or coordination with the Region Landscape Architect, should be referenced to determine the impacts and restoration needs that were determined for the project during the scoping process. The Roadside Restoration Worksheet is a vehicle for planning the necessary budget to cover costs of restoration, but cannot fully predict the costs generated by unanticipated clearing, to accommodate such issues as site access. It is not necessary to complete the Worksheet when projects only require small items such as seeding; however, it is important that the scoper, or designer, consult with the LA office to ensure that the budget will be adequate for the project.
+Consider the various elements of the project that are viewed by the highway user and from adjacent areas. Elements such as lighting standards, sign bridge types, traffic barriers, rockfall protection, bridge and wall design, textures and colors, contour grading, stormwater treatment and storage facilities, and vegetation blend the project into the context of the environment and provide a unified visual experience through the corridor. Consult with the region LA or the
+Headquarters Roadside and Site Development office, where the region does not have its own
+LA, to provide guidance. The LA works with the HQ Bridge and Structures Architect to ensure continuity with architectural features.
+Permanent vegetation provides erosion control, slope stabilization, weed minimization, stormwater treatment and storage, and can reduce traffic-related pollutants and protect the public from air pollution. The Landscape Architect can provide expertise to identify and blend visual elements.
+All site components that are made available to the public must comply with the Americans with
+
+700.08(3) Earthwork for Roadside Installations
+Estimate and include in the contract earthwork quantities associated with features installed outside the typical shoulder break point. These installations include, but are not limited to,
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-23 Miscellaneous Contract Considerations
+Division 7 guardrail terminals, luminaires, and ITS equipment. Refer to the layout and dimensions shown in the Standard Plans or project details when calculating quantities, and provide a separate tabulation for each location. Alternatively, quantities may be made incidental to the item being installed, if that approach provides an advantage in project contracting or construction inspection.
+Note that earthwork for widening is not normally included in the roadway earthwork calculations, and therefore needs to be tracked and documented separately.
+700.09 Other Contract Considerations 700.09(1) Combining Bid Items
+In an effort to streamline projects to make them easier for WSDOT to manage, as well as easier for the contractors to bid, some thought should be given on each project to doing similar, or associated, work under a single bid item instead of having two or more items under which to work.
+The lump sum item “Removal of Structure and Obstruction” has always been made up of a combination of various removal items, and this will not change. This item is not governed by an estimated cost limit for work that can be included. As long as each different removal item is precisely described as to the actual work to be performed, the locations of the work, and the estimated quantity of work, there are no limits to the removal work that can be combined in the single “Removal of Structure and Obstruction” item. (See 700.09(4) for additional discussion on lump sum items.)
+Work that is measurable—estimated cost of $5,000 or greater—will be a separate bid item.
+However, if the work is minor—estimated cost of less than $5,000— and there is a logical item of work with which to associate the minor work, the items may be combined and the cost of the minor work included in the cost of the associated work. A nonstandard bid item is created to capture all of the work involved when combining bid items.
+When combining items of work, additional information is required to describe the work involved, to clearly identify what items are being combined, and that the quantities provided for the combined items need be more accurately calculated.
+For example, do not combine the cost of structure excavation with the cost of the pipe without giving a reasonably accurate estimated quantity for the structure excavation required for each pipe. Giving the total estimated quantity for the structure excavation does not provide the contractor a clear enough picture of the work required to make a responsible bid.
+Accuracy of estimating quantities is also important because it can be difficult to address overruns, underruns, or added work when only one portion of the item combination is involved in the overrun or underrun, or work is added to only one of the items of work.
+Care must be taken to ensure that by combining the items of work, additional problems will not be encountered during construction because of changes in conditions or work methods.
+Items being combined shall relate to each other well and the quantities shall be dependent on each other, so if one changes in the field, the associated quantities would be affected uniformly. 700.09(1)(a)
+
+Example of Combining Similar Items
+If the project had a few locations where stormwater pipes were to be installed, and depth of trenches were approximately the same, it would be acceptable to include the cost of structure
+Page 7-24
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations excavation with the per-foot price for the size and type of stormwater pipes. This could be a good combination because the items are closely associated and the quantities may be dependent on one another. The quantity for structure excavation is dependent on the amount of pipe installed and will increase or decrease as the length of pipe actually installed increases or decreases. • Even though this combination of items is logical, it is imperative that the quantities for the structure excavation be calculated to a higher degree of accuracy than if the two items were separate. • This higher accuracy of the structure excavation quantity is necessary because once the quantity is calculated for the planned length of pipe, that relationship of cubic foot of structure excavation per foot of pipe never changes. If the calculated structure excavation quantity is too high, the contracting agency is overpaying for the work actually performed. If the calculated structure excavation quantity is too low, the contractor is not being fairly compensated for the work performed. In either case, there is no way to make adjustments to the structure excavation. • If there was a separate pay item for the structure excavation, and the quantity for the item was miscalculated, the contractor will be paid for the actual work performed, so the estimated quantity is a basis for the contractor’s bid only. • The structure excavation quantity will appear on the Structure Note sheet as “informational only” for each associated structure code. 700.09(1)(b)
+Example - Do not Combine Dissimilar Items
+Do not combine clearing and grubbing with embankment compaction, even though the plan is to clear and grub only where the embankments are to be constructed. The two items are not closely associated with each other and therefore not combined. The quantity for either of these items could be increased or decreased without impacting the quantity of the other item and their costs could be vastly different. • If the items above are combined under a cubic yard pay item, and during construction it is determined that additional slope flattening is necessary within the original clearing and grubbing limits, it would be difficult to determine and justify an increase. The difficulty lies in the fact that clearing and grubbing is generally around $6,000 per acre, whereas embankment compaction is around $2.00 per cubic yard. In this case, the contractor would be receiving a premium price for the additional embankment. • If the items above are combined under a per acre pay item, and during construction it is determined that additional clearing, grubbing, and embankment compaction is necessary, again, it would be difficult to determine and justify an increase. The problem is, how is a square acre converted to a cubic measurement? 700.09(1)(c)
+Incorporating Combined Items
+To maintain consistency in the combining of items statewide, consult the Region Plans Office or
+ASCE in advance of incorporating combined items into projects. In addition to consistency, this will provide a single office to monitor which items are routinely being combined and which item combinations work and which do not, allowing for responsible decisions in the future.
+Note: Two items that cannot, by law, be combined with any other item of work are “Shoring or
+Extra Excavation Class A” and “Shoring or Extra Excavation Class B.”
+
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-25 Miscellaneous Contract Considerations
+Division 7 700.09(2) Equipment Acquisition Through Construction Contracts
+The practice of WSDOT acquiring, through a construction contract, items that would normally be acquired or purchased through the equipment fund or IT contracts is only allowed with written approval from CPDM through the Assistant State Design Engineer.
+Specific examples of these items are: survey equipment, computers and other IT equipment, vehicles, maintenance equipment, radios, workboats, and truck-mounted impact attenuators. 700.09(3) Geotechnical Project Documentation (a)
+The Region Project Development Office or Terminal Engineering Department for WSF is responsible for notifying the HQ Geotechnical Office at least 12 to 14 weeks in advance of the Ad or Shelf Date, when the final project geotechnical documentation is due for each pertinent project. (b)
+When a PS&E document is near completion, all of the available geotechnical design memoranda and reports are compiled to form the Final Geotechnical Project
+Documentation. The summary of geotechnical conditions and boring logs and associated data will be included as an appendices to the Special Provisions to be published for the use of prospective bidders. (c)
+The Region Project Development Office or Terminal Engineering Department for the
+Washington State Ferries (WSF) will identify who has been designated to receive, handle, and continue the publication process of the report.
+
+(d)
+It is desirable that the final geotechnical documentation be available for printing 10 weeks prior to the Ad or Shelf Date; however, it absolutely must be available no later than two
+Fridays prior to the Ad or Shelf Date. (e)
+When transmitting the final project geotechnical documentation, the HQ Geotechnical
+Office will explicitly identify the geotechnical documentation as final and camera-ready.
+Likewise, the region materials section will concurrently send a camera-ready final copy of region-generated reports, to be included as part of the geotechnical documentation for the project. (f)
+For Headquarters Ad and Award projects, when the region has received the report, the
+Region Project Development Office sends the complete package to the HQ Printing
+Services Office for final publication and to be made available to prospective bidders for purchasing. For WSF projects, the WSF Contracts/Legal Services Office is responsible for copying and making the report available to prospective bidders. (g)
+The HQ Contract Ad and Award Office will issue a notice indicating the availability of the geotechnical documentation to bidders.
+
+(h)
+In addition, some geotechnical information shall be included as part of the contract. It will generally consist of the final project boring logs and/or a Summary of Geotechnical
+Conditions when applicable. Both of these items are provided by the HQ Geotechnical
+Office. 700.09(4) Items a Designer “Might” Need
+Avoid including items in the project that "might" be needed. This is particularly important for items such as borrow or excavation below grade, because the contractor bids, at a high price, the small quantity shown, and then finds a way to use a considerable quantity of the item on the
+Page 7-26
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations project.
+If it is unknown whether or not the item is required, it is best to leave it out of the project and let the Construction Office add the item by change order if necessary. History shows that this is the easiest, most cost-effective way of handling these items.
+There may be times when it will be appropriate to include an item that might be needed. In these rare cases, it should be included as a force account item so the Engineer has complete control of the work.
+
+700.09(5) Managed Access Highways and Construction Rights
+For work on managed access highways outside of incorporated areas, refer to Design Manual 540.08(2)(b), “Department Construction Projects,” for additional guidance. Reach out to your region access contact or the HQ Access and Hearings Manager prior to beginning your PS&E.
+See: https://wsdot.wa.gov/business-wsdot/highway-access-requests-training 700.09(6) Paths and Trails
+WSDOT tracks expenditures for pedestrian and bicycle facility improvements so this information can be reported to the Legislature and the public, per chapter 47.30 RCW. The information is also used to measure the performance of WSDOT’s transportation system.
+For WSDOT Design-Bid-Build projects: Include the paths and trails percentage in your 100%
+PS&E turn-in cover memo when submitted to the Region Plans Office. Also, send the percentage, and documentation for how the percentage was calculated, to region program management. Region program management will convey this information to CPDM for tracking.
+For projects with no paths and trails calculation, use 0%. Communicating 0% ensures the review of the paths and trails percentage occurred.
+For WSDOT Design-Build projects: The paths and trails percentage shall be calculated by the
+Design-Builder and submitted with the Released for Construction (RFC) plans. This percentage will be provided to the WSDOT Engineer for submittal to CPDM. For projects with no paths and trails calculation, use 0%. Communicating 0% ensures the review of the paths and trails percentage occurred.
+Please contact CPDM for guidance on reporting related to Paths and Trails when there is a
+WSDOT contribution on a project but is not the lead agency.
+Paths and Trails Calculations
+
+Where:
+𝑋𝑋
+𝑌𝑌 × 100 = 𝑃𝑃&𝑇𝑇%
+X = The summation of paths and trails-related items* (including mobilization, sales tax, engineering, and contingencies).
+Y = The grand total of the project cost. *Includes (but is not limited to) the items listed below.
+Features that are specifically for pedestrian and/or bicycle facilities need to be included in the paths and trails calculations. Overlaying an existing shoulder with HMA or bituminous surface treatment (BST) does not constitute the need for paths and trails calculations. Widening of a shoulder(s) that is part of a larger roadway-widening project is not to be included in the paths
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-27 Miscellaneous Contract Considerations
+Division 7 and trails calculations, except as noted below.
+The following are example types of work that are to be included in the paths and trails calculations. (See the Design Manual for definitions of terminology and additional information.) • Shared-use path • Structures (specifically for active transportation use) • Sidewalk • Bike lane • New curb ramp (or replacement of curb ramps) • Retrofitting curb or altering a curb ramp (simply replacing truncated domes would not be
+
+included) • Curb extension • Pedestrian refuge island • Buffer strip (only a planter strip that is a minimum of 3 feet wide between the sidewalk and curb can be included)
+Following MUTCD guidelines, signing and pavement markings associated with pedestrian and bicycle facilities may include: • Crosswalks • School crossings • In-pavement flashing warning devices • Preferential lane symbols and signing • Pedestrian signals/detectors • Bicycle-specific signals/detectors • Pedestrian-scale lighting • Bicycle facilities lighting
+For these types of features, the paths and trails calculations shall include the entire cost to complete the work of each feature.
+Constructing a dedicated bicycle or pedestrian facility is always preferable to widening shoulders, especially in urban or urbanizing areas. However, paths and trails calculations for bicycle and pedestrian facility improvements shall be calculated for roadway shoulders when all of the following conditions are met: • The route is identified in a local, regional, or state plan as a bicycle connection. • The existing shoulder is widened to at least the minimum widths outlined in the Design
+Manual for accommodating bicyclists and pedestrians. • The paths and trails calculations for this shoulder-widening work shall be 50% of all the costs included to complete the shoulder widening.
+Page 7-28
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations 700.09(7) Salvaged Materials
+Salvaged materials are items that do not become the contractor’s property when removed as part of the contract. This material is to be used in future projects. For federal-aid projects, salvage credits are governed by state procedures; however, they are subject to the requirements set forth by Buy America (see Section 700.01(7)). In accordance with FHWA
+Contract Administration Core Curriculum guidance, WSDOT has established the following procedure on salvaged material.
+WSDOT procedure does not require a salvage credit on state-funded projects. Therefore, a salvage credit on a federal-aid-funded project is also not required.
+In accordance with FHWA Contract Administration Core Curriculum guidance, WSDOT has established the following procedure on salvaged material. 700.09(7)(a)
+
+Use of Salvaged or State-Furnished Material
+The Use of Salvaged or State-Furnished Material flow chart (Exhibit 7-1) details the procedures to follow when these types of materials are proposed to be incorporated in a contract.
+The use of material acquired in other than competitive bidding may be waived under specific conditions if it is found to be in the public’s interest. On federally funded projects, a Public
+Interest Finding (PIF) is required to be approved by HQ CPDM. The PIF will consist of a written document outlining the basis for the request and supporting documentation such as cost/benefit analysis, discussion of compatibility, logistical concerns, etc. For details on what is required for a PIF, refer to 23 USC 112 and 23 CFR 635, and Appendix 8B of the Program
+Management Manual M 3005-01.
+For state-funded projects, the use of salvaged or state-furnished materials must be approved by the Region Administrator or to the delegated regional authority.
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-29 Miscellaneous Contract Considerations
+Exhibit 7-1
+Division 7
+
+Use of Salvaged or State-Furnished Material
+Proposed Use of Salvaged or State- Furnished Material
+See Section 700.09(7 )(a)
+Region Project
+Office develops a
+Public Interest
+Finding (PIF) and submits to Region
+Program
+Management
+State
+
+Federal
+Contract Funding
+Region Approval
+Incorporate
+Material into
+Contract
+Region Program approves and submits to HQ
+CPDM
+END
+PIF
+Approved by
+HQ CPDM
+
+Yes
+Incorporate
+Material into
+Contract
+No
+Material Must
+Be Bid
+Competitively
+END
+Notes:
+Refer to: • 23 CFR 635.407, Use of Materials Made Available by Public Agency • Appendix 8B, Program Management Manual, M 3005.01
+
+Page 7-30
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations 700.09(8) Specialing Out Right of Way Parcels
+It may be necessary to identify right of way parcels that are unavailable to the contractor for construction at the time the contract is awarded by “specialing” such parcels out.
+The Special Provisions shall be specific regarding the location of these parcels and the estimated dates of availability to the contractor. Region Real Estate Services can provide a reasonable availability date to go in the Special Provisions. There is no problem if the property becomes available early. The contract may be impacted if the property is not available by the date stated in the contract.
+Right of way parcels that are “specialed out” must also be indicated on the Right of Way or
+Alignment/Right of Way Plans by drawing in the appropriate property lines and by cross­ hachuring the parcels. The plans shall indicate that the cross-hachured parcels are unavailable with a note referencing the Special Provisions.
+When right of way is specialed out, the order of work has to be examined to ensure the project sequencing is not adversely affected by portions of right of way not available for immediate use. 700.09(9) Standard Items
+The Standard Bid Item Table is a complete list of items tracked by UBA and includes Standard
+Items, GSP items, and items requiring a special Provision. Refer to the Item Use Column within the table. When a standard item exists, it should be used.
+Standard items are those items that appear in the payment statements in the Standard
+Specifications. Many of these payment statements, like the following, are written with blanks: • “HMA for Preleveling Cl. ____ PG ____,” per ton. • “Catch Basin Type ____,” per each. • “Manhole Additional Height ____ In. Diam. Type ____,” per foot.
+
+If the blanks are filled in with the expected information and the information in the Standard
+Specifications applies, they are standard items even though they may be a size, type, or class not shown in the Standard Bid Item Table.
+Minor revisions that have little or no impact on the cost can be made to the material or construction requirements in the Standard Specifications, and they can remain standard items.
+Care must be taken, however, not to mislead the contractor by making major revisions that could substantially affect the cost of the item and calling it the standard item. In these cases, it is best to develop a nonstandard item. Nonstandard bid items require a project specific provision approved by the ASCEs. 700.09(9)(a) Disputes Review Board
+Include the standard bid item Disputes Review Board in projects with an estimated construction cost of $10 million or greater. For projects under $10 million, the use of the item is encouraged, but it is not mandatory. 700.09(10) State Force Work or State-Furnished Materials
+The State Force Work referenced is any and all state force labor, state-furnished materials, and/or state-furnished equipment to be paid utilizing construction dollars, unless specifically excluded as mentioned below (see Exhibit 7-2).
+Provide written justification for all state-furnished materials and all State Force Work to be
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-31 Miscellaneous Contract Considerations
+Division 7
+
+performed on all projects, in accordance with RCW 47.28.030 and RCW 47.28.035. 700.09(10)(a)
+RCW 47.28.030
+As of 2015, the complete RCW reads as follows:
+RCW 47.28.030 Contracts—State forces—Monetary limits—Small businesses, veteran, minority, and women contractors—Rules—Work on ferry vessels and terminals, ferry vessel program. (1)(a) A state highway shall be constructed, altered, repaired, or improved, and improvements located on property acquired for right-of-way purposes may be repaired or renovated pending the use of such right-of-way for highway purposes, by contract or state forces. The work or portions thereof may be done by state forces when the estimated costs thereof are less than fifty thousand dollars and effective July 1, 2005, sixty thousand dollars. (b) When delay of performance of such work would jeopardize a state highway or constitute a danger to the traveling public, the work may be done by state forces when the estimated cost thereof is less than eighty thousand dollars and effective July 1, 2005, one hundred thousand dollars. (c) When the department of transportation determines to do the work by state forces, it shall enter a statement upon its records to that effect, stating the reasons therefor. (d) To enable a larger number of small businesses and veteran, minority, and women contractors to effectively compete for department of transportation contracts, the department may adopt rules providing for bids and award of contracts for the performance of work, or furnishing equipment, materials, supplies, or operating services whenever any work is to be performed and the engineer's estimate indicates the cost of the work would not exceed eighty thousand dollars and effective July 1, 2005, one hundred thousand dollars. (2) The rules adopted under this section: (a) Shall provide for competitive bids to the extent that competitive sources are available except when delay of performance would jeopardize life or property or inconvenience the traveling public; and (b) Need not require the furnishing of a bid deposit nor a performance bond, but if a performance bond is not required then progress payments to the contractor may be required to be made based on submittal of paid invoices to substantiate proof that disbursements have been made to laborers, material suppliers, mechanics, and subcontractors from the previous partial payment; and (c) May establish prequalification standards and procedures as an alternative to those set forth in RCW 47.28.070, but the prequalification standards and procedures under RCW 47.28.070 shall always be sufficient. (3) The department of transportation shall comply with such goals and rules as may be adopted by the office of minority and women's business enterprises to implement chapter 39.19 RCW with respect to contracts entered into under this chapter. The department may adopt such rules as may be necessary to comply with the rules adopted by the office of minority and women's business enterprises under chapter 39.19 RCW. (4)(a) Work for less than one hundred thousand dollars may be performed on ferry vessels and terminals by state forces. (b) When the estimated cost of work to be performed on ferry vessels and terminals is between
+Page 7-32 Division 7
+Miscellaneous Contract Considerations one hundred thousand dollars and two hundred thousand dollars, the department shall contact, by mail or electronic mail, contractors that appear on the department's small works roster as created pursuant to procedures in chapter 39.04 RCW to do specific work the contractors are qualified to do to determine if any contractor is interested and capable of doing the work. If there is a response of interest within seventy-two hours, the small works roster procedures commence. If no qualified contractors respond with interest and availability to do the work, the department may use its regular contracting procedures. If the secretary determines that the work to be completed is an emergency, procedures governing emergencies apply. (c) The department shall hire a disinterested, third party to conduct an independent analysis to identify methods of reducing out-of-service times for vessel maintenance, preservation, and improvement projects. The analysis must include options that consider consolidating work while vessels are at shipyards by having state forces perform services traditionally performed at Eagle
+Harbor at the shipyard and decreasing the allowable time at shipyards. The analysis must also compare the out-of-service vessel times of performing services by state forces versus contracting out those services which in turn must be used to form a recommendation as to what the threshold of work performed on ferry vessels and terminals by state forces should be. This analysis must be presented to the transportation committees of the senate and house of representatives by December 1, 2010. (d) The department shall develop a proposed ferry vessel maintenance, preservation, and improvement program and present it to the transportation committees of the senate and house of representatives by December 1, 2010. The proposed program must: (i) Improve the basis for budgeting vessel maintenance, preservation, and improvement costs and for projecting those costs into a sixteen-year financial plan; (ii) Limit the amount of planned out-of-service time to the greatest extent possible, including options associated with department staff as well as commercial shipyards; and (iii) Be based on the service plan in the capital plan, recognizing that vessel preservation and improvement needs may vary by route. (e) In developing the proposed ferry vessel maintenance, preservation, and improvement program, the department shall consider the following, related to reducing vessel out-of-service time: (i) The costs compared to benefits of Eagle Harbor repair and maintenance facility operations options to include staffing costs and benefits in terms of reduced out-of-service time; (ii) The maintenance requirements for on-vessel staff, including the benefits of a systemwide standard; (iii) The costs compared to benefits of staff performing preservation or maintenance work, or both, while the vessel is underway, tied up between sailings, or not deployed; (iv) A review of the department's vessel maintenance, preservation, and improvement program contracting process and contractual requirements; (v) The costs compared to benefits of allowing for increased costs associated with expedited delivery; (vi) A method for comparing the anticipated out-of-service time of proposed projects and other projects planned during the same construction period; (vii) Coordination with required United States coast guard dry dockings;
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-33 Miscellaneous Contract Considerations
+Division 7
+
+(viii) A method for comparing how proposed projects relate to the service requirements of the route on which the vessel normally operates; and (ix) A method for evaluating the ongoing maintenance and preservation costs associated with proposed improvement projects. [ 2015 c 282 § 1; 2014 c 222 § 701; 2011 c 367 § 710. Prior: 2010 c 283 § 9; 2010 c 5 § 11; 2007 c 218 § 90; 1999 c 15 § 1; 1984 c 194 § 1; 1983 c 120 § 15; 1977 ex.s. c 225 § 3; 1973 c 116 § 1;
+1971 ex.s. c 78 § 1; 1969 ex.s. c 180 § 2; 1967 ex.s. c 145 § 40; 1961 c 233 § 1; 1961 c 13 § 47.28.030; prior: 1953 c 29 § 1; 1949 c 70 § 1, part; 1943 c 132 § 1, part; 1937 c 53 § 41, part;
+Rem. Supp. 1949 § 6400-41, part.]
+NOTES:
+Effective date—2015 c 282: "This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2015." [ 2015 c 282 § 2.]
+Contingent effective date—2014 c 222 § 701: "Section 701 of this act takes effect if *chapter . . . (Engrossed House Bill No. 2684), Laws of 2014 (ferry vessel and terminal work) is not enacted by
+April 15, 2014." [ 2014 c 222 § 802.] *Reviser's note: Engrossed House Bill No. 2684 was not enacted by April 15, 2014.
+Effective date—2014 c 222: "This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 4, 2014]." [ 2014 c 222 § 804.]
+Effective date—2011 c 367: See note following RCW 47.29.170.
+Findings—Intent—Effective date—2010 c 283: See notes following RCW 47.60.355.
+Purpose—Construction—2010 c 5: See notes following RCW 43.60A.010.
+Intent—Finding—2007 c 218: See note following RCW 1.08.130.
+Effective date—Applicability—Severability—Conflict with federal requirements—1983 c 120:
+See RCW 39.19.910 and 39.19.920.
+Office of minority and women's business enterprises: Chapter 39.19 RCW.
+
+Page 7-34
+WSDOT Plans Preparation Manual M 22-31.09 Division 7 700.09(10)(b)
+Miscellaneous Contract Considerations
+RCW 47.28.035
+The complete RCW reads as follows:
+Cost of project, defined.
+The cost of any project for the purposes of RCW 47.28.030 shall be the aggregate of all amounts to be paid for labor, material, and equipment on one continuous or interrelated project where work is to be performed simultaneously. The department shall not permit the construction of any project by state forces by dividing a project into units of work or classes of work to give the appearance of compliance with RCW 47.28.030. [1984 c 194 § 2.] 700.09(10)(c)
+Justifications
+If the project is new/reconstruction on the Interstate, the justification for state-furnished materials and for State Force Work requires FHWA approval.
+RCW 47.28.030 requires that WSDOT have documentation on file for all State Force Work/
+Furnished Materials. The justification and estimate for work to be done by state forces and state-furnished materials is to be processed per region policy in sufficient time to allow for review and approval prior to advertising of the project. When FHWA approval is required, the justification must also include a request for federal funding participation. Also, it must be reported to the Headquarters Office of Capital Program Development and Management when State Force Work is performed on federal-aid projects.
+The justification for both state-furnished materials and State Force Work must show that it is economically cost-effective to provide the materials or to perform the work with state forces. It does not matter how or when the state-furnished material was purchased or whether it was purchased through competitive bidding or not, the cost of the state-furnished material is to be incorporated into the State Force Work/Furnished Materials total costs, and the limitations per
+RCW 47.28.030 apply. Once an item is purchased and furnished to another contract, that item becomes state-furnished material. Refer to Exhibit 7-2 and the EBASE Users Guide for guidelines when engineering and contingencies are used (when other state agencies do the State Force
+Work) or when engineering and contingencies are not used (when WSDOT state forces do the work) in regard to State Force Work and for state-furnished materials.
+As of July 1, 2005, the maximum total dollar value of work done by state forces per construction project, including labor, materials, and equipment, is $60,000 or up to $100,000 if it is an emergency, as stated in RCW 47.28.030. An increase in the dollar amounts in the RCW must go before the Legislature; currently, there are no additional increases built into the law. 700.09(10)(d)
+
+Blanket Approval Items
+There are a few items of work that have received a blanket approval to be performed by state forces and receive FHWA funding participation. They are: striping, pavement marking, secondstage fertilizing, and one-way piloted traffic control. With blanket approval items, WSDOT must still have documentation on file, and the dollar limitations also apply to this work. 700.09(10)(e)
+Exceptions
+When the state provides materials and/or equipment and there is NO state labor performed by state forces on the project, the dollar limitation per RCW 47.28.030 does not apply. For example, if WSDOT provides a $90,000 sign bridge, as long as there is no state force labor, this dollar amount can be approved. If there is any state force labor (even for unrelated work such
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-35 Miscellaneous Contract Considerations
+Division 7 as removal of silt fence) on the project that is going to be a below-the-line item, then the aggregate total of materials and labor would exceed the $60,000 per RCW 47.28.030 and therefore cannot be approved.
+Work performed off the state roadway right of way may not be subject to RCW 47.28.030; therefore, no limit on state-furnished materials or state force labor would apply. If work is done outside the WSDOT transportation corridor (state right of way, fence line to fence line), and state force thresholds in RCW 47.28 do not apply (as with wetland mitigation sites, sundry sites, and other capital facilities), then RCW 39.04 applies. This applies only to those areas outside of and unattached to existing state highway right of way.
+Work that is not to be considered State Force Work includes: inspection of any type; materials testing; surveying; monitoring; public relations work; or any kind of investigation or research. If state forces do these types of work, they are to be included in the engineering and contingencies. If the cost of this work is substantial, it can be used as justification to increase the engineering and contingency percentage to offset the costs. • Inspection is defined as work performed to ensure material or contractor installations meet the specifications outlined in the contract after the contract has been awarded. Inspection does not include work performed to correct the deficiency or failure to meet specifications. • Surveying is part of the inspection requirements. It shall be considered as construction engineering and is not subject to state force thresholds. • Material testing is defined as work performed prior to contract award, or prior to the material being delivered to the contractor, to ensure the material meets the specifications outlined in the contract. Material testing includes diagnostic testing and/or modifications to the material or equipment to ensure compatibility and interoperability with the existing infrastructure. For example, when electronic equipment is procured, materials testing would include assembling the equipment into a system and modifying software or hardware components as necessary to ensure the system operates as specified and is compatible with existing electronic equipment and/or software (see Exhibit 7-2, State Force
+Work/Materials).
+
+700.09(10)(f) 1.
+Questions Asked by WSDOT and Answered by the Attorney General’s Office (AGO)
+WSDOT: If work is not related, but on the same project, does the RCW limit apply to each unrelated item of State Force Work or is all the unrelated State Force Work added together for the aggregate total for the project?
+AGO: All State Force Work activities (labor, equipment, and materials), related or not, are included in the aggregate total and are subject to state force thresholds. 2.
+WSDOT: Has the Legislature looked at the excessive increase in costs and considered raising the dollar limitation in the RCW accordingly?
+Work to $250,000. Under this request, the limit was raised by $10,000 only, with a few step raises in the RCW in later years. The state Legislature would prefer work to be contracted out and the dollar limit on State Force Work kept low. 3.
+WSDOT: How does the RCW apply to contractually purchased materials used by state maintenance labor and equipment—for example, on BST projects where the aggregate is purchased through contract and stockpiled, State Force Work is requested for the labor and equipment to place the BST, and the labor and equipment is less than the dollar limitation?
+Page 7-36
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations
+
+AGO: If Maintenance purchases materials (such as crushed rock), regardless of whether this material is purchase through a competitive bidding process or not, it is considered to be from a supplier and is not considered a WSDOT construction contract. Therefore, the material is included in the aggregate total of labor, equipment, and materials and is subject to state force cost thresholds. 4.
+WSDOT: What determines a contractor versus a supplier? If we have a competitively bid contract for rock chips for chip seal jobs that we can use whenever we need to in a one-year or two-year period, is this a contractor or a supplier?
+AGO: A supplier. 5.
+WSDOT: If there is no state labor, does the RCW dollar limit apply?
+AGO: If there is no state labor in the project and only state-furnished materials are being purchased, the dollar limitation per RCW 47.28.030 does not apply. If there is any
+State Force Work labor on the project, whether or not it is relevant to the materials acquisition, then the RCW 47.28.030 dollar limitations apply to the aggregate total. 6.
+WSDOT: If there are overruns during State Force Work on labor, material, or equipment costs that are covered under the State Force Work request and that exceed the RCW dollar limitation, is this a violation of the law? Should this be documented and, if so, how?
+AGO: A good faith effort is required to justify and document the state force request during the project development phase. If, during construction, the actual costs exceed the estimated costs, this is considered an incremental increase. If this happens on a consistent basis, the original estimate will not be considered a good faith effort and the law has not been followed. 7.
+WSDOT: Who has the authority to authorize State Force Work in excess of the monetary limit set in RCW 47.28?
+AGO: No one outside the Legislature has the authority to approve State Force Work in excess of the monetary limit set in RCW 47.28.030. Exceeding the RCW is a violation of the law. The law would have to be changed by the Legislature to increase the monetary limit in RCW 47.28.
+
+8.
+WSDOT: When does State Force Work have to be documented and kept on file?
+AGO: Per the law, all State Force Work must have documentation on file justifying the work. RCW 47.28.030 states, “When the department of transportation determines to do the work by state forces, it shall enter a statement upon its records to that effect, stating the reasons therefore” (see Exhibit 7-2, State Force Work/Materials).
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-37 Miscellaneous Contract Considerations
+Exhibit 7-2
+Division 7
+SState Force Work/Materials
+O C
+O
+
+State Force Work is work to be done by State Forces other than inspection, materials testing, surveying, monitoring, public relations work, any kind of investigation, or research that will be charged to a construction contract.
+Is there State Force Work or state-furnished materials?
+Submit memorandum of justification and statement of how this is beneficial to the public interest in the region.
+Include a good faith cost estimate for all labor, materials, and equipment.
+Does the total aggregate of all amounts to be paid for labor, materials, and equipment per project exceed the dollar limitations per
+RCW 47.28.030 and
+RCW 47.28.035? /
+S
+Is the work striping, pavement marking, second-stage fertilizing, or one-way piloted traffic control?
+YES
+
+Blanket approval has been given by FHWA for these items of work. Dollar limitations per RCW 47.28.030
+DO apply.
+NO
+Requires region approval. Is there any
+State Force Work (labor) involved?
+Submit memorandum of justification and statement of how this is beneficial to the public interest in the region. Must note there is NO state labor involved.
+SUMMATIONS
+RCW 47.28.030 – When WSDOT determines to do the work by State Force, it shall enter a statement upon its records to that effect, stating the reasons therefore. Estimated costs must be less than the statutory dollar limits set per RCW.
+RCW 47.28.035 – Aggregate of all amounts to be paid for labor, material, and equipment per project.
+Is the work to be done by
+WSDOT State Forces?
+
+YES
+This will be 800 to 899 number range on the
+EBASE Non-Bid Item section.
+No sales tax, construction engineering, or contingencies apply.
+NO
+Stop.
+The dollar limitation per
+RCW 47.28.030 cannot be exceeded.
+Possible solutions: Scale down to below statutory dollar limit by: a. Removing all labor b. Moving items to bid items c. Reducing work
+Page 7-38
+
+This will be 700 to 799 number range on the EBASE Non-Bid Item section.
+Engineering and contingencies DO apply.
+Sales tax will NOT be added.
+WSDOT Plans Preparation Manual M 22-31.09 Division 7
+Miscellaneous Contract Considerations 700.09(11) Strip Maps
+Strip maps may be used on projects when a great deal of detail is not required, such as overlays, fog seal, BST, stockpiling, signing, safety, and similar projects.
+Many times a strip map can be used for a series of plans within a set of plans, such as for the signing series, if the signing is simple destination-type signing and requires no real detail. In most cases, by simply showing the construction centerline with stationing and the required signing information, it is possible to stack the information on the sheet such that twice the information can be displayed on each sheet. Keep in mind that most of the information shown on strip maps is not really alignment-dependent; that is, a curve in the highway is not going to affect the showing of a sign at the correct station, so the centerline can appear as a straight line on the strip map.
+The use of strip maps when feasible is not only an option, but is also a recommended procedure to help reduce the total number of plan sheets in the project.
+The use of photographic strip maps is allowed if the work can be shown adequately and if a clear copy can be ensured. 700.09(12) Truck Measurement of Earthwork Quantities
+Truck measurement can be utilized on projects with 5,000 cubic yards or less of embankment to be constructed or when the project consists of numerous small embankment areas where crosssectioning is not practical.
+
+700.09(13) Truck Weigh Sites
+The components of a truck weigh station for which federal funds can be used are: • Additional right of way. • The construction of access lanes and vehicle standing and storage areas. • The illumination of access lanes and vehicle standing and storage areas.
+The construction of the scale house and its service facilities, scale pit, and scale are not eligible for federal-aid participation.
+For additional information on truck weigh sites, see the Design Manual. 700.09(14) Warranties and Guarantees
+WSDOT may choose to include warranty clauses in federal-aid highway construction contracts as specified in Code of Federal Regulations (CFR), Title 23, Volume 1 (revised April 1, 2001), Part 635, under Subpart D – General Material Requirements Section 635.413, Guaranty and warranty clauses. An excerpt from the CFR text reads as follows:
+The State DOT may include warranty provisions in National Highway System (NHS) construction contracts in accordance with the following: (a) Warranty provisions shall be for a specific construction product or feature. Items of maintenance not eligible for Federal participation shall not be covered. (b) All warranty requirements and subsequent revisions shall be submitted to the Division
+Administrator for advance approval. (c) No warranty requirement shall be approved which, in the judgment of the Division
+Administrator, may place an undue obligation on the contractor for items over which
+WSDOT Plans Preparation Manual M 22-31.09
+Page 7-39
+
+Miscellaneous Contract Considerations
+Division 7 the contractor has no control. (d) A State DOT may follow its own procedures regarding the inclusion of warranty provisions in non-NHS Federal-aid contracts.
+There may be occasions when the regions have the need to include warranty and/or guarantee clauses in state-funded contracts. The region will notify the Construction Materials Engineer at the HQ Materials Laboratory and request concurrence with the specification prior to including the Special Provision in the contract documents.
+The contractor is required to pass along to WSDOT all manufacturers’ normal guarantees and warranties for products and equipment installed on the project. 700.09(15) Washington State Patrol Work Zone Enforcement and Assistance
+If Washington State Patrol (WSP) use is warranted on a project, include an estimated dollar amount in the project estimate as a below-the-line item. If WSP assistance is to be used as a required element of the traffic control plans, it should be identified on the plans and provided as a resource to the contractor with a General Special Provision.
+Refer to the Traffic Manual, Section 5-19, for more information on when and how to include
+WSP in a project.
+Page 7-40
+WSDOT Plans Preparation Manual M 22-31.09 Division 8
+Contract Estimate
+
+800.1 Introduction
+800.2 Estimate Content
+800.3 Estimate Preparation
+800.1 Introduction
+A detailed cost estimate shall be prepared for a project in order to obligate funds for the construction activity and to determine a fair price for the work and a basis for evaluating contractors’ bids. Estimates are comprised of various bid items arranged in a logical order, with a variety of payment options (see Division 7 for special considerations). A complete estimate lists all work to be done by the contractor, showing quantity, unit of measure, unit cost, and total cost for each item. Cost estimates are prepared using one of two basic approaches, or a combination thereof, and each method has advantages and limitations. Bid-based estimating is usually easier and faster. Items without an adequate historical base must be estimated using the cost-based method. (See the Cost Estimating Manual for WSDOT Projects for more information.) (1)
+Bid-Based Estimating
+Bid-based estimating utilizes historical bid prices. The procedures are typically based on the concept of comparable work—that is, choosing a price by finding similar projects in the same locality with a similar quantity as the item involved. The Washington State Department of
+Transportation (WSDOT) maintains historical bid data broken down by bid item, region, contract number, plan quantity, and the bid prices of the three lowest bidders. Bid Tabs Professional works with the Estimate Bid Analysis System (EBASE) and gives the designer the ability to use current bid history to produce and update project estimates. Numerous analysis scenarios can be generated. For information and a User’s Guide for this program, go to: https://wsdot.wa.gov/engineering-standards/design-topics/engineering-applications/technicalsupport-guidance (2)
+Cost-Based Estimating
+Cost-based (scratch) estimating utilizes labor, equipment, and material cost information. Costbased estimating directly incorporates cost and productivity factors relevant to the project into the estimation process.
+Note: Other than the estimate range included in the advertisement for bids, estimate information is to be kept confidential until bids have been received and opened.
+
+WSDOT Plans Preparation Manual M 22-31.09
+Page 8-1 Contract Estimate
+Division 8
+800.2 Estimate Content
+The contract estimate shall include the following: 1. A list of all bid items in correct order, showing contract item number, standard bid item number (if applicable), unit of measurement, estimated unit price, estimated quantity, and total estimated cost for each. The total amount of all items is designated the “Contract
+Total.” 2. Washington State sales tax (if applicable). 3. Work by others at WSDOT expense. 4. Construction engineering costs. 5. Contingency costs. 6. Work by WSDOT at WSDOT expense – State Force Work (see Division 7). 7. The value of materials furnished by WSDOT (see Division 7). 8. Calculated amortization of materials sites and stockpile sites, even though the costs may not be known at the time the estimate is prepared. 9. Estimated amount for royalty payments.
+800.3 Estimate Preparation
+The region enters contract estimates into EBASE. A job number unique to each project identifies the estimate for each contract. The same PS&E job number used to identify the Contract
+Provisions should be used to identify the estimate.
+The following elements should be considered in preparation of the estimate, as appropriate: 1. Previous unit bid prices. To develop base prices for estimating the value of the work, upcoming projects should be matched to the most recent projects for which bids have been received, according to type, size, and location. 2. An adjustment to the base prices based upon the ages, quantities, and individual conditions of the similar projects. 3. Inflation rates may be considered to update past information, but past inflation rates should not be projected into the future unless based on circumstances that can reasonably be expected to occur, such as anticipated changes in the cost of labor, equipment, and materials. 4. Surveys of local market prices for labor, equipment, and materials for unusual items of work or those with fluctuating prices.
+For complete instructions on developing estimates in the EBASE system, and for the
+Mobilization and Highway Preservation and Improvement tables, see the EBASE User’s Guide. It may be accessed directly from EBASE by selecting “Help” or through the following website:
+
+Page 8-2
+WSDOT Plans Preparation Manual M 22-31.09 Division 8
+Contract Estimate https://wsdot.wa.gov/engineering-standards/design-topics/engineering-applications/technicalsupport-guidance (1)
+Mobilization
+Mobilization is a contract pay item used to cover a contractor’s preconstruction expenses and the costs of preparatory work and operations. Since there is no clear list defining this work effort, and since contractors have the ability to adjust their bids as needed to cover these expenses, there are no true rules as to what percentage should be used per contract. Therefore, when starting an estimate for a project, enter 10% as a beginning point for mobilization and adjust it up or down before final PS&E submittal. To calculate the appropriate mobilization percentage, see the mobilization table in the EBASE manual: https://wsdot.wa.gov/engineering-standards/design-topics/engineering-applications/technicalsupport-guidance
+When determining mobilization for a project, consideration should be given to location, complexity, the need for specialized equipment, the type of work, and the working season if it extends over more than one construction season. Projects that would probably require a higher mobilization percentage include rural vs. urban; projects with multiple work sites; projects with numerous preparatory removal items; projects with large quantities of excavation; or projects extending over two seasons where the contractor would be expected to shut down operations and move out. (2)
+Engineering and Contingency Percentages “Contingency percentages” are set up to handle unforeseen changes in a project during construction, including additional work, quantity over-runs, and additional items. Contingencies are currently limited to 4% of the total contract amount for all WSDOT contracts. For local agency projects administered by WSDOT off the state highway system, no contingency percentage will be set up. “Engineering percentages” are the monies set up in each contract for WSDOT’s operating costs to administer that project. These percentages will vary by type of work and total dollar amount of the contract. On average, the department has been running around 15% engineering on all projects in the Improvement and Preservation programs. Therefore, when starting an estimate for a project, enter 15% as a beginning point for construction engineering and adjust it up or down before final PS&E submittal. To choose the appropriate engineering percentage, see the engineering tables in the EBASE manual.
+The Region Program Development/Management staff can, based on appropriate justification, approve any changes in the construction engineering percentages for a project different from the rates listed.
+Copies of the approved justification letter shall be submitted with the final PS&E submittal for advertisement.
+WSDOT Plans Preparation Manual M 22-31.09
+
+Page 8-3 Contract Estimate
+Page 8-4
+Division 8 Appendix 1
+A1.01
+Structure Notes,
+Quantity Tabulation Sheets, and Sign Specification Sheets
+Electronic Spreadsheets
+Electronic spreadsheets for Structure Notes, Quantity Tabulations sheets, and Sign Specification sheets can be accessed via your personal computer. If your computer does not have these programs, contact your Computer Support Office and request the following programs: • QTABS 2000.xla (for Quantity Tabulation sheets and Structure Notes)
+A1.02
+Online Help
+
+may be accessed via the (?) help button located in the menu bar of each of these applications or through the Internet at the following websites:
+For QTABS see:  https://wsdot.wa.gov/engineering-standards/design-topics/engineeringapplications/quantity-tabulations-application
+For Sign Specification see:  https://wsdot.wa.gov/engineering-standards/designtopics/engineering-applications/unit-bid-analysis
+WSDOT Plans Preparation Manual M 22-31.09
+Page A1-1 Structure Notes, Quantity Tabulation Sheets, and Sign Specifications
+Page A1-2
+Appendix 1
+Plans Preparation Manual M 22-31.09 Appendix 2
+Applying Professional Stamps
+A2.01 Introduction
+On July 1, 2021, the State Design Engineer issued Project Delivery Memo #21-02 – Applying
+Professional Stamps. The purpose of this memo was to establish a statewide process for applying professional stamps to contract plan sets that allows full electronic delivery.
+Appendix 2 hereby incorporates this Memo and instruction.
+Professional licenses have historically been applied to WSDOT plan sheets using a wet signature.
+Working remotely highlighted the need for an efficient, electronic means of stamping documents.
+Applying Professional Stamps to Plan Sets. The Board of Registration was consulted on this approach and indicated that it meets the intent of WAC 196-23, which requires: 1. Final documents must contain a stamp, signature, and date 2. Preliminary documents noted as “preliminary” and stamped, but not signed 3. Every page must contain the stamp, signature, and date.
+If you have questions or need more information on how to implement this, please contact your
+Assistant State Design Engineer.
+
+A2.02
+Applying Professional Stamps to Plan Sets
+A2.02(1) Background
+For years, professional licenses have been applied to WSDOT plan sheets by having a technician apply the licensee’s stamp and the professional applying their wet signature over the stamp and have found the process of creating a plan set that complies with WAC 196-23 more difficult.
+More specifically, WAC 196-23-020 requires: 1. Final documents must contain a stamp, signature, and date; 2. Preliminary documents noted as “preliminary” and stamped, but not signed; and 3. Every page must contain the stamp, signature, and date.
+To follow this requirement, it required that a licensee apply a digital signature to each page.
+Doing so, the software would create a copy (or reference point) to show what the file looked like when that signature was applied. For a 100-sheet plan set, this meant the software would create 100 different copies or reference points. Further complications would come from passing the plan set to another licensee. In the end, this effort complicated our project delivery process causing us to investigate a new method of applying stamps. This document presents the new method that meets the intent of WAC 196-23 and attempts to protect the licensee and the public.
+A2.02(2) Preliminary Documents
+All preliminary documents will be noted as “PRELIMINARY” and have the licensee’s stamp applied by the technician drafting the plan set. The stamps on the preliminary documents will
+WSDOT Plans Preparation Manual M 22-31.09
+
+Page A2-1 Applying Professional Stamps
+Appendix 2 not be signed. Stamps can be applied by the technician assembling the plans. Preliminary documents shall be developed under the licensed engineer whose stamp will appear on the plan set.
+A2.02(3) Final Documents
+All final documents will have a stamp applied by a technician drafting the plan set. In addition, an image of the licensee’s signature will be applied over the licensee’s stamp. This signature will be a transparent signature where you can see the licensee’s stamp through the signature.
+To apply these signatures, begin with the 100% plan sheet and follow these steps: 1. Technician applies the PE Stamp to all plan sheets. 2. In the Date, insert the text “SEE SHEET CT1”. See Figure 1 below. 3. Licensed Professional applies a transparent signature to all plan sheets over the PE stamp using Adobe Stamp. See Figure 1 for an example of the plan sheet PE stamp image. To control file size, it is important that this be a transparent signature image in
+PNG format and NOT a photo or a digital signature. For information on how to create a transparent signature in PNG format, see the IT How-To’s on insideDOT. a. Adobe Stamp can be found by going to TOOLS and selecting the Stamp icon: b. Create a custom stamp with your transparent signature. This can be done by using the Custom Stamps icon: c. For ease of use when applying your stamp to several plans, utilize the Stamps
+Palette: d. When complete, the stamp, signature, and date should appear as follows:
+Figure 1: Plan Sheet PE Stamp Image 4. Insert a sheet after the index sheet of the contract titled CERTIFICATION SHEET labeled sheet CT#. The # will begin with 1 and be sequentially assigned (e.g. CT1, CT2, etc.) if there are too many signatures to fit on one page. There is a cell in MicroStation for the
+Page A2-2
+WSDOT Plans Preparation Manual M 22-31.09
+
+Appendix 2
+Applying Professional Stamps
+Certification Sheet found using the Place WSDOT Items menu. There is no PE stamp on the Certification Sheet (see Step 7 for an example of the signature block on a CT sheet). 5. Once the plan set is final, the Region Plans Review Engineer (or designee) assembles all of the PDF files from the different licensed professionals and uses Adobe Sign to acquire digital signatures. 6. The steps for using Adobe Sign are the sub-bullets below. These steps must be completed by the Region Plans Review Engineer (or designee) and the individual must have access to Adobe Sign. Adobe Sign access is granted through HQ Development
+Division (currently Lesli Rodeheaver). Consultants that are GECs and have been granted a WSDOT email address can use Adobe Sign, but must use their email address that ends with @wsdot.wa.gov. a. Acquire the email address of all licensed professionals that stamped the plans.
+On multi-volume contracts, licensed professionals need only apply their signature to those volumes that contain their plan sheets. Therefore, on multivolume contracts, there will be a separate process for each volume that contains their stamp. b. Open Adobe Sign and select “Go to Adobe Sign” c. Enter the email addresses for all licensed professionals under Recipients i. Make sure the “Complete in Any Order” box is checked. d. Fill in the boxes under Message. What you fill in here will be in the email that all licensed professionals receive when they are asked to sign. e. Drag and drop the complete plan set (or volume) under Files. Note, the file will be uploaded to Adobe’s cloud and can take several minutes on large files. NOTE:
+The file size limit is 100 MB. f.
+OPTIONAL: If you need to have the plan set password protected, you may select the checkbox under “Options”. g. When all prior steps are complete, check the box “Preview & Add Signature
+Fields” at the bottom of the page and click “Next”.
+Page A2-3 Applying Professional Stamps
+Appendix 2
+
+h. Find the CT sheet in the plan set. Drag and drop the Signature, Name, and Date fields into the CT sheet for each recipient into a box on the CT sheet. When finished, it should appear like this: i.
+Click “Send”. j.
+You can monitor the process of your document under the “Manage” tab in
+Adobe Sign. 7. The professionals who need to certify the plan set must do the following: a. Look for an email from the individual who completed Step 6. The email will come from Adobe’s email server and therefore will appear as an “External” email: b. Click “Review and sign” in the email. This will open up your internet browser and take you to Adobe’s website for reviewing the document. c. Scroll to the Certification Sheet in the plan set and click “Click here to sign”. d. A popup will appear that allows you to customize your signature. Select “Image” and find the file that represents your handwritten signature. Make sure that your name in the lower left is the same as the name on your PE stamp.
+Page A2-4
+WSDOT Plans Preparation Manual M 22-31.09 Appendix 2
+Applying Professional Stamps e. Select “Apply” and the popup will close. f.
+Select “Click to Sign” at the bottom of the window. g. This completes the process for a professional to certify the plan set. The signed version of the document is automatically sent back to Adobe Sign. The person who completed Step 6 will get an email stating you have signed and also inform them when the certificate sheet has been signed by all individuals. The completed signatures on the certification sheet will look like this: 8. After all professionals have signed, send the completed plan set(s) to Printing Services for advertisement. 9. Printing Services will call this first set of plans received from the Region the “Bid Set” and process Bid Set along with the other contract documents for advertisement. 10. Addendum will be certified in a similar manner. If any addenda have plan sheet modifications, they will have a Certification Sheet labeled CTA#. The # will represent the addendum number … Addendum #4 will be CTA4. If an addendum does not have a plan revision, then there will be no CTA# for that addendum and that CTA# is skipped. For example, if only addenda 3 and 7 have plan set revisions, then you will only have CTA3 and CTA7 and the other CTA# will not exist. 11. At Award, the Bid Set will be combined with all Addendum and this set will be called the “Conformed Set”. The Conformed Set will be assembled with the pages of the
+WSDOT Plans Preparation Manual M 22-31.09
+Page A2-5
+
+Applying Professional Stamps
+Appendix 2
+Addendum inserted into the contract to make one complete PDF plan set. Addendum
+CTA# sheets will be inserted behind the original CT# sheet associated with the Bid Set.
+The contract page numbers will not be renumbered with the insertion of the CTA# sheets. To keep the signatures visible on all the certification sheets, the original electronic sheets will be printed from the original electronic plan sets and these will be inserted into the Conformed Set. 12. The Conformed Set will be attached to the Award documents that are sent to the successful bidder. 13. The Bid Set, Addenda, and Conformed Set will all be archived in ECM by Engineering
+Records. 14. As-builts will be created by the Construction Office by importing the PDF from either the
+Bid Set, Addenda, or Conformed Set into MicroStation and making the as-built modifications as appropriate. An as-built set may make use of Certification Sheets at the discretion of the Construction Office.
+Page A2-6
+WSDOT Plans Preparation Manual M 22-31.09 Appendix 3 (1)
+Transmittal Memorandums
+
+Contracting Project Support Offices
+Beginning early in the design phase of a project, the designer will need to contact various support offices within and outside the region seeking input for the design of the project. Which support office needs to be contacted can depend on the type of program the project is being improved under; for example, I1, P1, P2, I2, I3, and so on.
+Some of the more common support offices contacted by designers are: Region Utilities,
+Headquarters (HQ) Materials Laboratory, Region Traffic, Region Environmental, Region
+Hydraulics, HQ Geotechnical, HQ Bridge, Region Plans Office, Region Right of Way, Region Local
+Programs, and Region Soils Engineer.
+Memorandums are the usual means by which a designer requests information from and/or exchanges information with a support office. Following is information a memorandum should include, if known: •
+Originating memorandum from Project Engineer’s Office •
+State Route •
+Project Title •
+Project MP •
+PIN No. and/or WIN No. •
+Location No. •
+Project Description: a paragraph or two on what the project improvements are •
+Whether federal funds are involved in the project •
+Program •
+What is being requested by memorandum: a paragraph or two on what is needed by the design team and a time duration to receive information •
+Ad date •
+Contact person •
+Attachments: Vicinity Map and/or other information that may be of help to the support office in understanding the request
+Designers should contact their Region Plans Office for examples of memorandums, if needed.
+
+(2)
+PS&E Review Period
+After the Plans, Specifications, and Estimate (PS&E) documents have been compiled by the designer, the PS&E is sent to the Region Plans Office for review. The review period is known as “Status” and is normally ten weeks in duration before Ad. Many Region Plans Offices have Ad &
+Award Guide Manuals that detail what information needs to be in the memorandum transmitting the PS&E for the Status period of review.
+Designers should contact their Region Plans Office early in the PS&E phase of a project for guidance on transmitting PS&E documents for the Status period.
+WSDOT Plans Preparation Manual M 22-31.09
+Page A3-1 Transmittal Memorandums
+Page A3-2
+Appendix 3 Appendix 4
+Acronyms and Abbreviations
+
+Following are the acronyms and abbreviations used in this manual and a link to the Washington State Department of Transportation (WSDOT) index of online manuals.
+AASHTO
+Ad
+ADT
+AGC
+AHD
+AP
+ASDE
+ASTM
+BK
+BVC
+ATB
+BIA
+BMP
+BR
+BST
+CADD
+CAE
+CCTV
+CELL
+CL
+CFR
+Commission
+Culv.
+CPA
+CPM
+CS
+DBE
+Department
+DGN
+DHV
+DNR
+DOT
+DWG (.dwg)
+EBASE
+EEO
+EIS
+EL
+EPA
+ESC
+EVC
+FHPM
+FHWA
+GO
+
+American Association of State Highway and Transportation
+Officials
+Advertisement date
+Average Daily Traffic
+Associated General Contractors
+Ahead station
+Angle Point in horizontal alignments
+Assistant State Design Engineer
+American Society for Testing and Materials
+Back station
+Beginning station and elevation of vertical curve
+Asphalt Treated Base
+Bureau of Indian Affairs
+Best Management Practice
+Bridge Replacement
+Bituminous Surface Treatment
+Computer-Aided Drafting and Design
+Computer-Aided Engineering
+Closed Circuit Television
+Microstation (CADD) Cell Library
+Class
+Code of Federal Regulations
+Washington State Transportation Commission
+Culvert
+Compaction Price Adjustment
+Critical Path Method (as in scheduling)
+Control Section
+Disadvantaged Business Enterprise
+Washington State Department of Transportation
+Microstation (CADD) file
+Design Hourly Volume
+Department of Natural Resources
+Department of Transportation
+AutoCAD (CADD) drawing file extension
+Estimate Bid Analysis System
+Equal Employment Opportunity
+Environmental Impact Statement
+Elevation
+Environmental Protection Agency
+Erosion and Sediment Control (as in ESC lead)
+End of Vertical Curve
+Federal-Aid Highway Program Manual
+Federal Highway Administration
+Global Origin (lower left reference point of CADD files)
+
+WSDOT Plans Preparation Manual M 22-31.09
+Page A4-1 Acronyms and Abbreviations
+GLO
+GSP
+HAR
+HMA
+HOV
+HPA
+HSP
+HQ
+IFPTE
+IL
+ITS
+JMCPA
+LAN
+LS
+MGAL
+MOU
+MP
+MUTCD
+MWBE
+NAD
+NAVD
+NE
+NEMA
+NEPA
+NFS
+NGVD
+NHS
+NMFS
+NST
+NRCC
+OEO
+PC
+PCC
+PE
+PEO
+PG
+PIN
+POC
+POT
+POST
+PPM
+PRC
+PS&E
+PT
+PVC
+P.I.
+QPL
+
+Page A4-2
+Appendix 4
+General Land Office Plats
+General Special Provisions
+Highway Advisory Radio
+Hot Mix Asphalt
+High Occupancy Vehicle
+Hydraulic Project Approval
+State Highway System Plan
+WSDOT Headquarters in Olympia
+International Federation of Professional and Technical Engineers
+Instructional Letter
+Intelligent Traffic System, Intelligent Transportation System
+Job Mix Compliance Price Adjustment
+Local Access Network, Local Area Network
+Lump Sum
+Thousand Gallon
+Memorandum of Understanding
+Milepost
+Manual on Uniform Traffic Control Devices
+Minority and Women’s Business Enterprises
+North American Datum
+North American Vertical Datum
+No Effect
+National Electrical Manufacturer’s Association
+National Environmental Policy Act
+National Forest System
+National Geodetic Vertical Datum (1929)
+National Highway System
+National Marine Fisheries Services
+Not Steeper Than
+Nation Resource Coordinating Committee
+Office of Equal Opportunity
+Point of Curvature
+Point of Compound Curvature (point common to two curves in the same direction)
+Project Engineer, Professional Engineer
+Project Engineer’s Office
+Performance Grading (as in HMA PG. 64-22)
+Program Item Number
+Point On Curve
+Point On Tangent (outside of a curve)
+Point On Semitangent (within the limits of a curve)
+Plans Preparation Manual
+Point of Reverse Curve (point common to two curves in opposite directions)
+Plans, Specifications, and Estimates
+Point of Tangency (point of change from circular curve to forward tangent)
+Polyvinyl Chloride (plastic pipe or conduit)
+Point of Intersection (intersection of bearings for horizontal curve)
+Qualified Product List
+
+WSDOT Plans Preparation Manual M 22-31.09 Appendix 4
+QTYS
+Q-Tabs
+R
+R/W
+RAM
+RCW
+REC
+RGSP
+SA
+Secretary
+SEPA
+SIT
+SP
+SPCC
+SR
+STA
+STP
+T
+TDO
+TEC
+TESC
+TWTEC
+UBA
+USED
+USDA
+USFS
+VMS
+VPI
+WAC
+W.M.
+WSDOT
+WSP
+WSF
+
+Acronyms and Abbreviations
+Quantities
+Quantity Tabulation Sheets
+Range
+Right of Way
+Request for Approval
+Revised Code of Washington
+Reclamation
+Region General Special Provision
+State Aid
+Secretary of Transportation
+State Environmental Policy Act
+Standard Item Table
+Special Provision
+Spill Prevention Control and Countermeasures
+State Route
+Station
+Surface Transportation Program
+Township
+Traffic Data Office
+Total Estimated Cost
+Temporary Erosion Sediment Control
+Traveled Way Total Estimated Cost
+Unit Bid Analysis
+United States Engineering Department (Corps of Engineers,
+Department of the Army)
+United States Department of Agriculture
+United States Forest Service (U.S. Department of Agriculture)
+Variable Message Sign
+Vertical Point of Intersection (station and elevation of the point of intersection of the gradients of vertical curve)
+Washington Administrative Code
+Willamette Meridian
+Washington State Department of Transportation
+Washington State Patrol
+Washington State Ferries
+
+Link to WSDOT online manuals: https://wsdot.wa.gov/engineering-standards/all-manuals-and-standards/manuals
+WSDOT Plans Preparation Manual M 22-31.09
+Page A4-3 Acronyms and Abbreviations
+Page A4-4
+Appendix 4 Appendix 5
+A5-1
+Addendum Preparation
+General
+When addenda are needed, they should be numbered chronologically as they are compiled and sent to bidders/planholders so the number of addenda sent can be tracked. Work closely with the Region Plans Office in preparing addenda. Great care should be used to ensure all plan sheets affected by an addendum are identified and included in the addendum; one minor change can have a ripple effect on other sheets.
+Contract specification revisions or new contract specifications, created while a contract is on Ad, shall be stamped by the engineer directly responsible for the work. Those stamped specifications shall be filed in the Project File for the project. The addendum, which transmits revised or new specifications, does not need to show the stamp, provided the stamped originals are in the Project File. Plan revisions or new plans (in accordance with Division 4) sent out by an addendum need to be stamped by the engineer, and copies of those stamped plans will be sent out with the addendum.
+
+A5-2
+Notes to the Designer
+For design-bid-build projects the start of the addendum should say:
+Addendum Number _______________
+The Contract is hereby modified as follows:
+For design-bid-build projects the following paragraph shall to be placed on all addenda:
+Bidders shall furnish the Secretary of Transportation with evidence of the receipt of this addendum.
+For design-build projects the start of the addendum should say:
+The RFP is hereby modified as follows:
+For design-build projects the following paragraph shall to be placed on all addenda:
+Proposers shall furnish the Secretary of Transportation with evidence of the receipt of this addendum.
+The following paragraph should be placed on an addendum when changes are made to the Proposal and the addendum does not transmit a new Proposal as an attachment to the bidders:
+Bidders are instructed to revise pages ___ and ___ of the Proposal as revised pages have not been prepared for attachment to this addendum. If the bidder fails to make these corrections on the Proposal, the items will be corrected by the
+Department.
+
+WSDOT Plans Preparation Manual M 22-31.09
+Page A5-1 Addendum Preparation
+Appendix 5
+The following example shows how to notify the bidder that the contract wage rates are to be deleted and replaced in an addendum:
+Wage Rates:
+Federal Wage Determination WA________, Modification___, page___, is deleted and replaced with WA02000___, Modification____, page___.
+This statement shows how the wage rate addendum would be worded when the wage rate determination is an attachment:
+Attachment:
+Federal Wage Determination WA________, Modification___, page___. (Rev.
+February___, 2002)
+
+A5-3
+Guidelines for Preparing Addendum Plan Sheets
+A5-3(1)
+Deletions
+The item, line, figure, or detail to be deleted is completely removed from the sheet. The area where the deletion occurred shall NOT contain any addendum clouds. The deletion is to be noted in the revision block and shall be shaded. When a plan sheet requires a
+P.E.’s stamp, the revision block date is to be dated on or before the date it is signed by the P.E. authorizing the change.
+On Summary of Quantity, Qtabs, Structure Notes, and Sign Specification sheets, delete the line item(s), but leave the row or column in place as a blank placeholder.
+A5-3(2)
+Added/Replacement Sheets
+An added sheet is a sheet that previously did not exist. It is to be numbered and inserted in its proper location, adding an alphabetical character to its sheet designation; for example, the “A” in D6, D6A, D7.
+A replacement sheet is a sheet on which the changes are so massive, a cloud(s) would cover a substantial portion (over 50%) of the sheet, or the changes could not be clearly defined with a cloud(s).
+These sheets are noted in the revision block by the note "Added Sheet" or "Replacement
+Sheet," whichever is applicable. Only the revision block shall be shaded.
+
+A5-3(3)
+Revisions/Additions
+The revision/addition note shall be placed in the revision block, and all revisions, including additions, shall be shaded.
+A5-3(4)
+Addendum Cloud (for Plan/Profile/Section/Detail Sheets Only)
+On CAD-produced sheets (plan view, profile view, sections view, and detail), use the cloud line tool to identify an item(s) or area(s) to be changed. To cloud an addendum, in
+MicroStation version V8, from the WSDOT MENU, browse to “Sheet Items > GI General
+Page A5-2
+WSDOT Plans Preparation Manual M 22-31.09 Appendix 5
+Addendum Preparation
+
+Sheet Items,” select “Addendum Cloud,” and draw a boundary line around the item(s) or area(s) to be changed.
+Addendum cloud line attributes will have an arc radius of 0.1, arc angle of 145°, line style of 0, line weight of 5, and line color of 15 (RBG value = R:120, B:120, G:120).
+Refer any questions about addendum cloud(s) to your region CAD coordinator or the HQ
+CAE Office.
+A5-3(5)
+Shading
+On Summary of Quantity, Qtabs, Structure Notes, and Sign Specification sheets, shade the cell(s) and revision block with a gray color Red, Green, Blue (RGB) value = R:180,
+B:180, G:180).
+All PS&E submittals for Contract Advertisement and addenda shall be only original plots from printers that use stippling to produce gray.
+Reproductions or photocopies will not be allowed as they make poor quality prints when reproduced. Some variation in shade density may be noticed when comparing output from various printers.
+
+A5-4
+Examples
+Examples of addendum letters (and plan sheets) are available at your Region Plans
+Office.
+A5-4(1)
+Plans Sheet Examples 1. Example A5-1
+This example shows how a Structure Note sheet would use addendum shading.
+This same type of shading would also be used in Summary of Quantity, Qtabs, and Sign Specification sheets. 2. Example A5-2
+This example shows the addendum cloud on a Drainage Plan sheet. 3. Example A5-3
+This example shows the addendum cloud on a Paving Plan sheet.
+
+WSDOT Plans Preparation Manual M 22-31.09
+Page A5-3 Addendum Preparation
+Page A5-4
+Appendix 5 CATCH BASIN TYPE 2
+54 IN. DIAM.
+TESTING STORM SEWER PIPE
+L.F. 123
+L.F.
+EACH 1
+DR7-21 LB 122+75.35 (44.12 LT) TO LB 122+39.29 (39.3 LT)
+DR7-22 LB 122+39.29 (39.3 LT) TO LB 122+03.81 (37.89 LT)
+DR7-23 LB 122+03.81 (37.89 LT) TO LB 121+71.23 (37.81 LT)
+DR7-24 LB 121+71.23 (37.81 LT) TO LB 122+17.97 (166.91 RT)
+DR7-25 LB 121+31.77 (35.34 LT) TO LB 121+71.23 (37.81 LT)
+
+1 2 1 120 173 1 36 36 36 211 36 1 10
+DR7-26 LB 121+31.82 (39.09 LT) TO LB 121+32.03 (48.7 LT)
+DR7-27 LB 123+43.66 (100.53 LT) TO LB 123+96.57 (34.18 LT)
+DR7-28 LB 123+28.78 (31.64 RT) TO LB 123+54.91 (26.48 RT)
+DR7-29 LB 123+22.00 (32.47 RT) TO LB 123+38.69 (65.28 RT)
+DR7-30 MSB 508+35.08 (56.43 RT) TO MSB 508+50.87 (33.9 LT)
+DR7-31 MSB 508+50.87 (33.9 LT) TO MSB 508+58.91 (74.81 LT)
+DR7-32 MSB 508+59.94 (80.69 LT) TO MSB 512+99.19 (75.23 LT)
+DR7-33 MSB 512+99.19 (75.23 LT) TO MSB 513+20.43 (135.99 LT)
+DR7-34 MSB 516+48.08 (124.73 LT) TO LB 124+81.64 (223.3 RT)
+DR7-35 LB 124+81.64 (223.3 RT) TO MSB 517+28.35 (121.55 LT)
+
+#
+DR7-36 MSB 511+65.59 (48.21 RT) TO MSB 518+74.87 (35.38 RT)
+DR8-1 LB 111+91.04 (25.6 LT) TO LB 118+83.81 (134.08 LT)
+DR8-2 LB 111+84.47 (22.71 RT) TO LB 118+78.01 (94.39 RT)
+DR8-3 JL 800+59.42 (15.46 LT) TO JL 800+57.18 (26.79 RT)
+SHEET TOTAL
+PROJECT TOTAL
+DESIGNED BY DESIGNER
+ENTERED BY CAD OPERATOR
+CHECKED BY TEAM LEAD
+PROJ. ENGR. PROJECT ENGINEER
+REGION ADM. REGIONAL ADM.
+
+DATE 07/25/09
+DATE 21 6 90 63 35 11 116 2 4 7
+AD1 - QUANTITY CHANGE
+REVISION 4 11
+TK
+BY 416
+REGION NO.
+STATE 10
+WASH
+JOB NUMBER 00Z000
+CONTRACT NO.
+
+123 315 346 650
+FED. AID PROJ. NO.
+NH-0000(000) 158 233 1 28 1, 9 1, 5, 8, 14 1, 5, 8, 14 1, 5, 8, 14 1, 5, 8, 14 1, 5, 8, 14 1, 5, 8, 14, 19 1, 5, 8, 9, 14 1, 9 7 7 7 1, 2, 6, 9, 14 1 64
+GENERAL NOTES:
+SEE GENERAL NOTES
+CATCH BASIN TYPE 1L
+L.F.
+BORING AND JACKING
+30 IN. PLAIN STEEL CULVERT
+PIPE
+
+TON
+CL. V REINF. CONC. CULV. PIPE
+36 IN. DIAM.
+EACH
+SCHEDULE A CULV. PIPE
+24 IN. DIAM.
+C.Y.
+18 IN. DIAM.
+DRAIN PIPE 6 IN. DIAM.
+12 IN. DIAM.
+
+QUARRY SPALLS
+CODE
+LOCATION À \ UNIT OF MEASURE ¾
+DR7-18 MSB 506+04.34 (50.6 RT) TO MSB 506+07.13 (36.28 LT)
+DR7-19 LB 125+96.94 (48.46 LT) TO LB 124+63.76 (42.9 LT)
+DR7-20 LB 124+63.76 (42.9 LT) TO LB 122+75.35 (44.12 LT)
+GRATE INLET TYPE 2
+THE SECOND NUMBER REFERS TO THE
+DRAINAGE FEATURE FOUND ON THAT SHEET.
+DITCH EXCAVATION INCL.
+HAUL
+
+NOTE:
+THE FIRST NUMBER OF THE "CODE
+DESIGNATION" BELOW REFERS TO THE SHEET
+NO. OR THE SHEET REFERENCE NO. SHOWING
+THE DRAINAGE FEATURE.
+REMOVING DRAINAGE
+STRUCTURE
+STRUCTURE NOTES - DRAINAGE 1, 9 9, 19 9, 12 9 3 15 658 5900
+EXAMPLE A5-1
+I-5 AND LABREE RD INTERCHANGE
+SAMPLE PROJECT
+STRUCTURE NOTES - DRAINAGE
+
+NT 9
+SHEET
+OF
+SHEETS MATCH LINE
+SEE SH
+LB LINE
+EET DR3 124+00 ,---------- \,,, •\,, ,, ~~~~~-~--c~~ -1---------- ------- ----~s:::::===~ __._P.LY!!iE ______ --7"? . . l
+I ------------------- '------:.,~----- .,;::::.::-~- . -----------10
+Notes to the Designer: 1) When placing the addendum boundary around the area modification, place the boundary as close as possible to the changed items, but still show the other work. 2) In the revision block of the title block, include the addendum number and a brief description of the change. The date should correspond to the addendum date.
+STORMWATER
+TREATMENT
+AREA
+
+LEGEND
+C!) fbR2\ STRUCTURE NOTE CODE
+STRUCTURE NOTE CODE CONTINUED 'CD_ ::::::::::::::===:::
+STREAM EDGE
+EXISTING DITCH BOTTOM ; EXISTING CATCH BASIN =============== EXISTING CULVERT ------'--- DITCH BOTTOM · ST - ST - STORM SEWER LINE ----BOX CULVERT
+CULVERT o CATCH BASIN rn GRATE INLET o MANHOLE ============
+FILE NAME
+TIME
+DATE
+PLOTTED BY
+DESIGNED BY
+ENTERED BY
+CHECKED BY
+PROJ. ENGR.
+REGIONAL ADM.
+
+C:IAAWork\Manuals\PPM\2015\Div 4 Exam le files\PPM Div4 PS DR AD1.d n 7:02:09 AM 5/7/2015
+KerrT
+DESIGNER
+CAD OPERATOR
+TEAM LEAD
+PROJECT ENGINEER
+AD1 - DRAINAGE SYSTEM CHANGE
+REVISION 0
+REGtoN
+NO.
+
+10
+STATE
+WAS 100 50
+SCALE IN FEET
+FED.AID PROJ.NO.
+JOB NUMBER
+NH-0000(000)
+CONTRACT NO.
+LOCATION NO.
+Washington State
+Department of Transportation
+
+002000 07/25/2009 TK
+DATE
+BY
+XL-1234
+P.E. STAMP BOX
+EXAMPLE AS-2 1-5 AND LABREE RD INTERCHANGE
+SAMPLE PROJECT
+Plot?
+Pl.A.N REF NO
+DR7
+SHEET
+OF
+
+DRAINAGE PLAN
+SHEETS OB 604+99.18 (O' LT) 41 .00' RADIU
+END HMA
+OB 604+72.24 28.40' RT
+END BEGIN HMA TAPER
+OB 604+70.36 26.40' LT
+OB 604+59.05 18.90' LT
+OB 604+48.51 16.00' LT
+OB 604+19.58 38.10' LT
+OB 603+96.82 38.70' LT
+OB 603+67.73 16.00' LT
+BEGIN HMA TAP~~ -­ --­
+
+OB 601+97.46
+END HMA TAPER (16.00' LT)
+END BEGIN HMA TAPER (16.50' RT)
+PB 700+73.78 (10.00' LT) TO (10.00' RT) AND (107.20' RT) TO (127.20' RT)
+END HMA TAPER
+END HMA
+PB 700+44.30 27.60' RT
+END BEGIN HMA TAPER
+PB 700+49.18 (93.10' RT)
+PB 700+52.59 (9.90' LT)
+PB 700+60.59 (25.00' RT) AND (92.30' RT)
+
+1.' x: / :
+LINE SEE S
+LB --­
+LB 124+92.60 43.23' RT
+HEET PP3
+LINE 124+00
+LB 125+03.68 66.43' RT
+END CHAIN LINK FENCE
+TYPE 4
+LB 124+22.23 79.55' LT
+END BEGIN HMA TAPER
+LB 124+22.09 79.56' LT
+BEGIN GUARDRAIL
+
+LB 124+49.00 279.25' LT
+END CHAIN LINK FENCE TYPE 3
+BEGIN CHAIN LINK FENCE TYPE 4 r r /
+X l_ x- -x- -x- I
+OB 00+93.08 22.20' RT
+D BEGIN HMA TAPER
+OB 600+72.18 24.80' RT
+END BEGIN HMA TAPER
+OB 602+81 .49 16.00' RT
+OB 603+12.49 47.00' RT
+END HMA TAPER
+OB 603+34.50 47.00' RT
+BEGIN HMA TAPER
+OB 603+64.87 16.00' RT
+LB 129+66.24 39.13' RT
+LB 130+15.50 41 .90' LT
+
+PB 700+20.91 28.40' RT TO
+PB 700+23.18 (32.10' LT)
+BEGIN HMA
+OB 600+18.99 74.83' LT TO
+OB 600+19.66 (76.61' RT)
+MSB 504+71.76 37.99' RT
+END BEGIN HMA TAPER
+MSB 504+72.99 (25.96' LT)
+END BEGIN TAPER
+MSB 505+35.16 38.00' RT
+MSB 505+48.06 26.00' LT
+
+Ix x
+MSB 506+42.87
+END HMA TAPER (37.40' LT)
+END HMA (32.85' LT) TO (37.40' LT)
+MSB 506+45.86 25.48' RT
+BEGIN HMA TAPER
+MSB 506+48.79 (29.86' RT)
+END BEGIN HMA TAPER
+MSB 506+49.83 (22.00' RT)
+END HMA TAPER
+MSB 506+63.90
+END HMA TAPER (67.79' RT)
+END HMA (64.78' RT) TO (67.79' RT)
+MSB 507+01 .53
+END HMA TAPER (99.31' LT)
+MSB 507+08.69 (O' LT) TO
+MSB 507+01 .53 (99.3' LT)
+END HMA
+
+(18.00' RT)
+MATCH ' ; r ':}- t.:; -fX ,
+AR 1483+21 .50 162.28' RT)
+CORNER POST
+AR 1483+27.81 201 .72' RT
+MSB 507+06.57
+BEGIN HMA TAPER (22.00' RT)
+MSB 507+10.57
+END HMA TAPER (26.00' RT)
+MSB 507+08.69 (O' RT) TO
+MSB 507+10.57 (26.00' RT)
+END HMA
+
+J
+S + .3 1 .9 LT TO
+MSB 507+82.57 (50.00' LT)
+BEGIN HMA
+BEGIN HMA TAPER (50.00' LT) AND (128.90' LT)
+MSB 507+87.27
+END BEGIN HMA TAPER (54.00' LT)
+DETAIL C
+SEE SHEET PP9
+MSB 507+05.53
+END BEGIN HMA TAPER (45.10' RT)
+MSB 507+10.57
+END HMA TAPER (41 .20' RT)
+MSB 507+10.57 (41 .20' RT) TO
+MSB 506+99.22 (115.80' RT)
+END HMA
+
+FILE NAME
+C:IAAWork\PPM\2009 Div 4\PPM_Div4_PS_PV_AD1 .d n
+TIME 7:55:28 AM 11/23/2009
+DATE kerrt
+PLOTTED BY
+DESIGNED BY
+DESIGNER
+ENTERED BY
+CAD OPERATOR
+CHECKED BY
+TEAM LEAD
+PROJ. ENGR.
+PROJECT ENGINEER
+AD1 -TAPER MODIFICATION
+REGIONAL ADM.
+REVISION
+
+MSB 512+84.11 190.15' LT)
+BEGIN MAINTENANCE
+ACCESS ROAD
+BEGIN RADIUS 0 50 100
+SCALE IN FEET
+REGION
+STATE
+NO. 10
+WAS
+JOB NUMBER
+
+LB 131+63.53
+END HMA TAPER (55.90' LT)
+END HMA (50.90' LT) TO (55.90' LT)
+BEGIN HMA TAPER (50.90' LT)
+LB 131+81.29
+END HMA TAPER (46.00' RT)
+END HMA (41 .50' RT) TO (46.00' RT)
+BEGIN HMA TAPER (41 .50' RT)
+MSB 508+53.14
+BEGIN HMA TAPER (34.3' LT)
+MSB 508+53.83
+END BEGIN HMA TAPER (42.25' LT)
+MSB 508+57.12
+END HMA TAPER (37.96' LT)
+MSB 508+51.08
+END HMA TAPER (31 .40' RT)
+BEGIN HMA (31 .40' RT) TO (36.00' RT)
+BEGIN HMA TAPER (36.00' RT)
+
+FED.AID PROJ.NO.
+NH-0000(000) oozooo
+CONTRACT NO. 07/25/200 TK
+DATE
+BY
+MSB 507+82.57 (38.30' LT) TO
+MSB 507+85.11 (O' LT)
+BEGIN HMA
+BEGIN HMA TAPER (38.30'LT)
+MSB 507+86.57
+END HMA TAPER (34.30' LT)
+
+..... •
+Washington State
+Department of Transportation
+LOCATION NO.
+XL-1234
+DATE
+P.E. STAMP BOX
+MSB 507+85.11 (O' RT) TO
+MSB 507+91 .61 (98.00' RT)
+BEGIN HMA
+BEGIN HMA TAPER (98.00' RT)
+Plot7
+
+EXAMPLE AS-3 1-5 AND LABREE RD INTERCHANGE
+SAMPLE PROJECT
+PLAN REF NO
+PP7
+SHEET
+OF
+PAVING PLAN
+SHEETS Appendix 6
+A6-1
+Determination of Contract Time
+
+Background
+A6-1(1) Contract Time
+Contract time is the maximum time allowed in the contract for completion of all work contained in the contract documents. Contract time often arises as an issue when the traveling public is being inconvenienced and the contractor does not appear to be aggressively pursuing the work.
+There may be a number of reasons for a project to appear dormant, such as weather limitations, concrete curing times, materials arriving late, and so on. However, all too often the causes are traceable to excessive time originally established by the contracting agency to complete the project or poor contractor scheduling of operations.
+A6-1(2) Duration of Construction Projects
+The duration of highway construction projects in many instances is more critical today than it was in the past. Some of the reasons are: 1. Traffic volumes on most highways are generally continuing to increase. This is creating a greater impact on the motoring public in both safety considerations and costs. 2. Proper selection of contract time allows for optimizing construction engineering costs and other resources.
+A6-2
+Elements in Determining Contract Time
+A6-2(1) Written Procedures
+Written procedures for the determination of contract time are important so that production rates and other considerations are applied uniformly throughout the state. These procedures should account for significant geographic and climatic differences throughout the state, which could affect contractor productivity rates. The fact that some types of work can be undertaken during certain times of the year while other types of work cannot should be addressed. Where applicable, the effects of working under traffic also need to be considered.
+
+A6-2(2) Reasonableness of Contract Time
+The reasonableness of the contract time included in contracts is important. If time is insufficient, bid prices may be higher and there may be an unusual number of time overruns and contractor claims. If, on the other hand, the time allowed is excessive, there may be inefficiencies (costs) by both the state and the contractor. Also, the public may be inconvenienced unnecessarily and subjected to traveling on roadways where safety is less than desirable for an extended period of time. In establishing contract time, the state should strive for the shortest feasible traffic interruptions to the road user. If the time set is such that all work on a project may be stopped for an extended period—not including necessary winter shutdowns—and the contractor can still complete the project on schedule, it means the contract time allowed was excessive. There may be some exceptions, as indicated in “Factors That Influence Contract Time” and “Other Factors
+That Influence Contract Time” below.
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-1 Determination of Contract Time
+Appendix 6
+A6-2(3) Reasonableness of Contract Time
+For most projects, the essential elements in determining contract time are: 1. Establishing production rates for each controlling item. 2. Adapting production rates to a particular project. 3. Computing of contract time with a progress schedule.
+EXPERIENCE AND JUDGMENT SHOULD BE USED IN THE FINAL
+DETERMINATION OF CONTRACT TIME.
+
+A6-3
+Establishing Production Rates
+A6-3(1) Production Rate
+A production rate is the amount or quantity produced/constructed over a specific time period. The application of realistic production rates is key in setting an appropriate contract completion time.
+Production rates for the same item of work will vary considerably across the state, from small to large construction projects and from rural to urban areas. Production rate ranges should be established based on project size, type (such as grading and structures), and location (urban or rural) for controlling items of work.
+Typical production rates follow this text.
+A6-4
+Factors That Influence Contract Time
+A6-4(1) Determining Contract Time
+In addition to production rates, the following items should be considered when determining contract time: 1. Effects of the maintenance of traffic requirements on scheduling and the sequence of operations. 2. Curing time and waiting periods between successive paving courses or between concrete placement operations, as well as specified embankment settlement periods. 3. Seasonal limitations for certain items need to be considered when determining both the number of days the contractor will be able to work and the production rates. 4. Conflicting operations of adjacent projects, both public and private. 5. Review time for falsework plans, shop drawings, post-tensioning plans, mix designs, and so on. 6. Time for fabrication of structural steel and other specialty items. 7. Time for fabrication and procurement of signal and illumination equipment. 8. Coordination with utilities. 9. Time to obtain permits. 10. Effects of permit conditions and/or restrictions. 11. Restrictions for nighttime and/or weekend operations. 12. Time of year of the letting as well as duration of the project.
+Page A6-2
+
+WSDOT Plans Preparation Manual M 22-31.05 Appendix 6
+Determination of Contract Time 13. Special local area events (such as parades, festivals, athletics, fairs, and races). 14. Canadian and neighboring states’ holidays. 15. Location. 16. Work hour/noise restrictions. 17. Other pertinent items as determined by the designer.
+A6-4(2) Working Days
+Zero working days may be indicated during the winter months, while 20 to 22 working days per month are common during the summer. Bridge work is generally assigned the greatest number of working days in a month. If historical working day data are not available, historical rain and temperature data are available from the National Weather Service to develop average working days per month.
+A6-5
+Adapting Production Rates to a Particular Project
+A6-5(1) Management Decisions
+Before time durations for individual work items can be computed, certain project-specific information should be determined and some management decisions made. A determination should be made relative to the urgency of the completion of the proposed project. The traffic volumes affected and the effect of detours should be analyzed. The size and location of the project should be reviewed as well as the effects of staging, working double shifts, the feasibility of night work, and the restrictions on closing lanes. Also, the availability of material for controlling items of work should be investigated. For example, it might be appropriate to consider the need for multiple crews on a specific item to expedite the completion when there are exceptionally large quantities or when there is a large impact on traffic.
+A6-5(2) Accelerating Project Completion
+Procedures that would accelerate project completion should be considered when construction will affect traffic substantially or when project completion is crucial. This is especially important in urban areas that have high traffic volumes. Realizing that public inconvenience needs to be minimized, the production rates applied in setting the contract time for these types of projects should be based on that of an efficient contractor working more than 8 hours per day, more than 5 days per week, and possibly with additional workers. The development and application of a separate set of production rates for these critical types of projects is recommended.
+
+A6-6
+Computation of Contract Time: Developing a Progress
+Schedule
+A6-6(1) Progress Schedule
+The contract time for most construction projects can be determined by developing a progress schedule. The progress schedule basically shows the production durations associated with the chosen production rates for the items of work. The time to complete each critical item (those items essential to total project completion) of work included in the progress schedule is computed based on the production rates applicable to that project. Critical items should be arranged by chronological sequence of construction operations. Minor items that may be performed concurrently with critical items do not need to be analyzed.
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-3 Determination of Contract Time
+Appendix 6
+A6-6(2) Starting and Ending Time
+In determining a progress schedule, it should be remembered that the starting and ending time for each critical item needs to be based on the earliest time in which work on that item will begin and how long it will take to complete. The earliest start time for each activity will be determined by the completion of the activities that precede it, allowing for the fact that some activities can begin before the preceding activity is entirely completed. Along with the time established for all critical items, additional time should be allowed in the contract for initial mobilization.
+
+A6-7
+Critical Path Method (CPM)
+A6-7(1) Using CPM to Determine Number of Working Days
+The CPM must be used to determine the number of working days. The CPM used to determine working days for a project shall be transmitted to the Plans Office with the Plans, Specifications, and Estimates (PS&E) transmittal.
+A6-7(2) Using CPM to Determine Contract Time
+A brief description of the application of the CPM technique to determine contract time is as follows: 1. The first step in applying the CPM method is to separate a project into the tasks or operations necessary for project completion. Each of these separate operations or processes is called an activity. The completion of an activity is called an event. 2. Once all the activities necessary to complete a project have been listed, the relationship of these activities to one another needs to be determined. In some cases, several activities can be undertaken concurrently. At other times, certain activities cannot be undertaken until others have been completed. In determining the sequence of operations, the question needs to be asked: "What needs to be done before proceeding with this activity, and what can be done concurrently?" Every activity has a definite event to mark its relationship with others, with respect to completing a project. 3. In working with this procedure, a network (a diagrammatic representation of the project to be undertaken) is developed. The network shows the correct sequence and relationship to activities and events. Each separate activity is shown by its own arrow and the start of all activities leaving a node depends on the completion of all activities entering a node,
+Therefore, the event represented by any node is not achieved until all activities leading to the node have been completed. The resulting diagram will be a schematic representation of a project, showing all the relevant activates and events in correct sequence. 4. An actual time can be set to each activity based on production rates and other appropriate factors. The time to complete each activity is shown on each arrow to indicate the duration. The "early start" for each activity is the earliest point in time that it will start, provided that all activities before it have finished. This is not necessarily the point in time it will start; however, it is the earliest time it can start. The "early finish" for an activity is merely the duration of the activity after its "early start." As is the case with the "early start," this is not necessarily the point in time the work represented by the activity will be over, but is the earliest point in time it can occur. A "finish" date in CPM is defined as the first day upon which no further work is to be done for an activity; it is the first day after the physical completion of the activity. The completion time of a project is, therefore, the sum of the longest time path through the network leading to completion of the project.
+Page A6-4
+WSDOT Plans Preparation Manual M 22-31.05 Appendix 6
+Determination of Contract Time
+
+5. The optimum time and cost for performing the project can be evaluated by assigning resources (such as equipment, labor hours, and materials) to each activity. The diagrammatic representation of the project then provides a means to evaluate the costs incurred with respect to the completion of specified activities.
+A6-7(3) Advantages of Using the CPM
+This brief summary gives an indication of how this method can be applied to each project.
+Several advantages of using such a schedule are: 1. It is an accurate technique for determining contract time and verifying that the project can be constructed as designed and with identified construction sequences. 2. It is a useful tool for project managers in monitoring a project, especially when dealing with relationships of work items with respect to time. 3. Activities responsible for delays can be identified and corrective measures to keep a project on schedule can be determined.
+A6-7(4) Drawbacks of Using the CPM
+Several drawbacks of CPM schedules are: 1. They need to be developed by someone knowledgeable in using CPM scheduling. 2. They need to be updated regularly to ensure the contractor's operation is accurately represented.
+A6-7(5) WSDOT Classes in Design Scheduling
+Two classes offered by WSDOT for design scheduling are listed below: 1. CB5 GEN: Intro to Scheduling • 2. CIL •
+See ATMS for course description
+DES: Contract Working Days Requires CB5
+
+Courses may change, so designers should always check with their region trainers for the latest courses offered.
+A6-8
+Other Factors That Influence Contract Time
+A6-8(1) Conditional Notice to Proceed
+Construction time on some projects, such as illumination or signalization, may be governed by the long lead time necessary to obtain materials. To minimize traffic disruption, the contract may specify a completion date several months after the notice to proceed, but the contractor should be limited to a relatively short on-site time. This may be accomplished by including in the contract a "conditional notice to proceed" clause, which would allow a specified amount of time to purchase and assemble materials. This would be followed by issuance of a full work order, which would be issued upon expiration of the assembly period or sooner, at the contractor's request.
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-5 Determination of Contract Time
+Appendix 6
+A6-8(2) Scheduling the Contract in Consideration of Other Work
+Another approach in which greater flexibility may be allowed would be to include in the contract a combination of an overall completion date and a specified number of consecutive available working days, which would be changed once construction had started. It is sometimes advantageous to allow a contractor to set the actual construction dates within a given construction season. An example would be a typical small paving job that may only require the contractor to be on-site for a few weeks. For a project let in the spring, the completion date can be set for the end of the construction season, but the contractor's on-site time may be limited in the contract to a month. This allows the contractor to schedule this contract with consideration of other work the contractor may have in the same paving season. Net benefits include lower project inspection costs and a minimal disruption to traffic.
+
+A6-8(3) Dividing the Project into Phases
+An option that may be applicable to some projects is dividing a project into phases, with each phase having its own completion date. This may be applicable when coordinating with other projects or activities in the area in order to meet tight deadlines.
+A6-9
+Production Rate Tables
+The following production rates should be used in computing contract completion time.
+Production rates vary depending on the amount of traffic, the complexity of the project, and/or other restrictions.
+Rates have been produced based on data furnished by districts with disregard to the size or complexity of the project or the quantity of a particular item.
+Generally, large quantities in a particular project will have high production rates.
+Page A6-6
+WSDOT Plans Preparation Manual M 22-31.05
+
+Appendix 6
+Determination of Contract Time
+PREPARATION
+Item
+Units
+Daily Production Rate (based on 8-hour day)
+West
+East
+3 to 6
+3 to 6
+
+Mobilization
+Days
+Clearing and Grubbing
+Ac. 1 3
+Stripping Inc. Haul
+C.Y. 1 3
+Removing Manhole
+Ea. 3 3
+Removing Drainage Structure
+Ea.
+
+4
+Removing Conc. Inlet 6 6
+Removing Bituminous Pavement
+S.Y. 1800 3000
+Removing Cement Conc. Pavement
+S.Y. 600 600
+Removing Asphalt Conc. Pavement
+S.Y. 2500 3000
+Removing Cem. Conc. Curb & Gutter
+L. F.
+
+1200
+Removing Asphalt Conc. Curb 2000 2000
+Removing Cement Conc. Sidewalk
+S.Y. 250 400
+Removing Guardrail
+L.F. 1000
+Removing Guardrail Anchor
+Ea. 8 10
+Removing Paint Line
+L.F.
+
+2000 2500
+Removing Plastic Line 900 1000
+Removing Paint Traffic Marking
+Ea. 200 100
+Removing Plastic Traffic Marking
+Ea. 150 75
+Removing Raised Pavement Markers
+Hund. 8 2.0
+Removing Chain Link Fence
+L.F.
+
+1000
+Removing Wire Fence 4000 4000
+Preparation Items 1. Clearing and grubbing rates are very dependent on density and type of vegetation. 2. Some of these items may be included in roadway excavation work. 3. If removal items are to be salvaged, the production rate may be less. 4. Proximity of waste site may be a factor.
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-7 Determination of Contract Time
+Appendix 6
+GRADING
+Units
+Daily Production Rate (based on 8-hour day)
+West
+East
+
+Range
+C.Y. 600-3000 1000-4000
+Normal
+C.Y. 1500 2000
+C.Y. 70-300 300-500
+C.Y. 850-5000 1500-6000
+C.Y. 1700 2000
+Ton 800-3500 1000-4000
+Ton 1600 2000
+Item
+Roadway Excavation
+
+Pavement Repair Excavation Inc. Haul
+Embankment Compaction
+Gravel Borrow Inc. Haul
+Grading Items 1. Pavement repair excavation usually requires backfill and pavement replacement the same day. 2. Consideration must be given as to whether trucks or scrapers will be used. 3. Embankment compaction is usually in conjunction with roadway excavation or gravel borrow. 4. Rock cuts would decrease roadway excavation production rates. 5. Proximity of pit and waste sites may be a factor.
+STOCKPILING (Aggregate Production)
+Ballast
+Ton
+Daily Production Rate (based on 8-hour day)
+West
+East 1200-3000 1200-1500
+
+Crushed Surf. Base Course 1200-3000 1200-1500
+Crushed Surf. Top Course 1200-2700 1200-2700
+Item
+Units
+Stockpiling Item 1. Aggregate production is dependent on the source. Time must be allowed for drilling and blasting to get ahead of crushing operation in a quarry site.
+Page A6-8
+WSDOT Plans Preparation Manual M 22-31.05 Appendix 6
+Determination of Contract Time
+DRAINAGE
+Daily Production Rate (based on 8-hour day)
+West
+East
+
+Range
+C.Y. 125-1000 200-1000
+Normal
+C.Y. 400 500
+Concrete Inlet
+Ea. 4 4
+Cement Conc. Gutter
+L.F. 250-400 250-400
+Asphalt Conc. Gutter
+L.F.
+
+600-1000
+Hand-Placed Rip Rap
+C.Y. 30-50 30-50
+Range
+Ton 70-500 70-500
+Normal
+Ton 300 300
+Ton 100-600 100-600
+Ton 400 400
+End Section W/Bars
+
+Ea. 3 3
+Flared End Section
+Ea. 7-20 7-20
+Range
+L.F. 100-500 100-500
+Normal
+L.F. 200 200
+L.F. 100-400 100-400
+L.F. 200 200
+L.F.
+
+50-300 100-300 100 150
+Culvert Pipe 42”-72” 20-100 50-100
+Stru. Plate Pipe 50-100 50-100
+Stru. Plate Pipe Arch 50-100 50-100
+Steel Underpass 50-100 50-100
+Item
+Ditch Excavation
+Rip Rap
+Quarry Spalls
+Underdrain Pipe
+
+Drain Pipe
+Culvert Pipe 12”-36”
+Drainage Items 1. End sections are usually incidental to pipe runs. 2. Pipe production rates can vary due to depth of structure excavation.
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-9 Determination of Contract Time
+Appendix 6
+STORM SEWERS
+Item
+Daily Production Rate (based on 8-hour day)
+West
+East 5 5
+
+Units
+Catch Basin Type 1
+Ea.
+Catch Basin Type 2 48”-54” 2 2
+Catch Basin Type 2 72”-96” 1 1
+Catch Basin Type 3 2 2
+Range
+L.F. 500-2500 500-2500
+Normal
+L.F.
+
+1000 300-1500 500-2000 800 1500 50-200 50-200
+Testing Storm Sewer Pipe
+Storm Sewer Pipe 12”-36”
+Storm Sewer Pipe 42”-72”
+Storm Sewer Items 1. Pipe production rates can vary due to depth of structure excavation. 2. Testing production rates are dependent on pipe sizes (large diameter pipe requires more time then small diameter pipe).
+SANITARY SEWER
+Units
+Daily Production Rate (based on 8-hour day)
+West
+East
+
+Range
+L.F. 500-2500 500-2500
+Normal
+L.F. 1000 1000
+L.F. 200-400 200-400
+Item
+Testing Sewer Pipe
+Sewer Pipe 6”-48”
+Sanitary Sewer Items 1. Pipe production rates can vary due to depth of trench excavation. 2. Conflicts with existing utilities can cause reduced production rates. 3. Testing production rates are dependent on pipe sizes (large diameter pipe requires more time then small diameter pipe).
+Page A6-10
+
+WSDOT Plans Preparation Manual M 22-31.05 Appendix 6
+Determination of Contract Time
+WATER LINES
+Units
+Daily Production Rate (based on 8-hour day)
+West
+East 3 3
+Installing Valves
+Ea.
+Hydrant Assembly
+
+2
+Resetting Existing Hydrant
+Service Connection 3.5 3.5
+Range
+L.F. 100-800 100-800
+Normal
+L.F. 300 300
+Water Main
+Water Line Items 1. Water main production rates can vary due to depth of excavation. 2. Time must be allowed for cleaning and testing. 3. Conflicts with existing utilities can cause reduced production rates.
+STRUCTURE
+See the Bridge Design Manual for construction time rates.
+
+SURFACING
+Ballast
+Ton
+Daily Production Rate (based on 8-hour day)
+West
+East 1000-3000 1000-3000
+Gravel Base 1000-3000 1000-3000
+Crushed Surf. Base Course 1000-3000 1000-3000
+Crushed Surf. Top Course 500-2000 500-2000
+Item
+
+Units
+Surfacing Items 1. Shoulder work can reduce production rates. 2. Irregular areas can reduce production rates.
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-11 Determination of Contract Time
+Appendix 6
+BITUMINOUS SURFACE TREATMENT
+Daily Production Rate (based on 8-hour day)
+West
+East
+Range
+
+Mile 0.25-2 0.25-2
+Normal
+Mile 0.75 0.75
+Mile 1-7 1-7
+Mile 5 5
+Mile 3-10 3-10
+Mile 8 8
+Item
+Processing and Finishing
+New Construction
+
+Seal Coats
+CEMENT CONCRETE PAVEMENT
+Units
+Cement Conc. Pavement
+C.Y.
+Bridge Approach Slab
+S.Y.
+Daily Production Rate (based on 8-hour day)
+West
+East 1200 1200 25
+
+25
+Cement Concrete Pavement Items 1. Concrete paving rates are based on a single drum batch plant. A single drum batch plant produces 10 CY per minute, with 90% efficiency. 2. Concrete paving “Rule of Thumb” is 1 mile of 24-foot-wide pavement per day (slip form). 3. Unfinished concrete pavement usually has irregular areas that require more forming and handwork. 4. Allow time for forming, if required, and curing. 5. Cement Conc. Approaches are usually incidental to sidewalk work.
+Page A6-12
+WSDOT Plans Preparation Manual M 22-31.05 Appendix 6
+Determination of Contract Time
+HOT MIX ASPHALT
+Item
+Units
+Preparation of Untreated Roadway
+Mile
+
+Daily Production Rate (based on 8-hour day)
+West
+East 0.5-2 0.5-2
+Planing Bituminous Pavement
+Range
+S.Y. 7000-13,000 7000-13,000
+Normal
+S.Y. 9000 9000
+Ton 500-1500 500-2000
+Ton
+
+700 1500 1200-2200 1500-3000
+Hot Mix Asphalt for Prelevel
+HMA for Pavement
+Asphalt Concrete Pavement Items 1. Time may be required for road approaches. 2. Night work will affect paving production. 3. Requirements to plane/pave back in the same day will affect project time.
+IRRIGATION AND WATER DISTRIBUTION
+Irrigation and Water Distribution Items 1. Lump Sum…Contacts
+EROSION CONTROL AND PLANTING
+Units
+Daily Production Rate (based on 8-hour day)
+West
+East
+
+Range
+Ac. 4-10 5-20
+Normal
+Ac. 5 8
+S.Y. 2000-5000 2000-5000
+S.Y. 3000 3000
+S.Y. 800-2750 800-2750
+S.Y. 2000-18,000 2000-18,000
+S.Y. 2400 2400
+C.Y.
+
+360
+Item
+Seed Fert. and Mulching
+Preparation for Planting
+Sod Installation
+Seeded Lawn Installation
+Mulching, With Binding Agent
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-13 Determination of Contract Time
+Appendix 6
+
+TRAFFIC
+L.F.
+Daily Production Rate (based on 8-hour day)
+West
+East 1500 3000
+Range 450-1850 450-1850
+Normal 750 750
+Beam Guardrail Anchor
+Ea. 5 5
+Raising Existing Beam Guardrail
+
+1500
+Precast Conc. Barrier
+L.F. 1000-2000 1000-2000
+Cast-In-Place Barrier
+L.F. 100-800 100-800
+Temp. Conc. Barrier
+L.F. 1000-2000 1000-2000
+Removing & Resetting Conc. Barrier
+L.F. 600-1200 1000-2000
+Flexible Guideposts
+
+Ea. 80-160 80-160
+Paint Line
+L.F. 14,000­ 100,000 14,000­ 200,000
+Plastic Line
+L.F. 400 2200
+Raised Pavement Marker
+Hund. 8 8
+Asphalt Rumble Strips
+L.F. 20,000 20,000
+Item
+Cement Conc. Curb
+
+Units
+Beam Guardrail
+Traffic Items 1. Allow time for forming and curing of concrete work. 2. Pavement-marking production rates will decrease in channelization, intersection, and interchange areas.
+Page A6-14
+WSDOT Plans Preparation Manual M 22-31.05 Appendix 6
+Determination of Contract Time
+SIGNAL/ILLUMINATION
+Four-Pole Signal Intersection 10-20 days
+Illumination System
+Includes the following work: • Excavation • Concrete • Cure time • Plumbing • Conduit • Wiring
+
+5 days per pole
+Signal/Illumination Items 1. 2. 3. 4. 5.
+For material procurement, use four (4) months minimum.
+These would be noncharged workdays in most cases.
+Revising/modifying existing system may warrant additional time.
+Salvaging existing equipment may warrant additional time.
+On projects where the electrical work is a small part of the overall work, it is doubtful that this work would be critical.
+SIGNING
+Sign Installation • • • • •
+Cantilever Sign Structure
+Sign Bridge
+Overhead Structure
+Wood Posts
+Metal Posts (concrete base)
+
+2 days
+5 days
+2 days 15/day 4/day
+Fabrication • • •
+Signs
+Cantilever Sign Structure
+Sign Bridge Structure 2
+500 ft /day
+120 days
+120 days
+
+Signing Items 1. Structure fabrication time includes approval of shop plans. 2. Fabrication of multiple structures would take less time.
+WSDOT Plans Preparation Manual M 22-31.05
+Page A6-15 Determination of Contract Time
+Appendix 6
+OTHER ITEMS
+Item
+Units
+Daily Production Rate (based on 8-hour day)
+West
+East 8 8
+
+Monument Case and Cover
+Ea.
+Conc. Slope Protection
+S.Y. 100 100
+Chain Link Fence
+L.F. 250-700 250-700
+Range
+L.F. 500-2000 500-2000
+Normal
+L.F.
+
+1000 100-1000 300-1900 350 1100
+C.Y. 20-110 20-110
+C.Y. 40 40
+Adjust Drain Structure
+Ea. 4-11 4-11
+Adjust Manhole
+Ea. 4 4
+Manhole Under 12 Ft.
+Ea. 1.5 1.5
+Manhole Over 12 Ft.
+
+Ea. 1 1
+Adjust Catch Basin
+Ea. 4-12 4-12
+Adjust Valve Box
+Ea. 4-10 4-10
+Wire Fence
+Glare Screen
+Gabion Cribbing
+Other Items 1. Fencing production rates will vary with terrain, groundwater, and alignment.
+Page A6-16
+
+WSDOT Plans Preparation Manual M 22-31.05
+
