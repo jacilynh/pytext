@@ -28,19 +28,23 @@ def get_context(text, term, window=600):
 
 def search_and_context(query, directory, index):
     results = defaultdict(list)
-    for filename in index.get(query.lower(), set()):
-        filepath = os.path.join(directory, filename)
-        with open(filepath, 'r', encoding='utf-8') as file:
-            content = file.read()
-            for context in get_context(content, re.escape(query)):
-                results[filename].append(context)
+    query_lower = query.lower()  # Convert query to lowercase
+    for filename in os.listdir(directory):
+        if filename.endswith(".txt"):
+            filepath = os.path.join(directory, filename)
+            with open(filepath, 'r', encoding='utf-8') as file:
+                content = file.read().lower()  # Convert content to lowercase
+                if query_lower in content:  # Check if query is in content
+                    for context in get_context(content, re.escape(query_lower)):
+                        results[filename].append(context)
     return results
 
 
+
 # Usage Example
-directory = '/users/snowsummer/code/gpt/wsdot/pytext/data'  # Replace with your directory path
+directory = '/Users/Jacilyn/Documents/code/pytext/data'  # Replace with your directory path
 index = create_index(directory)
-query = "abutment"  # Replace with your search term
+query = "design analysis"  # Replace with your search term
 
 results = search_and_context(query, directory, index)
 
