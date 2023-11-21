@@ -1,7 +1,7 @@
 import os
 import re
+import string
 from collections import defaultdict
-
 
 def tokenize(text):
     # Split text into words, remove punctuation, and lower case
@@ -17,7 +17,6 @@ def create_index(directory):
                 for word in tokenize(file.read()):
                     index[word].add(filename)
     return index
-
 
 def get_context(text, term, window=600):
     # This function finds the term in the text and returns the context around it
@@ -39,17 +38,27 @@ def search_and_context(query, directory, index):
                         results[filename].append(context)
     return results
 
-
+def sanitize_filename(filename):
+    """Create a valid filename from a string."""
+    valid_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
+    cleaned_filename = ''.join(c for c in filename if c in valid_chars)
+    return cleaned_filename
 
 # Usage Example
 directory = '/Users/Jacilyn/Documents/code/pytext/data'  # Replace with your directory path
 index = create_index(directory)
-query = "design analysis"  # Replace with your search term
+query = "bridge"  # Replace with your search term
 
 results = search_and_context(query, directory, index)
 
-for filename, contexts in results.items():
-    print(f"\nIn file '{filename}':")
-    for context in contexts:
-        print(context)
-        print("\n---\n")
+# Create a valid file name from the search term
+file_name = sanitize_filename(query) + ".txt"
+
+# Write results to a file
+with open(file_name, 'w', encoding='utf-8') as file:
+    for filename, contexts in results.items():
+        file.write(f"In file '{filename}':\n")
+        for context in contexts:
+            file.write(context + "\n\n---\n\n")
+
+print(f"Search results saved to {file_name}")
