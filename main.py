@@ -18,7 +18,7 @@ def create_index(directory):
                     index[word].add(filename)
     return index
 
-def get_context(text, term, window=600):
+def get_context(text, term, window=1000):
     # This function finds the term in the text and returns the context around it
     for match in re.finditer(term, text):
         start = max(match.start() - window, 0)
