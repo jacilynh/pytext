@@ -45,20 +45,26 @@ def sanitize_filename(filename):
     return cleaned_filename
 
 # Usage Example
-directory = '/Users/Jacilyn/Documents/code/pytext/data'  # Replace with your directory path
-index = create_index(directory)
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.realpath(__file__))
+
+# Relative path to the data directory from the script
+data_dir = os.path.join(script_dir, 'data')  # 'data' is a folder in the same directory as your script
+
+index = create_index(data_dir)
 query = "bridge"  # Replace with your search term
 
-results = search_and_context(query, directory, index)
+results = search_and_context(query, data_dir, index)
 
 # Create a valid file name from the search term
 file_name = sanitize_filename(query) + ".txt"
+file_path = os.path.join(script_dir, file_name)  # Save the result in the same directory as the script
 
 # Write results to a file
-with open(file_name, 'w', encoding='utf-8') as file:
+with open(file_path, 'w', encoding='utf-8') as file:
     for filename, contexts in results.items():
         file.write(f"In file '{filename}':\n")
         for context in contexts:
             file.write(context + "\n\n---\n\n")
 
-print(f"Search results saved to {file_name}")
+print(f"Search results saved to {file_path}")
