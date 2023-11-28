@@ -7,15 +7,15 @@ def tokenize(text):
     # Split text into words, remove punctuation, and lower case
     return re.findall(r'\b\w+\b', text.lower())
 
-
-def create_index(directory):
+def create_index(root_directory):
     index = defaultdict(set)
-    for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
-            filepath = os.path.join(directory, filename)
-            with open(filepath, 'r', encoding='utf-8') as file:
-                for word in tokenize(file.read()):
-                    index[word].add(filename)
+    for directory, subdirs, files in os.walk(root_directory):
+        for filename in files:
+            if filename.endswith(".txt"):
+                filepath = os.path.join(directory, filename)
+                with open(filepath, 'r', encoding='utf-8') as file:
+                    for word in tokenize(file.read()):
+                        index[word].add(filepath)  # Store the full path
     return index
 
 def get_context(text, term, window=1000):
@@ -25,17 +25,21 @@ def get_context(text, term, window=1000):
         end = min(match.end() + window, len(text))
         yield text[start:end]
 
-def search_and_context(query, directory, index):
+def highlight_term(text, term):
+    # Markdown bold format
+    highlighted_text = text.replace(term, f"**{term}**")
+    return highlighted_text
+
+def search_and_context(query, root_directory, index):
     results = defaultdict(list)
     query_lower = query.lower()  # Convert query to lowercase
-    for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
-            filepath = os.path.join(directory, filename)
-            with open(filepath, 'r', encoding='utf-8') as file:
-                content = file.read().lower()  # Convert content to lowercase
-                if query_lower in content:  # Check if query is in content
-                    for context in get_context(content, re.escape(query_lower)):
-                        results[filename].append(context)
+
+    # Directly use file paths from the index
+    for filepath in index.get(query_lower, set()):
+        with open(filepath, 'r', encoding='utf-8') as file:
+            content = file.read().lower()  # Convert content to lowercase
+            for context in get_context(content, re.escape(query_lower)):
+                results[filepath].append(context)
     return results
 
 def sanitize_filename(filename):
@@ -45,26 +49,24 @@ def sanitize_filename(filename):
     return cleaned_filename
 
 # Usage Example
-# Get the directory of the current script
-script_dir = os.path.dirname(os.path.realpath(__file__))
-
+script_dir = os.path.dirname(os.path.realpath(__file__)) # Get the directory of the current script
 # Relative path to the data directory from the script
 data_dir = os.path.join(script_dir, 'data')  # 'data' is a folder in the same directory as your script
-
 index = create_index(data_dir)
 query = "bridge"  # Replace with your search term
 
 results = search_and_context(query, data_dir, index)
 
-# Create a valid file name from the search term
-file_name = sanitize_filename(query) + ".txt"
+# Create a Markdown file name from the search term
+file_name = sanitize_filename(query) + ".md"
 file_path = os.path.join(script_dir, file_name)  # Save the result in the same directory as the script
 
-# Write results to a file
+# Write results to a Markdown file
 with open(file_path, 'w', encoding='utf-8') as file:
     for filename, contexts in results.items():
-        file.write(f"In file '{filename}':\n")
+        file.write(f"### In file '{filename}':\n")
         for context in contexts:
-            file.write(context + "\n\n---\n\n")
+            highlighted_context = highlight_term(context, query.lower())
+            file.write(highlighted_context + "\n\n---\n\n")
 
-print(f"Search results saved to {file_path}")
+print(f"Search results saved in Markdown format to {file_path}")
